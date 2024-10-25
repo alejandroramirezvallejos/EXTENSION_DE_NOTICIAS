@@ -6,10 +6,7 @@ void database_in (void);
 void database_out (int letras ,string texto);
 string noticiero(string texto);
 int main(){
-
 database_in();
-
-
     return 0;
 }
 
@@ -20,7 +17,10 @@ void database_in (void){
     long long int letras=0;
     static bool linea_año=false;
     bool identificador=false;
-    database.open("database.txt", ios::in); 
+    string directorio="database/";
+     //ajustar aqui la fecha de database
+    string año="2010";
+    database.open(directorio+año+".txt", ios::in); 
     if (database.fail()){ 
         cout<<"Error al abrir el archivo";
         cout<<endl;
