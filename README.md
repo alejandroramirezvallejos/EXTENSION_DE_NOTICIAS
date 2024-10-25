@@ -29,7 +29,7 @@ nombre del periódico emisor de la noticia (nombre).
 URL de cada periódico digital analizado. 
 
 
-El rango de las respuestas de las variables cuantitativas y el nombre del emisor de 
+* El rango de las respuestas de las variables cuantitativas y el nombre del emisor de 
 la noticia diferirá sustancialmente entre noticias. 
 ## Población
 Noticias digitales publicadas los días domingo entre los años 2010 y 2024. 
@@ -61,9 +61,9 @@ el numero correspondiente en el periodo anual. Luego obtendremos 4 noticias de
 cada domingo aleatoriamente. Esto nos garantizará una muestra sin sesgo y tendrá 
 representatividad de la población. 
 ## Precauciones para tomar en cuenta
-• Si en un domingo seleccionado al azar no hay 4 noticias disponibles para el 
+* Si en un domingo seleccionado al azar no hay 4 noticias disponibles para el 
 análisis, se elegirá otro domingo aleatoriamente.  
-• Para el análisis estadístico solo consideraremos la sección del conjunto de 
+* Para el análisis estadístico solo consideraremos la sección del conjunto de 
 información sobre la noticia, omitiendo así partes de las noticias como los 
 derechos de autor, publicidad, y todo lo que los usuarios no leerían con relación 
 a la noticia.  
