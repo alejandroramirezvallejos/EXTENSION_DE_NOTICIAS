@@ -1,13 +1,22 @@
 #include <iostream>
 #include <fstream>
 #include <cctype>
+#include <sstream>
+#include <locale>
+#include <codecvt>
+
 using namespace std;
 void database_in (string basededatos);
-void database_out (int letras ,string texto);
+void database_out (int letras,int palabras,int oraciones ,string texto);
 string noticiero(string texto);
+bool idfechas(const string & text,int index);
+
+
 int main(){
+  locale::global(locale(locale(), new codecvt_utf8<wchar_t>));
+
 string ubicacion="database/";
-cout<<"escriba el anno de la base de datos analizar desde el 2010-2023"<<endl;
+cout<<"escriba el año de la base de datos analizar desde el 2010-2023"<<endl;
 int año=0;cin>>año;
 if(año>2023 || año<2010){
     cout<<"ingreso una fecha incorrecta"<<endl;
@@ -31,6 +40,8 @@ void database_in (string basededatos){
     string texto,url;
     int pass=0;
     long long int letras=0;
+    long long int numpal=0;
+    long long int oraciones=0;
     static bool linea_año=false;
     bool identificador=false;
     database.open(basededatos, ios::in); 
@@ -42,7 +53,7 @@ void database_in (string basededatos){
     while (!database.eof()){ 
       getline(database,texto); 
         if(linea_año==false){
-             database_out(0,texto);
+             database_out(0,0,0,texto);
              linea_año=true;
              continue;
         }
@@ -60,24 +71,37 @@ void database_in (string basededatos){
             continue;
             }
         }
+        //si todo esta correcto cuenta las letra;
         if(identificador==true) {
-            for (int i = 0; i < texto.size(); ++i){ 
-                if(isalnum(texto[i])){
-                      letras++; 
+           stringstream tx(texto);
+             string palabra;
+            //contar letras y oraciones
+             for(long long int i=0;i<texto.size();i++){
+                        if(isalnum(texto[i])){
+                            letras++;
+                        }
+                        if(texto[i]=='.' && idfechas(texto,i)==false){
+                            oraciones++;
+                        }
                 }
-             }
+            //contar palabras
+            while (tx >> palabra) {
+                numpal=numpal+1;
+            }
         }
         
         if(pass==2){
-        database_out(letras,url);
+        database_out(letras,numpal,oraciones,url);
         pass=0;
         letras=0;
+        numpal=0;
+        oraciones=0;
         }
     }
 
 }
 
-void database_out (int letras,string texto){ //funcion para agregar datos al txt
+void database_out (int letras,int palabras,int oraciones,string texto){ //funcion para agregar datos al txt
     ofstream database; 
     static bool inicio=true;
     static string año;
@@ -87,18 +111,18 @@ void database_out (int letras,string texto){ //funcion para agregar datos al txt
          database.open("clean.txt",ios::app);
     }
     if(inicio==true){
-            database<<"año,"<<"noticiero,"<<"URL,"<<"letras"<<endl;
+            database<<"año,"<<"noticiero,"<<"URL,"<<"letras,palabras,oraciones"<<endl;
             año=texto;
             inicio=false;
         }
     else if(inicio==false){
-            database<<año<<","<<noticiero(texto)<<","<<texto<<","<<letras<<endl;
+            database<<año<<","<<noticiero(texto)<<","<<texto<<","<<letras<<","<<palabras<<","<<oraciones<<endl;
     }
 
         
 }
 
-string noticiero(string texto){
+string noticiero( string  texto){
    string result;
     for (int i = 0; i < texto.size(); i++)
     {   if(texto[i]=='/' && texto[i+1]!='/'){
@@ -122,4 +146,13 @@ string noticiero(string texto){
         
     }
     return result;
+}
+
+
+
+bool idfechas(const string & texto,int index){
+     if (index > 0 && index < texto.size() - 1) {
+        return isdigit(texto[index - 1]) && texto[index] == '.' && isdigit(texto[index + 1]);
+    }
+    return false;
 }
