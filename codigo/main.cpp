@@ -17,9 +17,18 @@ long long int parrafosc(const string & texto,bool &parrafoant);
 
 int main(){
   locale::global(locale(locale(), new codecvt_utf8<wchar_t>));
-
+cout<<R"( ________  ________  ________      ___    ___ _______   ________ _________  ________     
+|\   __  \|\   __  \|\   __  \    |\  \  /  /|\  ___ \ |\   ____\\___   ___\\   __  \    
+\ \  \|\  \ \  \|\  \ \  \|\  \   \ \  \/  / | \   __/|\ \  \___\|___ \  \_\ \  \|\  \   
+ \ \   ____\ \   _  _\ \  \\\  \   \ \    / / \ \  \_|/_\ \  \       \ \  \ \ \  \\\  \  
+  \ \  \___|\ \  \\  \\ \  \\\  \   \/  /  /   \ \  \_|\ \ \  \____   \ \  \ \ \  \\\  \ 
+   \ \__\    \ \__\\ _\\ \_______\__/  / /      \ \_______\ \_______\  \ \__\ \ \_______\
+    \|__|     \|__|\|__|\|_______|\___/ /        \|_______|\|_______|   \|__|  \|_______|
+                                 \|___|/                                                 
+                                                                                         
+                                                                                         )"<<endl<<endl;
 string ubicacion="database/";
-cout<<"escriba el año de la base de datos analizar desde el 2010-2023"<<endl;
+cout<<"escriba el anno de la base de datos analizar desde el 2010-2023"<<endl;
 int año=0;cin>>año;
 if(año>2023 || año<2010){
     cout<<"ingreso una fecha incorrecta"<<endl;
