@@ -4,13 +4,16 @@
 #include <sstream>
 #include <locale>
 #include <codecvt>
+#include <algorithm>
 
 using namespace std;
 void database_in (string basededatos);
-void database_out (int letras,int palabras,int oraciones ,string texto);
+void database_out (int letras,int palabras,int oraciones,int parrafos ,string texto);
 string noticiero(string texto);
 bool idfechas(const string & text,int index);
 bool vacios(void);
+long long int parrafosc(const string & texto,bool &parrafoant);
+
 
 int main(){
   locale::global(locale(locale(), new codecvt_utf8<wchar_t>));
@@ -42,8 +45,10 @@ void database_in (string basededatos){
     long long int letras=0;
     long long int numpal=0;
     long long int oraciones=0;
+    long long int parrafos=0;
     static bool linea_año=false;
     bool identificador=false;
+    bool parrafoant=false;
     database.open(basededatos, ios::in); 
     if (database.fail()){ 
         cout<<"Error al abrir el archivo";
@@ -53,7 +58,7 @@ void database_in (string basededatos){
     while (!database.eof()){ 
       getline(database,texto); 
         if(linea_año==false){
-             database_out(0,0,0,texto);
+             database_out(0,0,0,0,texto);
              linea_año=true;
              continue;
         }
@@ -79,6 +84,7 @@ void database_in (string basededatos){
              for(long long int i=0;i<texto.size();i++){
                         if(isalnum(texto[i])){
                             letras++;
+                            parrafoant=true;
                         }
                         if(texto[i]=='.' && idfechas(texto,i)==false){
                             oraciones++;
@@ -88,20 +94,27 @@ void database_in (string basededatos){
             while (tx >> palabra) {
                 numpal=numpal+1;
             }
+            //contar parrafos
+            parrafos=parrafos+parrafosc(texto,parrafoant);
         }
         
         if(pass==2){
-        database_out(letras,numpal,oraciones,url);
+        if(parrafoant==true){
+            parrafos++;
+        }
+        database_out(letras,numpal,oraciones,parrafos,url);
         pass=0;
         letras=0;
         numpal=0;
         oraciones=0;
+        parrafos=0;
+        parrafoant=false;
         }
     }
 
 }
 
-void database_out (int letras,int palabras,int oraciones,string texto){ //funcion para agregar datos al txt
+void database_out (int letras,int palabras,int oraciones,int parrafos,string texto){ //funcion para agregar datos al txt
     ofstream database; 
     static bool inicio=true;
     static string año;
@@ -112,7 +125,7 @@ void database_out (int letras,int palabras,int oraciones,string texto){ //funcio
     }
     if(vacio==true){
         if(vacios()==true){
-            database<<"año,"<<"noticiero,"<<"URL,"<<"letras,palabras,oraciones"<<endl;
+            database<<"año,"<<"noticiero,"<<"URL,"<<"letras,palabras,oraciones,parrafos"<<endl;
             vacio=false;
         }
         else{
@@ -124,10 +137,8 @@ void database_out (int letras,int palabras,int oraciones,string texto){ //funcio
             inicio=false;
         }
     else if(inicio==false){
-            database<<año<<","<<noticiero(texto)<<","<<texto<<","<<letras<<","<<palabras<<","<<oraciones<<endl;
-    }
-
-        
+            database<<año<<","<<noticiero(texto)<<","<<texto<<","<<letras<<","<<palabras<<","<<oraciones<<","<<parrafos<<endl;
+    }        
 }
 
 string noticiero( string  texto){
@@ -173,4 +184,15 @@ bool vacios(void){
     else{
         return false;
     }
+}
+
+long long int parrafosc(const string &texto,bool &parrafoant){
+    long long int parrafos=0;
+    string linea = texto;
+    linea.erase(remove_if(linea.begin(), linea.end(), ::isspace), linea.end());
+    if(linea.empty()==true && parrafoant==true){
+        parrafos++;
+        parrafoant=false;
+    }
+    return parrafos;
 }
