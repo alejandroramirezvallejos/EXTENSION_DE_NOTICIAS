@@ -8,9 +8,9 @@
 
 using namespace std;
 void database_in (string basededatos);
-void database_out (int letras,int palabras,int oraciones,int parrafos ,string texto);
+void database_out (long long int letras,long long int palabras,long long int oraciones,long long int parrafos ,string texto);
 string noticiero(string texto);
-bool idfechas(const string & text,int index);
+bool idfechas(const string & text,long long int index);
 bool vacios(void);
 long long int parrafosc(const string & texto,bool &parrafoant);
 
@@ -123,7 +123,7 @@ void database_in (string basededatos){
 
 }
 
-void database_out (int letras,int palabras,int oraciones,int parrafos,string texto){ //funcion para agregar datos al txt
+void database_out (long long int letras,long long int palabras,long long int oraciones,long long int parrafos,string texto){ //funcion para agregar datos al txt
     ofstream database; 
     static bool inicio=true;
     static string año;
@@ -152,7 +152,7 @@ void database_out (int letras,int palabras,int oraciones,int parrafos,string tex
 
 string noticiero( string  texto){
    string result;
-    for (int i = 0; i < texto.size(); i++)
+    for (long long int i = 0; i < texto.size(); i++)
     {   if(texto[i]=='/' && texto[i+1]!='/'){
             if(texto[i+1]=='w'){
                 i=i+5;
@@ -178,7 +178,7 @@ string noticiero( string  texto){
 
 
 
-bool idfechas(const string & texto,int index){
+bool idfechas(const string & texto,long long int index){
      if (index > 0 && index < texto.size() - 1) {
         return isdigit(texto[index - 1]) && texto[index] == '.' && isdigit(texto[index + 1]);
     }
