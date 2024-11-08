@@ -1,33 +1,899 @@
-año,noticiero,URL,letras,palabras,oraciones,parrafos
-2015,eju,https://eju.tv/2015/03/un-proceso-que-consolida-liderazgos-en-bolivia/,2451,501,20,11
-2015,pub,https://www.pub.eldiario.net/noticias/2015/2015_01/nt150118/sociedad.php?n=75&-centro-de-rehabilitacion-atiene-a-mas-de-300-personas-por-dia,2258,436,13,10
-2015,la-razon,https://www.la-razon.com/tendencias/2015/10/11/pelea-por-wara/,3702,805,30,9
-2015,eju,https://eju.tv/2015/03/46-de-la-poblacin-en-bolivia-ya-tiene-acceso-a-internet/,5038,1059,41,24
-2015,eju,https://eju.tv/2015/06/a-80-aos-de-cese-de-la-guerra-del-chaco-evo-atribuye-contienda-con-paraguay-a-petroleras-y-no-a-pueblos/,1560,332,11,8
-2015,pub,https://www.pub.eldiario.net/noticias/2015/2015_05/nt150510/cultural.php?n=60&-mana-desempolvo-sus-clasicos-en-las-vegas,2767,611,14,15
-2015,late,https://www.late.com.bo/pando-sera-la-sede-de-las-finales-de-ajedrez/,1641,366,10,8
-2015,ibce,https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=59074,3690,841,16,9
-2015,eju,https://eju.tv/2015/07/se-abren-cinco-frentes-de-conflicto-en-bolivia/,7800,1558,62,27
-2015,eju,https://eju.tv/2015/08/logfire-trae-al-pais-software-para-manejo-de-inventarios/,836,164,5,3
-2015,eabolivia,https://www.eabolivia.com/el-alto-noticias/23779-miss-upea-2015-es-noemi-jacqueline-velasquez.html,1436,297,12,9
-2015,boliviaemprende,https://boliviaemprende.com/noticias/de-acuerdo-al-ranking-camel-el-bnb-es-el-mejor-banco,1405,271,6,5
-2015,elnuevoherald,https://www.elnuevoherald.com/noticias/america-latina/article5403627.html,2595,504,17,10
-2015,diarioenfermero,https://diarioenfermero.es/epm-realiza-formacion-de-medicos-tradicionales-indigenas-en-bolivia/,2877,556,14,9
-2015,andina,https://andina.pe/agencia/noticia-el-papa-francisco-masticara-coca-su-visita-a-bolivia-562946.aspx,1665,373,14,9
-2015,eju,https://eju.tv/2015/06/brotan-2-nuevas-zonas-de-contrabando-en-frontera-bolivia-argentina/,3947,833,33,16
-2015,bbc,https://www.bbc.com/mundo/noticias/2015/12/151205_millonario_escandalo_corrupcion_partido_evo_morales_bm,4256,833,31,28
-2015,es-us,https://es-us.noticias.yahoo.com/asesor-presidencial-peruano-detenido-bolivia-fuga-polic%C3%ADa-interpol-170702987.html,1098,225,7,6
-2015,eju,https://eju.tv/2015/07/al-menos-23-pginas-web-del-estado-boliviano-fueron-hackeadas-en-6-meses/,5582,1108,53,25
-2015,opinion,https://www.opinion.com.bo/articulo/cochabamba/reconstruyen-carretera-antigua-santa-cruz-bs-1000-millones/20150412195600518305.html,3667,741,24,20
-2015,eju,https://eju.tv/2015/02/acuerdo-del-mercosur-afecta-la-exportacin-boliviana-de-soya/,4032,842,28,16
-2015,la-razon,https://www.la-razon.com/financiero/2015/11/08/el-emprendimiento-boliviano-destaca-pero-muestra-fragilidad/,3976,786,19,14
-2015,elnuevoherald,https://www.elnuevoherald.com/noticias/america-latina/article29801089.html,1909,394,12,11
-2015,pub,https://www.pub.eldiario.net/noticias/2015/2015_10/nt151004/cultural.php?n=85&-tiwanaku-una-reliquia-abandonada,4499,937,31,16
-2015,eju,https://eju.tv/2015/11/aumenta-precio-la-papa-pollo-tomate-la-arveja-mercados-la-paz/,1994,505,20,12
-2015,eju,https://eju.tv/2015/07/morelia-herrera-barja-si-ganase-el-miss-bolivia-organizaria-conciertos/,3959,866,49,1
-2015,lanacion,https://www.lanacion.com.ar/otros/la-paz-una-ciudad-a-la-altura-nid01022015/,6066,1306,50,15
-2015,la-razon,https://www.la-razon.com/voces/2015/06/07/25-anos-de-la-razon/,2321,465,12,6
-2015,opinion,https://www.opinion.com.bo/articulo/informe-especial/prueba-vih-es-gratuita-dura-15-minutos-centros-p-uacute-blicos/20150308191300669011.html#google_vignette,4051,881,46,28
-2015,pub,https://www.pub.eldiario.net/noticias/2015/2015_05/nt150517/nacional.php?n=41&-plagas-afectan-cultivos-de-chirimoya-en-lloja,1093,220,9,5
-2015,ibce,https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=52934,3935,775,28,25
-2015,late,https://www.late.com.bo/el-retorno-de-lampe-es-la-mejor-noticia-para-san-jose/,826,170,7,6
+2015
+https://eju.tv/2015/03/un-proceso-que-consolida-liderazgos-en-bolivia/
+####
+Los liderazgos locales se consolidan y son ajenos al Movimiento Al Socialismo (MAS). Estos líderes de oposición, que son referentes en estas elecciones subnacionales, tienen un arduo camino para fortalecer su perspectiva en el escenario nacional, ya que sus programas no abarcan una visión país y no pertenecen a un partido político con presencia en todo el territorio patrio. El oficialismo sufre con la renovación de sus cuadros y se afianza de la figura de Evo Morales.
+
+Tres analistas políticos consideran ‘prematuro’ proyectar a los líderes locales que surgen de estas elecciones y enumeran tres razones: la falta de un programa nacional, la ausencia de un partido político consolidado y la hegemonía que mantiene el MAS.
+
+Los expertos identifican a los líderes que se consolidaron en estos comicios. En La Paz, Luis Revilla, Félix Patzi y Soledad Chapetón marginaron a los postulantes oficialistas; en Cochabamba sobresalen José María Leyes y el masista Iván Canelas; en Santa Cruz se consolidaron los perfiles de Rubén Costas y Percy Fernández, y, por último, en Tarija aparece Rodrigo Paz Pereira.
+
+El politólogo Romano Paz consideró que estas figuras ‘consolidaron’ su liderazgo y este factor obedece al “recambio generacional” en política; sin embargo, señaló que todavía no se puede colocar en el ámbito nacional, ya que deben, si son elegidos, desarrollar una buena gestión pública.
+
+Para el politólogo Franklin Pareja, la oposición carece de un proyecto político con visión nacional y perfiló a Costas como un líder que puede tener aceptación en Santa Cruz, Beni y Tarija. “Por el momento, solo podemos hablar de liderazgos regionales”, destacó.
+
+En esa línea, la analista María Teresa Zegada recordó que estos liderazgos “no son nuevos”, ya que pasaron por una etapa política al ser funcionarios públicos o candidatos. “No hay sorpresas, solo se consolidan los liderazgos (…) Son líderes locales, con éxito en el plano local, pero no veo posibilidad de que sean candidatos en 2019”, comentó.
+
+Revilla aseguró que, si es reelegido, acabará su gestión en 2020 y que no piensa en ampliar su liderazgo a escala nacional. “Primero ganemos esta elección, luego trabajemos hasta acabar la gestión”, detalló el candidato a la Alcaldía paceña.
+
+Al contrario, Patzi sí piensa lanzarse al ámbito nacional. Dijo que es el sucesor de Evo Morales y que tiene la intención de candidatear en 2019.
+
+Por su parte, el vocero de los demócratas, Vladimir Peña, señaló que Costas “no piensa” en elecciones nacionales y que prioriza el ámbito local.
+
+En criterio del politólogo Romano, la figura caudillista de Evo Morales en el MAS impide el surgimiento de nuevos liderazgos y detalló que en el interior del oficialismo hay gente valiosa, pero se impone la designación. El experto acotó que los partidos tradicionales fueron sepultados por seguir una lógica caudillista.
+
+El oficialismo trabaja en la renovación de líderes desde la visión de la ‘generación Evo’, espacio en el que se trabaja bajo el lineamiento político de izquierda. De ahí surgen los líderes en el MAS, como los diputados Manuel Canelas y Valeria Silva.
+####
+https://www.pub.eldiario.net/noticias/2015/2015_01/nt150118/sociedad.php?n=75&-centro-de-rehabilitacion-atiene-a-mas-de-300-personas-por-dia
+####
+Un promedio de 300 pacientes al día llegan al Centro de Rehabilitación de la Caja Nacional de Salud, espacios como hidroterapia, fisioterapia, electroterapia son algunas de las especialidades que se realizan en este espacio médico especializado.
+
+La Caja Nacional de Salud (CNS), busca los recursos necesarios para que este año se pueda ejecutar la construcción de un espacio con mayor capacidad para lograr la rehabilitación de los pacientes que requieren este servicio.
+
+La semana pasada el centro de la CNS cumplió 48 años al servicio de la población ofreciendo los servicios de medicina física y rehabilitación, donde se incluyen diversas terapias para ayudar a las persona a restaurar la función después de una enfermedad o lesión, según informó la directora del establecimiento doctora Miriam Beltrán.
+
+Una de las principales características que tiene el centro es que es ambulatorio, “el fin es otorgar al paciente una mejor calidad de vida para que este pueda seguir de forma rutinaria todas sus actividades temporales o permanentes”, dijo.
+
+El instituto ofrece atención a los pacientes de la seguridad social de la Caja Nacional de Salud, sin embargo, se ofrece también cobertura al paciente particulares que no cuentan con el beneficio de la seguridad social.
+
+Entre niños, jóvenes y adultos el número de atención de este centro sobrepasa los 320 pacientes por día. “Con ellos trabajan los médicos fisiatras, fisioterapeuta, fonoaudiólogos, estimuladores tempranos, ortesis y prótesis ente otros quienes forman parte del equipo multidisciplinario”.
+
+Sin embargo, una necesidad latente todavía para este centro es la falta de profesionales idóneos además de la infraestructura adecuada. “Hemos presentado un proyecto al directorio de la CNS un proyecto para la ampliación del instituto para tratar a pacientes pediátricos, solo para el equipamiento se requiere más de 200 mil bolivianos y para la infraestructura se requiere realizar piscina de pelotas, arena especiales.”, adelantó.
+
+A criterio, del profesional médico este espacio es uno de los mejores centros que tiene la CNS a nivel nacional, sin embargo, la rehabilitación se debe considerar siempre como un aspecto muy importante en el sistema de salud social.
+
+A su vez, en el modelo de atención sanitaria debería existir también, prevención, educación, curación y rehabilitación, porque si no existe una reinserción no se cumple el ciclo de su recuperación.
+
+Por su parte, Miguel Ángel Aranda Rocha representante de control social calificó como positivo la atención y del centro de rehabilitación de la CNS, “se debe impulsar la intervención de este espacio porque espacios como este son beneficiosos para la sociedad, nosotros velamos por la calidez de este espacio en niños y adolescentes por el equipo y el personal que tienen”, concluyó.
+####
+https://www.la-razon.com/tendencias/2015/10/11/pelea-por-wara/
+####
+Los fundadores de la banda se dividen en dos grupos y se disputan un nombre que se convirtió en el estandarte de la fusión entre el folklore boliviano y el rock.
+
+Como a veces sucede hasta en las mejores agrupaciones (Pink Floyd, Jackson Five, RIFF), Wara tampoco pudo con su cartel de banda estandarte de la música contemporánea boliviana. Por estos días existen dos agrupaciones que reclaman el nombre del grupo que creó el folk-rock boliviano a principios de los oscuros años 70. Una, renovada con sangre joven, ha sacado un disco y se ha ido de gira por Europa. La otra, más clásica y añejada, ha anunciado que también lanzará un disco, con el que piensa retomar el viejo estilo de una agrupación que en sus inicios mantuvo un discurso de reivindicación de las clases relegadas.
+
+El conflicto ya se veía venir. Durante la conferencia de prensa en abril para la presentación de Kimsa Qallqu, el último disco oficial de Wara, estaban dos de los históricos: Carlos Daza y Omar León. Pero no así el vocalista y mítico poeta maldito Dante Uzquiano. Y eso que sí había participado de la grabación del álbum, a diferencia de otros dos precursores del grupo, el baterista Jorge Cronembold y el tecladista Pedro Sanjinés, que en el disco fueron reemplazados por otros músicos (respectivamente Antonio León, hijo del bajista, y Nicolás Suárez, de intermitente presencia en la historia del grupo).
+
+Daza y León anunciaron hace algunos meses su gira por seis ciudades europeas, acompañados por diez músicos jóvenes y usando el nombre de Wara. Se despidieron antes de viajar con un concierto a las puertas del Museo Nacional de Arte, el 24 de septiembre, en el que tampoco los acompañó Uzquiano. Aquella vez Daza dijo que el cantante aquejaba problemas de salud, pero el aludido fue claro: “Yo no estoy enfermo y lamento que se opte por incluir en el grupo a gente que lamentablemente no tiene experiencia, que es novata en esto”.
+
+Así, la agrupación de Daza y León levantó vuelo a “las europas”. Y, a los pocos días, Cronembold, Sanjinés y Uzquiano anunciaron la producción de un nuevo disco con el título de Tunka (“diez” traducido del aymara) y también bajo el nombre de Wara, a ser grabado hasta diciembre.
+
+“Queremos recuperar la propuesta original del grupo”, aseguró Uzquiano al tiempo del anuncio. “Wara nació como un conjunto con letras humanistas, con música altruista, educativa, espiritual, con un mensaje de esperanza”, explicó quien puso la voz en el histórico LP Maya, que abrió una serie de discos titulados en lengua aymara, en los que se empezó a mostrar la fusión del folklore de los Andes bolivianos y el rock duro anglosajón. “En los últimos tiempos eso ha cambiado, se ha incursionado por el folklore comercial dejando la misión que al inicio de nuestras carreras nos habíamos trazado”, añadió Uzquiano.
+
+No es la primera vez que la banda se divide o sus integrantes entran en conflicto. En 2001, Daza se vio afectado por la decisión de sus compañeros de dejarlo fuera del grupo en la reedición del disco El Inca y fundó la banda Renovación Wara, con la que lanzó un solo disco. En 2003, Sanjinés, el de los clásicos solos de teclado del primer disco, le inició un juicio a León por la autoría de la canción El Kenko, un litigio que finalmente ganó.
+
+¿Peleas internas, egos, celos, dos grupos, un solo nombre? Uzquiano considera que sus compañeros en Europa están haciendo un mal uso del nombre, además de engañar al público “porque ése no es el Wara verdadero. Lamentablemente está yendo un grupo que nos está sustituyendo y cometiendo un delito de falsedad”. Sanjinés también es contundente: “Acabamos de ganar un juicio por el uso del nombre, ellos no pueden lucrar bajo el título de Wara”.
+Pero Daza se adelantó y antes de cruzar el Atlántico dijo que el nombre del grupo le pertenece al cuarteto formado por él, Omar León, Dante Uzquiano y Jorge Cronembold. No se acordó de Sanjinés, quien asegura que en el pasado lo trataron injustamente: “yo compuse gran parte de los temas del primer disco, además de darle forma a nuestra ideología. Los jóvenes de entonces éramos muy lectores de Franz Tamayo y Fausto Reynaga, ideales que reflejamos en nuestras primeras composiciones de El Inca y Maya”, asegura el tecladista.
+
+Clark Orozco es el otro convocado al Wara de Uzquiano-Cronembold-Sanjinés. Es un músico formado principalmente en instrumentos andinos, razón por la que en 1973 fue invitado a participar de un proyecto de aires folklóricos a los que se les enchufaba la estridencia del rock pesado y una lírica de protesta social, de forma que marcó el sonido característico de fusión de Wara. Todos juntos prepararon un cóctel alquímico adelantado a su tiempo. Un tiempo que estos viejos idealistas intentan retomar.
+####
+https://eju.tv/2015/03/46-de-la-poblacin-en-bolivia-ya-tiene-acceso-a-internet/
+####
+A diciembre de 2014, uno de cada dos personas en  Bolivia tenía acceso al servicio de internet. Según datos oficiales, el 46,3% de la población boliviana (4.981.684) dispone de una conexión móvil o fija a la red de comunicación. El crecimiento se debe a que los celulares son más económicos.
+
+“A diciembre de 2014 se registraron 4.981.684 conexiones de internet en Bolivia, es decir que la penetración del servicio llegó al 46,3% de la población que alcanza a 10,7 millones de personas”, dijo a La Razón el director ejecutivo de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT), Luis Guzmán.
+
+El Instituto Nacional de Estadística (INE) proyectó que la población boliviana llegaría a 10,7 millones en 2014.
+
+La autoridad reguladora indicó que de las 4.981.684 conexiones de internet anotadas en el país, existen 4.801.498 (96,38%) usuarios que tienen conexiones móviles (tecnología 2G, 3G y 4G, dongles y terminales).
+
+Además, precisó que hay 169.126 (3,39%) usuarios de las tecnologías alámbricas (conexiones realizadas por medio de cables) y 11.061 (0,22%) consumidores con tecnologías inalámbricas (conexiones que no están unidas por cables y entre sus redes están el bluetooth, wifi, wimax y otros).
+
+Guzmán explicó que los indicadores de acceso al servicio de internet en Bolivia fueron procesados por la ATT con base en datos clasificados según las tecnologías de acceso y cobertura regional, sustentada en la información reportada por los proveedores de redes y servicios de telecomunicaciones al Sistema de Información Especializada de Telecomunicaciones (SIET).
+
+Modelo. Sostuvo que en el anterior modelo regulatorio el servicio de internet era considerado como un servicio de valor agregado a los de voz. Apuntó que desde la llegada del servicio al país en 1996 —con la creación de Bolnet (primer proveedor de internet en Bolivia)— hasta 2008 no se registró “un crecimiento significativo”.
+
+Sin embargo, afirmó que “con la introducción de las tecnologías 2G, 3G y 4G la cantidad de conexiones al servicio creció de manera sustantiva”.
+
+Para el gerente general de la Cámara de Telecomunicaciones de Bolivia (Catelbo), Eduardo Trigo, el crecimiento en el acceso al servicio de internet es reflejo del crecimiento de la economía boliviana, el alza del poder adquisitivo y la expansión de la clase media.
+
+A ello se suma, dijo, el descenso de los precios de los teléfonos inteligentes (smartphones), lo que ha permitido que más personas adquieran los dispositivos para poder navegar y estar conectados a la red desde sus celulares. “Hoy, las personas cuentan cada vez con más dispositivos para acceder a la red como las tablets, laptops y computadoras”. Añadió que otro factor para este crecimiento se debe a la diversidad de paquetes, planes y bolsas que tienen las telefónicas para el uso de internet, así como la reducción paulatina de las tarifas del servicio.
+
+El presidente de la Fundación Redes, Eduardo Rojas, agregó que la cobertura de internet creció porque las operadoras ampliaron el acceso a la telefonía móvil y luego lanzaron internet móvil, mediante los smartphones, aunque esa conexión no responde a todas las necesidades del usuario. Santa Cruz y La Paz  concentran conexiones a. q. n. El 60% de las conexiones fijas y móviles de internet en el país se concentra en Santa Cruz y La Paz, de acuerdo con datos oficiales de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT).
+
+El director ejecutivo de la ATT, Luis Felipe Guzmán, destacó que Santa Cruz es el departamento con más conexiones de internet con 1.630.189 (32,72%). Empero, señaló que en 2014 registró el menor crecimiento con el 36,1%.
+
+La autoridad añadió que luego está La Paz con 1.368.474 (27,47%) y Cochabamba con 855.213 (17,16%). Entre las tres regiones suman el 77,35% de las conexiones. Agregó que Pando registró la menor cantidad de conexiones de internet con 43.708 (0,87%), aunque tuvo una elevación del 69,2%.
+
+Dos analistas coincidieron en que el alza de conexiones de internet en Santa Cruz y La Paz se debe al crecimiento vegetativo en esas regiones, una mayor demanda de la población y porque hay una diversidad de firmas, negocios y otros.
+
+Entre diciembre de 2013 y diciembre de 2014, la capacidad contratada en frontera por tráfico de internet registró un crecimiento del 72,8%, al pasar de 37.975 megabits por segundo (Mbit/s) a 65.618 Mbit/s, informó a La Razón la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT).
+
+El director ejecutivo de la ATT, Luis Guzmán, señaló además que el costo unitario por Mbit/s bajó en 9%, al pasar de $us 104,7 a $us 87,2.
+
+Explicó que el tráfico de internet adquirido en el país está a precios más competitivos. Pese a ello, los precios referenciales de “un megabit por segundo en costa son aún más económicos que en Bolivia”.
+
+Precisó que en promedio la velocidad de descarga de internet en el país se incrementó a una tasa del 35%. Detalló que en los departamentos del eje troncal la velocidad de descarga aumentó más del 25% y que en el único departamento donde se registró una reducción de ese indicador fue Chuquisaca.
+
+En tanto, la velocidad de subida de internet se elevó en 41%.
+
+El gerente general de la Cámara de Telecomunicaciones de Bolivia (Catelbo), Eduardo Trigo, explicó que el ascenso del tráfico de internet es positivo porque significa “que los bolivianos usamos cada vez más el servicio y estamos conectados más horas y por ello existe una mayor demanda”.
+
+Facebook es red favorita en la región
+
+La red social Facebook es el mayor conductor del tráfico móvil en América Latina. Entre el primer y segundo semestre de 2014, el tráfico de bajada creció del 17,45% al 25,20% del total de las descargas, indicó la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT).
+
+El miembro de la organización de Más y Mejor Internet para Bolivia, Mario Durán, explicó que los usuarios prefieren dicha red social por la facilidad de uso y porque se convirtió en una herramienta de comunicación. El presidente de la Fundación Redes, Eduardo Rojas, citó por ejemplo que Facebook es una de las redes más usadas en Bolivia y el alza promedio mensual de clientes es de 200.000.
+
+La segunda fuente de tráfico móvil de bajada es YouTube, que creció entre el primer y el segundo semestre de 2014 del 14,73% al 18,55%. El sitio web es preferido por el público porque puede subir y compartir videos e información.
+####
+https://eju.tv/2015/06/a-80-aos-de-cese-de-la-guerra-del-chaco-evo-atribuye-contienda-con-paraguay-a-petroleras-y-no-a-pueblos/
+####
+Villa Montes, BOLIVIA, 14 jun (ABI).- El presidente Evo Morales conmemoró el domingo los 80 años del cese de hostilidades de la Guerra del Chaco (1932-1935) y atribuyó esa contienda a las petroleras Estándar Oil de Estados Unidos, afincada en  Bolivia, y la Shell que representaba a Inglaterra y Holanda, en Paraguay, por el control del negocio de los hidrocarburos, y no a los pueblos hermanos.
+
+«Si hacemos una profunda evaluación con seguridad no ha sido una guerra de los pueblos de Paraguay con Bolivia, la historia demuestra que el 31 de julio de 1932 entre el Ejército de Paraguay y Bolivia comenzaron esa guerra pero a la cabeza y provocadas por las petroleras», señaló en un masivo acto cívico militar desarrollado en Villa Montes, en el departamento de Tarija.
+
+En esa dirección, el Jefe de Estado afirmó que más que una guerra entre dos «países hermanos» fue una «guerra entre dos petroleras» en la que murieron entre 90 a 150.000 soldados bolivianos y paraguayos.
+
+«Quienes murieron en esta guerra, no eran empresarios ni bolivianos menos extranjeros, eran pueblo, soldados de Bolivia y Paraguay, que representaban al movimiento indígena campesina en los dos países», agregó.
+
+Recordó que en los años de la guerra, el Paraguay era gobernado por una elite oligarca ligada a Inglaterra, mientras que Bolivia estaba presidida por una rosca minera dependiente de los Estados Unidos.
+
+«Las guerras fueron de las oligarquías de ambos países y transnacionales petroleras. La disputa era quién roba más el petróleo, si Inglaterra o Estados Unidos y quién gana más plata. Los pueblos no hacen guerra, la guerra la hacen las transnacionales», argumentó.
+
+En los tres años de duración de la Guerra del Chaco, Bolivia movilizó 250.000 soldados y Paraguay 120.000, que se enfrentaron en combates en los que hubo gran cantidad de bajas.
+
+El 12 de junio de 1935 se suscribió en la Argentina el protocolo que dio fin a la Guerra del Chaco y el 14 al mediodía dejaron de sonar los cañones.
+####
+https://www.pub.eldiario.net/noticias/2015/2015_05/nt150510/cultural.php?n=60&-mana-desempolvo-sus-clasicos-en-las-vegas
+####
+El grupo mexicano Maná desempolvó los clásicos de su repertorio para emocionar en la jornada inaugural del primer festival Rock in Río en EEUU, donde el frío de Las Vegas no pudo contener la energía de un público que vibró también con las melodías de No Doubt y Foster the People.
+
+“¡Buenas noches Las Vegas, buenas noches México, buenas noches Latinoamérica!”, gritó Fher Olvera, líder de Maná, que no dudó en rescatar hasta cuatro canciones de su primer disco (“¿Dónde jugarán los niños?”, 1992) durante una intervención de hora y media en la que no probaron los temas de su nuevo álbum, “Cama incendiada”.
+
+De acuerdo con Efe, el conjunto comenzó la velada con su popular “Oye mi amor” y la continuó con “De pies a cabeza”, donde Olvera cambió una estrofa de la letra para preguntar al respetable: “¿Quién te hará el amor aquí en Las Vegas?”
+
+Otros dos temas que incluyeron de ese disco debut fueron “Vivir sin aire” -con el que la banda arengó al público a que se oyera hasta en su ciudad de origen, Guadalajara- y la enérgica “Me vale”, con gran protagonismo para el batería del grupo, Álex González.
+
+Entre medias hubo tiempo para “Corazón espinado”, “Déjame entrar”, “Manda una señal”, “Lluvia al corazón”, “Mariposa traicionera”, “Eres mi religión” y las inmortales baladas “En el muelle de San Blas” y “Rayando el sol”, todo ello entre arengas y proclamas de Olvera, que no dudó en animarse con unos vasos de tequila y dedicar elogios “a las mamacitas coquetas que van seduciendo al viento”.
+
+“¡Estamos en Las Vegas!, ¡Esta noche nadie va a dormir, vamos a calentar los motores!”, gritaba antes de asumir un gesto más serio y pedir “esperanza para Latinoamérica” durante la interpretación de “Lluvia al corazón”.
+
+El grupo abandonó por unos segundos el escenario y regresó para dedicar al respetable un par de clásicos más: “Labios compartidos” y “Clavado en un bar”, ambos ante un mar de móviles y de voces entregadas al carisma de Olvera.
+
+Para entonces el respetable ya había disfrutado de grupos como The Pretty Reckless, liderados por la actriz Taylor Momsen (“Gossip Girl”), o Foster The People, que puso a saltar a “la ciudad del pecado” con temas tan pegadizos como “Pumped Up Kicks” o “Helena Beat”.
+
+La acción comenzó en torno a las 17.30 hora local en la llamada Ciudad del Rock, un recinto de unos 150.000 metros cuadrados situado en la zona norte del Strip, la principal avenida de Las Vegas, con distintas actividades más allá de la música.
+
+Miles de personas dispusieron de tres calles repletas de puestos de comida y bebida, además de un contenido de lo más variopinto: galerías de arte, una capilla para bodas exprés, sesiones fotográficas improvisadas y artistas callejeros.
+
+Eso a pesar de los 500 lavabos dispuestos para satisfacer las necesidades de los espectadores.
+
+Cuando se acercaba la medianoche, los más incansables -incluidos los que se tiraban en tirolina en mitad de las actuaciones- seguían pidiendo guerra a la espera de la aparición de los californianos No Doubt.
+
+La formación de Gwen Stefani estuvo a la altura de las expectativas brindando algunos de sus temas más conocidos, tanto en su faceta más rockera (“Ex-girlfriend” y “Hey baby”) como en la más íntima, con versiones acústicas de sus célebres “Don’t Speak” o “Just a girl”.
+
+Así fue la primera toma de contacto entre Las Vegas y Rock in Río, un certamen que cumple 30 años desde su nacimiento y para el que sus organizadores en suelo norteamericano han destinado un presupuesto de 75 millones de dólares.
+
+Se espera la asistencia de unos 150.000 espectadores entre este fin de semana y el siguiente.
+####
+https://www.late.com.bo/pando-sera-la-sede-de-las-finales-de-ajedrez/
+####
+Pando será anfitrión de los torneos finales del Femenino y del Mayor Absoluto en está disciplina,
+
+El congreso nacional de la Federación Boliviana de Ajedrez (Fba) designó a Pando como la sede de los torneos finales del Femenino y del Mayor Absoluto, las principales competencias con los cuales cuenta la entidad en la cual se proclaman a los campeones de la temporada 2015 y que se disputarán a partir del 17 de junio.
+
+El pasado año Pando fue incluido dentro de las actividades nacionales del ajedrez, para dar continuidad a esta labor fue asignada como sede de un importante evento y que reunirá a los mejores deportistas del país.
+
+De manera simultánea se disputarán los nacionales Femenino y Mayor Absoluto del 17 al 21 de junio, a estos torneos llegarán los ajedrecistas que ganen o que ocupen los tres primeros puestos durante los clasificatorios que se jugarán a lo largo de este primer semestre.
+
+En esta ocasión habrá cinco torneos nacionales clasificatorios para la Final del Mayor Absoluto: el primero de éstos se disputarán en Cochabamba del 29 de enero al 2 de febrero; el segundo se jugará en Santa Cruz del 26 de febrero al 1 de marzo; el tercero tendrá como sede a Chuquisaca del 26 al 29 de marzo; el cuarto se llevará adelante en Pando del 16 al 19 de abril; y el quinto en La Paz del 4 al 7 de junio.
+
+Mientras habrá dos clasificatorios para la Final del Femenino: el primero se llevará adelante en Cochabamba del 7 al 10 de mayo; y el segundo en Potosí del 28 al 31 de mayo.
+
+La Federación dio a conocer su calendario de actividades deportivas hasta julio entre los cuales figuran los nacionales desde la Sub-8 hasta la Sub-20, damas y varones, del cual saldrán los seleccionados para los torneos internacionales. También habrá los U-11, U-17 y U-45, junto a las campeonatos convocadas por los clubes.
+
+Además que la dirigencia pagó la primera cuota de la deuda que tiene ante la Federación Internacional de Ajedrez. La suma asciende a los 1.900 euros. El total del monto a honrar alcanza los 4.535,77 euros por gastos que se hicieron en la anterior gestión.
+####
+https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=59074
+####
+El tema de la obesidad en los últimos 20 años a nivel mundial y Santa Cruz ha aumentado, según el estudio del año 1998 -considerado el único estudio específico con bases científicas- desarrollado por la Sociedad de Endocrinología y Cardiología, el Sedes, Ministerio de Salud y la Organización Panamericana de Salud, en los ejes troncales del país como ser La Paz-El Alto, Cochabamba y Santa Cruz.
+
+De acuerdo al estudio del 1998, el departamento con la mayor prevalencia de diabetes, hipertensión y obesidad era Santa Cruz, para diabetes la prevalencia era de 10,7 % en personas mayores de 25 años, para hipertensión de 22, 7 %, obesidad 30% y para sobrepeso de 26% mayor de 25 años. Sin embargo, unidos los datos de obesidad y sobrepeso da un total del 56 %, lo cual significa que en ese año, las personas ya tenían obesidad.
+
+En la oportunidad, la responsable del Programa de Enfermedades No Trasmisibles del Sedes de la Gobernación, Roxana Barbero, señaló “lo que hacemos actualmente porque no hay estudios actualizados, el aumento se ve a través de las consultas de endocrinología puesto que la causa principal de consulta en la población pediátrica es la obesidad infantil, está aumentando y lo que hacemos es extrapolar esos datos a la población actual según el INE, que señala que existe alrededor o más de un millón de personas mayor de 25 años, y de esta población, el 11 % son 110.000 diabéticos, luego 230 mil hipertensos y 300.000 personas con obesidad y esa alta prevalencia de obesidad nos está llevando a que aumente la diabetes e hipertensión porque el principal factor de riesgo es la obesidad”.
+
+Aseguró que el departamento de Santa Cruz tiene 4 % más de todas las enfermedades mencionadas, puesto que los índices más altos se encuentran en la capital cruceña. La responsable manifestó “lo que influye a que tengamos los índices más altos de estas enfermedades es el estilo de vida que llevamos, los hábitos alimenticios porque nuestra comida está basada en carbohidratos, acá comemos arroz, papa, fideo, yuca, refresco dulce, postre dulce y en la tarde tomamos nuestros cafecitos con masas, todo en base a almidones y eso nos está llevando a la pandemia de la diabesidad que es la diabetes y obesidad”. La autoridad indicó que a través de estudios realizados en diferentes unidades educativas de la capital sobre obesidad, se reportó un índice de obesidad del 12 % y de sobrepeso alrededor de 15 %, que sumándolos dan un total de 27% de población estudiantil de segundo medio que estaban con obesidad.
+
+Explicó también que se hizo un estudio en La Guardia en cursos de primaria donde se reportó el 17 % de sobrepeso y obesidad. Recalcó que una de las causas principales que conlleva a la obesidad es el sedentarismo, “cada vez somos más sedentarios, nos movemos menos, lo vemos en las escuelas los chicos sólo una vez a la semana hacen actividad física en el colegio, por ese lado también se quiere hablar con el Seduca para que exista más tiempo de esta actividad física”, acotó. Afirmó que al margen de los niños, la población general también debe realizar ejercicio, puesto que se reflejan como los ejemplos a seguir, no es necesario estar inscrito en un gimnasio, sino que el hecho de caminar todos los días por media hora ayuda bastante al organismo.
+
+Expresó que una de las campañas que el Sedes está llevando a cabo desde hace más de 10 años para combatir la obesidad es el Plato Boliviano, que hasta el momento está dando buenos resultados en las unidades educativas, en las personas con diabetes y otros.
+
+Aclaró “la campaña del Plato Boliviano, no significa comer platos tradicionales sino saber distribuir los alimentos en el plato, se llama así porque el plato va con la bandera del país (rojo, amarillo y verde), lo dividimos en 4, un cuarto del plato la carne (color rojo), otro parte es el color amarillo en este caso es el arroz, papa, yuca, no se debe comer arroz y papa sino una sola cosa y las dos cuartos del plato de verduras (verde) ya sea crudas o cocidas”.
+
+La autoridad añadió que esta iniciativa se debe acompañar con un alto consumo de agua, y el consumo de tres frutas cada día. Enfatizó que la obesidad se la debe prevenir desde el vientre, para que la madre no se engorde demasiado, puesto que una mujer gestante puede subir entre 20 a 30 kilos, por lo cual el niño nacerá grande es decir con sobrepeso.
+
+“Si los dos papás son delgados el riesgo de que el niños sea obeso es del 10 %, si un papá es obeso el riesgo es del 50 %, pero si el papá y la mamá son obesos el riesgo de que su hijo sea obeso es del 80 %”, dijo. Acotó que la mayoría de las enfermedades crónicas o no transmisibles no presentan dolor o síntomas, por lo cual las personas no asisten a centros médicos a ver su estado de salud.
+####
+https://eju.tv/2015/07/se-abren-cinco-frentes-de-conflicto-en-bolivia/
+####
+Hemos optado por levantar las medidas de presión por la llegada del Papa», decía hace cinco días, Pedro Yujra, dirigente de los comercializadores de carne del país al suspender sus medidas de presión exigiendo el no pago de impuestos. Al menos cinco conflictos sectoriales y sociales, en reclamo por sus demandas ante el gobierno de Evo Morales, se abren paso desde la semana entrante en distintos puntos del país.
+
+Para ello hay anuncios de movilizaciones, protestas y bloqueos entre otras manifestaciones que se avecinan.
+
+Definitivamente, refiere el analista político Iván Arias, la visita  del papa Francisco, trajo al país un bálsamo de paz y cierta armonía entre los bolivianos. Pero, el líder de la Iglesia católica, ni bien dejó de pisar tierra boliviana,  la conflictividad social del país ahora vuelve ponerse en palestra.
+
+Entre los puntos de conflicto se pueden visibilizar: el pedido de los transportistas del incremento de pasajes nivel nacional; la demanda de los pueblos indígenas en oposición al Decreto Supremo 2366 que autoriza actividades hidrocarburíferas en áreas protegida; los cocaleros de los Yungas y Chapare que no se ponen de acuerdo a pagar impuestos; la demanda del Comité Cívico de Potosí respecto a sus demandas regionales; los comercializadores de carne anuncian bloqueos y marchas en el occidente del país; y la situación de los cooperativistas mineros que piden más incentivos al Gobierno ante la crisis y caída de los precios del mineral. «Todo este panorama nos refleja que la llegada del Papa ha permitido tapar una serie de problemas,  de reclamos, protestas en demanda de temas no solo políticos sino también económicos. Está claro el uso político que ha hecho Evo de la visita del Papa», argumentó Arias.
+
+Una situación acumulada. Según los propios políticos y analistas, la explicación es una sola: el país en los últimos 12 meses, entre la mitad del 2014 y el 2015, por las elecciones generales de octubre del año pasado y las subnacionales del pasado 29 de marzo y su consecuente segunda vuelta, ha estado enfrascado en sendas campañas políticas. A ello se sumaron los eventos como el Rally Dakar y la reciente llegada del Papa a  Bolivia, cuya mayor incidencia de costo-beneficio fue un reto más político de gestión administrativa y económica del país.
+
+En ambos contextos, el Gobierno postergó la gestión pública, la atención de las demandas sectoriales y la solución de los problemas socioeconómicos más urgentes del país, por sucesivos momentos políticos, señala Humberto Vacaflor, periodista y analista político.
+
+«Con la visita del Papa, hemos vivido una fanfarria gubernamental  que  ha dejado al olvido la gestión pública y la situación económica en caída que está viviendo el país. Y los sectores productivos todos los días están implorando al gobierno atender sus preocupaciones», señaló Vacaflor.
+
+Por su parte, Jorge Landívar,  exparlamentario y analista político, señaló que los momentos electorales que el país ha vivido han generado también expectativas y compromisos de parte del Gobierno, con promesas electorales que ahora resultan difíciles de cumplir. «Con la visita del Papa hubo una especie de cuarto intermedio en las demandas sectoriales;  solo fueron apagando incendios sin desactivar por completo muchas promesas electorales. Ahora tiene que asumir y afrontarla de manera efectiva. Ahora es lógico que esas demandas van a recrudecer», describió.
+
+Los sectores en conflicto. El caso más relevante es la demanda de los pueblos indígenas del Chaco  a la cabeza de Asamblea del Pueblo Guaraní (APG). Ellos al dejar en cuarto intermedio las movilizaciones por la visita del papa Francisco, han resuelto no permitir el ingreso de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) a las áreas protegidas del país para la exploración y explotación petrolífera, luego de que el Gobierno fallara en dos oportunidades una solicitud de audiencia para tratar normativas que viabilizan la actividad extractiva en sus territorios. «Por ejemplo, hasta el momento de los 32 pasivos ambientales de los anteriores gobierno existentes en la zona del Chaco, no se ha solucionado nada. Nuestras comunidades están amenazadas por la explotación hidrocarburífera», informó Celso Padilla, Presidente del Consejo Continental de Nación Guaraní.
+
+Otro sector son los cocaleros de los Yungas, que hasta la pasada semana mantenían un bloqueo en el sector de Unduavi (carretera a los Yungas), decidieron suspender las medida de presión y conformar una comisión negociadora con el gobierno. La dirigente de los cocaleros, Ruth Choque, dijo que el sector ingresó en cuarto intermedio y el bloqueo de la carretera fue levantado, pero si el Gobierno no resuelve, ellos retomarán la medida de protesta.
+
+Por su parte, los transportistas confederados, que en su pedido de incremento de las tarifas de transporte del servicio local, departamental y nacional habían suspendido sus medidas de presión  como el paro nacional con bloqueo de carreteras, ahora anunciaron reactivar sus acciones.
+
+Por su parte, la Confederación Nacional de Trabajadores de Carne de Bolivia, que determinó la semana pasada suspender el paro y una marcha en rechazo a la decisión del Servicio de Impuestos Nacionales (SIN), anunciaron retomar medidas extremas. “Si es que no hay ningún acercamiento (con el gobierno) seguro que vamos a tomar medidas”, sostuvo  Yujra, el representante del sector.
+
+Aparente calma. La marcha encabezada por el Comité Cívico Potosinista (Comcipo), mantiene una especie de vigilia en la ciudad de La Paz, con un departamento de Potosí en paro indefinido, a la espera de diálogo con el Gobierno sobre una demanda regional de 26 puntos. El Gobierno por su parte convocó a un diálogo para el próximo lunes. De no mediar solución alguna, se estaría paralizando y bloqueando las vías de acceso a dicho departamento.
+
+Y en el ojo de la tormenta está el problema minero referente a los pedidos de diferentes cooperativas como Colquiri que exigen incentivos, compensaciones a la caída de los precios de los minerales y el destino de los trabajadores.
+
+Sector.  En el caso de las cooperativas mineras, la situación es invariable en sus amenazas de iniciar medidas de presión en el pedido al gobierno del cumplimiento de sus demandas. El caso medular que tiene enfrentados a los cooperativistas mineros con los asalariados  son las riquezas mineralógicas de Colquiri, principalmente del estaño.
+
+Fencomin. El principal dirigente de la Fencomin, Alejandro Santos, admitió la semana pasada al declarar un cuarto intermedio en las negociaciones con el gobierno que en la misma se avanzó un 50%.
+
+Caliente. El punto que resta por  definir y de mayor conflictividad es el tema de la explotación de la mina Colquiri por parte de la Cooperativa 26 de Febrero. Sobre este conflicto, que mantiene un momento de tensión con los mineros asalariados, Santos dijo que el Gobierno mostró «predisposición» para negociar.
+
+Contexto.   Pese a que el Ministro de Gobierno calificara la movilización del Comité Cívico Potosinistas (Comcipo) como netamente política, tras 12 días de caminata, la marcha de los líderes cívicos se encuentra en la Sede de Gobierno, a la  espera de abrir un diálogo sobre los 26  puntos planteado en su demanda regional.
+
+En esos pormenores del pliego se encuentra la construcción del aeropuerto internacional, la consolidación del proyecto fábrica de cemento, construcción de infraestructuras de salud, dotación de ítems para salud y educación y  otros. 
+
+Movilización. El pasado miércoles abrieron una huelga de hambre y desde el viernes están movilizados, por lo que ese día una marcha hacia la plaza Murillo de la Sede de Gobierno, terminó una violenta represión a los manifestantes cívicos.
+
+Demora. EL pliego de 26 puntos fue presentado al presidente Evo Morales, el 12 de noviembre de 2014. Desde entonces, la respuesta del ejecutivo a los líderes regionales fue soslayada como un acto político sin mayores avances.
+
+Respuestas.  El ministro de la Presidencia, Juan Ramón Quintana, convocó, mediante una carta,  la semana pasada a una reunión a la dirigencia cívica el pasado martes por la noche, una vez que los 400 marchistas arribaron a La Paz. Dicha reunión quedó establecida a partir de este  lunes a objeto de restablecer las mesas de trabajo en el marco del pliego petitorio.
+
+En Potosí. La expectativa es grande, sobre todo por la situación minera que genera la caída de los ingresos por regalías.
+
+‘La venida del Papa, más que un espejo,  sin duda ha significado una tregua momentánea a diferentes conflictos en el país. Mucho más con el contenido de los mensajes y la agenda misma que ha planteado en alguna manera tendrían que incidir en la forma de resolución de conflictos.
+
+Pero el problema es que el Gobierno ya debe empezar a resolverlos esos diferentes frentes de conflicto que, día que pasa se van a ir sumando. Es que hay una desaceleración económica que el gobierno aún no halla cómo encarar de manera consciente, sumada a los múltiples compromisos que en etapa post electoral deben ser satisfechos.
+
+Ademas de eso, el tema post electoral viene generando al interior de la propia organización política del gobierno, posiciones distintas con visiones hasta ideológicas que han originado una competencia interna, que políticamente el gobierno tiene el desafío de manejar convenientemente y no  que no derive en escisiones del MAS. En ese contexto está en juego, por ejemplo, si realmente el presidente irá en definitiva a su reelección.
+
+Entonces, amerita una necesaria reflexión del Gobierno para que pueda ver un cabildeo de relacionamiento con los sectores en conflicto y así apagar los conflictos que se vienen desde la próxima semana. De hecho hay que ver cómo el Gobierno encara esta desaceleración de la economía’.
+####
+https://eju.tv/2015/08/logfire-trae-al-pais-software-para-manejo-de-inventarios/
+####
+La multinacional estadounidense LogFire incursiona en el mercado nacional con el lanzamiento de WMS, por sus siglas en inglés, un software que apunta a optimizar los procesos y un manejo eficiente de inventarios en las empresas e industrias bolivianas.
+
+Según el fundador y presidente ejecutivo de la corporación, Diego Pantoja-Navajas, la solución tecnológica de LogFire asoma como una alternativa para una gestión eficaz en la cadena de suministros de productos que son acopiados en un depósito. Es apropiado para empresas de distintos tamaños que precisan controlar la recepción, el despacho, el almacenamiento y la selección de los productos del almacén.
+
+A decir de Pantoja, unas de las características más importantes del WMS es que se encuentra en la nube, lo que permite reducir los costos de implementación entre un 15 y un 25%, además de los plazos de ejecución. En  Bolivia, LogFire implementó este producto tecnológico en la cadena Farmacorp y está por cristalizar igual proceso en La Vitalicia Seguros, Droguería Inti y Madepa.
+####
+https://www.eabolivia.com/el-alto-noticias/23779-miss-upea-2015-es-noemi-jacqueline-velasquez.html
+####
+El Alto, 28 sep.- La Universidad Pública de El Alto (UPEA) coronó a sus soberanas el viernes pasado en un evento que llenó de belleza el polideportivo ‘Héroes de Octubre’.
+
+La primera en ser coronada fue Noemí Jacqueline Velásquez Alacoria, quien alcanzó el título de ‘Miss UPEA 2015- 2016’. A esta competencia se presentaron 30 candidatas con tres cambios de vestuarios: fantasía, traje de baño y traje de gala.
+
+La corona del segundo lugar, ‘Señorita UPEA’, recayó en la universitaria Gabriela Odalis Alaca Valeriano de la carrera de Administración de Empresas y el tercer lugar fue para Soraya Vanessa Cadiz Quispe, quien fue corona como ‘Miss Simpatía’.
+
+Para este evento se presentaron 28 candidatas  de las 35 carreras universitarias donde se eligió a Lisseth Olivia Pajsi Serrano, de la carrera de Ingeniería Civil,  como ‘Cholita UPEA 2015’.
+
+El segundo lugar ‘Cholita Elegancia 2015’, recayó  en  la universitaria  Juana Gladis Condori de la carrera de Contaduría Pública  y  el tercer puesto fue para Ana Nancy Laura, de la carrera de Lingüística, con el título “Tawaco 2015”.
+
+El despliegue del evento estuvo a cargo de la Dirección de Bienestar Estudiantil de la UPEA.
+
+Agregado a ello, la estudiante de la carrera de Ingeniería  de Gas Petroquímica, Daniela Fanny Chipana, fue elegida como ‘Ñusta UPEA  2015-2016’. La danza que representa  es el Tinku  y será la imagen que promocionará la entrada universitaria  de esta casa de estudios el próximo 14 de noviembre.
+
+En esta elección participaron  31 candidatas representantes de las 35 carreras de la UPEA.
+
+El segundo lugar, con  la corona de ‘Ñusta  Autonomía’, recayó en la estudiante de  Enfermería  Janneth  Verónica  Ortega  Quino y el tercer lugar con el título de ‘Ñusta Folklore’  fue para la universitaria  Ruth  Eva  Ticona  Huallpa de Ingeniería en Producción Empresarial. (EL DIARIO)
+####
+https://boliviaemprende.com/noticias/de-acuerdo-al-ranking-camel-el-bnb-es-el-mejor-banco
+####
+El ranking de bancos incorpora desde el año 2010 las sugerencias de la banca de tomar en cuenta la posibilidad de medirse con el sector a nivel internacional, por lo que el Semanario Nueva Economía, para la  calificación de bancos, incluye el Ranking Camel y la preferencia de clientes individuales y corporativos, expresada a través de la dimensión tamaño.
+
+Los indicadores por área, que ubicaron en la primera posición al Banco Nacional son aquellos referidos a: suficiencia de capital, calidad de los activos, gestión (management), ganancias (earning), liquidez tamaño, obteniendo los porcentajes relevantes que lo posicionan como líder, indica un boletín informativo de la entidad bancaria.
+
+Durante la pasada gestión, el BNB ha logrado obtener el primer lugar en otros estudios, como el de «Empleador líder del país”, que visibiliza al BNB como una empresa en la que el personal se encuentra satisfecho y comprometido con la organización. Además de otras distinciones que reflejan su crecimiento y la preferencia de miles de clientes de esta entidad.
+
+Pablo Bedoya, Presidente Ejecutivo de esta entidad bancaria, a tiempo de manifestar su satisfacción por esta calificación alcanzada, expresó que, además de la buena administración y gestión de sus ejecutivos y colaboradores, el BNB  continuará con el desarrollo de la oferta de productos, servicios y soluciones para todos los segmentos de la sociedad.
+
+De la misma forma –añadió el ejecutivo– el banco incrementará su cartera de créditos y de captaciones, y la expansión de su red de agencias para atender y satisfacer las necesidades de los bolivianos, ofertando a todos ellos productos y servicios bancarios para apoyarles en sus necesidades de financiamiento, emprendimientos e inversión.
+####
+https://www.elnuevoherald.com/noticias/america-latina/article5403627.html
+####
+El presidente de Bolivia, Evo Morales, afirmó este domingo que si el empresario prófugo peruano Martín Belaúnde Lossio, exasesor del mandatario Ollanta Humala y acusado de supuesta corrupción en su país, ingresó de forma ilegal a Bolivia corresponde su captura. 
+
+En una entrevista con medios estatales, el mandatario dijo que según la oficina boliviana de Migración, Belaúnde, exasesor de campaña del presidente Ollanta Humala, ingresó y salió de Bolivia varias veces, pero su última salida fue el 27 de enero de 2014, y nunca más se registró un entrada oficial a este país.
+
+“Eso significa que entró irregularmente, ilegalmente a Bolivia. Entonces, de ser así, eso obedece a una captura. ¿Cómo es posible que no va a respetar las instancias correspondientes para entrar a Bolivia?, cuestionó el mandatario boliviano. 
+
+”Si está en Bolivia, repito, siento que es un ingreso ilegal, no sé si hay que ponerlo en la frontera porque eso hacían antes los gobierno anteriores. La Cancillería y el ministro de Gobierno son los responsables de hacer seguimiento, pero nosotros como Estado vamos a contribuir a la lucha contra la corrupción“, dijo Morales. 
+
+El ministro boliviano de Exteriores, David Choquehuanca, confirmó el viernes que Belaúnde pidió oficialmente refugio al Consejo Nacional de Refugiado (Conare) de Bolivia, que tiene un plazo de 120 días para considerar la petición, escuchando los argumentos del solicitante y los del Gobierno peruano.
+
+Choquehuanca, que esta semana tiene previsto una gira por varios países en Asia y Europa, dijo el viernes pasado que el tema se tratará en el marco del respeto a la normativa sobre refugiados. 
+
+Belaúnde Lossio ha sido acusado de gestionar intereses de empresas particulares para adjudicarles contratos con el Estado peruano en gobiernos regionales y obtener beneficios económicos para él, por lo que en mayo pasado un tribunal peruano ordenó su detención preventiva durante 18 meses. Según el Gobierno peruano, el empresario está acusado de delitos contra la administración pública, peculado (malversación de fondos públicos) y asociación ilícita para delinquir y tiene una orden de captura internacional desde el 11 de septiembre de este año. 
+
+El presidente Morales dijo que por información periodística conoce las denuncias de corrupción contra Belaunde. ”Eso no lo podemos aceptar“, apuntó el mandatario al señalar que la corrupción ”es un flagelo de la humanidad y hace daño a los políticos“ y es una obligación general combatir a los corruptos. 
+
+Como ya hizo Choquehuanca, Morales recordó que la Comunidad de Estados Latinoamericanos y Caribeños (Celac) acordó ”no proteger, ni dar asilo ni refugio a los corruptos“ en los países del bloque. El mandatario concluyó con que los miembros del Conare deben evaluar el caso respetando los convenios internacionales. El Conare está formado por representantes de los ministerios de Relaciones Exteriores, Justicia, Gobierno, la Iglesia católica y el Alto Comisionado de Naciones para los Refugiados (Acnur). 
+
+Según medios bolivianos y peruanos, Belaúnde tiene previsto presentarse mañana ante el ministerio boliviano de Exteriores para sustentar su petición de refugio, pero esta es una posibilidad que no ha sido confirmada oficialmente en La Paz.
+####
+https://diarioenfermero.es/epm-realiza-formacion-de-medicos-tradicionales-indigenas-en-bolivia/
+####
+MARINA VIEIRA.- Ixiamas, localidad de la Amazonía Boliviana con más 9.200 habitantes y una red de comunicaciones tan deficiente que hace que su población tenga que desplazarse por ríos y caminos de tierra, es desde 2007, el escenario elegido por Enfermeras Para el Mundo para desarrollar la estrategia Ixiamas Sana e Intercultural, en colaboración con las organizaciones locales, instituciones públicas y comunidades de la región.
+
+Los accesos son muy complicados, “para llegar a la zona se necesita volar a La Paz, desde ahí coger una avioneta y posteriormente un coche que te lleva por carreteras normalmente de tierra hasta el municipio de Ixiamas, pero existe el riesgo de que estén anegadas por las lluvias”, relata Gema Monteagudo, técnica de proyectos en Enfermeras Para El Mundo que viajará en los próximos días a Ixiamas.
+
+Un contexto de convivencia entre diferentes pueblos indígenas, población mestiza e inmigrante combinado con altos niveles de pobreza, ha determinado que no sólo la cobertura de servicios básicos sea escasa sino que exista una alta vulnerabilidad alimentaria, una gran desigualdad social y niveles muy bajos de salud. Esta situación se acentúa no sólo por la dificultad de acceso, sino por la baja adecuación de los programas de salud a las culturas indígenas que hace que muchas personas no acudan a los centros sanitarios.
+
+En esta situación, es fundamental trabajar tanto con el personal sanitario como con los agentes de la medicina tradicional, poniendo en marcha programas de formación con perspectiva intercultural.
+
+El aprendizaje es recíproco: por un lado el personal sanitario de los servicios públicos, formados bajo los paradigmas de la medicina occidental profundizan en la cultura y el modo de entender la vida indígena, de forma que la población les percibirá más cercanos y receptivos, por otro lado, formación sanitaria básica, para los agentes de la medicina tradicional. “Son sociedades con tradiciones muy arraigadas, donde, por ejemplo, las mujeres están acostumbradas a dar a luz atendidas por una partera y es esencial que quien les atienda conozca sus creencias y tradiciones para generar un ambiente de confianza mutua” comenta Gema Monteagudo.
+
+Este trabajo conjunto entre personal sanitario y agentes tradicionales de salud está permitiendo mejorar la calidad de la atención e incrementar el número de personas que acuden a centros sanitarios.
+
+El tercer gran proyecto que la ONG de la Organización Colegial de Enfermería está desarrollando en la zona  se centra no solo en Ixiamas sino especialmente en las comunidades ubicadas en las orillas de los ríos Beni y Madidi, por su  mayor dificultad de acceso a la atención sanitaria. Se está haciendo especial hincapié en mejorar la atención de estas comunidades, gracias a un equipo de profesionales sanitarios que se han desplazado allí en distintas ocasiones para atender a toda esa población, que tiene muy complicado acceder a algún centro de salud. Llevando a cabo consultas de atención primaria, odontología,  vacunaciones de tétanos y difteria.
+
+Además se han realizado talleres de participación de la comunidad en salud, primeros auxilios y organización ante desastres naturales dirigidos tanto a agentes locales de salud como a autoridades locales.
+
+“Casi diez años de colaboración en la zona han permitido obtener avances notables en la atención sanitaria de la población de Ixiamas, sin embargo, queda mucho camino por recorrer y la puesta en marcha de nuevos proyectos es absolutamente necesaria”, declaran desde Enfermeras Para el Mundo.
+####
+https://andina.pe/agencia/noticia-el-papa-francisco-masticara-coca-su-visita-a-bolivia-562946.aspx
+####
+El papa Francisco pidió mascar coca, la hoja milenaria y de consumo masivo y tradicional entre los indígenas bolivianos, durante su próxima visita a Bolivia del 8 al 10 de julio, informó el domingo el ministro de Cultura, Marko Machicao.
+
+En una entrevista en el programa El Pueblo es Noticia, de la radio y televisión estatales, Machicao comentó que el Sumo Pontífice conoce los valores medicinales y alimenticios de esa hoja milenaria.
+
+"Se le había ofrecido mate de coca o algo para la altura. Él nos ha pedido específicamente que quiere hacer masticado de coca (...). Así que al Santo Padre se le estará esperado con la sagrada hoja de coca", cuando llegue al aeropuerto de El Alto, a unos 4.000 metros sobre el nivel del mar, en el inicio de su visita a Bolivia, entre el 8 y 10 de julio, señaló.
+
+En Bolivia el masticado o acullico de las hojas secas de coca es una práctica milenaria de indígenas, mineros y sectores populares de la población para contrarrestar el cansancio, el hambre y los efectos de la altura, informa ABI.
+
+La coca, principal insumo para la elaboración de cocaína, es también consumida en estado natural en algunas provincias del norte de Argentina, país natal del papa Jorge Mario Bergoglio.
+
+La ONU readmitió en 2013 a Bolivia en su Convención de 1961 sobre drogas, con la inclusión de la reserva al masticado de las hojas de coca, un año después de que La Paz denunciara la convención que proscribía esa práctica ancestral.
+
+Bolivia -tercer productor mundial de coca y cocaína, después de Perú y Colombia- cuenta, según datos de las Naciones Unidas, con 25.300 hectáreas de cultivos de coca, aunque una ley de la década del 80 autoriza hasta 12.000 hectáreas para usos legales.
+
+El papa Francisco llegará a Bolivia el 8 de julio y visitará primero las ciudades de El Alto y La Paz, donde se reunirá con el presidente Evo Morales, entre otras actividades.
+
+En la noche de ese mismo día, el Sumo Pontífice viajará a la ciudad de Santa Cruz para descansar y entre el 9 y 10 de julio celebrará una misa, visitará la cárcel de Palmasola y participará de una Cumbre Internacional de Movimientos Sociales y Populares.
+####
+https://eju.tv/2015/06/brotan-2-nuevas-zonas-de-contrabando-en-frontera-bolivia-argentina/
+####
+Una quebrada en Barrio Nuevo e incluso el paso por un cementerio, situados en la línea fronteriza Bolivia-Argentina, son utilizados por una treintena de ‘cargadores’ para internar soya, maíz, harina, arroz y papa. En la zona no hay militares ni policías, solo gendarmes argentinos que miran. La Aduana Nacional de Bolivia admite el descontrol en medio del clamor de los productores para que frenen el contrabando.
+
+Gente que parece visitar la tumba de un familiar, otros que aparentan conocer la quebrada y observar el lado argentino son el pretexto perfecto para ingresar por la vía ilegal a la nación vecina y después retornar al país con mercancías que son transportadas en carritos y en sus espaldas.
+
+Los avezados comerciantes y trabajadores ‘hormiga’ se han dado modos para burlar los puestos de control de Migración, de la fuerza conjunta del Control Operativo Aduanero (COA), la Policía y de los militares que están solo en el puente internacional de Pocitos.
+
+A escasos cinco kilómetros del puente de San José de Pocitos, en el que cada día más de 1.000 bagalleros transportan todo tipo de mercancías bajo la denominada formal legal de la tarjeta vecinal fronteriza y que luego son internados ilegalmente a diferentes ciudades del país, ahora brota el contrabando de soya, maíz, harina y papa por dos zonas de Barrio Nuevo. Es un populoso barrio que comienza a levantarse en medio del fuerte mal olor que emana de la quebrada producto de la cría de cerdos, ovejas y ganado.
+
+Nada de ello importa. Lo que interesa es ganar Bs 35 por cada internación de un carrito de tres quintales ya sea de maíz, soya o harina.
+
+Pese a la presencia durante algunas horas de cuatro gendarmes, los bolivianos ingresan a ese país. Algunas veces se les exige mostrar carnet de identidad. En nuestro caso, el acceso fue libre y sin restricciones.
+
+Como ‘bichos raros’, así miran a la gente extraña. Cargar una cámara, una tableta o que alguien tome una foto con celular los pone nerviosos y de- safiantes. Reunidos en un ‘chiquero’, los trabajadores miran a los gendarmes argentinos hacer su trabajo y no corren riesgo de internar mercancías durante su presencia, pero una vez se van, inmediatamente ‘vuelan’ a hacer su trabajo.
+
+La soya, el cotizado grano de oro y principal producto que exporta Bolivia, sumado a la harina, arroz y maíz se ha convertido en la nueva mercancía cotizada afectando a los productores nacionales. En Barrio Nuevo una tonelada vía contrabando cuesta $us 210; en  Santa Cruz, en el mercado legal se paga $us 300; en la Bolsa de Rosario la cotización internacional se sitúa en $us 345.
+
+Pero eso no es todo. Algunos comerciantes pasan los productos argentinos a granel y lo envasan en bolsas bolivianas en Yacuiba, como si fueran su origen y luego los internan a Santa Cruz y otras ciudades. Precisamente, la Aduana de Campo Pajoso se incautó de importante cargamento en los últimos días, lo cual corrobora la ‘viveza’ de los comerciantes.
+
+Al respecto, la Asociación de Productores de Oleaginosas y Trigo (Anapo), a través de su presidente Reinaldo Díaz Salek, expresó su preocupación por el ingreso masivo de productos agropecuarios, como harina de trigo, maíz, trigo y soya, provenientes de Argentina, en la forma de contrabando, aprovechando las ventajas cambiarias y de importación.
+
+Señaló que como consecuencia del ingreso de maíz argentino de contrabando, los precios en el mercado local han caído vertiginosamente a valores por debajo del costo de producción y han generado un desincentivo para su siembra en esta campaña de invierno.
+
+Indicó que también preocupa el ingreso masivo de harina de trigo, que si bien es internada de forma legal, no cumple con todas las exigencias de importación, como la factura de exportación y el permiso fitosanitario de origen.
+
+Ante esa situación, Anapo solicitó al Senasag que exija el permiso fitosanitario del país de origen. Anunció que planteará al Gobierno la aplicación de una salvaguarda provisional para asegurar la comercialización del grano de trigo que se tiene previsto producir en esta campaña de invierno.
+
+Los 10 kilos de arroz que costaban Bs 38, ahora se los encuentra en Bs 28; el quintal de la harina Guadalupe se sitúa en Bs 115 (antes 130) y la Castañuela llega hasta Bs 90. El quintal de maíz está en Bs 30 y dos bolsas de papa (quintaleras) están en Bs 75. Los precios están ahogando la producción nacional.
+
+Para muestra basta citar que los productores de maíz en Santa Cruz venden el quintal en Bs 43. En la bolsa de Chicago, la tonelada de maíz se cotiza en $us 140,35. El tema preocupa a los maiceros, que a través del presidente de Promasor, Vicente Gutiérrez, se declararon en estado de emergencia.
+
+El Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria (Senasag) anunció la ejecución una ‘política agresiva’ para fortalecer las fronteras y la lucha contra el contrabando, pero hasta la fecha no se ven resultados alentadores. El Senasag destruyó 60 toneladas de alimentos en 2015.
+####
+https://www.bbc.com/mundo/noticias/2015/12/151205_millonario_escandalo_corrupcion_partido_evo_morales_bm
+####
+El caso de corrupción es considerado como el más grande desde que Evo Morales llegó a la presidencia de Bolivia en 2006.
+
+La justicia de aquel país halló 49 obras "fantasma" y proyectos observados por los que se giraron US$6,8 millones de arcas públicas a cuentas privadas de referentes del partido de Evo Morales.
+
+205 personas se encuentran procesadas y se dispuso la detención de una exministra, dos senadores y dos dirigentes de organizaciones que son parte del oficialismo en Bolivia.
+
+El fin de semana, el fiscal general de Bolivia, Ramiro Guerrero, dio un informe sobre el caso que en ese país es conocido como "Fondo Indígena".
+
+"Aquí no hay persecución política, aquí se está persiguiendo los delitos de corrupción, los delitos de enriquecimiento ilícito de particulares con afectación al Estado. Es gente que ha recibido dinero en cuentas particulares y no hay estos proyectos, son inexistentes", explicó el titular del Ministerio Público.
+
+El gobierno boliviano aseguró que no va a proteger a ninguno de sus referentes y líderes que puedan estar involucrados en el caso.
+
+"La justicia tiene que actuar de manera independiente, sin ningún tipo de influencia de nadie. No se olviden que quien denunció el tema fue el Gobierno y pedimos que se convoque a quien se lo deba hacer", aseguró el vicepresidente de aquel país, Álvaro García Linera.
+
+El Fondo Indígena era una partida presupuestaria destinada a financiar proyectos de desarrollo a favor de organizaciones sindicales y campesinas en Bolivia.
+
+Fue liquidado en agosto de este año por el gobierno de Evo Morales después de que estalló el escándalo de corrupción.
+
+El informe presentado el fin de semana por la fiscalía boliviana señala responsabilidades individuales en cinco líderes oficialistas.
+
+En los 10 meses previos, desde que la Contraloría General de Bolivia denunció irregularidades en al menos 153 obras financiadas por el Fondo Indígena, otras 205 personas fueron procesadas.
+
+Según explicó el fiscal Guerrero, la exministra de Desarrollo Rural y Tierras Julia Ramos es acusada por incumplimiento de deberes, incumplimiento de contrato, enriquecimiento ilícito de particulares con afectación al Estado y favorecimiento al enriquecimiento ilícito.
+
+Añadió que Ramos recibió desembolsos en su cuenta personal de alrededor de US$2,8 millones por la ejecución de 28 proyectos observados.
+
+Ramos, en breve contacto con los medios, calificó su detención como "un show mediático" y aseguró que todo "se va a esclarecer".
+
+Es la primera vez que un exministro de Evo Morales resulta detenido por un hecho de corrupción.
+
+Los senadores Jorge Choque y Felipa Merino son investigados por cinco proyectos "fantasma". Ambos también fueron detenidos involucrados con desembolsos de más de US$500.000.
+
+Los dirigentes oficialistas Melva Hurtado y Remy Vera, así como el disidente Damián Condori, también guardan detención y fueron imputados por la fiscalía por varios delitos y decenas de proyectos "fantasma" que estuvieron bajo su directa supervisión.
+
+El debate en Bolivia se concentra en el destino del dinero salido de las arcas públicas destinado a proyectos que no se concluyeron o a obras que jamás fueron empezadas.
+
+Si bien la fiscalía boliviana detectó malos manejos por US$6,8 millones, la interventora del Fondo Indígena, Lariza Fuentes, informó en agosto que el daño económico podría alcanzar los US$14,9 millones.
+
+Pocos días después del informe de la interventora, la alta dirigente oficialista Nemecia Achacollo renunció a su cargo de ministra de Desarrollo Rural.
+
+En la semana hizo público que se presentará a declarar si es convocada por la justicia boliviana.
+
+La oposición de aquel país y dirigentes en la disidencia han denunciado que una parte de los recursos del Fondo Indígena fue aprovechada por el partido de Evo Morales para campañas electorales y actos proselitistas, algo que ha sido negado por el oficialismo.
+
+El partido de Evo Morales insiste en que no encubrirá a ninguno de sus líderes que pueda resultar involucrado en el escándalo, sin embargo las críticas se multiplicaron después de que cinco referentes oficialistas resultaron involucrados y detenidos.
+
+Rafael Puente, viceministro de Régimen Interior de Evo Morales durante su primer año de mandato, criticó duramente a las dirigencias sindicales y campesinas oficialistas involucradas en el caso por "perder el rumbo" y por aprovechar sus cargos en el Estado para obtener beneficios particulares.
+
+Como Puente, en los últimos años varios exideólogos y exautoridades gubernamentales insinúan que organizaciones sindicales y sus dirigentes fueron "cooptados" para cumplir objetivos proselitistas y partidarios.
+
+En varias oportunidades el presidente boliviano se refirió a las organizaciones indígenas y campesinas como la "reserva moral de la humanidad", sentencia que ahora es cuestionada por culpa de lo sucedido con el Fondo Indígena.
+
+No es el primer caso de corrupción en el gobierno de Morales en los casi 10 años que lleva en la presidencia, sin embargo sí es la ocasión en la que las organizaciones que dan sustento a su partido se han visto más salpicadas.
+
+Las consecuencias de ello podrán medirse el 21 de febrero del año próximo, cuando los bolivianos acudan a las urnas para decidir si Evo Morales puede ser candidato a la presidencia una vez más.
+####
+https://es-us.noticias.yahoo.com/asesor-presidencial-peruano-detenido-bolivia-fuga-polic%C3%ADa-interpol-170702987.html
+####
+CIUDAD DE MÉXICO, noviembre 5 (EL UNIVERSAL).- Luego de que el candidato presidencial republicano Donald Trump amenazó con imponer 25% de aranceles si México no frena a "criminales" y "drogas", la presidenta Claudia Sheinbaum Pardo aseguró que "va a haber buena relación", independientemente de quién gane las elecciones presidenciales.
+
+En su conferencia mañanera de este martes 5 de noviembre en Palacio Nacional, Sheinbaum Pardo destacó el esfuerzo de México para disminuir la migración a través de distintas áreas del gobierno.
+
+Refirió que es muy importante que cuando se confirme a Donald Trump como ganador o a Kamala Harris como ganadora, debe haber reuniones e información entre autoridades de alto nivel de ambos países para que se conozca lo que ha hecho nuestro país contra el narcotráfico.
+
+Cuestionada sobre un "desconocimiento" de Trump, la presidenta Sheinbaum rechazó que esté calificando al candidato: "Entonces no califico ni a uno ni a otro, ni a uno ni a otra candidata, ni a los candidatos a la presidencia de Estados Unidos, sino que estoy convencida que va a haber buena relación y que tiene que haber este proceso de información de inicio y de colaboración y coordinación".
+
+"Estoy convencida que va a haber buena relación", expresó la Presidenta.
+
+Añadió que el próximo viernes el canciller Juan Ramón de la Fuente presentará un informe de la atención a la migración.
+####
+https://eju.tv/2015/07/al-menos-23-pginas-web-del-estado-boliviano-fueron-hackeadas-en-6-meses/
+####
+Contraseñas poco seguras y falta de actualización del sistema son algunas debilidades que evidenciaron los hackers, al bloquear al menos 25 páginas digitales del Estado, en lo que va del año. Una empresa de informática indica que al mes se hackean hasta 30 sitios públicos y privados.
+
+Contraseñas poco seguras y falta de actualización del sistema son algunas debilidades que evidenciaron los hackers, al bloquear al menos 25 páginas digitales del Estado, en lo que va del año. Una empresa de informática indica que al mes se hackean hasta 30 sitios públicos y privados.
+
+“Los hackers van explotando los errores más comunes en estas páginas: claves inseguras, desactualización del sistema, malas configuraciones y falta de verificación. Ese tipo de problemas son los que se fueron identificando”, indicó Nicolás Laguna, director de la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia (ADSIB), instancia dependiente de la Vicepresidencia.
+
+El hacker es una persona “muy aficionada y hábil en informática que entra ilegalmente en sistemas y redes ajenas”, según el Diccionario de la Lengua Española. Pero ciberactivistas aseguran que es un experto en programación que ayuda a acceder a la información.
+
+La agencia, creada en 2002, identificó en el primer semestre del año al menos 23 ataques cibernéticos a páginas del Estado, cifra que supera los 20 de los dos semestres de 2014. La demanda marítima de Bolivia contra Chile es la causa más recurrente.
+
+En enero, los portales electrónicos de la Policía Boliviana y la Armada fueron inhabilitadas por un grupo de ciberactivistas chilenos que se autodenominan “Chilean Hackers”. En ambos casos se sustituyó la imagen institucional por un cuadro con la bandera chilena y el mensaje: “Viva Chile… Nunca tendrán mar (sic)”.
+
+En esa oportunidad, el vicepresidente Álvaro García Linera aseguró que el ataque cibernético no puso en riesgo la seguridad del Estado “en ningún momento” porque no se publica información clasificada en los sitios web. Pero consideró que los entes estatales deben protegerse de “mejor manera” en lo informático.
+
+“Chilean Hackers” bloqueó el 26 de junio el sitio web del Ministerio de Hidrocarburos y dejó un mensaje de burla hacia la dignidad boliviana.
+
+Para Miguel Callejas, técnico de ITC (Information Technology and Communications), empresa extranjera con sede en Santa Cruz, el acceso a la información en las páginas del Estado está muy cerca de los datos y protocolos privados, lo que implica un riesgo para el sistema informático.
+
+Laguna aseguró que ningún sistema es 100% seguro, por ello la agencia —que administra todos los nombres de dominio “gob.bo” y “.bo”— monitorea los sitios cibernéticos estatales y alerta sobre riesgos a los técnicos de la institución o empresa estatal.
+
+Agregó que como política de prevención, la agencia creó csirt.gob.bo, una plataforma que atiende incidentes de ataques informáticos y en la que las empresas públicas y privadas reportan casos o alertan hackeos.
+
+Laguna explicó que existen tres tipos de ataques: inhabilitación del servidor, modificación de estructura de la página y cuando el atacante accede al servidor, escala niveles y extrae información o instala virus maliciosos. Las webs del Estado sufrieron los dos primeros tipos, pero momentáneamente.
+
+Una estadística de la empresa informática Yanapti SRL indica que al mes hay hasta 30 páginas hackeadas. Su gerente Guido Rosales dijo que el 60% son sitios pequeños. “Pero ahí está un gran porcentaje de firmas públicas, ministerios, Policía y Ejército. El problema es la vulnerabilidad”.
+
+Redes. En octubre de 2014, los hackers invadieron las cuentas de Twitter de dos estaciones televisivas bolivianas para difundir un supuesto accidente del presidente Evo Morales, que dejaba postergadas las elecciones presidenciales. El Mandatario tuvo que desmentir personalmente.
+
+Una política de “ciberseguridad” que establezca sanciones ante la falta de protección en los sistemas es lo que sugirieron expertos de informática para empresas e instituciones públicas.
+
+“Si el Estado definiera una política de ciberseguridad, las instancias públicas tendrían protección, es más que seguro. Hay que promover esta acción”, indicó Guido Rosales, gerente de Yanapti, empresa de informática.
+
+Agregó que, en la mayoría de los casos, las instituciones no sienten la necesidad de generar acciones por la “poca importancia” que le da el mismo país a la “ciberseguridad”.
+
+Parte de la sugerencia es que, al igual que las entidades financieras, las públicas estén obligadas a implementar protección a su sistema con cargo a multa.
+
+Esteban Lima, experto en software libre, indicó que en otros países de Sudamérica existen instituciones de respuesta inmediata cuando hay hackeos a páginas del Estado. “No solo responden ante el problema, sino capacitan porque hay más riesgos ante el avance de la tecnología”.
+
+Lima considera que uno de los pilares fundamentales en el uso de la tecnología es tener cuidado desde el momento en el que se elige una contraseña.
+
+“Actualmente, por la baja penetración de la tecnología, no hay muchos riesgos, pero a medida que avanza el uso tecnológico se debe considerar hacer las cosas de forma seria”, sugirió.
+
+“Hay hackers que redirigen los ataques, en ese sentido podemos vernos involucrados o afectados como país o como personas, por ejemplo, podría darse el caso de que un equipo informático de un ciudadano boliviano esté hackeado y aparezca como una página pornográfica. Más que robar información los hackers lo hacen para otros casos; ése es un peligro si no se cuenta con seguridad cibernética en sitios web”. Guido Rosales, gerente de Yanapti ‘El hacker es competitivo’
+
+“Los hackers son competitivos, no es gente mala; ellos intentan ingresar a las bases de datos, ya sea por concurso o por demostrar que son capos, y cuando lo logran identifican que hay una vulnerabilidad de seguridad en los sitios. Pero eso sí, si ingresan a una base de datos sería terrible porque pueden hacer incluso fraudes, por eso hay que mejorar los niveles de seguridad, mínimamente en las páginas del Estado. Eliana Quiroz, experta en informática.
+
+“Un principio básico de la tecnología es que no hay nada 100% seguro y más aún cuando éstos son hechos por seres humanos, por ende, no tenemos sistemas perfectos. El tema es que la protección se logra con buenas prácticas e involucrando a todos los que usan y desarrollan los sistemas. Lo que se tiene en otros países es mayor cultura en seguridad, con relación a nuestro país, es un tema no relevante”. Esteban Lima, experto en software libre.
+
+“El software libre es una solución válida en el ámbito mundial, solo que uno tiene que estar preparado para implementarlo. Además, se debe contar con ingenieros capacitados y un soporte local que respalde estas soluciones, pero por sobre todo contar con escenarios donde se hayan implementado exitosamente. Toda solución informática es buena, mientras uno siga métodos idóneos para su implementación”. Erick Ovando, especialista en informática.
+####
+https://www.opinion.com.bo/articulo/cochabamba/reconstruyen-carretera-antigua-santa-cruz-bs-1000-millones/20150412195600518305.html
+####
+La antigua carretera que vincula las poblaciones de Epizana (Cochabamba) y Comarapa (Santa Cruz), de aproximadamente 150 kilómetros de longitud, será reconstruida en un plazo aproximado de cinco años.
+
+Con este fin la Administradora Boliviana de Carreteras (ABC) regional Cochabamba invertirá recursos “por aproximadamente 1.000 millones de bolivianos” para encarar trabajos de estructura.
+
+Por la importancia que tiene el tema para la integración vial del departamento, Moreno también compareció ante la Asamblea Legislativa, el pasado 31 de marzo, para explicar lo que se hará en la carretera antigua a Santa Cruz.
+
+Epizana-Puente Valle Hermoso (Tramo I), Puente- Valle Hermoso (Tramo II), Valle Hermoso-La Siberia (Tramo III) y La Siberia-Comarapa (Tramo IV), precisó el gerente de la ABC.
+
+El tramo I fue recientemente adjudicado a una empresa de Venezuela llamada Dell Aqua Compañía Anónima a un costo de 382 millones de  bolivianos para que sea ejecutado en un plazo de 600 días calendario, informó la autoridad.
+
+En lo que respecta al tramo II el monto previsto para la ejecución de la obra llega a los 68.6 millones de bolivianos, pero aún no fue licitado y se encuentra en fase de evaluación, dijo el gerente.
+
+Para el tramo III la obra fue licitada el 19 de septiembre de 2014, pero fue declarada desierta el 27 de noviembre del mismo año. La ABC convocó a una nueva licitación el 6 de febrero de 2015, aclaró.
+
+El tramo IV fue adjudicado a la empresa Sinopec International Petroleum Service del Ecuador S.A. a un costo de 329.1 millones de bolivianos. La constructora tiene 960 días para terminar los trabajos.
+
+VÍA ALTERNA De esta manera y como efecto inmediato del colapso que sufrió el puente San Pedrito sobre el río Cristal Mayu en el Chapare el pasado 27 de febrero, la ABC optó por habilitar la carretera que estuvo abandonada y en el olvido.
+
+La vía volverá a “rehabilitarse” con nueva capa asfáltica, además se harán nuevas “geometrías en la carretera pero básicamente estaremos trabajando sobre el mismo camino”, explicó Moreno.
+
+Actualmente circulan por la carretera entre 300 a 400 vehículos día “debido a su estado” pero una vez lista la vía tendrá capacidad para recibir hasta 1.000 rodados “sino es más” en condiciones óptimas, aseguró el gerente.
+
+PERJUICIOS Si no hubiera existido la vía alterna a la carretera nueva a Santa Cruz la situación hubiera sido insostenible pues durante un mes y medio de perjuicio que generó la caída del puente en la zona de Cristal Mayu “dejó pérdidas millonarias para el sector productivo y el transporte internacional del departamento”.
+
+Así lo dejaron establecido el presidente de la Federación de Entidades Empresariales Privadas de Cochabamba, Jaime Ponce, y el presidente del Transporte Pesado Internacional de Cochabamba, Fortunato Flores, en declaraciones por separado que hicieron a este medio de comunicación.
+
+COLAPSO El puente San Pedrito, ubicado en el kilómetro 128 de la vía nueva Cochabamba-Santa Cruz, se desplomó el 27 de febrero pasado por la crecida del río Cristal Mayu, y se llevó a un chofer de camión.
+
+Para subsanar el desastre, momentáneamente, la Administradora Boliviana de Carreteras (ABC), habilitó dos pasos provisionales: un puente con perfiles metálicos para el tráfico vehicular liviano y un badén (terraplén) con ripio, arena y piedra sobre una chapa metálica (alcantarilla) para camiones y flotas interdepartamentales en tiempo récord, menos de 20 días y por presión de los transportistas libres y federados.
+
+Los pasos provisionales serán habilitados mientras duren además las obras del nuevo puente de hormigón que comenzó a construir la empresa Álvarez sobre el río Cristal Mayu a un costo de 15 millones de bolivianos y que se prevé estará listo “hasta mediados del mes de septiembre”, dijo el gerente de la ABC.
+
+Durante el mes y medio de crisis que generó el colapso del puente San Pedrito en el tramo que vincula el Chapare con el departamento de Santa Cruz, el transporte pesado internacional de Cochabamba perdió aproximadamente medio millón de dólares, informó el presidente del ente agremiado, Fortunato Flores.
+
+De aproximadamente 98 afiliados que tiene el transporte pesado internacional “un 90 por ciento tuvimos que parar de manera forzosa debido al colapso del puente”, reveló a su vez Pedro Tordoya, también dirigente del sector.
+
+“Solo un 30 por ciento tuvo que utilizar la carretera antigua a costa de pérdidas incalculables pues varios camiones sufrieron daños irreparables”, subrayó.
+
+Con el paso provisional la situación comenzó a mejorar pero aún no es posible tener un tráfico permanente por el lugar, acotó.
+####
+https://eju.tv/2015/02/acuerdo-del-mercosur-afecta-la-exportacin-boliviana-de-soya/
+####
+El crecimiento de las exportaciones de soya boliviana y sus derivados a la CAN cayó de 28% en 2013 a 0,1% en 2014 como efecto del acuerdo 59 que suscribió el bloque con el Mercosur, el cual anula progresivamente las barreras arancelarias para el grano.
+
+El Acuerdo de Complementación Económica 59 (ACE-59) fue suscrito en 2004 por Argentina, Brasil, Paraguay y Uruguay, miembros del Mercado Común del Sur (Mercosur), y Colombia y Ecuador, integrantes de la Comunidad Andina (CAN). Ni Bolivia ni Perú firmaron el convenio y Caracas se retiró del bloque en 2006 en protesta por los Tratados de Libre Comercio (TLC) que luego firmaron Bogotá y Lima con Estados Unidos (EEUU).
+
+El ACE-59 elimina gradualmente los aranceles en ambos bloques para productos originarios y procedentes de los territorios de las partes signatarias. En el caso de la soya, el plazo para suprimir ese tributo es 2018. Hasta 2014, Colombia redujo los aranceles para el grano argentino y brasileño en 83% y Ecuador en 70%, porcentaje que también beneficia a la oleaginosa de Uruguay y Paraguay.
+
+El crecimiento de las exportaciones nacionales de soya disminuyó de 28% en 2013 a 0,1% el año pasado, según el Instituto Boliviano de Comercio Exterior (IBCE), organismo que considera que, además del ACE-59, la vigencia de los TLC que EEUU suscribió con Colombia y Perú también influyó en la desaceleración de las ventas externas de soya boliviana.
+
+Comercio. Así, desde 2005, la soya de Bolivia compite en el mercado andino en un escenario comercial con cada vez menos barreras arancelarias para EEUU, Brasil y Argentina, el primer, segundo y tercer productor mundial, respectivamente, de la oleaginosa y que representan poco más del 82% de la producción global del grano en 2014, en el que la participación de Bolivia no llega ni al 1%, según datos del Departamento de Agricultura estadounidense.
+
+La Razón no pudo obtener información sobre este tema en el Ministerio de Desarrollo Rural y Tierras, el cual se encuentra en proceso de reestructuración.
+
+El mercado andino es el principal destino de la soya y sus derivados de Bolivia, ya que absorbe el 93% de las exportaciones nacionales del grano (en total de 2 millones de toneladas). Es más, las oleaginosas representan el 70% de las ventas totales del país a ese bloque regional ($us 1.404 millones, de acuerdo con datos a 2014).
+
+El gerente general del IBCE, Gary Rodríguez, dijo que la reducción de una mayor demanda por el grano es el primer efecto visible de la liberación del comercio entre la CAN y el Mercosur. “Si nuestra oferta no es competitiva, esa tasa de crecimiento puede bajar más todavía o volverse negativa”.
+
+El presidente de la Cámara de Exportadores de Santa Cruz, Wilfredo Rojo, confirmó que la mayor demanda por la soya se vio mermada porque EEUU ingresó a Colombia y en menor medida a Perú. Los efectos del ACE-59, previno, se sentirán más a futuro.
+
+El titular de la Asociación de Productores de Oleaginosas y Trigo, Demetrio Pérez, coincidió en que habrá mayores consecuencias para el sector en los próximos años, ya que los países que compiten con Bolivia pueden abastecer fácilmente al mercado de la CAN, porque tienen mayor producción, lo que puede reducir la demanda por el grano boliviano.
+
+Negocios. Rodríguez consideró que mientras los precios de la soya en el mercado externo estén altos, el producto boliviano todavía será competitivo, pero que el problema se presentará cuando el costo de ese alimento descienda.
+
+Actualmente, el precio de la oleaginosa está entre $us 435 y 440 la tonelada métrica, valor que bajó en los últimos años por efecto de una buena campaña de producción, pues en 2012 y 2013 estaba entre $us 530 y 540, recordó Rojo.
+
+Hoy, los exportadores bolivianos de soya no solo deben lidiar con el “acceso libre e ilimitado” que tienen Brasil, Argentina, EEUU e incluso Paraguay a la CAN, según Rodríguez, sino que deben asumir costos adicionales en transporte y logística por la condición mediterránea del país.
+
+En el criterio de Rodríguez estos factores llevan a reflexionar sobre “la competitividad y la mejora de la productividad”, un “gran capítulo pendiente” en el desarrollo de Bolivia. “Por eso es que se insiste tanto en el uso de la biotecnología, para reducir los costos de producción”. A este contexto se suman las restricciones a la exportación de alimentos en el país, que muchas veces, manifestó, no permiten la llegada oportuna de los productos al exterior.
+
+Precisamente por ello, agregó Rojo, los mercados se van perdiendo. “Aquellos que compran soya lo hacen pensando en un abastecimiento permanente, si seguimos con la restricción y no podemos ofrecer contratos a largo plazo, ellos se irán a otros mercados, que incluso ofrecen mejor precio que el nuestro”, expresó.
+
+El ACE-59 “está restando mercado a la soya boliviana porque Brasil y Argentina, principalmente, son países capaces de producir más que Bolivia y no tienen las restricciones en logística y transporte”, ratificó Juan Pablo Saucedo, de la Gerencia Técnica del IBCE. Los soyeros anunciaron que llevarán estas preocupaciones a la próxima cumbre Sembrando Bolivia.
+####
+https://www.la-razon.com/financiero/2015/11/08/el-emprendimiento-boliviano-destaca-pero-muestra-fragilidad/
+####
+El crecimiento sostenido de la economía, de 5,1% al año desde 2006, ha impulsado la expansión del emprendimiento en Bolivia, una actividad que destaca en el mundo, pero que presenta debilidades en la generación de empleo, acceso a financiamiento y planificación, entre otros.
+
+El estudio “Monitor del Emprendimiento Global (GEM) – Reporte Nacional Bolivia 2014”, da cuenta que el país presenta un porcentaje de actividad emprendedora en etapa inicial, del 27,4% de la población adulta (de entre 18 y 64 años de edad), lo que representa el cuarto lugar más alto entre los países de economías basadas en recursos naturales y el sexto lugar más alto entre los 70 países que aplicaron el GEM en 2014.
+
+El emprendimiento —entendido como la capacidad de una persona o grupo de crear productos o servicios diferenciados— “es fundamental para el desarrollo de la economía en su conjunto. Los emprendedores son personas que ven oportunidades donde otras ven dificultades, son personas que arriesgan sus propios recursos”, destacó el titular de la Confederación de Empresarios Privados de Bolivia (CEPB), Ronald Nostas.
+
+En Bolivia —que ocupa el tercer lugar en actividad emprendedora en  América Latina y el Caribe, por detrás de Ecuador y de Perú— el 57% de la población considera que “existen oportunidades para iniciar un negocio”, destacó Verónica Querejazu, coautora del estudio elaborado en la Escuela de la Producción y la Competitividad de la Universidad Católica Boliviana (UCB) “San Pablo”.
+
+Sin embargo, aunque el 73% de la población adulta reconoce tener la preparación suficiente para iniciar un negocio, únicamente el 47% tiene intenciones de emprenderlo en los próximos tres años, y no precisamente por el temor al fracaso, que está presente en el 38% de los bolivianos.
+
+Los obstáculos para el acceso al crédito y a la tecnología, la burocracia estatal, la informalidad, la escasa capacitación para la actividad y la falta de políticas públicas diferenciadas para el fortalecimiento del sector desalientan la apertura de negocios propios en Bolivia, según el estudio, que advierte que la pronosticada ralentización de la economía nacional —por la reducción en los precios de sus principales productos de exportación— tendrá efectos sobre el dinamismo de la demanda interna y, por ende, un impacto negativo sobre la actividad emprendedora mayoritaria del país: comercio y servicios.
+
+“El ciclo de bonanza que hemos tenido en estos últimos años ha motivado el emprendimiento, pero esta actividad es muy precaria y está dirigida al mercado local (…). Si se cae la demanda, el emprendimiento también se va a caer”, sostuvo Querejazu, quien subrayó que otras debilidades del sector son su escasa generación de empleo y su poca inversión.
+
+El reporte indica que la mayoría de los emprendimientos en Bolivia (71%) proyecta crear cinco o menos fuentes de trabajo en los próximos años y que únicamente el 6% del total prevé generar al menos 20 empleos en el próximo quinquenio. Asimismo, solo el 20% de los emprendimientos nacientes precisan de una inversión igual o mayor a Bs 50.000.
+
+A este panorama se suma la “saturación” de los sectores donde se genera más emprendimientos (comercio, manufacturas y alojamientos y restaurantes). “El comercio ambulante o minorista y las actividades de venta de diferentes productos y servicios de comida, por ejemplo, están tremendamente saturados”, apuntó Bruno Rojas, especialista en mercados de trabajo del Centro de Estudios para el Desarrollo Laboral y Agrario.
+
+“La visión emprendedora del boliviano puede ser adecuadamente promovida a áreas y sectores que tengan un mayor impacto en lo económico, social y medioambiental”, afirmó a su vez el presidente de la CEPB.
+
+En criterio del empresario este debe ser un trabajo que se desarrolle desde el ámbito de la educación, en sus distintos niveles (primario, secundario, técnico y universitario), en las facilidades que deben tener en los distintos trámites para el inicio y desarrollo de sus actividades y un apoyo permanente gubernamental, hasta que se consolide el emprendimiento, agregó el empresario.
+
+“Necesitamos otro tipo de emprendimientos que aporten, generen empleo y valor agregado”, pero “el Estado se lava las manos y deja que la población cree sus propias fuentes de ingreso”, dijo Rojas.
+
+Este medio envió un cuestionario al Ministerio de Trabajo, Empleo y Previsión Social para conocer su posición respecto a la situación del emprendimiento en el país, pero no se recibió respuesta hasta el cierre de esta edición.
+
+El estudio “Monitor de Emprendimiento Global (GEM) – Reporte Nacional Bolivia 2014” fue elaborado con el apoyo del Banco Interamericano de Desarrollo (BID), el Banco de Desarrollo de América Latina (CAF), Fundapro, Avina, Fortaleza SAFI y el Fondo de Inversión Cerrado Acelerador de Empresas. El GEM es una alianza de alcance mundial dedicado a la investigación y estudio de la actividad empresarial y su relación con el crecimiento y desarrollo económico en diferentes países.
+####
+https://www.elnuevoherald.com/noticias/america-latina/article29801089.html
+####
+Miles de funcionarios bolivianos recibieron del presidente Evo Morales certificados que acreditan que hablan alguna lengua nativa, en cumplimiento de una ley que obliga a los trabajadores estatales a desempeñarse desde el domingo en al menos dos idiomas reconocidos como oficiales en el país. 
+
+La entrega de certificados se produjo en un acto en La Paz, en el que Morales pronunció dos frases en aimara, al inicio y al final de su discurso, hablado en castellano.
+
+“Ahora Bolivia tiene identidad en todo el mundo, ahora tenemos dignidad. Y por eso saludo a quienes hacen mucho esfuerzo de cómo recuperar nuestro idioma para servir mejor al pueblo y quienes se preparan de manera consciente y honestamente para ser parte de este gran servicio al pueblo boliviano”, señaló Morales. 
+
+También recordó que cuando era niño hablaba aimara, pero en la escuela le enseñaron a leer y escribir en castellano y cuestionó a los maestros que decían que los pueblos indígenas “son etnias” y los idiomas nativos, “dialectos”. 
+
+“Los aimaras, los quechuas somos una nación, tenemos territorio, tenemos lengua propia, tenemos formas de organización administrativa, tenemos nuestra identidad”, sostuvo.
+
+En el evento se entregaron más de 3,100 certificados a funcionarios que se capacitaron en idiomas nativos en el último mes. 
+
+Un grupo de jóvenes también escenificó la vida de los indígenas antes de la llegada de los españoles a América y la violencia durante la conquista y la época colonial. 
+
+En el censo de población y vivienda de 2001 un 62% de la población declaró tener una identidad indígena, pero en el de 2012, cuyos resultados se conocieron recién un año después, solamente el 40% aseguró pertenecer a alguna de las 36 etnias reconocidas en la Constitución promulgada en 2009 por Morales.
+
+Morales firmó el 2 de agosto de 2012 una ley que fijó un plazo de tres años para que los funcionarios estatales que no sepan hablar un idioma indígena lo aprendan y empiecen a aplicarlo. 
+
+La norma se basó en la décima disposición transitoria de la Carta Magna, que estableció la obligatoriedad de que los trabajadores estatales sepan hablar “al menos dos idiomas oficiales” del país. 
+
+El director de la Escuela de Gestión Pública Plurinacional, Iván Iporre, señaló que en nueve años esa entidad capacitó a 23,593 funcionarios bolivianos en idiomas originarios y que el 57% optó por aprender aimara, según la agencia estatal ABI.
+####
+https://www.pub.eldiario.net/noticias/2015/2015_10/nt151004/cultural.php?n=85&-tiwanaku-una-reliquia-abandonada
+####
+El mágico recorrido por las ruinas arqueologícas del lugar se ven opacadas por malas administraciones y recelo de los pobladores, además de otros factores
+
+En las cercanías del lago Titicaca, en el altiplano, se encuentran las megalíticas ruinas del Tiwanaku, un sitio creado hace más de 3.000 años, cuyos misterios aún esperan ser descifrados por investigadores. Sin embargo este mágico lugar está "abandonado", coinciden turistas extranjeros y guías, quienes con tristeza ven cómo el Tiwanaku es víctima de una mala administración.
+
+Hace un par de años, el organismo de la ONU criticó los problemas de gestión del principal sitio arqueológico de Bolivia, Posteriormente se realizaron conversaciones y negociaciones con la Alcaldía del lugar, cuyos resultados están en espera.
+
+El recorrido comenzó con el ingreso de los visitantes a la ruinas arqueológicas hasta ahora investigadas, compuestas por siete construcciones arquitectónicas: Kalasasaya, Templete Semisubterráneo, Pirámide de Akapana, Portada del Sol y Puma Punku. El alto nivel de su cultura se refleja en la cerámica, con retratos tridimensionales de rostros humanos en vasijas y sobre todo en las construcciones arquitectónicas, algunas de las cuales hoy forman parte de museos.
+
+Según el guía de turismo Nirko Téllez, esta cultura se inició alrededor del 1500 a.C., y colapsó alrededor del año 1100 a 1200 d. C. Se conoce muy poco de la cultura y hay muchas discusiones sobre su influencia, ya que algunos científicos dicen que el Tiwanaku fue la cultura madre de las civilizaciones americanas, mientras que otros la consideran capital de un antiguo imperio megalítico.
+
+Al ingreso a las ruinas los visitantes pueden observar una piedra, utilizada hace miles de años como un megáfono o parlante, que en la actualidad aún ecualiza la voz y amplia el sonido de la misma, este aparato era utilizado para las reuniones o asambleas.
+
+A pocos pasos de encuentra la pirámide de Akapana, compuesta por siete peldaños, cuyo ascenso es complicado para los visitantes. Más triste fue la situación cuando los guías observan el mal manejo y preservación del lugar. Sobre todo cuando uno de los responsables, (habitante del lugar) con un megáfono advierte que está prohibido sentarse o tocar las piezas que están resguardadas por una cuerda azul, y a menos de un metro de distancia están sus familiares, en un picnic, sentados en las ruinas y ante la queja simplemente atina a enojarse y decir, "son personas del lugar, ellos sí pueden".
+
+Esta situación no extrañó al guía quien afirma que durante sus 10 años recorriendo el lugar con miles de turistas, la situación es la misma "no ha cambiado nada y por el hecho que son pobladores del lugar creen que son dueños, lo malo es que ni siquiera se preocupan por preservar este tesoro que tenemos y más al contrario aportan a su destrucción –agregó– no quieren ayuda ellos quieren hacerse cargo de todo, al año este lugar recibe a más de 28.000 turistas extranjeros, de los cuales, el cincuenta por ciento del precio de su entrada debería ser destinados a las ruinas. Nadie sabe qué es lo que se hace con ese dinero".
+
+Ante la consulta a los pobladores, molestos contestaron que debe ser el guía el que contesta las dudas, invitando a abandonar el lugar.
+
+La molestia no impidió la continuación al recorrido y más cuando se llegó al templo rectangular de Kalasasaya, una edificación de grandes piedras y de dos hectáreas de extensión, con una construcción orientada para a la observación del movimiento de los astros.
+
+Metros más allá se encuentra el Templete Semisubterráneo del Tiwanaku era una especie de hospital en el que se mostraban las enfermedades que aquejaban a los habitantes de la ciudad. Ahora lo que se cree es que se trata de una representación de todas las culturas que se fueron encontrando a lo largo de su historia, una especie de catálogo de "parientes". Por último la teoría impuesta por los documentales de Discovery y los extraterrestres; teoría de civilizaciones alienígenas en esta parte del mundo.
+
+La ruta continuó con la visita a La Puerta del Sol, una escultura monolítica en piedra andesita que en el pasado formó parte de otra estructura mayor, posiblemente ligada a Kalasasaya o Akapana. La Puerta del Sol tiene 3 metros de alto, 4 metros de ancho y aproximadamente pesa 10 toneladas.En su decoración sobresale la figura principal de un personaje en alto relieve denominado "Señor de los báculos".
+
+El monolito Ponce es una escultura de un solo bloque de andesita que representa a un varón en posición vertical y cubierto por abundante iconografía en bajo relieve. Debe su nombre al arqueólogo boliviano Carlos Ponce Sanginés, quien lo desenterró y descubrió que el monolito tenía una cruz tallada en el hombro derecho, por lo cual se sabe que la escultura fue conocida por los colonizadores españoles en el siglo XVI, pero dejada en el olvido hasta su descubrimiento en 1964. En años pasados sirvió como blanco, pues militares realizaban pruebas de tiro, en Tiwanaku, marcas de balas forman parte de esta pieza arqueológica.
+
+El monolito fraile es una escultura en arenisca veteada que representa a un personaje parado llevando un báculo y un k'ero, por esta razón se le denominó fraile.
+
+La escultura tiene 3 metros de altura y el personaje destaca por poseer un vientre abultado, rostro rectangular, ojos cuadrados, una banda en la cabeza y un cinturón con cangrejos tallados, por esto último también se le denomina "dios del agua". Al igual que el monolito Ponce, también posee lágrimas.
+
+El grado de degradación de la escultura es notorio, por lo que gran parte de su iconografía se encuentra en peligro debido al clima de la región.
+####
+https://eju.tv/2015/11/aumenta-precio-la-papa-pollo-tomate-la-arveja-mercados-la-paz/
+####
+En tres centros de abasto de la ciudad de La Paz, los precios de la papa, la carne de pollo, el tomate y la arveja se elevaron para el consumidor final. En tanto, el costo de la cebolla y la zanahoria tuvieron una importante caída.
+
+En un recorrido que La Razón hizo ayer por los mercados de la zona del Cementerio, Garita de Lima y Rodríguez de la urbe paceña, se pudo constatar que el precio de la arroba de papa roja aumentó y oscila entre Bs 40 y 50, cuando hace unas tres semanas estaba entre Bs 30 y 35.
+
+En tanto, el valor de la arroba de papa negra hace tres semanas era de Bs 40 y 45 y hoy se cotiza entre Bs 50, 58 y 60.
+
+Las vendedoras atribuyen el incremento del costo de la papa a la reducida oferta del tubérculo. “No está llegando mucha papa por eso está caro, esperemos que la oferta se regularice y baje el precio”, afirmó Elizabeth Monje, vendedora en el mercado Rodríguez.
+
+En la zona del Cementerio y de Garita de Lima, el precio del kilo de la carne de pollo fluctúa entre Bs 12,50 y 13, cuando el costo hace dos semanas era hasta de 12.
+
+En el mercado Rodríguez, el kilo del ave, en las anteriores dos semanas, se comercializaba entre Bs 13 y 13,50 y hoy se cotiza entre Bs 13,50, 14, y 14,20.
+
+TENDENCIA. El asesor general de la Asociación Departamental de Avicultores (ADA-Cochabamba), Fernando Quiroga, expresó que es probable que se registrará una leve alza del kilo de pollo.
+
+Según los datos de ADA Cochabamba, desde el 20 octubre el precio del kilo de pollo estaba entre Bs 13,50 y 14 y esa tendencia se mantuvo hasta el 13 de noviembre, y en la última semana  llegó a Bs 14,  14,20 y 14,50.
+
+Quiroga proyectó que es posible que en las próximas semanas el costo del kilo de pollo disminuya si las empresas deciden no incluir el producto avícola en los canastones por las fiestas de fin de año, a raíz del pago del doble aguinaldo. Explicó que si hay una flexibilidad en el plazo de pago de dicho aguinaldo adicional, el precio puede subir “en algo”.
+
+En los tres mercados, también aumentó el precio de la libra de tomate, desde hace dos semanas, de Bs 1,50 a 2,50 y 3. Asimismo, la libra de arveja sufrió un incrementó al pasar de Bs 3 a 3,50 y a 5. Además se verificó que el kilo de la carne de cerdo comenzó a elevarse de Bs 27 a 32 y a 35.
+
+Entre tanto, el precio de la cuartilla (seis libras) de cebolla tuvo una caída importante. Hace tres semanas costaba entre Bs 18 y 20 y hoy cuesta entre  8 y 9.
+
+También el precio de la cuartilla de zanahoria descendió de Bs 12 y 10 a Bs 8 y 6. A octubre, la inflación acumulada llegó a 3,59% por el aumento del precio del tomate, zanahoria y otros.
+####
+https://eju.tv/2015/07/morelia-herrera-barja-si-ganase-el-miss-bolivia-organizaria-conciertos/
+####
+Morelia Herrera Barja (19) se mueve con soltura en los escenarios desde que tenía ocho años. Su faceta de cantante le alivianó el camino y ahora, como miss Chuquisaca, considera que el arte y la belleza van de la mano, por eso se ha tomado muy en serio el compromiso con su tierra, Muyupampa, en el Miss  Bolivia.Mientras responde a la entrevista, Morelia no se detiene. Se ocupa de un sinfín de actividades como parte del concurso que ya vive su antesala. Sus presentaciones artísticas están en pausa mientras trabaja en representar a su departamento ahora no solo con el canto, sino con su belleza.Si te dieran a elegir entre las pasarelas y el canto, ¿cuál sería tu decisión?Sería dedicarme al talento que Dios me dio desde niña. Le agradezco a él y a mi padre, porque me ayudaron a desenvolverme en esta carrera artística.¿Qué es lo que siente Morelia al pisar un escenario?Es muy satisfactorio, sobre todo como mujer, ver cómo muchos se sienten identificados con tu música. Los artistas tenemos la libertad de transmitir paz y amor, eso es lo bonito de este don.Empezaste tu carrera musical a los ocho años, ¿qué escenarios has pisado?He estado en todos los departamentos, menos Beni y Pando. He cantado en  Santa Cruz, en el Festival de Vinos y Quesos, en dos oportunidades compartí escenario con la cantante argentina Soledad Pastorutti. También tuve presentaciones en festivales de Tarija y Cuevo.¿Cuál es tu género favorito y qué proyectos musicales tenés?Me gusta el folclore, pero como soy joven me gusta probar también varios ritmos. Chacareras, chamamés, baladas, bachatas y la salsa son ritmos con los que me siento a gusto.Estoy trabajando en mi cuarto disco que tendrá canciones como Corazón de mariposa y Te confieso. Aún no tengo fecha de presentación pero estimo que mis 10 temas estarán listos para septiembre, luego del Miss Bolivia.¿Crees que el certamen del Miss Bolivia ayudará a darte a conocer en tu otra faceta de cantante?Me ayudará mucho, es una experiencia única. No deja de ser un evento que te abre puertas a futuro.¿Qué se siente ser la primera muyupampeña en el Miss Bolivia?Siento que tengo una gran responsabilidad de poder llevar el nombre de Bolivia.Cuál es el vínculo que tenés con Chuquisaca si vivís en Santa Cruz desde tus 15 años?Siempre voy a mi tierra. Porque me queda a cinco horas. Tengo a mis padres allá, el amor de mi familia y de mi pueblo está allá. Mi casa es a un kilómetro del pueblo, ahí se respira aire puro, es una sensación inexplicable estar allá.¿Cómo incursionaste en los reinados?Es un complemento a mi carrera del canto. Empecé como modelo de Promociones Gloria en el Big Show infanto juvenil a los ocho años. Así como he hecho pasarelas, también me formé en baile y teatro. El modelaje fue una decisión propia.¿Pensaste alguna vez en ser miss de tu departamento?El Miss Chuquisaca fue una sorpresa. Fue mi primera experiencia grande en el modelaje. Siempre he dicho que el arte y la belleza van agarrados de la mano y ahora me toca representar con belleza a mi departamento.¿Cómo te animaste a participar en el Miss Bolivia?Ya tenía la responsabilidad y me comprometí desde un principio a representar a Chuquisaca, y aquí estamos, cumpliendo en todo, con las clases de pasarela, el gimnasio, clases de oratoria. Es una experiencia que te ayuda a ser mejor persona.Sos la sucesora de misses que destacaron representado a su departamento como Claudia Arce y Eloísa Gutiérrez. ¿Qué tiene Morelia?Tengo la mejor combinación de actitud , talento y belleza.¿A qué miss Chuquisaca admirás?A todas las candidatas, pero en especial a Claudia Arce, porque es un mujer muy íntegra. Aparte de tener una belleza por fuera es una bella persona por dentro. Es muy preparada y con el título, en 2009, ha llevado hasta el exterior la belleza de la mujer chuquisaqueña en el certamen del Miss Universo.Se decía que sos una chica adinerada y que te sumaba puntos en el certamen. Vos te referiste a esos comentarios en tu cuenta de FacebookLa verdad que a esos comentarios prefiero no darles importancia.No voy a permitir que me distraigan, porque yo tengo un objetivo. Los comentarios los dejo en manos de Dios, porque lo que uno hace en esta vida lo paga tarde o temprano.¿Creés que tu personalidad y tu carrera te darán un plus en el Miss  Bolivia?Pienso que sí, porque la seguridad es lo que manda y si vos sos segura de ti misma, eso es más que un plus. Yo estoy segura de lo que soy y de lo que valgo.En cuáles candidatas ves a tus competencias.La verdad es que todas están bellas y se están preparando para dar lo mejor de sí. La belleza es subjetiva y vamos a ver quién se lleva la corona.¿Qué harías si ganaras la corona del Miss Bolivia Universo y en qué enfocarías tu reinado?.Agradecería a Dios y a todas las personas que confiaron en mí en este proceso. Tengo tantas ideas para mi reinado, como explotar mi talento para causas sociales. Me imagino haciendo conciertos para recaudar fondos para los más necesitadosAquí los vídeos de su biografía y uno de sus trabajos musicales
+####
+https://www.lanacion.com.ar/otros/la-paz-una-ciudad-a-la-altura-nid01022015/
+####
+El barrio de Socopachi, el Palacio Quemado, la zona de Murillo y el mirador de Killi Killi, en un buen recorrido por esta población a punto de tocar las nubes, más de 3500 metros sobre el nivel del mar.
+
+Allí arriba las nubes parecen muy cercanas, tanto que siempre algún iluso cree posible llegar a tocarlas. La Paz es una ciudad casi pegada al cielo, ubicada en el oriente de Bolivia sobre un altiplano que la levanta más allá de los 3500 metros sobre el nivel del mar. A esa altura también parecen al alcance de las manos los colosales picos que rodean su geografía urbana, montañas que superan largamente los 6000 metros y forman la Cordillera Real.
+
+"Ése es el Illimani", dice Vladimir García señalando hacia el sudeste una cumbre completamente nevada cuya imponencia se destaca sobre las demás. De tez cobriza y baja estatura, Vladimir es un guía paceño de apenas 25 años. Habla como arrastrando cada palabra, sonríe mucho y es de origen aymará, pueblo precolombino cuyos descendientes constituyen una parte importante de la actual población boliviana.
+
+Pese a no ser su capital, La Paz es la principal ciudad de Bolivia. Tiene casi ochocientos mil habitantes y allí se encuentra el Palacio de Gobierno, conocido popularmente como Palacio Quemado en recuerdo de un feroz incendio que prácticamente lo destruyó en marzo de 1875. Ya con obvio tono de leyenda, cuentan que aquel incendio fue provocado por una turba de opositores al gobierno del entonces presidente Tomás Frías, que arrojó cientos de antorchas encendidas hacia las ventanas y el techo del edificio gubernamental. Pese a que Frías logró salir airoso de la revuelta, el Palacio fue devorado por las llamas y apenas si quedó en pie su fachada, lo que obligó a una restauración que duraría varios años.
+
+"El estilo del edificio es neoclásico, con un frente de quince metros de altura que se compone por pilares jónicos, dóricos y corintios", explica Vladimir García de cara al Palacio Quemado. Una decena de turistas lo escuchan sin prestar mucha atención, hablan entre ellos y sacan fotos de los dos soldados que montan guardia en la puerta palaciega.
+
+El Palacio Quemado se encuentra sobre la plaza Murillo, uno de los sitios más populares de La Paz. Miles de personas pasan diariamente por este lugar cuyo nombre recuerda al prócer Pedro Domingo Murillo, que participara en julio de 1809 de la primera revuelta independentista de los criollos paceños contra el dominio español. Tallado en bronce en el centro de la plaza, un monumento de tres metros de altura homenajea al viejo héroe boliviano.
+
+Alrededor de ese monumento y vestidas con pesadas faldas hasta los tobillos, las tradicionales cholas venden empanadas fritas y grasosos anticuchos que suelen ser tan exquisitos como peligrosos, especialmente para los de hígados sensibles. Seguro de la fortaleza de su estómago, un calvo de abdomen prominente, que parece ser un turista europeo, pide un anticucho acompañado de papas cocidas y una salsa picante llamada llajua. Casi sin masticar, lo devora en menos de un minuto.
+
+El Palacio Quemado no es el único edificio destacado de la zona de la plaza Murillo. Allí también se encuentran el Congreso Nacional y la Catedral de Nuestra Señora de La Paz, que fue visitada por Juan Pablo II en 1989. Además hay varias casas coloniales cuyos frentes están bastante desmejorados, algunos en estado casi ruinoso debido al alto costo que supone para sus dueños repararlos debidamente. Frente a este problema, se han presentado proyectos estatales que pretenden ayudar económicamente a los propietarios a restaurar los edificios coloniales de plaza Murillo respetando los estilos de sus orígenes. Con ese auxilio, el objetivo es transformar este lugar en algo similar a la popular Calle Jaén, uno de los sitios más hermosos de La Paz en el que la fisonomía colonial de la vieja ciudad ha sido conservada a la perfección.
+
+El Paseo El Prado es el eje principal de La Paz. Por allí pasa gran parte de la vida de la ciudad y en sus orillas se han construido en las últimas décadas muchos de los más importantes edificios paceños, entre ellos el rascacielos de La Alameda, que con 105 metros es uno de los más altos de todo Bolivia. Caracterizado por una enorme densidad de cafés y restaurantes, El Prado es flanqueado por la Avenida 16 de Julio y la Avenida del Estudiante, que corren a cada lado del paseo.
+
+En las noches y muy especialmente durante los fines de semana, estas dos avenidas se llenan de gente que sale a comer, a hacer compras o simplemente a pasear entre las arboledas. Y, además de los negocios, hay algunos museos muy interesantes, como el Museo de Arte Contemporáneo.
+
+En una plazoleta vecina, se levanta un monumento de Cristóbal Colón, tallado en bronce y sobre un pedestal de mármol blanco en el que se leen algunas pintadas que acusan al descubridor genovés de asesino de indios y conquistador genocida. "En Bolivia hay gente a la que no le simpatiza la figura de Colón, en especial a los descendientes de pueblos originarios que lo ven como el iniciador de una colonización sangrienta. A mí, que llevo sangre aymará, tampoco me gusta Colón. Pero eso no justifica a los vándalos que dañan su estatua", sentencia Vladimir.
+
+A lo largo de El Prado hay otros muchos monumentos que, por suerte, no sufren las pintadas del pobre Colón. El más impactante es el del Soldado Desconocido, que conmemora a los muertos de la Guerra del Chaco y en el que un soldado de bronce yace boca abajo, muerto sobre el pedestal. Y el más imponente, por su tamaño, es el de Simón Bolívar, sobre la plaza Venezuela, que justamente marca el final del Paseo.
+
+Luego de este monumento, cuando ya El Prado queda definitivamente atrás, el rumbo lleva hacia Sopocachi, el barrio más glamoroso y bohemio de toda la ciudad, donde los pubs conviven con las galerías de arte y las noches se extienden siempre hasta más allá de la madrugada. Calles empedradas, luces de neón, casonas de estilo inglés con jardines en el frente, mansiones suntuosas, cocina de autor en los restaurantes, autos deportivos estacionados en las puertas de los negocios más caros y una atmósfera de distinción son las características de una zona que poco tiene que ver con el resto de La Paz. Aquí, sentarse a tomar un simple café puede salir más caro que una comida completa en la zona de Murillo.
+
+Fuera de los límites de Socopachi la ciudad vuelve a ser la de siempre. El olor a las frituras de los puestos ambulantes se intensifica a medida que uno empieza a trepar por las laderas en las que se asientan los barrios periféricos y más humildes. En los rincones de esas calles pobres, agachadas sobre cartones, hay mujeres de edades indescifrables que venden plantas curativas, figuras talladas en madera que alejan los malos espíritus y fetos de llama que tienen los pies atados y protegen las casas de las presencias demoníacas. Todo se entrega por unas pocas monedas, envuelto en papel de diario.
+
+"Por aquí vamos hasta el Killi Killi", anticipa Vladimir García mientras la ladera va trepando hasta las nubes. Killi Killi es uno de los varios miradores que tiene La Paz, ubicados todos en sitios estratégicos desde los que las vistas panorámicas de la ciudad son excepcionales. Para llegar hasta allí hay que subir una larga escalera que acentúa la fatiga y quita el aire, porque en las alturas el oxígeno resulta siempre un bien escaso. El premio, ya arriba, es magnífico. "No hay mejor vista que esta en La Paz", asegura el guía paceño. Al sudeste, tras la geografía urbana de casas bajas, se ve el Illimani, con su nevada cumbre de 6462 metros. Y uno de los turistas estira su mano, como queriendo tocarlo.
+####
+https://www.la-razon.com/voces/2015/06/07/25-anos-de-la-razon/
+####
+Para los ojos de un historiador, el lapso transcurrido desde el 7 de junio de 1990, cuando circuló la primera edición de este diario, es una nada; pero desde la experiencia de las personas que han construido y construyen este medio de comunicación, es toda una vida, repleta de desafíos, aprendizajes, triunfos y algunos fracasos, que reafirman nuestros valores periodísticos.
+
+En efecto, La Razón, diario nacional fundado el 16 de mayo de 1990, ha recorrido el camino lento de la historia, recogiendo e interpretando cotidianamente los hechos noticiosos del país y el mundo con una clara convicción del papel de servicio que nos corresponde como medio de comunicación y vehículo de información. Nuestro propósito, pues, es informar de modo completo y veraz, sabiendo que ese es el único camino para garantizar el derecho a la información de la sociedad toda.
+
+Muchas cosas han sucedido en Bolivia a lo largo de estas dos décadas y media, y La Razón también ha atravesado por innumerables cambios y transformaciones. Algunas de ellas estuvieron relacionadas con la estructura de propiedad del medio, otras con los inevitables cambios de personal y, finalmente, muchas de ellas con las profundas transformaciones que se han sucedido en el país, particularmente durante la última década.
+
+Sin embargo, pese a que han cambiado las condiciones y las personas, este diario nunca ha perdido el norte que guía su desarrollo: hacer el mejor periodismo posible, buscando comprender la realidad para ofrecer a su público lector la versión más completa posible, sin caer en sensacionalismos, simplificaciones distorsionadoras o manipulación de los datos, factores que únicamente atentan contra el único capital que tiene todo periodista: su credibilidad.
+
+Muchas y muchos de los periodistas que hicieron parte de su carrera en este diario hoy ocupan puestos importantes en otros medios de comunicación o en instituciones públicas y privadas, nacionales y extranjeras. En todos los casos son reconocidos por su alta calidad profesional, particularidad que nos enorgullecemos de señalar como factor común en todos quienes hacen este diario, tanto en la sala de redacción como en la de diseño, o en la administración o los talleres y distribución.
+
+Y así como el equipo humano es y ha sido siempre motivo de orgullo, también lo es el producto que elaboran esas personas, pues desde su fundación este diario es el referente del mejor periodismo en el país. Además de la producción de noticias del día a día, el equipo se esmera en preparar los mejores suplementos y productos periodísticos especiales; prueba de ello son los no pocos premios recibidos a lo largo de estos 25 años de existencia.
+Hay, pues, sobradas razones para celebrar nuestro 25 aniversario, pero más aún para renovar nuevamente nuestro compromiso de seguir haciendo el mejor periódico del país. Ustedes, las y los lectores, se lo merecen.
+####
+https://www.opinion.com.bo/articulo/informe-especial/prueba-vih-es-gratuita-dura-15-minutos-centros-p-uacute-blicos/20150308191300669011.html#google_vignette
+####
+﻿La prueba para saber si una persona tiene o no el Virus de Inmunodeficiencia Humana (VIH) es gratuita y no demora más de 15 minutos.
+
+Las mujeres pueden acudir a los diferentes centros públicos de salud del departamento. El principal se encuentra en instalaciones del Servicio Departamental de Salud (Sedes). Se trata del Centro Departamental de Vigilancia y Referencia de Enfermedades de Transmisión Sexual (Cedevir). También pueden solicitar la prueba rápida en el hospital Maternológico Germán Urquidi, el hospital Viedma, la Escuela Técnica de Salud y algunos centros de salud de la ciudad y las provincias. Comprar vitaminas y suplementos
+
+Las mujeres embarazadas tienen prioridad para acceder a esta prueba y evitar la transmisión a sus hijos.
+
+El Instituto para el Desarrollo Humano (IDH) ofrece el mismo servicio en sus oficinas de la avenida Humboldt de manera gratuita.
+
+Solo se requiere pinchar el dedo y colocar la sangre en una tira especial.
+
+Las pruebas rápidas detectan los anticuerpos contra el VIH (que causa el sida). Es un procedimiento sencillo, no requiere de equipo, ni personal especializado. Es una prueba confiable al 95 por ciento
+
+Si el resultado es positivo, se solicita un nuevo análisis que se denomina la prueba de ELISA (Ensayo de Inmunoabsorción Enzimática, por sus siglas en inglés). Este método tiene una confiabilidad del 99.5 por ciento , porque puede detectar cantidades muy pequeñas de anticuerpos.
+
+La cantidad de mujeres que se sometió a estas pruebas es mayor a la de los varones.
+
+El informe del año pasado, del Ministerio de Salud, da cuenta de que hubo un incremento entre 2012 y 2014 de las mujeres que se hicieron la prueba. El porcentaje el primer año fue de 2.20 por ciento y subió a 6.6 por ciento . Estas cifras siguen siendo mínimas en los centros públicos de salud.Comprar vitaminas y suplementos
+
+La prueba rápida tiene un costo que oscila entre 40 y 80  bolivianos en centros privados.
+
+La cobertura gratuita en mujeres embarazadas es parte de la Estrategia Nacional de Reducción de la Transmisión Materno-Infantil del VIH y Eliminación de la Sífilis Congénita y está enmarcada en la Ley 3729 de Prevención del VIH y Sida. Se prevé que el control sea obligatorio para toda la población al igual que el tratamiento. 
+
+Tras detectar el virus, desde el programa VIH-Sida del Sedes se trata de reducir el riesgo a través del suministro de medicamentos antirretrovirales. Lamentablemente una gran parte de las mujeres no tiene información adecuada y llega cuando ya es tarde a los servicios, es decir, que no tuvieron el tratamiento adecuado para evitar la transmisión a los niños.
+
+Si se detecta un caso durante el embarazo, el tratamiento consiste en la supresión de la lactancia. También está en marcha, desde 2012, un plan para practicar una cesárea a la mamá y evitar que el niño contraiga la enfermedad. Además recibe consejería psicológica. El objetivo es reducir el número de portadores.
+
+La mujer solo tiene que comunicar a su médico que está dispuesta a someterse a esta prueba. Debe gozar de confidencialidad.
+
+El 2 por ciento de las personas contrajo la enfermedad de forma vertical, es decir, de madre a niño en el momento del parto o cesárea.
+
+En la normativa, según los datos del Ministerio de Salud, la mujer debe someterse en total a cinco exámenes básicos, entre los que se incluye el de VIH/SIDA.
+
+Llama la atención de las autoridades que entre las mujeres que contrajeron el virus se encuentren cada vez más amas de casa, lo que significa que la pareja es la que lleva la enfermedad al hogar. El riesgo está en la transmisión a los hijos, en caso de embarazo.
+
+El primer caso de VIH en  Bolivia data de 1984, en un varón. Fue 19 años después, en 2003, que se detectó el virus en una mujer. Desde entonces las cifras se incrementaron de forma alarmante. 
+
+Hasta hace algunos años, por cada siete varones había una mujer con VIH.
+
+La proporción fue cambiando y hoy en día la relación es de 2-1, aproximadamente.
+
+El informe del Ministerio de Salud de 2014 da cuenta que por cada 10 mujeres existen 17 hombres con el virus.
+
+La concentración de más casos está en el grupo de edad de 25 y 34 años. El promedio de edad es de 31 años.
+
+Para el coordinador del programa VIH-Sida del Sedes, Freddy Zambrana, hay cada vez más mujeres que forman parte de los datos estadísticos.
+
+“Esto significa que en algún momento la relación se va a equilibrar y demuestra que la mujer es más vulnerable”, explicó.
+
+Lo más preocupante es que en esta etapa, las mujeres son propensas a quedar embarazadas y corren el riesgo de traer al mundo a niños con VIH si no reciben una atención oportuna.
+
+“El VIH forma parte de una conducta de los adultos. Los niños no deberían estar involucrados y cuando sucede deben ser atendidos”, acotó.
+
+Dijo también que la mujer es más vulnerable porque en la relación sexual se le impone el acto sin el uso del condón, por ejemplo, lo que se demuestra que el machismo y el ejercicio de la violencia siguen latentes.
+
+Desde el Ministerio de Salud se asumen una serie de intervenciones para lograr el control de la epidemia en las áreas de prevención, tratamiento, atención y apoyo.
+####
+https://www.pub.eldiario.net/noticias/2015/2015_05/nt150517/nacional.php?n=41&-plagas-afectan-cultivos-de-chirimoya-en-lloja
+####
+Raúl Gutiérrez, representante de la población de Lloja, provincia Loayza, denunció que plagas están acabaron con 200 hectáreas de cultivos de chirimoya, considerado como el principal sustento para la economía del municipio. Son 100 familias que se dedican a la producción de esta fruta.
+
+Señaló que no se pudo descubrir qué tipo de plagas están afectando los cultivos de chirimoya, razón por la que solicitan la ayuda de las autoridades regionales y nacionales, siendo que este producto es el que más se vende en el municipio.
+
+Agrego que existen 200 hectáreas afectadas, que hasta el momento dejaron un daño económico aproximado de dos millones de bolivianos, lo que representa una pérdida de 20 mil bolivianos por familia. Esta situación preocupa a los comunarios.
+
+En el curso de los siguientes días los representantes de Lloja, se reunirá con la el director de Alerta Temprana de la Gobernación, Hilario Callizaya, con la finalidad de buscar soluciones al problema. Los productores esperan la reposición de semillas o el resarcimiento de las pérdidas.
+
+En la oportunidad también se solicitará algún tipo de sustancia que extermine a las plagas sin dañar los cultivos, lo cual será muy importante para la comunidad. “También se buscarán planes preventivos para evitar estos problemas a futuro y se pueda garantizar la producción de chirimoya en La Paz”, dijo Gutierrez.
+####
+https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=52934
+####
+El Instituto de Investigaciones Forenses (IDIF) de Cochabamba inicia operaciones en una moderna infraestructura con nueve servicios de los cuales destacan las pruebas de última tecnología en genética forense, únicas a nivel nacional, y un software para la investigación de hechos de accidentes de tránsito, así como un área especial para la recepción y custodia de evidencias que tiene relación con el manejo de pruebas científicamente obtenidas.
+
+El presidente Evo Morales junto con el fiscal General, Ramiro Guerrero, y otras autoridades hacen la ch’alla del nuevo edificio del Instituto de Investigaciones Forenses (IDIF), ayer. - Daniel  James Los Tiempos
+
+El fiscal general del Estado, Ramiro Guerrero, hizo ayer la entrega oficial del instituto con la presencia del presidente Evo Morales, el gobernador Edmundo Novillo, además de otras autoridades nacionales y departamentales.
+
+“Nos permitirá también desarrollar tareas de formación, de capacitación, de investigación, de cursos a nivel de postgrado, de maestría de especialización de nuestros peritos forenses”, señaló Guerrero.
+
+Aunque está equipado en sólo 25 por ciento de su capacidad, el IDIF de Cochabamba es ahora similar al de La Paz, de referencia nacional.
+
+Guerrero dijo que con los equipos de última tecnología los estudios que se hacían en dos o tres semanas ahora se realizarán en 20 o 30 minutos.
+
+“Esto va a permitir sacar 30 resultados de ADN al día”, dijo y agregó que además de cantidad, los resultados serán de calidad.
+
+“El IDIF, el brazo científico de la investigación penal permitirá un desarrollo más científico de la investigación, ya no tendrán que enviarse pruebas a otros países, ya no tendrán que centralizarse pruebas en La Paz sino en Cochabamba”, dijo Guerrero.
+
+Manifestó que aunque el IDIF sólo tiene el 25 por ciento de equipamiento está a la par del trabajo que realiza el instituto de La Paz convirtiéndose deesta manera en referencia a nivel a nacional. Aseguró también que para implementar su máxima capacidad se requieren de 48 millones de bolivianos y 80 profesionales, por lo que indicó que se acudirá al Estado o a instancias internacionales para conseguir estos recursos económicos.  
+
+Morales destacó la magnitud de la obra y dijo que “ojalá nos pueda ayudar a hacer una profunda revolución dentro la justicia boliviana”.
+
+Esta obra fue licitada en 2006 por el entonces prefecto Manfred Reyes Villa. Según el primer contrato ésta debería concluirse en 11 meses; sin embargo la entrega se amplió hasta el 2008, aunque este plazo tampoco se cumplió.
+
+Por tal razón, el 2010 la Gobernación de Cochabamba inició un proceso penal en contra de la empresa constructora por incumplimiento de contrato provocando daños al Estado de más de un millón de bolivianos.
+
+Guerrero explicó que esta moderna infraestructura que consta de dos bloques, uno de cinco pisos y el otro de dos plantas, ofrecerá nueve servicios y desde hoy oficialmente funcionará con 22 profesionales entre peritos, médicos, psicólogos y personal administrativo.
+
+Dijo que en esta infraestructura no sólo trabajará el área de medicina forense o criminalística, sino el de genética forense que dispondrá de equipos de última tecnología que permitirán hacer investigaciones de ADN y los análisis de los perfiles genéticos para determinar la responsabilidad penal.
+
+La unidad de biología forense se dedicará a la investigación y análisis de muestras biológicas en delitos de agresión sexual.
+
+Toxicología forense permitirá determinar las sustancias controladas y unidades de alcohol presentes en las personas que hubieran cometido un delito.
+
+El área de química forense se enfocará en el análisis de residuos en incendios y utilización de armas de fuego y explosivos.
+
+Una sala especial para la recepción y custodia de evidencias  manejará y preservará las evidencias garantizando la cadena de custodias. La unidad de psicología forense se encargará de realizar los estudios clínicos.
+
+Otra sección que funcionará es la de accidentología vial y forense donde se desarrollará la investigación de hechos de accidentes de tránsito para determinar responsabilidades.
+
+“No como se hacía antes en planos dibujados con autitos de juguete, sino que se va hacer mediante un software específico que toma la velocidad, aceleración, masa del rodado, condiciones que tenía el medio ambiente”, dijo el administrador del IDIF, Arturo Mercado.
+
+La Gobernación de Cochabamba informó que el costo de la infraestructura es de 17 millones de bolivianos.
+
+La inversión para el equipamiento del 25% de su capacidad es de 12 millones de bolivianos.
+
+Los equipos sobre todo para genética forense son de última generación, únicos en el país.
+
+El IDIF Cochabamba consta de dos bloques, uno de cinco pisos y en el otro de dos plantas funcionará un auditorio para 400 personas, además de otros salones.
+
+El personal está conformado por 22 profesionales entre peritos, médicos y psicólogos, además de administrativos.
+####
+https://www.late.com.bo/el-retorno-de-lampe-es-la-mejor-noticia-para-san-jose/
+####
+El arquero nacional Carlos Lampe volverá a la titularidad el domingo para el partido que jugará San José contra Blooming, en el estadio Jesús Bermúdez.
+
+El arquero nacional Carlos Lampe volverá a la titularidad el domingo para el partido que jugará San José contra Blooming, en el estadio Jesús Bermúdez, de Oruro, por la duodécima fecha del campeonato Apertura de la Liga.
+
+Lampe será tomado en cuenta después de cumplir con el partido de suspensión por expulsión. No jugó ante Guabirá y su lugar fue ocupado por Rolando Rivas.
+
+En contrapartida, el técnico Marcos Ferrufino no podrá contar con Luis Aníbal Torrico, quien acumuló su quinta tarjeta amarilla, mientras que Jhosimar Prado se perderá el encuentro porque salió expulsado frente a los “azucareros”.
+
+Para ese encuentro podrían ingresar desde el inicio del juego Roly Sejas y Paúl Burton, quienes están condicionados, porque cada uno está con cuatro cartulinas amarillas.
+
+San José está a cinco puntos de Bolívar, el actual líder del campeonato con 23 unidades, y no quiere perderle pisada.
+####

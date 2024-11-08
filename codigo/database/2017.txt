@@ -1,33 +1,717 @@
-año,noticiero,URL,letras,palabras,oraciones,parrafos
-2017,urgente,https://www.urgente.bo/noticia/en-bolivia-hay-al-menos-3-millones-de-perros-y-en-la-paz-se-espera-vacunar-700-mil,1890,393,13,10
-2017,opinion,https://www.opinion.com.bo/articulo/informe-especial/atenci-oacute-n-salud-olvido-carencias/20170618184100675184.html,3862,755,34,15
-2017,urgente,https://www.urgente.bo/noticia/entre-lo-normado-y-lo-practicado-pago-indebido-de-tributos-aduaneros,7935,1612,57,16
-2017,eabolivia,https://www.eabolivia.com/social/6059-cesar-cocarico-acelerara-construccion-de-puente-sobre-estrecho-de-tiquina.html,1683,343,10,7
-2017,reduno,https://www.reduno.com.bo/nota/2017-11-26-21-0-0-hombre-se-duerme-en-las-rieles-del-tren-y-muere-arrollado,737,164,7,4
-2017,reduno,https://www.reduno.com.bo/nota/2017-12-24-21-0-0-cinco-presentadores-de-la-red-uno-se-prueban-para-el-factor-x,559,125,6,4
-2017,ibce,https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=77992&,5580,1155,44,21
-2017,elperiodico-digital,https://www.elperiodico-digital.com/2017/10/22/espera-la-construccion-de-un-nuevo-mercado-campesino/,1182,224,6,6
-2017,reduno,https://www.reduno.com.bo/nota/2017-6-11-21-0-0-voluntario-del-sar-murio-en-una-practica,569,124,4,3
-2017,eju,https://eju.tv/2017/04/detectan-7-ingenieros-chinos-de-la-firma-sinohydro-que-trabajan-sin-aval-legal-en-bolivia/,1597,312,12,1
-2017,reduno,https://www.reduno.com.bo/noticias/2017-8-27-21-0-0-murio-ahorcado-hace-5-dias-y-su-familia-no-tiene-recursos-para-sepultarlo,363,78,5,3
-2017,eabolivia,https://www.eabolivia.com/futbol/25151-bolivar-se-corona-bicampeon-del-futbol-boliviano.html,1013,220,7,6
-2017,elperiodico-digital,https://www.elperiodico-digital.com/2017/02/26/la-heroica-defensa-de-villa-montes-en-la-guerra-del-chaco/,5369,1096,37,10
-2017,ibce,https://ibce.org.bo/noticias-detalle.php?idNot=550,1653,321,9,5
-2017,opinion,https://www.opinion.com.bo/articulo/tendencias/ximena-aacute-rez-sobreviviente-lamia-cierra-heridas/20171015194900676039.html,3164,672,29,16
-2017,eju,https://eju.tv/2017/09/tezanos-teme-por-la-vida-del-dirigente-modesto-clares-de-los-ponchos-rojos/,1602,341,9,7
-2017,jesuitas,https://www.jesuitas.org.bo/noticias/bolivia-y-la-venerable-virginia-blanco-tardio,3344,743,39,7
-2017,eju,https://eju.tv/2017/04/canciller-chileno-dice-que-sospechaba-provocacion-de-bolivia/,1120,225,7,4
-2017,eju,https://eju.tv/2017/01/ffaa-de-bolivia-abren-sus-puertas-para-el-servicio-militar-primer-escalon-2017/,1538,287,11,1
-2017,eju,https://eju.tv/2017/02/hablemos-de-hidrocarburos/,2196,480,10,1
-2017,opinion,https://www.opinion.com.bo/articulo/informe-especial/emsa-recoge-cada-d-iacute-5-toneladas-alimentos-mercados-restaurantes/20170903170800675740.html,11239,2332,79,71
-2017,reduno,https://www.reduno.com.bo/noticias/2017-9-10-21-0-0-solo-mejores-estudiantes-pueden-inscribirse-al-servicio-premilitar,850,172,7,3
-2017,reduno,https://www.reduno.com.bo/nota/2017-7-30-21-0-0-10-recomendaciones-importantes-para-hacer-una-quema-controlada,1687,339,14,4
-2017,eju,https://eju.tv/2017/02/mantener-el-museo-de-orinoca-costara-medio-millon-de-bolivianos/,1164,248,10,7
-2017,opinion,https://www.opinion.com.bo/articulo/informe-especial/bolivia-tiene-23-100-madurez-tecnol-oacute-gica-est-aacute-lista-bitcoin/20170604183600675085.html,3433,703,34,16
-2017,elpotosi,https://elpotosi.net/local/20170514_colegio-medico-ratifica-paro-de-48-horas-para-el-17-y-18-de-mayo.html,1071,223,6,5
-2017,eju,https://eju.tv/2017/11/armada-boliviana-celebra-sus-191-anos-en-el-titicaca/,1921,389,13,11
-2017,eju,https://eju.tv/2017/01/que-cargo-podria-ocupar-hillary-clinton-tras-perder-las-presidenciales-de-ee-uu/,686,137,6,3
-2017,opinion,https://www.opinion.com.bo/articulo/ciencia-tecnolog-iacute/vestido-cambia-color-humor/20170305200100572776.html,2010,448,22,11
-2017,ibce,https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=79494,3698,770,27,23
-2017,eju,https://eju.tv/2017/05/la-cocaina-peruana-entra-a-bolivia-con-dos-sellos/,2980,660,28,10
-2017,reduno,https://www.reduno.com.bo/noticias/2017-12-17-21-0-0-juga2-celebro-el-cumpleanos-a-carlos-rocabado,1211,265,10,7
+2017
+https://www.urgente.bo/noticia/en-bolivia-hay-al-menos-3-millones-de-perros-y-en-la-paz-se-espera-vacunar-700-mil
+####
+La ministra de Salud, Ariana Campero, informó el miércoles que 705.000 dosis fueron puestas a disposición de la campaña de vacunación antirrábica en el departamento de La Paz, programada para el domingo venidero, con la inversión de 1,4 millones de bolivianos.
+
+Hoy es jornada de vacunación antirrábica en el departamento de La Paz. Según estimaciones del Ministerio de Salud de Bolivia, por cada tres habitantes del país, hay un perro en Bolivia.
+
+"En Bolivia lamentablemente no  tenemos un censo de los perros, pero se estima que por cada tres personas que habitan este país  hay un perro, es decir que por los 10 millones de la población boliviana  hay unos  tres millones de perros. Esa es una cantidad muy alta”, reconoció el director de Servicios de Salud del Ministerio del área, Rodolfo Rocabado.
+
+La ministra de Salud, Ariana Campero, informó el miércoles que 705.000 dosis fueron puestas a disposición de la campaña de vacunación antirrábica en el departamento de La Paz, programada para el domingo venidero, con la inversión de 1,4 millones de bolivianos.
+
+"Estamos iniciando este domingo 28 de mayo esta campaña y la vamos a realizar con todas las autoridades, tanto departamentales como municipales del departamento de La Paz, por lo que exhortamos a las familias a llevar vacunar a sus mascotas", dijo a los periodistas
+
+Rocabado explicó que esa población canina "es muy elevada” . Es más,   en comparación con la región, Bolivia registra una extrema sobrepoblación.
+
+En otros países se controla la población canina porque tienen políticas claras, donde por ejemplo se establece que toda persona que quiera tener una mascota debe pagar un impuesto, lo que hace que las personas tengan la cantidad necesaria de animales”, mencionó Rocabado.
+
+Destacó que si se analiza la población humana respecto a la canina, "la de canes la excede  en gran medida. Se ha visto que hay más perros en las zonas periurbanas de las principales ciudades”, añadió.
+
+Rocabado sostiene que esa sobrepoblación se debe a dos factores fundamentales: a la falta de responsabilidad en la tenencia de mascotas y a la  incapacidad de los municipios -porque es su competencia según  la Ley de Autonomías- de hacer cumplir sus normativas de control de número de canes.
+
+"Muchas familias se encariñan con un cachorro, pero cuando crece lamentablemente los sacan a la calle y  no lo tiene en casa, como debería ser”, resaltó.
+####
+https://www.opinion.com.bo/articulo/informe-especial/atenci-oacute-n-salud-olvido-carencias/20170618184100675184.html
+####
+Las aceras se transforman durante la noche en lechos improvisados que son habilitados con cartones. A pesar del frío, los pacientes se instalan fuera del hospital Viedma para conseguir una ficha para consultar con un especialista. Los enfermos llegan de las provincias y de otros departamentos. A pesar de este sacrificio, algunos no logran conseguir uno de los 300 cupos diarios dispuestos. Están obligados a repetir la peregrinación porque, algunos, solo disponen los 20 bolivianos que cobran en el Viedma y no pueden pagar una atención privada cuyo costo promedio es 150 bolivianos.
+
+El Viedma es el único hospital de tercer nivel de Cochabamba cuya población es de 1.971.503, según proyecciones del Instituto Nacional de Estadística (INE) de habitantes. Los profesionales en salud aseguran que se necesitan cinco más para abastecer las necesidades de la gente porque de acuerdo a la Organización Mundial de la Salud (OMS), por cada 250 mil ciudadanos, debería existir un hospital con especialidades.
+
+Son 587 los centros dependientes del sistema público, de acuerdo a la información de la Unidad de Calidad y Servicios del Servicio Departamental de Salud (SEDES), ya sea postas, centros de salud y hospitales. Se considera a los establecimientos privados, de seguridad social, de la Iglesia y de Organizaciones No Gubernamentales (ONG).
+
+Para el presidente del Colegio Médico de Bolivia, Aníbal Cruz, el número de establecimientos públicos no es suficiente porque ni el primer y ni el segundo nivel funcionan adecuadamente y los enfermos terminan en el Viedma. Dice que por cada 1.000 habitantes debe haber un hospital de primer nivel y por cada 50.000 uno de segundo.
+
+A la fecha, no se tiene contemplada ni la ampliación del Viedma ni la construcción de una nueva infraestructura. Los proyectos planificados para Cochabamba en el plan Hospitales para Bolivia son edificaciones de segundo nivel con características de tercero y de un instituto especializado en oncología (cuarto nivel).
+
+La directora del SEDES, Lidia Astroña, dice que es fundamental fortalecer los hospitales de segundo nivel donde se pueda dar solución a las demandas de los enfermos. De esta manera, el número de convalecientes que llegue al Viedma será menos, solo los cuadros clínicos complejos que demanden la participación de especialistas y de equipamiento de punta.
+
+La realidad del Viedma no es aislada y se la vive en el pediátrico Manuel Ascencio Villarroel, en el maternológico Germán Urquidi y en algunos hospitales de segundo nivel, como el Cochabamba, el de Punata y el de Quillacollo.
+
+En el departamento existen solo 16 establecimientos de salud de segundo nivel, en el sistema público, y esa es la mayor deficiencia del sistema de salud.
+
+En el municipio del Cochabamba hay un solo establecimiento de segundo nivel. El representante del Sindicato Médico y Ramas Afines (SIRMES), Carlos Nava dice que se debía tener al menos cuatro centros de salud de este tipo.
+
+Los establecimientos de segundo nivel que existen en el departamento están en provincias como Punata, Villa Tunari, Sacaba, Quillacollo, Mizque, Aiquile, Cliza, Totora e Ivirgarzama.
+
+Añade que los centros de salud que hay en Cochabamba son insuficientes para la población, pero el problema no es solo la falta de infraestructura, sino también de personal.
+
+Las estadísticas de recursos humanos en salud señalan que por cada millón de habitantes debe haber tres mil profesionales en salud. Sin embargo, en Cochabamba los profesionales en salud que están ejerciendo no alcanzan a los 1.800. La principal carencia es de especialistas.
+
+﻿Plan contempla 46 nuevos hospitales. El Gobierno puso en marcha en 2015 un megaproyecto hospitalario para la construcción y equipamiento de 46 hospitales de segundo, tercer y cuarto nivel en los nueve departamentos del país. La inversión asciende a 1.6 millones de dólares. Se trata de cuatro centros de cuarto nivel, 11 de tercer nivel y 31 de segundo. 
+
+﻿El sistema de salud del sistema público está organizado en trece redes de salud en el departamento de Cochabamba a las que están articuladas 587 establecimientos. Esta cantidad contempla a los de primer, segundo y tercer nivel y corresponde al sector público, privado, de la Iglesia, Organizaciones No Gubernamentales (ONG) y a la seguridad social. La información la dio a conocer el responsable de la subunidad de Hospitales del Servicio Departamental de Salud (SEDES), Juan Carlos Zapata.
+
+﻿Un instituto para Cochabamba. El plan Hospitales para Bolivia incluye la construcción de los primeros cuatro hospitales de cuarto nivel, que son centros altamente especializados en una sola rama de la medicina, más investigación y docencia. Serán construidos en Cochabamba (oncológico), La Paz (gastroenterológico), Tarija (cardiología) y Santa Cruz (nefrología). 
+####
+https://www.urgente.bo/noticia/entre-lo-normado-y-lo-practicado-pago-indebido-de-tributos-aduaneros
+####
+Un ejemplo claro de lo referido, sucede de forma periódica con la administración aduanera. Supongamos que usted paga tributos aduaneros para la nacionalización de un vehículo que importó a territorio nacional hace casi dos meses pero el pago que usted realiza hacia la Aduana no es al número de cuenta bancaria que corresponde, ya sea por error suyo o un mal asesoramiento, ha realizado un pago indebido.
+
+En ocasiones afrontamos ciertos asuntos que involucran normas y, a veces, esas normas no llegan a comprender las peculiaridades tan refinadas que nos tocan atender. En ese momento, la mejor y más ligera respuesta en nuestras mentes es: “lo que no está prohibido está permitido” y, de esta manera, instantáneamente se calman todas las tensiones y temores mientras se empiezan a ejecutar tales pensamientos de la forma que más nos convenga.
+
+Si bien el dicho es parte de la jerga popular, la idea como tal, no es ajena al Derecho. Si consulta a profesionales del rubro, señalarán que algunas veces acuden a esta figura, denominándola “Permissum videtur in omne, quod non prohitum” (en castellano: está permitido todo lo que no está prohibido). Eso sí, también le explicarán que esta figura no funciona para todo. En especial, si dichos asuntos se encuentran relacionados a la administración del Estado.
+
+El ejercicio de la función pública está sometido al principio de Pleno Sometimiento a la Ley (inc. c. del Art. 4 de la Ley N° 2341 de 23 de abril de 2002). En términos simples, este principio les aclara que: “Lo que no está permitido por norma, está prohibido”. Seguramente, ahora entenderá por qué muchas veces los servidores públicos se muestran reacios a aplicar alternativas que no estén en el marco de la normativa vigente, aunque éstas sean justas y convenientes. Lo cierto es que si ellos no obedecen a este principio, para bien o para mal, incumplirían sus labores y eso implicaría procesos administrativos y hasta penales en su contra, según disponen la Ley N° 004 de 31 de marzo de 2010 y la Ley N° 2027 de 27 de octubre de 1999.
+
+Un ejemplo claro de lo referido, sucede de forma periódica con la administración aduanera. Supongamos que usted paga tributos aduaneros para la nacionalización de un vehículo que importó a territorio nacional hace casi dos meses pero el pago que usted realiza hacia la Aduana no es al número de cuenta bancaria que corresponde, ya sea por error suyo o un mal asesoramiento, ha realizado un pago indebido. Para complicar más la figura, usted se encuentra presionado por una posible declaratoria de abandono del vehículo que pretende nacionalizar, que de concretarse, implica la pérdida del vehículo sin Derecho a reclamo. De modo que para salvaguardar sus bienes, realiza el pago correcto de inmediato, aunque esto implique que se pague dos veces por el mismo concepto.
+
+Obviamente, usted no está dispuesto a perder el dinero así de fácil. Revisa toda la normativa al respecto e identifica en su contenido que puede realizar una “acción de repetición” (Art. 121 de la Ley N° 2492 de 02 de agosto de 2003), la cual consiste en pedir la devolución de los importes indebidamente pagados en un procedimiento relativamente corto con registros en Sistemas Informáticos Aduaneros de por medio. Lo importante es que la Autoridad Aduanera podrá, si es que su pedido está bien realizado y fundamentado, devolverle nominalmente el dinero mediante CREFAS (Certificado de Crédito Fiscal Aduanero emitido por la Aduana Nacional, útil para pagar tributos aduaneros). Seguramente no es lo que esperaba pero a perder el dinero, esto ya le resulta una alternativa plausible.
+
+En este sentido, usted advierte que el asunto resulta muy técnico, así que decide no correr riesgos y contrata los servicios de un “estimadísimo” abogado haciéndole conocer su conflicto con el mismo detalle que fue descrito líneas atrás. El abogado acepta llevar su caso, advirtiendo que no suele tomar casos aduaneros pero que en su caso hará una excepción. Con esta aclaración, interpone la “acción de repetición” conforme a los requerimientos legales, sin embargo, al momento de recibir la respuesta por parte de la Autoridad Aduanera se sorprende con una observación que señala que su pago no habría cumplido los requisitos estipulados en la normativa para beneficiarse de la “acción de repetición”.
+
+Posteriormente, su asesor legal revisa el pago realizado por usted y verifica que todos los datos presentes demuestran que usted realizó un pago bajo el concepto de cancelación de Gravamen Arancelario (GA), cancelando tributos de la póliza de importación correcta pero hacia un número de cuenta bancaria de la Aduana Nacional incorrecta.  Comparando esta información con la requerida por la reglamentación, el abogado corrobora que cumple todo lo requerido para su admisión. Inmediatamente, interpone el recurso habilitado para este tipo de situaciones, advirtiéndole que este asunto tardará entre 4 a 8 meses más de lo esperado y que cumplido este tiempo, usted sabrá si se admite o no su “acción de repetición”. Es decir, todavía queda saber si después la Aduana Nacional decide o no devolverle el importe indebidamente entregado.
+
+Hasta este punto, usted está seguro que el funcionario incurrió en error al rechazar su “acción de repetición”, pues el abogado lo presentó cumpliendo hasta con el más mínimo detalle exigido por la normativa para su aceptación. Por esto, usted afirma que el servidor aduanero lo perjudicó de gran manera, ya que tendrá que esperar varios meses para saber si apenas le admitirán la “acción de repetición”. Si el resultado es favorable, podrá entonces continuar el procedimiento hasta que la Aduana le confirme si le devolverán el dinero pagado incorrectamente. Hay que resaltar que cabe la posibilidad que después de tanta espera y esfuerzos, no le acepten la solicitud y pierda definitivamente ese dinero.
+
+Con mucha molestia se preguntará ¿Qué tenía el funcionario aduanero en la cabeza para perjudicarlo de esta manera? En realidad, el servidor de la Administración Aduanera valoró un aspecto interno que no tiene nada que ver con lo que señala la normativa. Lo que no se mencionó líneas atrás es que el pago se realizó a una cuenta que asignaba fondos directamente a la Aduana y los pagos que se realizan por tributos aduaneros van hacia cuentas que el Estado central maneja y dispone inmediatamente para diversas áreas de su atención.
+
+Es decir, al pagar tributos en exceso o indebidamente hacia las cuentas que corresponden a tributos, el Estado no le devuelve sus aportes en efectivo, pues ya los dispuso. De manera que sólo puede reconocerle el monto cancelado, beneficiándolo con documentos que representan crédito fiscal proporcional al monto pagado en demasía o indebidamente, para que usted pague con estos “títulos-valor” impuestos en el futuro o transferirlos bajo ciertos rigores previos.
+
+En cuanto a la cuenta que realmente va hacia los fondos de la Aduana, la figura cambia. El Estado central ya no dispuso aleatoriamente ese dinero sino que la Aduana pudo haberlo gastado y puede reponerlo. La cuestión es, qué normativa señala un procedimiento excepcional ante este tipo casos, en los cuales, usted pueda pedir que el dinero sea reembolsado, pues fue erróneamente pagado hacia una cuenta propia de la Aduana. La respuesta es muy sencilla… ¡no existe!
+
+Por lo tanto, el funcionario público, pese a estar abocado a facilitar el comercio según la Ley General de Aduanas, no puede desavenir al principio que rige sus labores: “Lo que no está permitido por norma está prohibido”. Entonces podrá pensar que mínimamente debería señalarle cómo puede proceder. Lamentablemente, lo más probable es que él tampoco lo sepa. Ahora que la tensión y los temores florecen al pensar que no recuperará el dinero mal pagado, corresponde indagar cómo se atenderá este asunto excepcional.
+
+Por Ley, la Aduana Nacional tiene potestad reglamentaria en este tipo asuntos. Corresponderá realizar gestiones ante las reparticiones de dicha entidad para identificar alguna solución que de hecho la hay. Se enterará cómo debe realizar la solicitud ante la administración aduanera involucrada, registrarse en el SIGEP –sin aún no lo hizo– y, es de suma importancia que colabore en los canales de comunicación y coordinación entre la administración de aduana vinculada al pago incorrecto y la Aduana Nacional para que el trámite no sea olvidado u omitido. Los pasos que continuarán a su solicitud hasta que sea aceptada y procesada serán breves, quizá le descuenten ciertos montos por facturación –si es que la hay– y, finalmente se le depositará el dinero que pagó indebidamente. Lo cierto es que este procedimiento irregular puede resultar más veloz y satisfactorio que una acción de repetición. De hecho, le devuelven dinero y no saldo a favor para pagar cuentas impositivas con el Estado.
+
+Este caso particular nos presenta una colisión entre lo reglamentado y lo realizable. Esto no quiere decir que la norma esté equivocada, sino que necesita incluir esta salvedad para funcionar debidamente y así contribuir a cumplir uno de los preceptos del Comercio Internacional: facilitar el Comercio. Si bien la medida adoptada por la Aduana Nacional responde a situaciones excepcionales y la ejerce bajo sus amplias potestades regulatorias, se recomienda la incorporación de este procedimiento en la normativa regulatoria aduanera, en atención al principio de “Pleno Sometimiento a la Ley” que rige sobre la función pública, ya que “Lo que no está permitido por norma, está prohibido” para el servidor aduanero que debe atender este tipo de inconvenientes.
+
+Actividad Académica: obtuvo el grado de licenciado en Derecho el año 2012 de la Universidad Católica Boliviana “San Pablo” de la ciudad de La Paz. Efectuó sus estudios de Maestría en Comercio Internacional e Integración en la Universidad Andina Simón Bolívar de la Comunidad Andina (UASB), con asiento en la ciudad de La Paz entre los años 2015 y 2016.
+####
+https://www.eabolivia.com/social/6059-cesar-cocarico-acelerara-construccion-de-puente-sobre-estrecho-de-tiquina.html
+####
+La Paz, 25 Ene. (NAN).- El gobernador de La Paz, César Cocarico anunció, este martes, que acelerará la construcción de un puente sobre el estrecho de Tiquina del Lago Titicaca luego del accidente, en el que dos barcazas de transporte de carga chocaron, hundiéndose una de ellas con dos vehículos a bordo sin lamentar la pérdida de vidas humanas.
+
+“Hemos estado reunidos con el ministro de Obras Públicas (Walter Delgadillo) con quien hemos planificado acciones para hacer el estudio de la construcción del puente, toda vez que hemos llegado a un acuerdo con los pobladores”, manifestó Cocarico al advertir que varios de los balseros no cumplen con las medidas de seguridad.
+
+El gobernador señaló que agilizará la ejecución del puente que tendrá aproximadamente 1.000 metros de largo porque la población beneficiaria exige una solución inmediata a las actuales dificultades que enfrentan importantes núcleos poblacionales en su desarrollo económico y social.
+
+Empero, advirtió que existe un pequeño grupo social que se opone al proyecto, puesto que significa la fuente de ingresos para su subsistencia. “Se trata de unos 200 balseros que viven del transporte fluvial en el estrecho de Tiquina, cuyo problema será encarado por la gobernación”, dijo.
+
+“Ahora debemos conversar con los operadores para construir el puente. Los que están operando debe ser responsables con la vida de las personas no se puede atentar de esa forma”, dijo Cocarico al afirmar que el proyecto se ejecutará este año a fin de evitar mayores desgracias.
+
+Por su lado, el dirigente de la Unión de Transporte de Tito Yupanqui, Miguel Uño manifestó que el puente “es parte de un proyecto que fue presentado el 2009, pero los pobladores de San Pedro y San Pablo de Tiquina se opusieron ahora deberán aceptar la construcción para evitar más accidentes que a veces provoca la pérdida de vidas humanas”,
+
+De acuerdo con los balseros ganan 160 bolivianos por el transporte de personas y vehículos, cuya remuneración se duplica e incluso triplica los fines de semana y que por esos motivos advirtieron que no permitirán la construcción del puente.
+####
+https://www.reduno.com.bo/nota/2017-11-26-21-0-0-hombre-se-duerme-en-las-rieles-del-tren-y-muere-arrollado
+####
+Red Uno Bolivia.- Víctor Luis Paredes Vargas de 45 años perdió la vida luego que fue arrollado por un tren. El incidente sucedió la mañana de este sábado en el barrio Mapaiso Sur, zona de Los Lotes, luego que el infortunado se habría dormido en las vías del tren, aparentemente por estado de ebriedad.
+
+“En el lugar se encontró varios botes de trago, lo que presumimos que estaba borracho”, dijo a Red Uno de Bolivia, Constantino Sejas, director de la unidad operativa de tránsito quien se ha hecho cargo del accidente seguido de muerte.
+
+El conductor del tren fue aprehendido y será puesto ante un juez en las próximas horas.
+
+“Él conducía el motorizado y será puesto ante el juez por el delito de homicidio en accidente de tránsito”, dijo Sejas, quien además lamentó que aún continúen personas que se queden dormido en las vías del tren. El cuerpo de Víctor Luis Paredes, fue llevado a la morgue municipal esperando que aparezcan sus familiares.
+####
+https://www.reduno.com.bo/nota/2017-12-24-21-0-0-cinco-presentadores-de-la-red-uno-se-prueban-para-el-factor-x
+####
+Red Uno Bolivia.- A pocos días de haberse lanzado la convocatoria para el casting de El Factor X en Bolivia, los presentadores de la Red Uno no quisieron perderse esta oportunidad.
+
+Sandra Álcazar, Desirée Durán, Asbel Valenzuela, David Dionich y Ezequiel Bazán cantaron diferentes villancicos para demostrar que tienen el Factor X. ¿Y tú tienes el Factor X?
+
+Si te gusta cantar y deseas triunfar en la música esta es tú oportunidad de lograrlo. Prepárate y presentante a los castings que se realizarán este 18 de enero en Cochabamba, 19 de enero en La Paz y el 20 de enero en Santa Cruz.
+
+Asimismo la producción lanzó un casting virtual donde podrás enviar tu video que no podrá durar más de un minuto al 75666062.
+####
+https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=77992&
+####
+La piscicultura en Bolivia, es la actividad en el área de producción de alimentos que rápidamente está creciendo, pero según índices per cápita falta consumirlo más
+Bolivia forma parte de las tres principales cuencas hidrográficas de Sudamérica (del Altiplano, del Amazonas y de La Plata) que juntas tienen las mayores reservas de agua dulce y pese al alto potencial pesquero-acuícola en la Amazonia, el consumo actual de pescado en el país está entre 2,5 y 5,0 kilogramos (kg.)   per cápita/año, según informe de la FAO en el 2014. Este nivel de consumo está por debajo de lo recomendado por la Organización Mundial de la Salud (OMS) que es de 12 kg. per cápita. 
+
+Frente a este escenario, desde el 2011 nació el  proyecto "Peces para la vida" que tiene el objetivo de mejorar la contribución del pescado a la seguridad alimentaria y a la reducción de la pobreza, explicó Widen Abastoflor, director general de CEPAC, y miembro de "Peces para la vida", la primera plataforma para el sector pesquero y piscícola en la cual orientan al productor interesado para que encuentre su camino en el mundo de la acuicultura. 
+
+De esta manera, según sus registros, el sector piscícola de la Amazonia boliviana actualmente se tiene la existencia de 4.414 estanques piscícolas. La mayor parte de ellos se encuentra en la zona de pie de monte al este de Cochabamba y al oeste de Santa Cruz.
+
+Por otro lado, la oferta y demanda total del país es estimada a 32.095 y 37.756 t. por año (según información obtenida de la IPD-PACU 2016). Sin embargo, la producción piscícola está rondando las 3 mil t. que son comercializadas entre 20 y 30 bolivianos el kg., explicó José Zubieta, experto en acuicultura y miembro de Peces para la vida donde ellos realizaron un estudio para tratar de estimar la producción piscícola del país. 
+El resto de la demanda la cubre las importaciones,  pesca de subsistencia y la pesca comercial (ver cuadro). 
+En todo el país son 45 municipios que se dedican a la piscicultura. Puerto Villarroel es el más grande, con 141.6 hectáreas de superficie de espejo de agua dedicada a esta actividad.
+
+Actualmente el cultivo del pacú en la región tropical de los departamentos Cochabamba, Santa Cruz y Beni está teniendo un crecimiento paulatino, gracias a la existencia de condiciones naturales adecuadas: buenos suelos, suficiente agua y la presencia de servicios.
+
+Las especies de mayor cultivo.  En Bolivia principalmente se está cultivando el Tambaquí (Piaractus brachypomus) y el Pacú (Colossoma macropomum) que los productores de alevines frecuentemente los hibridizan entre ellos o con el pacú el plata (Piaractus mesopotamicus),  "aunque muchos productores no saben cuál de estas especies o sus híbridos están cultivando cuando se les pregunta simplemente dicen pacú", dijo el experto en acuicultura. 
+
+Entre los que se cultivan en menor cantidad están algunas especies nativas como el sábalo, la boga, surubí que en muchos casos son obtenidos de los ríos e introducidos en los estanques de cultivo acompañando principales al tambaquí o pacú.  En menor proporción también se cultivan variedades de especies introducidas como la tilapia y la carpa.
+ 
+En Santa Cruz. La demanda de alevines en el departamento cruceño es de aproximadamente 2 millones y se produce unas 1.000 toneladas de pescado al año, indicó Luis Gonzalo Serrate, director de la Cámara de Acuicultura del Oriente (CAOR) y Gerente General de la Empresa Vallecito SRL. 
+
+Son alrededor de 500 familias que se dedican a esta actividad, lo cuales producen peces en de 1.200 estanques o lagunas con un promedio de 1.000 a 5.000 metros cuadrados.
+
+Este rubro hasta el año 2015 tenía uno de los mayores índices de crecimiento del sector, aproximadamente un 20% anual "ya el 2016 bajo este índice a un 15% y estimamos que este 2017 no supere el 10% por la recesión en la que se encuentra el país", dijo Serrate.
+
+El costo de producción está entre Bs 16 y 18 el kg, dependiendo de la escala del productor, este comercializa los peces a los mayoristas entre Bs 22 a 25 kg y al consumidor final llega desde Bs 30 para arriba, el precio máximo del pescado entero es de Bs 40 el kilogramo.
+
+Los principales municipios productores de pescado son: Yapacaní, San Carlos, Okinawa, Warnes, Porongo, San José, San Julián y Guarayos, estos entre 26 municipios dedicados a esta actividad.
+
+Esto varía según la especie, en el cultivo de pacú y/o tambaquí existen diferentes fases, la reproducción, la larvicultura y el levinje, puede llevar unos 2-3 meses aproximadamente. Estos alevines son vendidos a los productores de entre 3 a 6 cm, que son sembrados generalmente a un pez por metro cuadrado de superficie de espejo de agua y al cabo de 8 a 10 meses, cada uno de estos está pesando aproximadamente 1 kg,. Algunas regiones prefieren peces más pequeños 700 -800 gr. mientras que en otras regiones es de 2 kg, para llegar a este peso los peces deben ser criados por casi 2 años.
+
+En el marco del proyecto Peces Para la Vida II, el Centro de Promoción Agropecuaria Campesina (CEPAC) desarrolló un sistema de innovación tecnológica basado en cuatro módulos.
+
+1 Investigación participativa: con países vecinos se establecen unidades de adaptación tecnológica participativa en comunidades rurales.
+2. Unidades demostrativas: Se registra las piscigranjas de familias líderes. 
+3 Formación recursos humanos técnicos: Curso modular para la formación de técnicos especializados con respaldo académico universitario en el nivel de técnicos auxiliares.
+4 Comunicación tecnológica: Uso del 'Manual de buenas practicas piscícolas en versión física y digital y la APP para sistema Android (Play store; innovación tecnológica; logo de CEPAC I+R, descargar).
+ 
+El pescado es un alimento saludable y nutritivo, presenta un contenido calórico bajo, aporta vitaminas hidrosolubles e liposolubles así como algunos minerales.
+
+Los peces de agua dulce tienen el sabor menos pronunciado que los de agua salada, son más ricos en potasio, magnesio y fósforo.
+
+Su contenido proteico varía entre el 15 al 24% siendo estas de alto valor biológico al contener aminoácidos esenciales para la vida, particularmente metionina, cisteina, treonina, lisina (imprescindible para el crecimiento de los niños) y triptofano (imprescindible para la formación de la sangre).
+
+Si bien la principal fuente de omega 3 son los peces de agua salada, estudios recientes demuestran que el surubí, pez de agua dulce es una alternativa para la obtención de omega 3.
+
+Los ácidos grasos provenientes de los peces, principalmente son los EPA y DHA, todos ellos omega 3 que proveen una protección adicional sobre las enfermedades coronarias.
+
+El EPA disminuye la probabilidad de formación de coágulos, lo que reduce el riesgo cardíaco. El DHA se considera fundamental en la formación de tejido nervioso y visual, necesario en las primeras etapas del desarrollo intra y extrauterino. Igualmente, ambos están involucrados en el mantenimiento de los tejidos a lo largo de la vida e intervienen en la reducción del cáncer y la obesidad relacionada con la diabetes de tipo II.
+####
+https://www.elperiodico-digital.com/2017/10/22/espera-la-construccion-de-un-nuevo-mercado-campesino/
+####
+Ayer en la mañana, en la comunidad de Monte Centro, se realizó el lanzamiento del nuevo mercado campesino, que será ejecutado entre la Subgobernación de Cercado, la comunidad de Monte Centro y la Asociación Pro Vivienda Social y Digna Nuevo Mercado Campesino.
+
+El secretario general de la comunidad Monte Centro, Rodolfo Meyer Eguez, destacó la importancia de establecer mecanismos de potenciamiento al productor.
+
+Indicó, que la propuesta de contar con un nuevo mercado surge de la necesidad de los propios productores agrícolas campesinos de contar espacios de venta directa de su producción sin intermediarios.
+
+Asimismo, explicó que la ciudad de Tarija necesita un nuevo mercado campesino debido al escaso físico del ya existente donde los intermediarios  merman la ganancia y utilidad de trabajo de los productores campesinos y de su actividad productiva.
+
+Por su parte el subgobernador de Cercado, Johnny Torres, manifestó que el compromiso que asume la Subgobernación es la facilitar de acuerdo a necesidad y requerimiento, maquinaria necesaria para la nivelación del terreno donde se instalará la Feria del Productor al Consumidor por la Asociación Pro Vivienda Social y Digna Nuevo Mercado Campesino, en la comunidad de Monte Centro de la Provincia Cercado.
+
+“Vamos a facilitar la utilización de tarima, toldos, amplificación y generador de electricidad, material de promoción para dar a conocer los días de actividad de esta feria”, señaló Torres.
+####
+https://www.reduno.com.bo/nota/2017-6-11-21-0-0-voluntario-del-sar-murio-en-una-practica
+####
+José Miguel Gómez Villalta (21) años falleció este sábado cuando se encontraba en el municipio de El Torno con el grupo de salvataje SAR de la Fuerza Áerea Boliviana (FAB), practicando “paso de comando”, que consiste en descender de una cuerda,  al parecer sufrió una descompensación perdiendo el equilibrio y cayó de aproximadamente 15 m de altura.
+
+El joven perdió la vida en el trayecto a un  centro médico, la familia pide ayuda ya que él era quien sustentaba a sus padres y a sus dos hermanas menores. Este año se graduaba de la Universidad Autónoma Gabriel René Moreno de la carrera de Ingeniería Civil, su sueño era salir profesional.
+
+Sus restos mortales están siendo velados en la capilla del Colegio Militar de Aviación.
+####
+https://eju.tv/2017/04/detectan-7-ingenieros-chinos-de-la-firma-sinohydro-que-trabajan-sin-aval-legal-en-bolivia/
+####
+Trabajos en la carretera Padilla-El Salto. Foto ABC.El diputado Horacio Poppe informó que se ha detectado a siete ciudadanos chinos que trabajan como profesionales en ingeniería en una obra de la empresa Sinohydro, pero que no están registrados en la Sociedad de Ingenieros de Bolivia (SIB), incumpliendo así una ley nacional.Poppe exhibió un informe que le envío la SIB, en el cual se detalla que los chinos Xu Welgang, Zeng Youliang, Wenxu Hao, Shun Wang, Yongsen Li, Gao Heyuan y Yang Hongyuan, “no tienen ningún registro en la Sociedad de Ingenieros de Bolivia».El diputado por el Partido Demócrata Cristiano (PDC) señaló que estos ingenieros asiáticos están en las planillas de los trabajadores del tramo carretero Padilla-El Salto en Chuquisaca, a cargo de la empresa Sinohydro, que antes ya tuvo denuncias de incumplir la norma laboral boliviana y maltratar a los obreros nacionales.El asambleísta recordó que por ley los ingenieros extranjeros están obligados a registrarse en la SIB para ejercer en Bolivia. Para el opositor, esto siete chinos “son gente ilegal” y la empresa responsable está “vulnerando la legislación boliviana”.Poppe expresó su preocupación porque a su criterio los chinos estarían desplazando laboralmente a los profesionales de Bolivia. Aseveró que  a los ingenieros de Bolivia se les exige varios requisitos para ser contratados para estas obras, pero los extranjeros trabajan sin autorización y tienen mejores pagos.Otra anomalía El diputado representante de Chuquisaca señaló que también hay una anomalía en el caso de otros dos chinos, Huadong Bai y Yongliang Xu, que trabajan en Sinohydro.Explicó que la Sociedad de ingenieros otorgó título de Técnico Superior en Construcción Civil a estos dos asiáticos, que en su país sólo cursaron tres años de la carrera de Ingeniería. Para el diputado, esto es irregular porque un estudiante de ese nivel no podría obtener ese grado académico.Informe de la SIB sobre la situación de chinos que trabajan en Sinohydro
+####
+https://www.reduno.com.bo/noticias/2017-8-27-21-0-0-murio-ahorcado-hace-5-dias-y-su-familia-no-tiene-recursos-para-sepultarlo
+####
+Red Uno de Bolivia.- Leonardo Yzaguirre Nery de 29 años murió el pasado jueves ahorcado por motivos desconocidos, lleva 5 días sin poder ser enterrado, ya que la familia es de escasos recursos para poder comprar un nicho.
+
+La familia es de escasos recursos y piden la colaboración de la población y las autoridades. Por su parte los vecinos le brindaron ayuda para comprar el féretro.
+
+También puedes leer: Emotivo adiós de Lineth, fue asesinada por su esposo.
+####
+https://www.eabolivia.com/futbol/25151-bolivar-se-corona-bicampeon-del-futbol-boliviano.html
+####
+Potosí, 10 dic.- Bolívar se coronó el domingo bicampeón del fútbol boliviano con un empate de visitante 1 a 1 frente a Nacional Potosí a falta de una fecha para la conclusión del torneo Clausura, el partido se jugó en el estadio Víctor Agustín Ugarte de la Villa Imperial.
+
+El gol de Bolívar fue marcado por Marcos Riquelme a los 12 minutos del partido y Nacional Potosí empató con el gol de Cristian Alessandrini a los 70 minutos del encuentro. 
+
+El título obtenido por Bolívar no involucra ningún premio internacional, porque ya está clasificado a la próxima Copa Libertadores, solamente obtendrá un premio económico similar al de la clasificación.
+
+Con el título, Bolívar se convierte en el primer campeón de la División Profesional de fútbol boliviano, en el marco de la reestructuración sugerida por la FIFA y tras más de 40 años de vigencia de la Liga Profesional del Fútbol Boliviano.
+
+Minutos después de que la academia paceña obtuviera el título en Potosí, el presidente Evo Morales felicitó al Club Bolívar a través de su cuenta de Twitter, "Muchas felicidades al Club Bolívar y a la hinchada por este nuevo campeonato" dijo el mandatario en esta red social.
+
+Con el empate frente a Nacional Potosí, Bolívar cerró una gran campaña, aunque con algunos altibajos en la recta final del torneo.
+####
+https://www.elperiodico-digital.com/2017/02/26/la-heroica-defensa-de-villa-montes-en-la-guerra-del-chaco/
+####
+Entre enero y marzo de 1935,  diez y siete mil  hombres del ejército de Bolivia y quince mil del ejército Paraguayo se enfrentaron en cruentas acciones bélicas en la batalla de Villa Montes. Las tropas bolivianas en la defensa y los paraguayos en su intento de toma del fortín durante la guerra del Chaco.
+
+El Comandante del ejército paraguayo Félix Estigarribia anhelaba terminar la guerra con la conquista y ocupación de Villa Montes. La defensa de Villa Montes estuvo comandada por el legendario Gral. Bernardino Bilbao Rioja. Bajo la consigna de que: ¡¡ “no pasarán” !!, las tropas bolivianas impidieron la toma de Villa Montes. Ante la ofensiva paraguaya, el Comando del Ejército de Bolivia, consideró replegarse a Entre Ríos y envió a Tarija los materiales y elementos que no tenían necesidad indispensable de permanecer en Villa Montes. A fines de marzo de 1935, cuarenta y cinco mil hombres conformados por reservistas y voluntarios reclutados a través de un llamamiento general emitido por el Gobierno “para salvar la patria”, fueron  distribuidos en 36 regimientos de primera línea, 4 regimientos de zapadores, 3 batallones de ametralladoras pesadas, 17 baterías de artillería, escuadrones divisionarios y unidades de comunicaciones. Se combatió y derramó sangre durante sesenta y seis días en diferentes frentes de batalla impidiendo el objetivo del ejército paraguayo de tomar Villa Montes y apropiarse de los campos petroleros. La ofensiva boliviana para recuperar el territorio ocupado por los paraguayos desde enero de 1935, se inició al amanecer del 16 de abril de 1935.
+
+Durante la Guerra del Chaco (1932-1935), Villa Montes fue escenario del conflicto bélico con Paraguay e importante en la línea logística boliviana por sus depósitos de armamento y municiones, talleres, oficinas de Comando y hospitales de campaña. Durante el desarrollo de la última fase de la guerra, de enero a junio de 1935, el fortín Villa Montes fue el núcleo principal del sistema defensivo boliviano en el Chaco. La defensa para evitar que Villa Montes cayera en poder del Ejercito Paraguayo, se encargó al Cnel. Bernardino Bilbao Rioja.
+
+El mando del ejército boliviano ante la ofensiva paraguaya consideró trasladarse a Entre Ríos y envió a Tarija el material no indispensable de permanecer en Villa Montes.
+
+Luego de la destrucción del Segundo   Ejército boliviano a fines de 1934 y como efecto de la movilización general decretada por el Presidente Tejada Sorzano en diciembre de 1934 se constituyó el Tercer Ejército boliviano que con sus 36 regimientos duplicó al que tuvo Bolivia un año antes y alcanzó por tercera vez una superioridad masiva sobre el ejército paraguayo. Esta superioridad en hombres y medios le permitió a Bilbao Rioja, en actitud defensiva, resistir el ataque paraguayo realizado a partir del 13 de febrero de 1935.
+
+El 19 de abril de 1935, aprovechando la ofensiva boliviana en el sector central, las fuerzas de Bilbao eliminaron el bolsón creado por los paraguayos en su ataque del mes de febrero recuperando Tarairi.
+
+El General Estigarribia, Comandante General del ejército paraguayo, anhelaba terminar la guerra con Bolivia, con la conquista y toma de Villa Montes, determinación coincidente con los consejos del Estado Mayor del ejército Argentino que lo asesoraba. Habiendo llegado sus tropas al río Parapetí y a los pies de la serranía del Aguaragüe, casi todo el Chaco estaba bajo su control y el ejército boliviano arrinconado y de espaldas a la serranía. Solo le faltaba la reivindicación del triángulo de tierras bajas que el ejército boliviano defendía delante de Villa Montes. La caída de este fortín tenía forzosamente que determinar la conclusión de la guerra, puesto que era el escenario de la actividad bélica boliviana.
+
+Villa Montes era la sede del Cuartel general del Comando Superior, a la vez que el Comando del Sector Sur, asiento de la Jefatura de Etapas con sus intendencias y maestranzas, base de la sanidad, además de población donde transitaban las tropas, entrando o saliendo del Chaco, emboscados de todas la categorías, proveedores, comerciantes, burdeles y prostitutas. La defensa de esa plaza era decisiva para el ejército boliviano. Un nuevo repliegue era imposible. La “chalana” o trasbordador que hacia el servicio entre San Antonio y San Francisco en el río Pilcomayo, era el único medio con el que se contaba para el cruce de sus aguas de una a otra orilla.
+
+El puente que se construía kilómetros más arriba, en el primer angosto, recién iba a quedad concluido tres meses antes de la conclusión del conflicto. La historia del puente era la historia de la imprevisión civil y militar en la conducción de la guerra. El ingeniero Roberto Arce luchaba desde enero de 1933 contra la miopía oficial para hacer de esa obra una realidad. Aunque la construcción había sido aprobada por el gobierno en mayo de 1933, las dificultades en el transporte de material, el paludismo que afectaba a la zona y los escases de trabajadores que fueron llevados a las trincheras demoraron su conclusión hasta marzo de 1935.  Ante el peligro de la caída de Villa Montes a manos del ejército paraguayo, el comando militar boliviano ordeno la colocación de explosivos en las fundaciones del puente para hacerlo volar  en caso de abandono del fortín. En diciembre de 1934 con el puente aún inconcluso, de producirse un desastre en la línea defensiva de Villa Montes, se habría necesitado que la “chalana” trabajara siete días y siete noches sin interrupción para evacuar  el mínimo de tropas  necesario para la continuación  y defensa del pueblo. El dilema era claro: defender Villa Montes sin ninguna claudicación  o el Paraguay tomaba el fortín  e imponía la paz en las condiciones que mejor le parecía.
+
+El tronar del cañón a 12 km y la incertidumbre de si las medidas de defensa resistirían el ataque paraguayo, el Comando en Jefe del ejército boliviano consideró también trasladarse a Entre Ríos, es decir seguir retrocediendo,  determinaron alejar hacia Entre Ríos y Tarija los materiales y elementos  que no tenían necesidad indispensable de permanecer en Villa Montes. El Comando en Jefe del ejército boliviano  considero también trasladarse a Entre Ríos, es decir seguir retrocediendo, pero con el transcurso de los días se fue mostrando la solidez material y moral de la línea de defensa y se optó por parapetarse en San Antonio, en la orilla sur del Pilcomayo. Bilbao Rioja responsable de la defensa de Villa Montes  impuso su temperamento y transmitió a las tropas a su mando el aliento, ánimo y valor  para defender la patria a costa de la propia vida. Todo lo innecesario fue enviado a Tarija y el fortín asumió un carácter netamente militar, austero y disciplinado.
+####
+https://ibce.org.bo/noticias-detalle.php?idNot=550
+####
+Tener una visión amplia de los retos y desafíos de la formación técnica en Bolivia desde la perspectiva de diferentes personalidades y autoridades vinculadas a la educación, el trabajo y la producción, resulta de beneficio para mejorar la empleabilidad e ingresos de jóvenes y adultos trabajadores, fortaleciendo el desarrollo económico del país.
+
+Este es el objetivo que se ha propuesto reflejar la Revista 2014 - 2015 de la Cooperación Suiza en Bolivia, titulada Formación técnica profesional: Oportunidades para el futuro, cuya presentación se realizará este jueves 18 de junio de 2015, en el Salón Pérez de Holguín del Real Plaza Hotel de la ciudad de La Paz (ex Radisson), a Hrs. 19:30.
+
+El acto iniciará con la presentación de la Revista por parte del Embajador de Suiza, Sr. Peter Bischof y continuará con un Coloquio en el que participarán Noel Aguirre Ledezma, Viceministro de Educación Alternativa y Especial, Representante del Ministerio de Educación; Gabriel Dabdoub Álvarez, Presidente de la Fundación INFOCAL Santa Cruz (Instituto Nacional de Formación y Capacitación Laboral); Aida Ferreyra Villarroel, antropóloga, especialista en educación y género; y Amparo Ergueta Tejerina, Oficial Nacional de Programa de la Cooperación Suiza en Bolivia.
+
+En palabras de Peter Bischof: “La Cooperación Suiza en Bolivia apoya el tema desde el 2006, en distintas iniciativas de organizaciones no gubernamentales y del sector público destinadas a mejorar la formación y capacitación técnica de jóvenes y adultos. Nuestro apoyo parte de la premisa de que el fortalecimiento y el desarrollo de capacidades productivas de jóvenes y adultos de ambos sexos es fundamental para mejorar su empleabilidad e ingresos, lo que contribuye al desarrollo económico y por ende a la disminución de la pobreza y la inequidad”.
+
+Al evento han sido invitados el Ministro de Educación, Roberto Iván Aguilar Gómez, representantes de las delegaciones diplomáticas en Bolivia, de la academia, entidades de formación técnica y de la empresa privada. El acto concluirá con un Vino de Honor.
+####
+https://www.opinion.com.bo/articulo/tendencias/ximena-aacute-rez-sobreviviente-lamia-cierra-heridas/20171015194900676039.html
+####
+﻿Las heridas físicas ya cerraron, las psicológicas lo van haciendo también y al rostro de Ximena regresa esa sonrisa amplia que junto al brillo de su ojos negros profundos irradian sus ganas de vivir.
+
+Es la azafata que sobrevivió al accidente del avión de LaMia, en el que 71 personas fallecieron, 19 futbolistas del Chapecoense, familiares, dirigentes de ese club, tripulantes y periodistas.
+
+“Todavía recuerdo los gritos, la oscuridad y el frío de esa noche. La impotencia de no poder salvar a otros”, nos dice, con una voz pausada y suave, la joven que quedó aprisionada por el fuselaje de la nave que cayó poco antes de llegar a Medellín, por falta de combustible y con investigaciones que siguen en curso.
+
+Una parte de su corazón se quedó allá, como nos dice, pero la otra está ahora junto a sus dos pequeños hijos, sus padres, su hermano, sus nuevos proyectos y su deseo de volver a trabajar pronto como azafata, “para seguir volando tras sus sueños”.
+
+A poco de cumplirse un año de la tragedia que conmocionó al mundo el 28 de noviembre de 2016, Ximena Suárez Otterburg conversó por teléfono con la revista ASÍ.
+
+En el accidente del avión LaMia fallecieron 71 personas y sobrevivieron apenas seis, entre esos dos  bolivianos, la cruceña Ximena Suárez Otterburg y el cochabambino Edwin Tumiri, mecánico de la aeronave.
+
+Tumiri, que también sufrió heridas y fracturas, en el accidente ayudó a Ximena a salir del avión, ante el temor de que se de una explosión.
+
+La azafata de LaMia volvió, en agosto pasado, a las montañas de La Unión, cerca de Medellín, en Colombia, llevando flores a los 71 muertos del accidente del avión de LaMia, al cual ella sobrevivió.
+
+También visitó el hospital en el que fue atendida y al rescatista que la sacó del lugar. El recorrido le “ayudó a superar el dolor”.
+
+Ximena Suárez Otterburg, la sobreviviente del accidente del avión de LaMia, se tatuó un avión que alza vuelo, con los colores del Chapecoense. La pieza ha sido grabada en el lado izquierdo de su espalda, entre la cintura y las costillas.
+
+"Sabemos que esas heridas del alma dejan profundas cicatrices que necesitan ser canalizadas de alguna manera...", dice una parte del video que le dedicó la empresa Tattoomania, autora del tatuaje que se pintó en septiembre.
+
+La noche 28 de noviembre de 2016, lunes, el avión que transportaba al equipo brasileño chapecoense reportó problemas mientras volaba sobre La Ceja y La Unión, dos pueblos entre las montañas cerca de Medellín,en Colombia. Poco después ya no se escuchó nada, la nave con 77 pasajeros se había estrellado.
+
+Ese fatídico día murieron 71 personas, entre esas 19 jugadores del Chape, familiares, dirigentes del club brasileño y casi 20 periodistas. Solo seis sobrevivieron: Jackson Follmann, arquero suplente, Alan Ruschel, defensor del equipo, Helio Neto, también jugador del club, Rafael Henzel, periodista, Edwin Tumiri, encargado de mantenimiento de la nave, y Ximena Suárez, auxiliar de vuelo de LaMia.
+
+“El caso está quedando en el olvido. No hay respuesta a nada”, dice con preocupación Ximena Suárez Otterburg, la superviviente del accidente del avión LaMia, en el que murieron 71 personas, hace casi un año, en Colombia.
+
+El caso, que sigue en investigación, involucra a tres países, Brasil,  Bolivia y Colombia. El vuelo que transportaba al equipo brasileño Chapecoense, dirigentes y periodistas, partió de Santa Cruz, Bolivia, y cayó poco antes de llegar a su destino, Medellín, Colombia, por falta de combustible.
+
+Además, en Bolivia se investiga el registro de la empresa LaMia que contaba con solo dos aviones que realizaban vuelos chárter. Los tres países realizan investigaciones por separado para dar con los responsables del fatal accidente en el que influyó una cadena de errores.
+y en la empresa, cuyos propietarios se dieron a la fuga. En Bolivia se procesa a los funcionarios que dieron orden de despegue al avión sin haber comprobado que la cantidad de combustible sea el necesario para el viaje hasta Medellín y hay temas pendientes con las empresas de seguro.
+####
+https://eju.tv/2017/09/tezanos-teme-por-la-vida-del-dirigente-modesto-clares-de-los-ponchos-rojos/
+####
+La Paz, 17 septiembre (ANF).- El Defensor del Pueblo, David Tezanos informó que el dirigente de los Ponchos Rojos, Modesto Clares, supuesto rehén de los pobladores de Achacachi, se comunicó el día de ayer y pidió que digan a la Policía que no intervengan el bloqueo porque su vida corría riesgo.
+
+«Existe una grave situación que pone en riesgo la vida de Modesto Clares, secretario de los Ponchos Rojos, quien visiblemente maltratado de acuerdo a dirigentes vecinales de Achacachi que bloquean la carretera La Paz-Copacabana se encontraría en calidad de rehén, lo que coincide con las declaraciones de su familia», señaló Tezanos en conferencia de prensa.
+
+Sin embargo dijo que ante las amenazas, Modesto Clares declaró que se encuentra voluntariamente en el lugar del bloqueo. “Él se ha comunicado el día de ayer con nosotros y nos dijo que por su vida, se evite cualquier posibilidad de intervención», señaló.
+
+Tezanos manifestó que desde la Defensoría del Pueblo se alertó de esta situación indicando que cualquier intervención o confrontación pondría poner en riesgo la vida de una persona que esté en calidad de rehén. 
+
+La condición de Clares era muy obvia porque muchos dirigentes que se encontraban en el bloqueo, en la ruta de Copacabana a La Paz reconocían su situación, así como también sus familiares pero que a pedido de los mismos se trató de manejar esta situación de forma responsable porque se temía por su vida. 
+
+Del mismo modo manifestó que “la Policía Boliviana tiene el deber de resguardar la situación así como los dirigentes que lo tienen en esa calidad de rehén y (ellos) tienen el deber de liberarlo porque que esta no es la forma de actuar, violando derechos de las personas y mucho menos el de anunciar ejecutarlo ante la intervención de la Policía». 
+
+Exhortó a la Policía como a los vecinos de Achacachi y Ponchos Rojos evitar cualquier enfrentamiento y que la única forma de solucionar este conflicto sería el dialogo para lo cual convocó a las partes en conflicto este lunes en instalaciones de Cáritas.
+####
+https://www.jesuitas.org.bo/noticias/bolivia-y-la-venerable-virginia-blanco-tardio
+####
+Cuando el Papa Francisco visitó Bolivia en 2015 nombró a dos mujeres que están en proceso de santificación: Nazaria Ignacia March, religiosa, y Virginia Blanco Tardío, laica y soltera. La primera ha sido ya beatificada. La segunda es Venerable, un paso que precede a la beatificación. Nazaria era española y trabajó en Bolivia. Virginia era boliviana y nació, vivió y murió en Cochabamba el 23 de julio de 1990. Muchos de nosotros la hemos conocido. El Papa Francisco la declaró Venerable el 22 de enero de 2015.
+
+¿Por qué es Venerable Virginia Blanco? Porque, a decir de quienes vivieron, trabajaron y trataron con ella a lo largo de su vida, vivió en grado heroico la fe, la esperanza y la caridad, además de otras virtudes. O, si se prefiere, porque plasmó y tradujo en su vida el evangelio de Jesús. De Virginia se puede decir aquello que Pablo dice de los fieles de Corinto: “Nadie puede negar que ustedes son una carta de Cristo … escrita por el Espíritu Santo”. De Virginia podemos decir que su vida fue esa carta de Cristo escrita en grado heroico: carta en defensa y confirmación del evangelio que, quienes conocieron a Virginia, pudieron “leer y entender”.
+
+Virginia fue mujer de oración: Su vida nos enseña a comunicarnos con Dios. A salir de nosotros mismos y de nuestro laberinto. A librarnos de ese solipsismo que a veces se transforma en asfixia y angustia. A escapar de la necesidad de perdernos en el ruido ensordecedor, a salir de la necesidad de sumergirnos en una búsqueda frenética y frustrante en el telecomando de la TV o del smarphone. Ella dedicaba a diario, además de participar en la Eucaristía, un largo tiempo a la oración de la Iglesia y a la meditación de la Palabra de Dios.
+
+Virginia fue mujer de acción: La oración no la encerraba en sí misma, sino que la abría a la acción en favor de los demás. Aprendió desde muy joven que una piedad que no desemboca en el servicio a los demás es una piedad vacía. Virginia, por así decir, no olía a incienso. Su vida estaba al servicio de la familia que la rodeaba, del trabajo en los colegios fiscales, de la preparación de la catequesis que impartía en ellos, de la preparación de los alimentos cada día en favor de los pobres y de la atención a los enfermos en el policonsultorio que abrió en su casa.
+
+Virginia fue mujer de su pueblo: Procedía de una familia acomodada; pero supo plasmar en su medio el amor a los necesitados, vivir austeramente y abrir su casa y su familia al servicio de los más desafortunados. Se anticipó sin hacer ruido ni propaganda a poner en práctica el respeto a la lengua autóctona y al campesinado, sin discriminar a las personas por la lengua o condición social. Los de su familia que convivieron con ella,  lo aprendieron de ella. Y quienes la atendían atestiguan que las trataba como parte de su familia.
+
+¿Y por qué deseamos verla santa? Es comprensible esta pregunta: hay multitud de santos y santas; hay ejemplos en toda la historia de la Iglesia de mujeres como ella. Pero necesitamos ejemplos cercanos. Bolivia y en especial los cristianos necesitamos ejemplos de personas que, nacidas y educadas en Bolivia, insertas en su ambiente social y en su medio familiar, nos enseñen a vivir la radicalidad del evangelio. La santidad no es un anacronismo. La santidad no es imposible. La santidad es para toda persona bautizada y no solo para sacerdotes, religiosas y religiosos.
+
+Pedir al Señor que corrobore su santidad: Sabemos muy bien que solo Dios es Santo. Pero Dios nos dice “sean santos porque yo soy Santo”. La carta a los Hebreos nos dice también que estamos rodeados por una nube de santos y santas y nos invita a caminar con ellos hacia la meta, “fijos los ojos en Jesús”, como lo hizo Virginia. La santidad es el fruto de una vida santa. Nadie es santo porque haga milagros. Pero de ordinario la Iglesia antes de declarar a una persona santa o beata (que es el paso anterior) postula un milagro, atribuido a las oraciones de esa persona, que manifieste que Dios corrobora su santidad. Si el examen de una presunta sanación atribuible a los ruegos de la Venerable Virginia Blanco Tardío fuera considerado positivo, el Papa podría declararla beata (bienaventurada). Sería una bendición para Bolivia. Debemos pedirlo a Dios con insistencia.
+####
+https://eju.tv/2017/04/canciller-chileno-dice-que-sospechaba-provocacion-de-bolivia/
+####
+El canciller chileno, Heraldo Muñoz dijo que sospechaba que  Bolivia provocaría a Chile antes de la presentación de la contramemoria por la demanda marítima en La Haya y asegura que el discurso de hostilidad contra Chile se ha desgastado.
+
+“No es primera vez que se han perpetrado acciones semejantes por parte de militares y civiles bolivianos. Se arrastran desde hace años en fechas que el gobierno boliviano considera claves. Ya habíamos advertido por notas que no toleraríamos nuevos incidentes. Y sospechábamos que el gobierno de Morales pretendería acciones de provocación alrededor del 21 de marzo, fecha de presentación de la réplica boliviana a la contramemoria chilena por el caso de la demanda marítima, y por la fecha del denominado Día del Mar, el 23 de marzo”, respondió la autoridad, durante la entrevista que concedió al diario chileno La Tercera, cuando le preguntaron si se sorprendió por la reacción que tuvieron las autoridades bolivianas por los ciudadanos que fueron detenidos el 19 de marzo.
+
+Añadió en ese sentido, que el discurso de hostilidad hacia Chile “se ha desgastado y ha saturado la prensa internacional”, por lo cual, aseguró que ya no le prestaba demasiada atención.
+
+“Las acciones bolivianas tienen como destinatario mediático a su propio público interno”, recalcó, a su llegada a su país, luego de una gira que realizó acompañando a su presidenta, Michelle Bachelet.
+####
+https://eju.tv/2017/01/ffaa-de-bolivia-abren-sus-puertas-para-el-servicio-militar-primer-escalon-2017/
+####
+Ayer. Las Fuerzas Armadas licencian a 20.000 soldados y marineros del Primer Escalón 2016. (Min Defensa/ABI).La Paz, 29 ene (ABI).- Al menos 90 pequeñas y grandes unidades de las Fuerzas Armadas asentadas en todos los confines de la Patria abrirán sus puertas y reclutar a los jóvenes para el Servicio Militar Obligatorio Primer Escalón 2017, informó el domingo el ministro de Defensa, Reymi Ferreira.»El Ejército, Fuerza Aérea y Armada abrirán sus puertas a partir del 30 de enero para que se alisten en filas a los jóvenes de 18 a 22 años», confirmó a la ABI.Recomendó a los jóvenes que se presenten a la convocatoria, que deberán hacerlo en la unidad más cercana a su domicilio o localidad para evitar la dispersión y las largas filas que se dan en especial, en las unidades tradicionales de La Paz, como los Colorados de Bolivia o el Gran Cuartel de Miraflores.Recordó que el Decreto Supremo 1875, firmado por el presidente Evo Morales, permite un trabajo coordinado entre los ministerio de Educación y Defensa, para que los soldados concluyan sus carreras técnicas como Ofimática, Agropecuaria, Mecánica Automotriz, Confección Textil, Electricidad, Sistema Computacional, Turismo, Instalación Eléctrica, Gastronomía, Serigrafía, Carpintería y Sastrería en Centros de Educación Alternativa (CEAs) que trabajan en Unidades Militares, en todo el país.El decreto permite que la tropa del Servicio Militar Obligatorio continúe estudios en todos los niveles educativos: educación regular (bachillerato); educación alternativa (bachillerato y formación técnica); educación superior (licenciatura y técnicos superiores).Además, los soldados destacados se benefician con becas en el nivel educativo público y en los institutos militares del Ejército, Fuerza Aérea Boliviana (FAB) y la Armada Boliviana.Según la convocatoria, los postulantes deben presentar el certificado de nacimiento, su cédula de identidad original y fotocopia.
+####
+https://eju.tv/2017/02/hablemos-de-hidrocarburos/
+####
+Carlos F. Valverde BravoHay preocupación en los departamentos productores de hidrocarburos que dependen de los ingresos de regalías e IDH por la baja producción de gas. Brasil está comprando muy poco, Argentina anuncia que va a comprar más, pero no inmediatamente y, como se sabe, en Bolivia la producción de gas viene asociada a la producción de crudo, de manera tal que debemos manejarnos con el condensado que se extrae del gas y, si hay merma de gas, lógicamente debe haber merma de condensado, entiéndase: gasolina y, peor aún, diésel, porque nuestro petróleo es muy liviano.Los que conocen sobre esto no van a dejar que se diga una cosa por otra: con relación a Brasil, lo cierto es que los vecinos no han comprado “más que un tercio” de lo que establece el contrato. Los que saben aseguran que la producción de gasolinas y otros puede haber bajado un 60% este año, ello tiene que significar que el país está importando esos productos en mayor cantidad que los que venía importando, lo que implica que estamos recibiendo menos por gas y erogando más por la compra de combustibles, cosa que se tiene que estar haciendo con mucho sigilo para que la gente no se dé cuenta de que la plata se está yendo del país, otra vez.Esto que sigue me lo envió un ciudadano preocupado por el tema: “Las refinerías, con todas las inversiones que se hicieron en los últimos años, tienen una capacidad aproximada de 63.000 BPD, pero están procesando actualmente un 60% (38.000), porque no les llega el condensado. Todo el 2016 se ha estado operando a niveles inferiores a los planeados porque no hay condensado”.Aclaro que los números pueden variar, pero es conveniente entender que el problema es estructural, se sabe que esto se lo habían advertido al presidente por 2012 o 2013, cuando la CBH le pidió que abriera las chances a las empresas que quieran venir a invertir, que se adaptara la Ley de Hidrocarburos al momento que se estaba viviendo con mirada de futuro, pero el ‘excesivo nacionalismo’ y la soberbia ‘revolucionaria’ nos dejó como estamos: sin posibilidad de expandirnos y cada vez más dependientes de los dos únicos mercados que reciben el gas boliviano: Argentina y Brasil. Es cierto que Paraguay entró al mercado nacional, pero convengamos en que el negocio con ellos es marginal.Concluyendo: el tema y el problema de esto es que la actual producción no alcanza para abastecer la demanda interna; ello significa, reitero, que el país está importando una mayor cantidad de carburantes (algunos hasta dicen petróleo) y, si bien es cierto que el petróleo vale menos que antes, no es menos cierto que el gas está asociado al precio del petróleo y el país recibe menos dinero por su exportación y paga por más gasolina que antes, o sea, estamos lo mismo que igual.El Deber – Santa Cruz
+####
+https://www.opinion.com.bo/articulo/informe-especial/emsa-recoge-cada-d-iacute-5-toneladas-alimentos-mercados-restaurantes/20170903170800675740.html
+####
+Cientos de kilos de fruta, verduras, carne y arroz se botan a la basura. En algunos casos se trata de sobras, pero también hay presas enteras de pollo en buen estado que los comensales dejan en sus platos.
+
+Juan Heredia asegura que ha logrado alimentarse en los últimos cinco años gracias a las "sobras" que recoge de las montañas de fruta que se arrojan en los centros de abasto y de la comida "en buen estado" que encuentra afuera de los restaurantes, en el denominado Casco Viejo de la  ciudad de Cochabamba.
+
+En la otra orilla, Mario Terrazas es un auditor que, según su testimonio, deja, casi siempre en su plato, parte de la comida que pide en el restaurante al que va todas las noches.
+
+Afirma que siente un "leve remordimiento" cuando no termina toda su comida, pero argumenta que "no deja mucho" y el plato que pide tiene más cantidad de lo que él puede comer.
+
+En su plato deja, principalmente, bastante arroz, parte de la papa y alguna vez una que otra presa de pollo o pedazo de carne. Y estas sobras, posiblemente, sean de utilidad para personas como Juan Heredia, quien consigue alimentarse de esa manera.
+
+La Empresa Municipal de Servicios de Aseo (EMSA) recoge cada día, como promedio, un poco más de cinco toneladas de alimentos o sobras de comida de mercados, supermercados y restaurantes de la ciudad.
+
+El gerente general de EMSA, Raúl Gutiérrez, asegura que en esa cantidad de basura que se desecha cada día están incluidas las frutas, verduras y los desechos de las diferentes actividades económicas que hay en el medio.
+
+Gutiérrez agrega que para evitar el desperdicio de comida en los restaurantes, por ejemplo, la iniciativa debería partir de los que atienden, es decir, advertir a los clientes que de un plato pueden compartir dos personas, o más.
+
+Informa que la mayor parte de los desperdicios de alimentos es verdura y fruta, unas cuatro toneladas, y el resto sobras de comida de restaurantes y del mercado, un poco más de una tonelada.
+
+Gutiérrez recuerda que en el municipio de  Cochabamba funcionan 3.145 actividades económicas gastronómicas que se dedican al rubro de la comida.
+
+En lo que se refiere a las frutas que se desechan en los centros de abasto de la ciudad, Gutiérrez afirma que la mayor parte es mandarina y naranja, una mínima porción plátano, además de verduras como tomate y lechuga.
+
+"Otras verduras que se descomponen en los mercados son los coliflores, zapallos, que son los más perecederos".
+
+Y de estas frutas y verduras aprovecha Miriam, una mujer que ronda los 65 años y que llega hasta la avenida República, frente al Mercado Chino, en la zona sureste de la ciudad.
+
+De muy pocas palabras, esta potosina, que llegó hace siete años a Cochabamba, afirma que no tiene trabajo, por lo que debe subsistir buscando restos de fruta en la basura para su consumo.
+
+En algunas oportunidades tiene que, incluso, apartar a los perros que escarban entre la basura, en busca de restos de comida.
+
+Respecto al desperdicio de alimentos, el papa Francisco aseguró, en junio de 2013, que "la comida que se tira a la basura es el alimento que se roba al pobre, al que pasa hambre".
+
+Bergoglio señaló en esa oportunidad, según la agencia española de noticias EFE, que en el mundo se impone "la cultura del desecho, del descarte, que nos ha hecho insensibles también al derroche alimentario, que es aún más despreciable cuando en todas partes del mundo muchas personas sufren hambre y malnutrición".
+
+No obstante, para Juan Heredia es un alivio poder encontrar en la basura un pedazo de pan para llevarse a la boca y no irse a dormir con el estómago totalmente vacío.
+
+En  Bolivia, según datos del Instituto Nacional de Estadística (INE), a 2015, el 38.56 por ciento de la población es pobre.
+
+Las proyecciones del INE señalan que el número de habitantes era de 10.881.124, en el año 2015, y en la línea de la pobreza habían 4.195.407 personas.
+
+Una década antes, según datos del INE, en el país el 59.63 por ciento de las personas se encontraba en algún nivel de pobreza. De los 9.366.312 habitantes que había ese año, un total de 5.584.772 era pobre.
+
+El secretario general de la Federación Sindical Única de Trabajadores Campesinos de Cochabamba, Pedro Quiroz, calcula que desde el transporte del producto hasta su comercialización en los mercados se pierde, por lo menos, el 20 por ciento del total de los alimentos, por diferentes factores.
+
+Entre algunas causas mencionó el mal estado de las carreteras, los bloqueos y el ingreso de alimentos del exterior, que se ofertan a menores precios e inundan los mercados de la ciudad, relegando a los que se cultivan en el país.
+
+Quiroz, quien forma también parte del Comité de Desarrollo Productivo de la Federación de Campesinos, afirma que los agricultores piden al Gobierno y a la población que valoren lo que se produce en el país y que se deje de importar tantos alimentos.
+
+El dirigente campesino abunda que los centros de abasto de la ciudad están inundados con papa, cebolla, zanahoria, chirimoya, tomate y camote, entre otros, cuya venta hace que los precios de los productos nacionales bajen hasta el mínimo.
+
+Añade que sus compañeros están molestos y por eso decidieron controlar en los mercados para verificar si se vende fruta importada, "porque nuestras autoridades no dicen nada hasta ahora".
+
+"Nadie se pregunta cómo pueden sustentarse las familias de los agricultores con tan bajos precios, porque no se gana ni para reponer la semilla. El último fin de semana, por ejemplo, la carga de papa (100 kilos) se vendió hasta en 150  bolivianos, que no compensa ni la mano de obra que se invierte".
+
+Advierte que el arancel que se paga por los productos importados es casi cero, apenas un boliviano por carga.
+
+Uno de los pedidos de los agricultores es que se construyan en el país, y especialmente en Cochabamba, silos de acopio, para preservar los alimentos que se producen.
+
+Además, el dirigente campesino recuerda que en 1952, época de la Revolución Agraria, la mayor parte de la población estaba concentrada en el área rural, y ahora solo queda un 30 por ciento del total, porque los jóvenes prefieren migrar a la ciudad y trabajar de albañiles, antes que seguir como agricultores, porque no les conviene seguir en ese rubro.
+
+Quiroz señala que el agricultor invierte desde la semilla, los insumos, la mano de obra y no le queda ganancia.
+
+Explica que en Perú, el Estado ayuda con seguros agrarios y otras subvenciones a los agricultores, además de créditos blandos, de tal modo que están en ventaja con relación a sus pares bolivianos.
+
+En Bolivia se sigue manteniendo una agricultura orgánica y solo en un 10 por ciento de los cultivos, de los pequeños productores, se utilizan químicos.
+
+Un tercio de todos los alimentos que se produce en el mundo se pierden y se desperdician en sus diferentes etapas, desde el transporte hasta su consumo final, situación que también sucede en "nuestro medio", asegura la responsable de Swisscontact  Cochabamba, Carola Ortuño.
+
+Señala que los alimentos que se producen en determinadas zonas deben ser llevados hasta los centros de abasto de las ciudades y se pierden en un porcentaje importante porque en el transporte no se utilizan frigoríficos, por ejemplo, que permitan mantenerlos en buen estado el mayor tiempo posible.
+
+Y los alimentos se pierden también en los mercados porque muchas de las vendedoras no tienen las condiciones para conservarlos en buen estado.
+
+Los alimentos también se desperdician cuando llegan a los restaurantes, en algunos casos porque estos establecimientos tienen altos estándares de calidad y botan los que tienen imperfecciones.
+
+Estos alimentos, que podrían servir para alimentar a cientos de personas, porque todavía se encuentran en buen estado, están irremediablemente destinados a ser echados a la basura, afirma Ortuño.
+
+La dificultad es, según Ortuño, que no hay una persona, entidad u organización que pueda reunir estos alimentos para entregarlos a la gente.
+
+Señala que en algunos países de Europa se han implementado programas de voluntariado en los que grupos de personas se dedican a acumular alimentos para hacer llegar a la gente que los necesita.
+
+En Alemania, por ejemplo, se cuenta con el proyecto Food Sharing (compartiendo el alimento). Los miembros de este programa tienen contacto con administradores de restaurantes para que ellos puedan acopiar los alimentos que están en buen estado, en vez de botarlos a la basura, los puedan transferir inmediatamente a lugares donde está la gente beneficiaria.
+
+Estos alimentos pueden llegar especialmente a la gente que no tiene recursos económicos para adquirirlo, de modo que no se desperdicie más.
+
+Pero eso, según Ortuño, no significa entregar las sobras, sino “alimentos potenciales” que pueden ser aprovechados por otras personas. Este programa puede ser implementado en Cochabamba.
+
+“Por ejemplo, considero que los bufets grandes podrían estar conectados con alguna organización que reúna esta comida para entregársela a la gente que necesite”.
+
+Cuando, por ejemplo, Swisscontact realiza eventos grandes y no se consume una parte de los alimentos, se los empaca y se lleva a algún hogar para ayudar a los que residen en ese lugar.
+
+Otra opción, para no desperdiciar los alimentos que se sirven en los restaurantes, es que los comensales se lleven lo que les ha sobrado para comer más tarde, para la cena, y de esa forma se evita botar esta comida a la basura.
+
+En los mercados se puede observar a gente indigente que busca entre los promontorios de basura comida que le sirva para llevarse al estómago.
+
+Para evitar el desperdicio de los alimentos, especialmente la fruta, los vendedores pueden utilizar estrategias como la disminución de precios al final de la tarde o entregar dos por uno.
+
+Y pérdida de alimentos se puede también considerar cuando en los restaurantes se sobrecarga los platos con mucha comida, de manera que los comensales no terminan porque se sobrepasa la capacidad de los estómagos.
+
+Los desperdicios que recoge EMSA cada día de los diferentes distritos del municipio de Cochabamba se llevan hasta el botadero de K´ara K´ara para la disposición final a cargo de la empresa Colina.
+
+El gerente general de EMSA, Raúl Gutiérrez, afirma que la empresa Colina dispone gran parte de los alimentos desechados junto con la basura común porque la gente todavía no separa los residuos sólidos, por lo que los desechos orgánicos, entre ellos los alimentos, no se pueden aprovechar.
+
+Señala que en vez de botar los restos de comida a la basura, se podría utilizar estos para alimentar a las mascotas, por ejemplo.
+
+Sin embargo, Gutiérrez lamenta que muchos vecinos en el municipio todavía no tengan esa cultura de segregar los residuos orgánicos para darle el uso correspondiente a cada uno de ellos.
+
+La basura, cuando no está seleccionada, se entierra en el relleno sanitario de K´ara K´ara, tal como dispone la norma.
+
+Gutiérrez afirma que cuando recogen la basura de los domicilios y la misma no está separada, muy poco se puede recuperar si hay frutas, por lo que la mayor parte se dispone junto con la basura común.
+
+Cuando la basura es separada, como aconseja EMSA, los residuos orgánicos, frutas, verduras o sus restos, pueden ser utilizados para hacer abono orgánico, después del proceso correspondiente.
+
+La ventaja de recoger los residuos sólidos de los mercados, según Gutiérrez, es que ahí están acumulados los restos biodegradables como las verduras y frutas y se puede hacer directamente el proceso de compostaje.
+
+Los productos que tienen fechas de vencimiento expiradas son recogidos por EMSA, destruidos y enterrados para que no sean utilizados y así velar por la salud de la ciudadanía.
+
+Para proceder a la destrucción de los alimentos vencidos, la dirección de Medio Ambiente de la Alcaldía de  Cochabamba notifica a EMSA y esta es la instancia encargada de hacer la destrucción en el relleno sanitario. Se convoca a Impuestos Internos, un notario de fe pública y un representante del supermercado.
+
+Los productos caducados se destruyen con un rodillo, se recoge los desechos y se los entierra mediante la empresa Colina que está a cargo del cierre técnico del botadero.
+
+Los supermercados tienen la obligación de reportar ante la Dirección de Medio Ambiente de la Alcaldía cuando tienen alimentos vencidos para su respectivo recojo y destrucción en el botadero.
+
+Según Gutiérrez, los productos que se vencen en los supermercados representan entre un 8 y 10 por ciento de toda la mercadería que tienen, "porque lamentablemente no todo se vende".
+
+La destrucción de la mercadería vencida no es tan frecuente, se lo hace cada tres o seis meses y se trata de dos toneladas como promedio.
+
+Consumir alimentos en mal estado, dañados o con la fecha vencida es altamente peligroso para la salud de las personas, advierten especialistas y organizaciones que trabajan en este campo.
+
+Las consecuencias más graves de consumir estos alimentos son, según la nutricionista Catalina Miranda, entrevistada por tl.cl, “contraer una enfermedad de transmisión alimentaria, desde una reacción alérgica, problemas gastrointestinales, hasta la muerte”.
+
+La especialista recalca que se debe observar siempre las fechas indicadas por los fabricantes de los alimentos, porque sus ingredientes se descomponen y se contaminan”.
+
+Los alimentos más peligrosos de consumir son los que tienen líquidos como la leche, yogur, queso, carnes y todo tipo de pescados.
+
+El sitio web Fuente Saludable advierte que muchas de las enfermedades son causadas por la ingesta de alimentos en proceso de descomposición.
+
+Los alimentos en mal estado pueden causar vómitos, náuseas, diarrea, cólicos, pérdida del apetito, fiebre, dolor de cabeza y debilidad, entre algunos.
+
+Los alimentos contaminados por bacterias, virus, parásitos o sustancias químicas nocivas causan más de 200 enfermedades, desde diarreas hasta cáncer, según un último informe de la Organización Mundial de la Salud.
+
+La salmonelosis, las enfermedades gastrointestinales y la infección por Escherichia coli, entre otras, enferman a más de 582 millones de personas en el mundo y matan a más de 350 mil cada año, puntualiza este informe de la organización de salud.
+####
+https://www.reduno.com.bo/noticias/2017-9-10-21-0-0-solo-mejores-estudiantes-pueden-inscribirse-al-servicio-premilitar
+####
+Según explicó el Tte. Cnel. Henry Eyzaguirre, comandante del Regimiento de la Policía Militar este es un nuevo requisito obligatorio para quienes pretendan realizar esta modalidad de servicio.  “Es un requisito implementado a partir de este proceso de reclutamiento que exige la presentación de una certificación otorgada por el director del colegio, que establezca una nota mínima superior a la media del curso (85 puntos)”, indicó.
+
+Esto sorprendió a los padres de los jóvenes, ya que esto no se habría hecho conocer con anticipación, lo que pone en riesgo el ingreso de sus hijos a los centros de reclutamiento en donde este lunes se observó largas filas. “Tenemos una masiva asistencia de jóvenes con la intención de inscribirse en el premilitar; después de determinar si el joven cuenta con la documentación y esta físicamente apto, tengo entendido que deben hacer el depósito de 1.000 bolivianos”, añadió el comandante.
+
+Sin embargo, Eysaguirre aclaró que los demás aspirantes pueden inscribirse al servicio militar que se habilita a partir de los 18 años de edad.
+####
+https://www.reduno.com.bo/nota/2017-7-30-21-0-0-10-recomendaciones-importantes-para-hacer-una-quema-controlada
+####
+Según las estadísticas, el 99% de los incendios forestales tienen que ver con la acción directa del hombre, pero además, este tipo de fenómenos está muy relacionado con los llamados chaqueos irresponsables realizados por personas inescrupulosas.
+
+Si usted piensa realizar un chaqueo debe asegurarse que tal acción sea una quema controlada con base en recomendaciones y estándares aceptados en esta materia.
+
+Para hacer una quema controlada exitosa se sugiere considerar los siguientes 10 aspectos de acuerdo al Programa Amazonia sin Fuego dependiente del Ministerio de Medio Ambiente y Aguas.
+
+Delimite bien el área a quemar.
+Evalúe las condiciones climáticas antes de iniciar la quema, por ejemplo temperatura, humedad, viento y clima.
+Las condiciones del viento deben ser moderadas y estables, en especial se debe evitar hacer una quema cuando se presentan ráfagas de viento o formación de remolinos.
+Debe asegurarse de contar previamente con un equipo de comunicación en excelentes condiciones que permita dar la voz de alarma en caso que algo salga mal (celular, radio, etc.)
+Contar con el número de personas necesarias para realizar la quema controlada, pero además, estas personas deben estar capacitadas para realizar tal acción.
+Con antelación comunique a los vecinos el día y la hora que realizará la quema para que éstos puedan tomar sus precauciones.
+Es altamente recomendable realizar la quema en las llamadas ‘horas frías’ del día, es decir, entre las 7 y 9 de la mañana y al final de la tarde (pasada las 4).
+Es mucho mejor realizar los chaqueos a comienzos de la época de lluvias porque el riesgo de propagación del fuego disminuye.
+Tomar medidas precautorias especiales, como un botiquín de primeros auxilios, trazar rutas de escape y definir zonas de seguridad.
+No debe olvidarse de construir los llamados ‘callejones cortafuego’, los cuales son cortes en forma de caminos y callejones que impiden la propagación del fuego. Estos deben tener un mínimo de 3 metros de ancho, aunque una buena práctica es delimitar su ancho a 2 veces y medio la altura promedio de la vegetación local.
+####
+https://eju.tv/2017/02/mantener-el-museo-de-orinoca-costara-medio-millon-de-bolivianos/
+####
+La ministra de Culturas adelantó una nueva norma para el sector, junto con un plan de trabajo en beneficio de los artistas en diversos campos. Llamentó que no existan los suficientes recursos.
+
+La autoridad aseguró que la población donde se edificó la imponente estructura cuenta con todos los servicios básicos.
+
+La ministra de Culturas, Wilma Alanoca, informó que el mantenimiento al museo de Orinoca costará anualmente medio millón de bolivianos y se espera recuperar parte de los 50 millones de bolivianos invertidos en al menos cinco años.
+
+La autoridad detalló que son 12 personas las que trabajarán en la estructura, inaugurada en medio de críticas de opositores por considerar que es una edificación al «ego» del presidente Evo Morales. El monto erogado saldrá del Tesoro General de la Nación (TGN).
+
+Sostuvo que se espera que un 5 por ciento de los visitantes que van al salar de Uyuni acudan al espacio. Por año son aproximadamente 236.000 visitantes al espacio natural, de acuerdo al Ministerio de Culturas.
+
+”Allá hay agua, allá hay luz y allá hay hoteles», enfatizó Alanoca, al invitar a toda la población a acudir a Orinoca, pueblo en el que nació el primer mandatario y adelantó que se incentivará a que la población acusa no solo a este espacio sino a otros en el país.
+
+Adelanto una nueva norma para el sector de culturas, junto con un plan de trabajo en beneficio de los artistas en diversos campos, aunque lamentó que no existan los suficientes recursos.
+####
+https://www.opinion.com.bo/articulo/informe-especial/bolivia-tiene-23-100-madurez-tecnol-oacute-gica-est-aacute-lista-bitcoin/20170604183600675085.html
+####
+“Santander y otros grandes bancos lanzan su ‘Bitcoin (...)”. Ese titular de la agencia española de noticias Europa Press, hace suponer a expertos en tecnología de Bolivia que el Bitcoin es el dinero del futuro, pero el país aún no está listo para establecerlo.
+
+El docente y consultor en Tecnología de la Información en la Agencia Bithumano, Marcelo Durán, y el gerente general de Connaxis Bolivia (empresa global de marketing digital, redes sociales, diseño y desarrollo web y mobile), Álvaro Guzmán Gálvez, le atribuyeron veracidad a criptomonedas como el Bitcoin.
+
+Guzmán explicó que en el mundo “existen mercados de criptomonedas”. Se trata de portales online que permiten a los usuarios subir dólares u otras divisas para comprar y vender criptomonedas. Los beneficios se dan en función a la fluctuación positiva de los precios.
+
+Aunque, aclaró que la mayor parte de esos portales no están regulados por instituciones financieras o entidades fiscalizadoras, por la misma naturaleza de la tecnología. A eso se suma que adquirir estas monedas es complejo, por lo que muchas personas sin escrúpulos aprovechan para captar inversores y timarlos.
+
+A su criterio, Bolivia “está dando sus primeros pasos en cuanto a tecnología financiera (Fintech) y estamos muy por detrás de otros países de la región”, por lo que aún no es viable establecer su uso.
+
+Un estudio que VISA hizo llegar a Connaxis reveló que Bolivia tiene un 23.6 puntos sobre 100 en madurez tecnológica para la implementación de comercio electrónico.
+
+Ese índice es bajo respecto a otras naciones. Estados Unidos, por ejemplo, es líder del mundo con 94.5 de madurez y el más avanzado de Latinoamérica es Brasil, con 4.3 puntos. “Nos dejan muy atrás, estamos en penúltimo lugar en madurez para llevar adelante cambios en paradigmas tan complejos”.
+
+EDUCACIÓN A criterio de los expertos, si se da la posibilidad de introducir monedas electrónicas a Bolivia se debe partir, principalmente, por la educación. “Considero que nuestras autoridades, las instituciones, las empresas y principalmente nuestra población necesita entender la filosofía de esa tecnología. Una vez que entendamos realmente a qué se refiere, será momento para discutir si es conveniente aplicarla y en base a qué reglas”.
+
+El experto ejemplificó a Olga Skorobogatova, vicepresidenta del Banco Central de Rusia, quien dijo en enero de este año que “Bitcoin es una moneda privada y es claro que no es tan simple o directa como se ve en los libros o revistas. La posición de los reguladores y agencias es, por lo tanto, que no queremos emitir una prohibición concreta sobre ella, al contrario entender cómo afrontarla y a partir de esto desarrollar una base de regulación".
+
+No obstante, la posición de Bolivia es más radical, pues se restringieron esas monedas antes de informar a la población al respecto. Existe una resolución emitida por el Banco Central de Bolivia (BCB) el 6 de mayo de 2014 que es explícita en la prohibición.
+
+"A partir de la fecha queda prohibido el uso de monedas no emitidas o reguladas por Estados, países o zonas económicas y de órdenes de pago electrónicas en monedas y denominaciones monetarias no autorizadas por el BCB en el ámbito del sistema de pagos nacional”.
+
+En consecuencia, su uso y emisión no están reguladas, pudiendo ocasionar pérdidas a sus tenedores.
+
+A Durán le parece contradictorio que la Autoridad de Supervisión del Sistema Financiero (ASFI) también prohiba la especulación con monedas electrónicas, cuando tiene una campaña que promueve el uso de la banca digital. “Deja una sensación de poca amplitud ante la innovación”.
+
+En conclusión, ambos coincidieron que el cerrarse rotundamente a estas nuevas tecnologías no es la salida para evitar más estafas. Recomiendan otorgar educación digital a la población.
+
+﻿Este mes hubo un ciberataque que afectó a 50 mil computadoras de 100 países. El virus bloqueó el acceso al los archivos de entidades como Renault, la Universidad de China, entre otras. Para desbloquearlas, el hacker pidió que le paguen con Bitcoins, según se presumen, porque garantizan el anonimato. Antes se usaba Pay Pal o tarjetas.
+
+No obstante, tiene una ley que regula a las empresas que operan con esa moneda electrónica que, entre otras cosas, insta a cumplir con los requerimiento mínimos de capital, proteger las cuentas de cada usuario, y demás.
+####
+https://elpotosi.net/local/20170514_colegio-medico-ratifica-paro-de-48-horas-para-el-17-y-18-de-mayo.html
+####
+El Colegio Médico de Bolivia, expresó ayer su preocupación sobre la tensa situación entre este sector y el Gobierno nacional y ratificó el paro de 48 horas los días  miércoles 17 y jueves 18 de mayo "con atención reforzada en los servicios de emergencia". La decisión fue asumida tras varias horas de ampliado del consejo extraordinario desarrollado ayer sábado en Cochabamba.
+
+Exigen la abrogación de los decretos 3091 y 3092 del 15 de febrero de 2017, sobre la libre afiliación y la Autoridad de Control y Fiscalización del Sistema de Salud, en vista de que no hubo un acercamiento con la titular del Ministerio de Salud Ariana Campero.
+
+"Los médicos proponen una reunión nacional de profesionales en salud  para discutir, consensuar y redactar un proyecto de ley general de salud que al presente el Ministerio de Salud no ha convocado formalmente a reunión alguna para considerar las demandas de los profesionales médicos", aseveró el presidente de la entidad, Aníbal Cruz a los medios, durante la lectura de la resolución.
+
+"El Colegio Médico de Bolivia se encuentra a la espera de la convocatoria formal para el diálogo", añadió.
+
+El viernes 12 de mayo a través del  Decreto Supremo 3174 se definió que el certificado médico que requieren las personas para un determinado trámite sea de carácter gratuito y entregado por el Ministerio de Salud.
+####
+https://eju.tv/2017/11/armada-boliviana-celebra-sus-191-anos-en-el-titicaca/
+####
+Fue creada un 6 de noviembre del año 1826 en el Gobierno de Antonio José de Sucre. Evo Morales se comprometió a fortalecer con equipos a esta fuerza militar.
+
+La Armada de Bolivia conmemoró este domingo los 191 años de su creación con la demostración de una operación naval en aguas del lago Titicaca, que contó con la presencia del presidente del país andino, Evo Morales.
+
+La demostración consistió en una operación ofensiva que duró casi dos horas, en la que actuaron las fuerzas anfibia y de asalto dependientes de la naval boliviana.
+
+En el ejercicio sobresalieron las demostraciones de embarco, despliegue hacia objetivo, movimiento de buque a costa, el asalto anfibio que finalizó con un repliegue coordinado, según la explicación ofrecida por los navales en el canal estatal.
+
+Morales destacó en su discurso ante la tropa que este tipo de ejercicios militares Bolivia los haga «solos, sin ninguna participación extranjera, sin la participación del imperio norteamericano».
+
+El mandatario boliviano se ha mostrado permanentemente contrario a la implementación de bases militares en los países latinoamericanos y ha considerado que aquello es un instrumento del imperio, «que sirve para la dominación y la intervención». La Armada Boliviana fue creada un 6 de noviembre del año 1826 en el gobierno de Antonio José de Sucre (1826-1828).
+
+A su turno, el comandante de la Armada, vicealmirante Yamil Borda, recordó que «Bolivia contaba con puertos y caletas por donde se exportaban minerales, salitre y guano», hasta que en 1789 Chile arrebató sus territorios en el Pacífico en una guerra.
+
+Esa confrontación bélica le costó a Bolivia 400 kilómetros de costa y 120.000 kilómetros de territorio, incluyendo su salida al mar.
+
+El jefe naval también rememoró que esta fuerza militar boliviana se silenció por varios años hasta que en 1963 reapareció «debido a la nueva agresión chilena por el desvío de las aguas del río Lauca», tras lo cual adquirió su actual estructura.
+
+Actualmente esta repartición de las Fuerzas Armadas (FFAA) de Bolivia presta su labor de protección territorial en más de 3.000 kilómetros de frontera conformada por ríos de la región norte y oriental del país, además del lago Titicaca en el occidente.
+
+Las autoridades del Gobierno comprometieron este domingo en acelerar las gestiones para equipar mejor a las FFAA que hasta el momento han realizado su tarea solas y con recursos limitados.
+####
+https://eju.tv/2017/01/que-cargo-podria-ocupar-hillary-clinton-tras-perder-las-presidenciales-de-ee-uu/
+####
+La exsecretaria de Estado estadounidense Hillary Clinton ha dejado abierta la posibilidad de participar en las elecciones por la alcaldía de Nueva York, que se celebrarán a finales de 2017, según informa el periódico ‘New York Daily News‘ citando a una alta fuente en el Partido Demócrata de EE.UU.
+
+El diario apunta que partidarios de la excandidata demócrata le instan a enfrentarse al actual alcalde neoyorquino, Bill de Blasio. Aunque De Blasio tenía estrechas relaciones con los Clinton, estas empeoraron durante la campaña electoral debido a la negativa inicial de De Blasio de apoyar la candidatura de la exsecretaria de Estado.
+
+La propia Clinton no ha comentado la información, pero varios expertos citados por el periódico ponen en duda que la excandidata demócrata se presente a las elecciones por la alcaldía de la mayor ciudad de EE.UU.
+####
+https://www.opinion.com.bo/articulo/ciencia-tecnolog-iacute/vestido-cambia-color-humor/20170305200100572776.html
+####
+Un vestido de boda con leds que cambian de color según el humor de la novia es una de las curiosidades que presentó el estand de IBM en el Mobile World Congress (MWC) 2017 de Barcelona (España).
+
+El vestido cognitivo, obra de la firma de alta costura Marchesa, es uno de los que más expectación está suscitando estos días entre el público, según EFE.
+
+Se trata de un traje blanco y largo de novia que incorpora luces leds que cambian de color en función del estado de ánimo y la forma de ser de su usuaria. Las flores que tiene incrustadas son las que irradian diferentes tipos de luz, de acuerdo a las “emociones”.
+
+En instyle.mx, lo llamaron “el vestido que entiende a sus fans”.
+
+IBM Watson tuvo un papel destacado en su creación. A partir de cientos de miles de imágenes que le facilitaron, de la información sobre tejidos, los colores o los cortes, mostró las líneas principales del diseño supervisado por Marchesa.
+
+La compañía ya hizo, el año pasado, una presentación de sus creaciones en la MET Gala, un evento benéfico que da inicio a la exposición de moda anual del Instituto del Vestido del Museo Metropolitano de Arte de la ciudad de Nueva York (EEUU). La modelo Karolina Kourkova y la actriz Claire Danes recorrieron la alfombra roja luciendo dos espectaculares vestidos. Según la revista de moda hola.com, Zac Posen y Marchesa, en colaboración con IBM, “dejaron a todos con la boca abierta”.
+
+Kourkova lució un vestido con luces de colores. Hasta ahí todo normal y nada que no se haya visto antes, pero esto cambió al saber que las luces cambiaron según las emociones de quien lo portaba. Fue así como se lo denominó “vestido cognitivo”. Tal como lo hacían los “anillos de humor” de la infancia, este vestido iba alterándose según la modelo iba cambiando de actitud. Esta tecnología es la misma del vestido de novia. El único problema es que sentarse no es fácil para quien lo usa.
+
+Ya en 2012 la firma de IBM pronosticó una tecnología que abarque las emociones y estados de ánimo.
+
+“Los sistemas podrán detallar aspectos de una conversación, analizar el tono o distinguir la vacilación de la voz, de tal manera que podrán ayudar a interaccionar mejor con personas de diferentes culturas”, señalaba en ese entonces un comunicado de prensa en su página oficial.
+
+El MWC también presentó, en el campo de ropa inteligente (Innovation City), una chaqueta que puede salvar la vida en caso de pérdida o accidente en una montaña.
+
+La prenda dispone de alarma, de sensor del ritmo cardiaco, de geolocalizador, es resistente al agua y tiene una batería que puede durar varios años.
+####
+https://ibce.org.bo/principales-noticias-bolivia/noticias-nacionales-detalle.php?id=79494
+####
+Dos carros neptuno, una ambulancia, un coaster y varias motos que pertenecen a la Policía ocupan a diario la calle Heroínas, entre España y Baptista, donde está prohibido estacionar por determinación de la Ordenanza Municipal 4398/2012. 
+
+La calle señalizada con una franja amarilla en la acera y letreros de prohibición es vulnerada por la Policía. De día o de noche la vía que es una de las más transitadas del centro de la ciudad, nunca queda despejada. Los vehículos policiales incluso, duermen estacionados en la calle sin respetar la prohibición.
+
+A unos pasos en puertas de la Fuerza Especial de Lucha Contra la Violencia, (FELCV), situada en la calle Baptista casi Heroínas, sucede lo mismo. 
+
+Allí, los policías de esa unidad, incluso, colocan conos para reservar el espacio para sus vehículos, aunque la vía debía estar despejada de 07:30 horas a 19:00 todos los días. 
+
+Las calles adyacentes a la plaza 14 de Septiembre, donde tampoco se permite estacionar por norma, son también utilizadas por los vehículos oficiales de la Alcaldía y la Gobernación de Cochabamba que esperan a las autoridades con luces de emergencia, o a veces, terminan parqueando por varios minutos. 
+
+OPINIÓN realizó un monitoreo en estas zonas y verificó que eso sucede en las cuatro esquinas que rodean la plaza, es decir las calles Bolívar y España, Baptista y General Achá, Santiváñez y Nataniel Aguirre y Sucre y Esteban Arze. 
+
+Pese a que la situación en estas calles es la misma todos los días, el Servicio de Estacionamiento Municipal (SEM) reconoce que las infracciones en estas zonas, no son tan frecuentes y le atribuye esta situación a la “falta de personal”.
+
+La mayor cantidad de infractores de la prohibición de estacionamiento está en el Casco Viejo, donde la gente acude a hacer trámites. A diario hay un promedio de 60 vehículos que se engrapan, según el SEM. 
+
+El incumplimiento a la norma es tan evidente en algunos sectores que en plena calzada prohibida se ha instalado un negocio de lavado de autos. 
+
+En la avenida Heroínas, entre España y 25 de Mayo, el propietario de un garaje pone baldes de agua en la acera y lava los vehículos de sus clientes sin importarle la prohibición que existe.
+
+NORMA PARA TODOS El responsable del SEM, Rodney Miranda, explicó que en el caso de la Policía no hay ninguna autorización especial para que estacionen sus vehículos en una calle prohibida. 
+
+Indicó que en algunas ocasiones recibe llamadas a su celular de las autoridades policiales que le piden permisos momentáneos y que se autoriza dependiendo la situación; sin embargo, señaló que eso no significa que “puedan estacionarse todo el día”. 
+
+“Ya hemos hablado con el Comandante de la Policía este tema y se ha emitido una circular para que no hayan vehículos estacionados en las puertas de sus unidades, pero parece que las infracciones no les duele a los policías”. 
+
+Adelantó que se volverá a solicitar otra reunión con el Comandante para despejar la zona, ya que se ocupa no solamente la vía que está en las puertas de la Unidad Táctica de Operaciones Policiales, (UTOP), sino también la calzada del frente. 
+
+Indicó que la Policía no puede infringir la norma municipal escudándose en la necesidad de atender casos de emergencia. 
+
+Según Miranda, las infracciones a vehículos particulares y públicos en puertas de las unidades policiales y en los alrededores de la plaza principal son casi a diario. 
+
+“A veces les ponemos la grapa con la autoridad dentro del vehículo, porque tenemos un instructivo para que todos cumplan con la norma”. 
+
+En puertas de las unidades policiales, los uniformados también dejan sus vehículos particulares, al lado de los oficiales. 
+
+La Ordenanza Municipal 4398/2012 dispone el uso de vías públicas con fines de estacionamiento temporal de vehículos particulares y la prohibición en ciertas calles. 
+
+La sanción por estacionar en vías señalizadas con prohibición de estacionamiento es de 200 bolivianos la primera vez y 500 la reincidencia. 
+
+El estacionamiento es prohibido en los lugares que tienen una franja amarilla pintada en la cera y cuentan con letreros de esta infracción, entre las 07:30 a 19:00 horas de lunes a viernes y de 08:00 a 12:30 horas los sábados. 
+
+En la ciudad hay 53 rutas o calles donde está prohibido el estacionamiento de vehículos. Están situadas en el Casco Viejo y las calles de mayor transitabilidad y 39 sectores donde existe el servicio de parqueo tarifado. 
+
+La norma señala que la prohibición es para todos los vehículos particulares, radiotaxis, vehículos oficiales exceptuando el del Presidente de Bolivia, Gobernador del Departamento, Alcalde Municipal, así como los carros de auxilio, emergencia y medios de comunicación. 
+####
+https://eju.tv/2017/05/la-cocaina-peruana-entra-a-bolivia-con-dos-sellos/
+####
+Los narcos tipifican la droga producida en el Vraem peruano con dos logotipos en el paquete. El delfín significa que es pasta base y el sello del dragón denota que la cocaína ya fue refinada.
+
+El sello marca su calidad y destino, como si se tratara de un alimento o un producto de primera o segunda calidad. Es la cocaína producida en el Valle de los ríos Apurímac, Ene y Mantaro (Vraem), al norte del Perú, que llega a la ciudad peruana de Puno; de ahí es despachada a Bolivia y su destino final es Brasil. 
+
+Dos grabados tipifican la sustancia ilegal: el paquete que tiene un delfín es pasta base de cocaína, que necesita su refinación en suelo boliviano, y el dragón desvela que la sustancia ya fue refinada en Perú.      Puno es una ciudad con mayoría de comercio informal. Es la localidad de paso para la cocaína del Vraem, que tiene como meta Brasil, pero atravesando toda Bolivia, según un informe de la de la Dirección Antidroga (Dirandro) de Perú. 
+
+El jefe de la macrorregión policial Puno-Madre de Dios, general Róger Tello Ramírez, le explicó a EL DEBER que en este año los narcos optaron por sellar los paquetes de cocaína y tipificar la mercancía. “Los paquetes que tienen un delfín como sello es pasta base de cocaína, mientras que los que llevan un dragón ya es cocaína purificada y no necesita su refinación”, detalló Tello. El jefe policial peruano recordó que el 19 de abril fueron detenidos tres sujetos que trasladaban paquetes de cocaína con el sello del delfín con destino a Bolivia. Tello Ramírez informó de que la ruta donde se arrestó a los narcos conduce a la localidad paceña de Puerto Acosta, que conecta con la ciudad de El Alto. 
+
+En los cuatro meses que van del año, la Policía Regional de Puno se incautó de media tonelada de cocaína proveniente del Vraem. Todos los paquetes tenían como destino Bolivia. En el último operativo en la carretera Puno-Desaguadero, realizado hace dos semanas, se logró incautar de 267 kilos de cocaína purificada, todos con el paquete con sello del dragón. Uno de los peruanos detenidos tiene registrado 10 ingresos a Bolivia en tres meses.
+
+Tello Ramírez, al frente de un mapa de la región de Puno, que abarca altiplano y selva, explicó cómo sale la droga hecha en el Vraem. Son siete vías internas en Perú, de las cuales tres llegan a Desaguadero y dos, a Puerto Acosta, ambos municipios en el departamento de La Paz. En el caso de llegar a Puerto Acosta, se transitan caminos de tierra hasta el poblado peruano de Moho. De ahí pasa a suelo boliviano. 
+
+Un oficial peruano explicó que llama la atención de la Policía que camiones de alto tonelaje ingresen de Bolivia con productos que se pueden conseguir en Perú y que, incluso, tienen precios más bajos, como frutas, papas y material de construcción.  
+
+“La teoría es que desde Bolivia llegan camiones con carga común a Perú, descargan y luego vuelven a Bolivia con droga. Eso se investiga, se hace un trabajo de inteligencia hasta con los mismos pobladores y luego se actúa”, detalló la autoridad policial. 
+
+En La Paz, la Fuerza Especial de Lucha Contra el Narcotráfico (Felcn) confirmó que la droga peruana pasa por Bolivia hasta llegar a Brasil. Sobre los sellos, un oficial boliviano señaló que ese tipo de cargamento se incautó en Perú y que en Bolivia se desconoce.  El director nacional de la Felcn, coronel Santiago Delgadillo, se comprometió a responder un cuestionario a este medio y no lo hizo. 
+
+Al respecto, el viceministro de Defensa Social y Sustancias Controladas, Felipe Cáceres, afirmó que los narcos peruanos y bolivianos ‘reinventan’ vías para introducir cocaína en territorio nacional. “Si no hay vías van por el lago, es un trabajo de inteligencia que hacemos y que tenemos resultados. Hay coordinación con la Policía de la República del Perú y sobre todo cruce de información”, detalló Cáceres. 
+####
+https://www.reduno.com.bo/noticias/2017-12-17-21-0-0-juga2-celebro-el-cumpleanos-a-carlos-rocabado
+####
+El presentador de la Red Uno, Carlos Rocabado, estuvo de cumpleaños este pasado fin de semana, por este motivo sus colegas de Juga2 lo sorprendieron con una torta y con palabras de afecto hacia su persona.
+
+“Te has convertido en uno de mis mejores amigos… sos un ejemplo y admiro tu profesionalismo en la televisión”, le dijo su colega Sandra Álcazar.
+
+“He pasado mi vida en la tele, empecé a los 17 años, me he convertido en un hombre mientras trabaja aquí, la gente me conoce y también a mi familia, los amo muchísimo, gracias Bolivia y a la Red Uno”, expresó agradecido el presentador de Juga2 y de Bailando por un Sueño.
+
+Sin duda Carlos Rocabado tiene un amplía trayectoria, 19 años, frente a las cámaras. Ha realizado programas infantiles, juveniles y de competición. En la red naranja se inició como presentador de Bigote para luego encargarse de la conducción de Juga2 y de Bailando por un Sueño, próximamente también presentará el nuevo programa Factor X.
+
+Te puede interesar: Carlos Rocabado vuelve al cine como actor y productor
+
+Además de su trabajó en la televisón, Rocabado incursionó como  productor y actor de películas. Actuó en la película Dependencia Sexual, de Rodrigo Bellott y este año en “Tú Me Manques” con el mismo director. En el plano personal, Carlos Rocabado es ingeniero comercial, está casado con Erika Landívar y son padres de dos pequeños, Santino y Martina.
+
+Rocabado antes de soplar su vela de cumpleaños pidió tres deseos, para luego dar el tradicional mordisco a la torta, aquí te mostramos las imágenes de este momento.
+####
