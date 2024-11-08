@@ -1,33 +1,1082 @@
-año,noticiero,URL,letras,palabras,oraciones,parrafos
-2014,opinion,https://www.opinion.com.bo/articulo/ramona/literatura-boliviana-posible/20141116193000668206.html,13447,2763,94,29
-2014,investiga,https://investiga.eldeber.com.bo/seccion/trataytrafico/antonio-vaca.html,2439,553,27,9
-2014,eju,https://eju.tv/2014/12/veronica-larrieula-enemiga-de-la-mujer-crucena-es-la-mujer-crucena/,4658,1053,53,3
-2014,bolivia,https://www.bolivia.com/futbol/torneo-clausura/2013-2014/sdi506/83435/bolivar-confirma-contratacion-de-xabier-azkargorta,1977,413,13,12
-2014,boliviaemprende,https://boliviaemprende.com/noticias/fantasy-park-reune-mas-de-1-000-atracciones-en-nueve-niveles,2045,435,16,9
-2014,la-razon,https://www.la-razon.com/politico/2014/01/26/relaciones-entre-bolivia-y-alemania/,5553,1058,35,12
-2014,boliviaemprende,https://boliviaemprende.com/noticias/challapata-concentra-el-80-del-mercado-de-quinua,2478,495,16,11
-2014,eju,https://eju.tv/2014/11/municipios-de-bolivia-encabezarn-la-pelea-por-el-pacto-fiscal/,2394,501,15,11
-2014,eju,https://eju.tv/2014/06/cooperativistas-mineros-aliados-de-evo-rehyen-pago-de-millonaria-deuda-al-estado/,1741,372,10,7
-2014,opinion,https://www.opinion.com.bo/articulo/cochabamba/pandilla-usa-facebook-crecer-cochabamba-mata-rivales/20140406211600485114.html,4943,1067,73,20
-2014,boliviaemprende,https://boliviaemprende.com/noticias/unas-5-mil-familias-de-productores-se-asocian-como-estrategia-para-exportar,1799,358,13,8
-2014,ultimahora,https://www.ultimahora.com/revelaran-hoy-el-informe-contaminacion-del-pilcomayo-n811790,2108,445,19,8
-2014,es-us,https://es-us.noticias.yahoo.com/militares-bolivia-pausa-protestas-urgen-cita-morales-000842328.html,2920,586,20,7
-2014,la-razon,https://www.la-razon.com/politico/2014/01/12/zulma-yugar-parraga-alistando-su-segundo-libro-2/,2665,564,25,11
-2014,eju,https://eju.tv/2014/02/suben-a-33-700-las-familias-afectadas-por-lluvias-y-riadas-en-bolivia/,1736,363,12,11
-2014,la-razon,https://www.la-razon.com/politico/2014/03/02/la-historia-de-la-guerra-del-pacifico-plagada-de-mitos/,10565,2267,87,39
-2014,la-razon,https://www.la-razon.com/lr-article/en-bolivia-el-negocio-de-la-belleza-crece-y-mueve-sumas-millonarias/,4282,918,39,18
-2014,boliviaemprende,https://boliviaemprende.com/noticias/dan-curso-proyecto-para-potenciar-la-ganaderia-en-la-chiquitania,3578,718,21,16
-2014,pub,https://www.pub.eldiario.net/noticias/2014/2014_02/nt140216/laguia.php?n=18&-las-mas-lindas-de-la-tv-son,3888,907,45,10
-2014,eju,https://eju.tv/2014/07/en-bolivia-se-construyen-16-dobles-vas-con-una-inversin-de-us-1-850-mm/,6253,1206,44,29
-2014,boliviaemprende,https://boliviaemprende.com/eventos/el-80-de-las-pymes-de-bolivia-participaran-en-la-expocruz,1499,288,9,8
-2014,eju,https://eju.tv/2014/01/el-robo-de-ganado-hace-estragos-en-bolivia/,4077,893,34,16
-2014,eju,https://eju.tv/2014/01/restaurantes-y-sper-generaron-us-765-millones-en-bolivia/,7488,1515,56,31
-2014,eju,https://eju.tv/2014/06/nuevo-cdigo-de-comercio-de-Bolivia-prev-reconocer-solo-3-tipos-de-sociedad/,7294,1371,47,32
-2014,la-razon,https://www.la-razon.com/politico/2014/11/09/bolivia-es-un-pais-enclaustrado-no-mediterraneo/,10918,2276,55,30
-2014,eju,https://eju.tv/2014/07/ministro-arce-bolivia-mantiene-un-crecimiento-fuerte-que-garantiza-el-pago-del-segundo-aguinaldo-este-ao/,1836,382,7,7
-2014,opinion,https://www.opinion.com.bo/articulo/deportes/fbf-prescinde-nestor-clausen-coordinador/20141228194600509012.html,638,135,4,4
-2014,eju,https://eju.tv/2014/12/bolivia-inunda-brasil-de-cocaina/,1290,261,10,1
-2014,eju,https://eju.tv/2014/09/burlan-la-ley-en-los-yungas-revenden-gasolina-para-autos-chutos-hasta-en-bs-10/,10791,2259,88,38
-2014,eju,https://eju.tv/2014/04/informe-del-pen-bolivia-sobre-la-libertad-de-expresin/,8768,1697,62,24
-2014,eju,https://eju.tv/2014/05/disputas-evitan-la-legislacin-en-el-87-de-los-municipios-de-bolivia/,4302,847,42,16
-2014,boliviaemprende,https://boliviaemprende.com/noticias/aniversario-de-chuquisaca-abre-con-hallazgos-de-potencial-hidrocarburifero-obras,2587,503,18,12
+2014
+https://www.opinion.com.bo/articulo/ramona/literatura-boliviana-posible/20141116193000668206.html
+####
+Tengo el gusto pero también la enorme responsabilidad, de leer esta mañana un texto que inaugura, que abre, el Primer Festival de Literatura Santa Cruz de las Letras, organizado en esta ciudad, en este país, por un grupo de instituciones que coordinando esfuerzos y criterios, alcanzan el objetivo de reunir a tan variado y numeroso grupo de escritores. Y por ser justamente una apertura, respecto a la literatura del país que nos acoge esta vez, intentará mostrar algunos de los senderos por los cuales se puede transitar en este territorio literario que damos en llamar “literatura boliviana”. Tarea no fácil por cierto, pero que se complementará, con seguridad, con los aportes de todos ustedes, en el curso de estos dos intensos días de charlas y talleres, en los que los actores mismos de este oficio, los escritores y escritoras, y su público lector, dialogarán sobre lo que nos apasiona. Es necesario advertir, aunque cualquier buen escucha se daría cuenta de que es obvio, que todo lo que pueda decir hoy será incompleto, inconcluso, parcial y por cierto muy personal. Dicho esto, comencemos.
+
+Me preguntaba en estas semanas mientras conocía y revisaba a varios autores nuestros, ¿de qué hablamos cuando hablamos de literatura boliviana? Cuál es ese o esos elementos constitutivos/distintivos que nos permiten reconocer a la literatura boliviana? ¿De qué se vale un lector extranjero, por ejemplo, para reconocer esto, si no tomando en cuenta los datos de la solapa que habitualmente encuentra en todo libro? ¿Cuáles los registros lingüísticos, estilísticos, temáticos y si vale decirlo por separado ideológicos que pueden permitirnos reconocer una obra literaria “boliviana”?
+
+Y, por otro lado, ¿Cómo pensar las identidades nacionales a 15 años de llegado el Siglo XXI? ¿Y en consecuencia, cómo pensar sus discursos, su narrativa, su poesía?
+
+Dos hitos socio-políticos son pertinentes a la hora de intentar un esbozo de esta cuestión, si, nos circunscribirnos, como yo lo propongo esta vez, a la literatura producida en los últimos 30 años (31 para ser más exactos): el primero, el retorno a la democracia en la década del 80, en 1983, y posteriormente ya en este siglo, la así llamada refundación de la república, que nos lleva a para pasar a ser estado plurinacional. Estos dos acontecimientos además, ocurren en el marco de un fin de siglo (a la vez fin de milenio), con todo lo que ello conlleva. Este salto modernizador, esta internacionalización de la economía, que se diera también en el fin de siglo XIX, ¿implica un viraje en el recorrido habitual de la tradición literaria del siglo XX hacia otros lenguajes, discursos y miradas? Este paso a la internacionalización, auspiciado por el acceso a las telecomunicaciones, televisión abierta y por cable, y sobre todo la llegada a la comunicación virtual en tiempo real ¿qué produce en las subjetividades literarias?
+
+Si en el S. XIX, la modernidad llegó con acceso al trabajo, racionalidad y ciudadanía (Ludmer: 1994), ¿qué nos ha traído la internacionalización o mundialización tan mentada, a los escritores y lectores?
+
+No necesariamente como efecto, pero la coincidencia es innegable: en el caso particular de  Bolivia, la sociedad transita (lo hace aún hoy por supuesto y lo hará por un buen tiempo en términos legales y administrativos y económicos) hacia un proceso de inclusión de sectores parcial o totalmente marginados de las estructuras hegemónicas desde la creación de la república, principios de este siglo, con algunos matices en el Siglo XX. De todas ellas, nos interesa señalar, mujeres y homosexuales (la literatura de indígenas/por indígenas, salvo en otras regiones del país, no ha pasado a incorporarse a estos nuevos “centros” hegemónicos sin liberarse del rótulo que las separa aunque sea en una discriminación positiva).
+
+Este país ha dado un viraje: primero, a partir del retorno a la democracia (con los costo que ello implicó), pasando por diversos procesos transformadores desde el 2003, hasta llegar a tensar por momentos en extremo los casi imperceptibles hilos que cohesionan a la región. Finalmente, aquí estamos.
+
+En el último cuarto del siglo XX y los años que llevamos del S. XXI, la literatura  boliviana ha experimentado una serie de transformaciones con respecto a los registros literarios que antecedieron a este período. Lenguajes, temas, perspectivas, pero sobre todo actitudes frente a la escritura, hoy son significativamente diferentes en los autores que vienen escribiendo desde el inicio de la década de los 80 o han empezado a hacerlo durante la misma, y continúan de manera sostenida desde entonces. Tan desmesuradamente como ha crecido esta ciudad, dispersa y desencontrada de sí (un poco por metonimia es Bolivia), así lo ha hecho su literatura. En esa fragmentación, real y simbólica, ¿podremos encontrar constantes que permitan una aproximación incluyente y abarcadora, pero que más allá de todo, logre permitirnos ver en la escritura, cómo se la “dice” (cómo se la lee primero) desde la ficción literaria a este nación?
+
+El retorno a la democracia es el resultado de un proceso político, cultural e incluso militar que concluyó imponiéndose como parte de la política actual, en palabras de Cleverth Cárdenas. Este supone un cambio en la vida y la cultura política. Por otro lado, estas transformaciones serán tomadas (o no) por la literatura. De qué manera la literatura se hace cargo o hace de ella carne de sus tejidos, es parte de lo que en estos días habremos de reflexionar. En principio, y sin temor a equivocarnos, se puede afirmar que esto significa un nuevo modo de mirar y vivir la literatura; de hecho significa un mayor acceso a la letra, a la escritura, y claro, a la lectura. Y puedo agregar ahora que como parte de este proceso, que los oficios se van desplazan hacia espacios menos hegemónicos del país (en términos culturales). Desde los 70, podríamos decir, las ciudades letradas de los siglos XIX y primera mitad del XX (La Paz, y Sucre, fundamentalmente y antes Potosí) se abren a la participación del resto de las regiones del país, en la realización de foros, simposios y ferias, consecuencia del protagonismo que toman sus economías, y, por supuesto, sus escritores.
+
+Lenta pero sostenidamente, no al ritmo del vertiginoso crecimiento urbano muy visible para todos (de Santa Cruz en particular), esta bonanza literaria es principalmente de publicación, no así de lectura o estudio. Hoy por hoy, además de abundancia en la producción literaria (tenemos nuevas editoriales, nuevas y más sólidas ferias, nuevos foros y este festival mismo es una prueba de ello), estemos (pese a las dificultades de difusión y circulación) con una oferta inédita en términos numéricos, que ya en este preciso instante está modificándose. Del 1983 a 2009, se publicaron 1.750 libros (en los tres géneros principales), solo en el territorio nacional, incrementando en un más de un 100 por ciento lo sucedido entre los años 60 y 80. El dato es de una investigación concluida justamente en 2009.
+
+Ese mismo año, en 2009, escritores, periodistas, académicos algunas autoridades vinculadas al quehacer literario, realizaron unas jornadas de discusión que consistirían en determinar qué 10 novelas (se había pedido tomar ese género únicamente) podían considerarse “fundacionales” en la historia de la literatura  boliviana. A tono con los cambios político/administrativos que ya comenzaban a tomar forma, queríamos encontrar nuestro canon literario de esta manera, ¿refundar el canon literario?
+
+Queríamos encontrarnos en 10 (resultaron ser 15 oficialmente) relatos que constituyeran un gran fresco narrativo  boliviano. Demás está decir que pese a las conclusiones aceptables pero siempre incompletas, las posteriores utilidades del proyecto no se concretaron. Ahora, pasados cinco años de ese importante evento, tal vez podamos fundar tal vez un discurso conciliador sin que se limite a establecer un canon cerrado, que reconcilie algunas posturas enfrentadas allá por agosto del 2009.
+
+De 2009 a la fecha, se deben haber publicado varias decenas solo de relatos (novela y cuento), algunas de las cuales bien podrían incorporarse a este minúsculo canon. Y la configuración de la escena literaria sería completamente diferente. De hecho, uno de los elementos diferenciadores de las formas de producción, de acceso a la palabra, y de acceso a la edición, tendría nomás que explicarse en relación con el fenómeno migratorio que se suma a los que hemos señalado. Desde la década del 90, varios escritores bolivianos, algunos aquí presentes, residen fuera del país. Se han ido por diferentes motivos, aunque para es bueno señalar que la constante es el deseo de aproximarse a la literatura desde lo académico. Se van y pueden estar, estar de otra manera, entre nosotros. Porque acceden a editoriales extranjeras, que amplían el horizonte de lecturas. Y esto, de alguna manera, nos devuelve a nuestros escritores. Porque hay que decirlo también, nuestras casas editoriales, muy comprometidas con la literatura, están y muy decididas a continuar en el esfuerzo de ser las “casas” literarias de sus escritores, pero no están acompañadas de políticas públicas de edición y difusión, políticas educativas ni regionales ni nacionales, que completen por lo menos parcialmente el ciclo de escritura/lectura, salvo esfuerzos aislados y difíciles de sostener como los que se dan en algunas bibliotecas o centros culturales.
+
+Y vuelvo a las preguntas que nos interesa abordar y responder. ¿Qué son los escritores bolivianos? ¿Qué son los jóvenes escritores bolivianos? ¿Qué los distingue de los que estuvieron (aún están) en la segunda mitad del S. XX?
+
+Pienso en Ramón Rocha Monroy (el de Potosí 1600) y Liliana Colanzi, por ejemplo, ambos auténticamente bolivianos, y no encuentro el factor común, ni en sus individualidades, ni en sus escrituras. Pienso en Juan Pablo Piñeiro, el de Cuando Sara Chura despierte, y en el Edmundo Paz Soldán de Norte, y lo mismo: no encuentro el común denominador. Y ambos son auténticamente bolivianos.
+
+Escuchaba a Jenny Cárdenas y a Willy Claure, pero también a Ella Fitzgerald o a Cole Porter mientras escribía estas líneas y continuaba leyendo, sin encontrar el denominador común. Y no creo que lo encuentre. Lacan daba vueltas por mi cabeza, mientras buscaba las identidades. Y solo veía nuevas individualidades, imposibles de reducir a ese “corsé” que le da el nombre a lo que les leo. LITERATURA BOLIVIANA.
+
+Me divierto con el Adolfo Cárdenas, en Periférica Blvd. y la jerga del hampa paceño, me entristezco con la nostalgia del pasado/futuro en Tirinea, de Jesús Urzagásti. Leo sobre el dolor y la violencia, pero también sobre la reflexión literaria, en fragmentos de Norte de E. Paz Soldán; 98 segundos sin sombra, de Giovanna Rivero, me retrotrae a la adolescencia, no la mía, no la nuestra: la adolescencia de esta ciudad con todos sus excesos y desvaríos; y trato de sostener al protagonista en ese relato tan personal, de quien se pierde en la ausencia total del otro, en el vacío que deja el otro, que no es sino el vacío ya desquiciado del sí mismo, en El amor según de Sebastián Antezana.
+
+Y es esa desaparición del propio ser (el uno mismo, vulgarmente hablando), del otro, la que me va mostrando una nueva preocupación literaria. El escritor de hoy explora el mundo, lo siente y sufre, desde su más íntima subjetividad. Y su escritura, es también un poco la agonía del sujeto contemporáneo, dejado de los dioses, dejado del gran otro, perdido en sí mismo.
+
+Suelo decir que la década del 80, por efecto de los últimos años de gobiernos de dictadura, y luego por la injerencia sin remedio del narcotráfico y sus efectos en la vida ciudadana en todas sus esferas y estratos, fue una década perdida. Quedamos a la deriva en muchos sentidos. Pero, en una aparente paradoja, allí mismo encontramos American Visa, de Juan de Recacochea, y a Jonás y la Ballena Rosada, de Wolfango Montes. Dos grandes novelas que “dicen” a la  Bolivia de entonces, sin ser en absoluto, la literatura que se hace cargo referencialmente de la sociedad y sus problemas. Del mismo modo, otros efectos a largo plazo, tendrán estos dolorosos momentos de la historia nacional.
+
+Y leo un fragmento de un texto autobiográfico que publica Sebastián Antezana en la revista digital Traviesa, donde dice a la manera de recuerdo de infancia: “Me acuerdo de que cada 17 de julio mi familia almorzaba en la casa de mi abuela, pues se recuerda un año más desde que en 1980 asesinaron a mi abuelo [Marcelo Quiroga Santa Cruz]”.
+
+En otra consulta, escucho a Edmundo Paz Soldán, que dice: “condicionado por la edad (10, 12 años entre 77 y 82) uno normalizaba la imagen de ver a uno y otro militar apareciendo en las pantallas de Tv nacional, que con cierta regularidad, entraban en cadena para comunicar el cambio de Gobierno. Bolivia fue una nación con rumbo errático entre 1978 y 1982. Y no recuperó su camino en el resto de esa década (….)”.
+
+En esa misma década, tiene su realización El Taller del Cuento Nuevo (1986), actividad que da lugar al nacimiento de un grupo de escritores, muchos de los cuales se sostuvieron como tales. De aquella escuela vienen (directa o indirectamente) Blanca Elena Paz, Homero Carvalho, Oscar Barbery, Paz Padilla.
+
+El espacio poético sería tomado con un sostenido espíritu de trabajo, y un innegable crecimiento de la profundidad en las exploraciones literarias, de la mano de las mujeres: allí aparece Giovanna Rivero, antes la ya mencionada B. E. Paz, Luisa (Gigia) Talarico, Centa Reck y Claudia Peña. Y más recientemente, Liliana Colanzi.
+
+Lo nuevo no supone nunca romper el silencio universal. Ni el mundo de los signos ni en esa parte suya que es el arte, una invención en términos absolutos, sino apenas una reelaboración que dialoga interesadamente con algo anterior; en ese sentido por ejemplo, es curioso encontrar en un escritor del 67, en otra del 72 y luego en uno aún más joven (82) (Paz Soldán, Rivero y Antezana), que convergen en prácticas de lectura iniciales, similares pese a las diferencias de edad y de procedencia, y que cada uno, a su manera, se hará nomás cargo de escribir sobre Bolivia.
+
+Siempre buscando a los propios autores para nutrir mis perspectivas críticas, encuentro una afirmación de otro autor importante de estos años. Wilmer Urrelo (Fantasmas Asesinos, Hablar con los perros) dice: “De alguna manera, la narrativa contemporánea  boliviana empieza a convertirse en una lesión permanente en contraposición a lo que se escribía hace algunos años (se refiere a los años 60/70)”. Hace unos 10 o 15 años, dice Urrelo, “los de nuestra generación no queríamos ni saber del contexto histórico o social, en la literatura, pero ahora sabemos que tarde o temprano esos temas aparecen.”.
+
+Dos rasgos ya podemos mencionar como elementos vinculantes entre los escritores mencionados y algunos que señalo luego. La ciudad. La ciudad, con todos sus conflictos y tensiones, nos habla a través de estos escritores. No se trata de que ésta sea una literatura referencial o del paisaje urbano. Más bien, de que el discurso proviene de sujetos que logran apropiarse de este espacio que -por inexistente o ajeno-, había estado fuera del alcance de la contemplación literaria. Los autores mencionados nos han permitido leernos como parte de estas ciudades, reconocernos en ellas, tanto en textos que se engarzan voluntariamente en la tradición popular (como los de Oscar Barbery y en algunos casos de Homero Carvalho), como en otros que se valen de un lenguaje absolutamente libre, que transita por la frase personal, íntima, casi confesional como sucede con Gigia Talarico, con el propio Antezana, con Rodrigo Hasbún.
+
+Los que se aproximan a la historia, de diversas maneras, como Luisa Fernanda Siles o Rosario Barahona, pero siempre en función de un compromiso mayor. Porque más allá de sus actividades cotidianas, todos tienen el ‘oficio’ de la escritura como un componente esencial de sus vidas, y ya no una labor complementaria. En todos se reconoce la importancia otorgada al lenguaje (como objeto, no más como mero instrumento) y al género con el que trabajan. El cuidado puesto en ellos se convierte en intensidad. Todos alcanzan una voz propia.
+
+¿Retorno a la historia? ¿Introspección? ¿Literatura como tema? ¿Violencia cotidiana aquí o en cualquier lugar del planeta?
+
+Creemos que hoy, más que nunca, el carácter sinecdóquico y develador de la literatura boliviana propone una contemplación de las realidades históricas y sociales desgajadas de su temporalidad concreta, es decir transitoria. Aunque la ciencia continúe organizando el mundo en categorías, la cotidianeidad nos invite al silencio, la parodia política nos lleve a la abulia comunicativa, llegará la palabra y nos hablará de relaciones diferentes. La narrativa continuará buscando describir y edificar la totalidad secreta de la vida, incorporando un nuevo sentido la existencia del hombre. Y allí estará, al final del laberinto, cuando terminemos de despertar al nuevo siglo, el dinosaurio.
+####
+https://investiga.eldeber.com.bo/seccion/trataytrafico/antonio-vaca.html
+####
+Antonio Vaca recorre el país en busca de su hija Valeria desde hace tres años. Cuando desapareció, ella tenía 18 años y la Policía y el Ministerio Público no le hicieron caso. Entonces él descolgó su traje de torero y empezó a recorrer el país vendiendo discos compactos con los jocheos de toros en los que había participado cuando era joven. Así pagaba sus viajes y preguntaba por Valeria, repartiendo su foto en cada rincón de Bolivia.
+
+A la semana de haber desaparecido, Valeria lo llamó y le dijo: "Papi, estoy secuestrada”. Él fue al Ministerio Público, que emitió la orden de aprehensión para el dueño del teléfono y, de ese modo, pudieron dar con el paradero del hombre: “Con mis otras dos hijas, habíamos averiguado adónde iba a votar esa persona en las elecciones presidenciales de 2014, y así lo entregamos a la Policía. En su declaración, según lo que me dijo la fiscal, aseguró tenerla como esposa y que iban a ir a traerla de Petagrande”.
+
+Sin embargo, cuando retornaron de esta comunidad norteña, distante a 250 kilómetros de la capital de Santa Cruz, el hombre cambió su versión, pese a ello fue detenido preventivamente cerca de un año y luego fue liberado.
+
+A partir de ahí, una situación a la que no termina de resignarse: audiencias suspendidas, dilaciones, cuestiones que no logra explicarse. “Yo casi no sé mucho de leyes -dice sentado en un sillón deshilachado de su casa en el barrio Villa Virginia de Montero-, pero he aprendido a hablar por las cosas que he visto. Por lo que uno es pobre, no hay ayuda del Gobierno”.
+
+Según datos del Ministerio Público, desde 2012 hasta julio de 2017 se han registrado 3.000 casos de trata y tráfico de personas en Bolivia. De esa cantidad, 473 sucedieron en Santa Cruz. En los cinco años y medio, de los 3.000, solo llegaron a sentencia 39, 31 condenatorias y 8 absolutorias. 991 casos se encuentran en la etapa preliminar; 130, en preparatoria; 109, en juicio; 1.768, causas cerradas y 2, en apelación.
+
+Ahora Antonio está enfermo. Un toro lo embistió en Oruro el 8 de enero de 2017, cuando participaba de una corrida vendiendo CD´s.[Autor des2]  “Gracias a Dios los doctores me salvaron la vida. Me había accidentado un toro y perdí mucha sangre, cuatro unidades tuvieron que colocarme en Oruro y cuando llegué a Montero me pusieron otra unidad”.
+
+Igual sigue. Y en esa lucha conoció a otros padres que han formado la Asociación de Apoyo a Familiares Víctimas de Trata y Tráfico de Personas y Delitos Conexos (Asafavittp). Entre ellos se dan apoyo, cada uno cuenta su experiencia y el ‘papeleo’ en busca de justicia.
+
+“En algún momento vamos a saber de mi hija, no he perdido las esperanzas, aunque algunas personas me dicen que seguro está muerta", dice Antonio. Pese a sentirse abandonado por el Estado y de contar con el único apoyo de Asafavittp, le ha prometido a su nieta, la hija de Valeria, que un buen día su madre volverá. Por ahora, torear y viajar no puede.
+
+Mientras se recupera del accidente, ambula por las calles de Montero vendiendo refresco junto a su esposa. Ya no viaja, pero su búsqueda no se ha detenido: junto a los demás padres, insiste a la Fiscalía que revise su caso.
+####
+https://eju.tv/2014/12/veronica-larrieula-enemiga-de-la-mujer-crucena-es-la-mujer-crucena/
+####
+Recargada y sin pelos en la lengua. La miss Bolivia 1997 cumple 40 años este martes, fue invitada a la arena política en la elección nacional, decidió no aceptar para dedicarse a sus hijos y alista su retorno a la pantalla chica después de un año. Es mamá soltera y su corazón no tiene dueño, por ahora
+
+La misma mujer que hace varios años protagonizó uno de los desnudos más comentados, a un par de días de cumplir cuatro décadas, está más recatada que nunca, pero tan espectacular como siempre. Verónica Larrieu aprovecha el cambio de dígito que le llega con novedades, como un nuevo trabajo en TV, en febrero del 2015 (no da detalles); da una mirada madura a su vida, con altos y bajos, sin arrepentimientos, pero consciente de que tiene pendientes: no se perdona la falta de un título profesional, a pesar de que lo intentó tres veces.
+
+¿Ya no te da la personalidad para cierto tipo de fotos? Uno va quemando etapas. Cuando fui modelo, me caractericé por la sensualidad de los trabajos, porque era lo que demandaba el mercado, pero ahora me sentiría ridícula.¿Te sentís menos sensual?Quizás en la retina y en la mente de las personas quedó más eso, pero nunca me creí sensual y la gente que me conoce de cerca lo comparte.¿Qué se cree Verónica?Una mujer normal con dos extremos en la personalidad: por un lado chacotera y superjuguetona y, por el otro, renegona, sin ser aburrida. Ni lo alegre ni lo renegona me introducen en la sensualidad.Ahora que estás más recatada, ¿qué pasa por tu mente al mirar los desnudos que hiciste?Me tapo los ojos. Mis hijos van a crecer y es muy difícil cómo se ven las cosas desde afuera, y la intención con que las hacés. Las hice porque eran un trabajo, no mi vida, siempre traté de ser lo más profesional posible y lo enfoqué así. El problema es que aquí la gente todavía no separa el personaje que está interpretando la modelo, de la mujer que uno ve en la calle.Existe la idea de que solo tenés trabajos temporales…Me canso, me aburro, por eso siempre estoy haciendo dos o tres cosas distintas. Soy una persona muy ‘aburrible’ y nunca pude forzarme a hacer algo que no me gusta.¿Te quedó pendiente el título profesional?Nunca fui floja, era la mejor alumna de mi colegio, campeona nacional de gimnasia, pero te acostumbrás a ganar plata y ni siquiera es que hubiera invertido la plata que gané como modelo. Tengo que producir porque tengo tres bocas en mi casa y las cuentas no esperan. No tengo un marido que me mantenga, tengo que hacerlo yo.¿De algún modo sos mamá sola?Los papás de mis hijos son parte de su formación. Creo que de alguna manera esto me ayuda a criar hijos más sensibles; una madre soltera puede enseñar otro tipo de valores.¿No creés en las relaciones por un hijo?Un hijo nunca puede obligar a dos personas a estar juntas, hay que hacer las cosas menos dolorosas para todos.Es inevitable pensar cómo una mujer tan bella está solaSiempre me pregunto por qué estoy sola. No he tenido la necesidad de un compañero de vida, quizás por estar enfocada en mi familia. Quizás uno tiene una coraza que los hombres perciben, o cuando uno se muestra muy independiente los corre. Después de tres años se dio la oportunidad, pero las cosas no funcionaron. Nadie me cree, pero no tengo pretendientes, quién me llame o me invite a tomar un café.¿Y el ramo que te mandaron recién?No sé, no tiene ni siquiera una inicial, ni una pauta de quién puede ser esa persona maravillosa que me dibujó una sonrisa en el rostro.¿Por qué debería ser intimidante una mujer independiente?Supongo que porque vivimos en una sociedad machista, imagino que esa pregunta habría que hacérsela a los hombres. Cuando se está expuesta, se inventa de todo, en mi caso tengo que reconocerlo.Dijiste públicamente que has sufrido por amor…Sí, porque soy una persona muy entregada, sentimental, no podés vivir a medias el amor. Aunque no me ha ido muy bien, me declaro la fan número uno del amor. Si tengo que llevar palo diez veces más lo haré feliz.¿Perdiste a tu papá joven…En días difíciles quiero decirle te necesito, necesito tu abrazo. Tardé muchos años en hablar de él sin quebrarme.¿Es mito urbano que tenés un temperamento fuerte?Tengo un problema y tengo que reconocerlo. Muchas veces la delicadeza al momento de hablar no es una de mis cualidades, soy torpe, pero eso no quiere decir que sea mala. Hay cosas que me sacan de quicio, como la ingratitud.Te invitaron recién a incursionar en política…En estas últimas elecciones. No importa quién, ni siquiera lo pensé, porque mis hijos están chicos y me necesitan, pero quizás en unos años.¿Cómo ves la política?Atraviesa por un fenómeno interesante que no queremos entender, pero es parte de nuestra realidad. Es prudente no opinar porque dirán que te volcás a un lado o al otro. No importa el nombre del gobernante, solo pido que quienes nos lleven, lo hagan bien.¿Cómo ves al hombre y a la mujer cruceños?¿Tiene que ser sincero? La mujer tiene muchos méritos, pero es muy criticona, no entiendo por qué no puede reconocer que otra mujer es linda, feliz o exitosa. No nos haremos más grandes al deshacer a otros. La enemiga número uno de la mujer cruceña es la mujer cruceña.El hombre sigue siendo machista, es hablador, necesita sentirse grande por lo que dice y no por lo que hace, hay el dicho de que el único delito en Santa Cruz es ser yesca. Sin embargo, yo amo esta tierra, cambiaría esas cosas de la gente, pero por lo demás, tenemos una alegría y amabilidad que nos hace especiales.Una mirada a tu país…Me da pena porque se ha sembrado mucho resentimiento, tenemos un potencial impresionante y estamos atrasando lo que podría estar surgiendo. No voy a echar la culpa al Gobierno porque en ese caso es el pueblo, nadie obliga a nadie a odiar.¿Te arrepentís de algo? Nada de todo lo que me ha pasado, ni lo malo ni lo que me hizo llorar o sufrir, porque todo eso consiguió lo que soy. Me gusta mi corazón, mi alma, mis sentimientos.¿Los 40? Bienvenidos, me encantan.¿El matrimonio? Un sueño.¿La soledad? Le tengo pánico
+####
+https://www.bolivia.com/futbol/torneo-clausura/2013-2014/sdi506/83435/bolivar-confirma-contratacion-de-xabier-azkargorta
+####
+El entrenador español Xabier Azkargorta, que el sábado dejó la selección de fútbol de Bolivia, asumirá mañana, lunes, la dirección técnica de Bolívar, informó el presidente del club "celeste", Marcelo Claure.
+
+"Debido al mal comienzo en la liga y la copa libertadores he tomado la decisión de reforzar el cuerpo técnico. A partir de mañana se incorpora Xabier Azkargorta como director técnico y Vladimir Soria pasa a ocupar la posición de director técnico adjunto y ayudante técnico", dijo Claure en su cuenta de Twitter.
+
+Soria condujo anoche su último partido como entrenador principal de Bolívar en la victoria por 3-0 ante el Aurora, el primer triunfo tras varios malos resultados en la liga boliviana y la Libertadores.
+
+Azkargorta debutará al frente del Bolívar en el torneo internacional de clubes el próximo miércoles con una visita al Flamengo en el estadio Maracaná, de Río de Janeiro.
+
+El partido corresponde al Grupo 7 de la Copa Libertadores, que también disputan el León mexicano y el Emelec ecuatoriano.
+
+Claure agregó en su cuenta de Twitter que está seguro de que la experiencia de Azkargorta y su conocimiento del fútbol boliviano aportarán mucho al Bolívar y que junto con Soria llevarán al equipo a dar "muchas vueltas olímpicas".
+
+El sábado, la Federación Boliviana de Fútbol (FBF) dijo, también por medio de Twitter, que Azkargorta dejó de ser el seleccionador de Bolivia por decisión propia, poco después que el técnico confirmara a los medios que estaba a punto de vincularse con Bolívar.
+
+Azkargorta volvió a dirigir a Bolivia desde septiembre del 2012, a mitad de las pasadas eliminatorias sudamericanas del Mundial Brasil 2014, en las que terminó en la penúltima posición.
+
+En 1994, el vasco llevó a Bolivia a una histórica clasificación para jugar Mundial de Estados Unidos.
+
+En las últimas horas, dirigentes deportivos bolivianos han comentado la posibilidad de que Bolívar pueda permitir a Azkargorta que, de forma excepcional, todavía dirija a Bolivia en los partidos amistosos que tiene programados en mayo y junio, mientras se analiza el nombramiento de un técnico titular para la selección.
+
+Bolivia jugará el 30 de mayo ante la selección de España en la ciudad de Sevilla y el 6 de junio frente a Grecia, en Nueva York.
+
+Al ser consultado al respecto, el copresidente del club bolivarista, Guido Loayza, declaró a radio Fides que no se hablado del tema con la FBF pero que, "por supuesto, a la selección siempre hay que colaborarla y el Bolívar lo ha hecho permanentemente". EFE
+####
+https://boliviaemprende.com/noticias/fantasy-park-reune-mas-de-1-000-atracciones-en-nueve-niveles
+####
+El edificio en forma de coliseo romano, que se encuentra en el tercer anillo interno frente al Zoológico de la ciudad de Santa Cruz, abrirá sus puertas este sábado 15 de marzo para recibir a cientos de niños que deseen ‘perderse’ en un parque donde abundan los carruseles, los inflables y los toboganes. Y es que por el tamaño del lugar y la variedad de juegos que ofrece, Fantasy Park puede jactarse de ser uno de los parques cerrados más grandes del país.
+
+Los nueve pisos del edificio estarán dedicados a la diversión de los niños, adolescentes y jóvenes. En los primeros tres niveles, que estarán habilitados desde el sábado, se pueden encontrar 11 juegos giratorios, un tren eléctrico, un parque con toboganes, camas elásticas y columpios, una guardería equipada para los más chicos y juegos electrónicos. A todo esto se suman dos toros mecánicos, máquinas en tres dimensiones, hockey de mesa, simuladores de autos y motos, un espacio para bailar con sensores a su alrededor y una batería eléctrica.
+
+En los próximos meses también se habilitará un ‘hotelito’, una peluquería infantil y un piso dedicado a los juegos inflables, con lo que se contabilizarán más de 1.000 atracciones distintas en un solo lugar.
+
+El ingreso a cada juego tiene un costo de Bs 3 y será controlado por manillas.
+
+En la parte externa del edificio se han instalado cuatro coloridos toboganes inflables, mientras que en el primer y el segundo piso están ubicados siete carruseles, un tren eléctrico, sillas de comer, un pulpo movedizo, avioncitos y futbolines, ideales para niños de 2 a 8 años.
+
+El tercer nivel está pensado para chicos a partir de los nueve años, pues alberga una variedad interesante de juegos electrónicos y simuladores.
+
+Si bien, este emprendimiento boliviano atenderá desde este fin de semana, tiene planes de seguir creciendo, ya que en el séptimo piso se construirá una moderna discoteca que tendrá su propio acceso, además de un patio de comidas y un salón de eventos.
+
+¡Sin duda, un gigante de la diversión ya despertó… y te está esperando!
+
+Para todas las edades: Familias enteras podrán disfrutar de las atracciones del parque cerrado, sobre todo de los juegos electrónicos. Hay dos mesas de hockey que esperan por vos.
+Al cuidado de los chicos: El segundo piso funcionará como una guardería para niños menores de dos años. Enfermeras, psicólogas y maestras velarán por su seguridad, para tranquilidad de los padres de familia.
+Horarios de atención: Fantasy Park funcionará de martes a domingo, de 14:00 a 24:00. Está ubicado sobre el tercer anillo interno diagonal al Zoológico, en el edificio Roma.
+####
+https://www.la-razon.com/politico/2014/01/26/relaciones-entre-bolivia-y-alemania/
+####
+La canciller alemana Ángela Merkel invitó al presidente Evo Morales a visitar Berlín. Será la primera visita oficial, programada para abril de este año, en la que ambos gobiernos ahondarán las relaciones bilaterales.
+
+A pesar de la crisis financiera que se vive en Europa, Alemania tiene la economía más importante y sólida de ese continente. Así se explica su liderazgo en la gestión de la crisis de la deuda de la zona euro. Alemania sigue el modelo de la economía social de mercado, conforme al cual el Estado garantiza la libertad económica y al mismo tiempo vela por el equilibrio social. Dispone de una red altamente desarrollada de sistemas de seguridad social (seguros de pensiones, enfermedad, dependencia y desempleo), sostenidos a mitades por los trabajadores y los empleadores.
+
+En ese contexto, las relaciones bilaterales en el ámbito político, económico, cultural y de cooperación entre los gobiernos y pueblos de Bolivia y Alemania tienen una larga tradición de amistad y confianza. Entre Bolivia y Alemania se ha desarrollado un diálogo de confianza mutua, en el que se intercambian criterios sobre diferentes temas de interés común. El año pasado se celebraron 50 años de trabajo conjunto y de cooperación. El presente año se celebrarán los 60 años de presencia del Instituto Cultural Goethe y del Centro Cultural Alemán en Bolivia.
+
+En Alemania, varias organizaciones sociales siguen con expectativa la política del Gobierno boliviano. Tiene muy buena acogida la protección de la naturaleza, la inclusión de los pueblos indígenas y el fortalecimiento de la democracia con su inclusión en la Constitución Política del Estado, que se ha traducido al alemán. Continuamente se señala que existen varios inversores interesados que requieren se socialice la nueva Ley de la Empresa Pública y se expliquen las políticas para las inversiones extranjeras.
+
+Los principales productos que ingresan al mercado alemán son minerales, textiles, café y productos de madera, además de productos agrícolas producidos ecológicamente, como la quinua y el cacao, que se venden en los mercados del FairTrade (comercio justo). Con la creación de la empresa EBA-Europa, en febrero del año 2013, se ha logrado incrementar la balanza comercial con Alemania en un 10% por medio de la exportación directa de la almendra. También Comibol está haciendo gestiones con instituciones alemanas para industrializar el litio y producir baterías.
+
+En cuanto a la cooperación financiera y técnica, Bolivia es uno de los países prioritarios de la cooperación alemana para el desarrollo. Los proyectos alemanes de cooperación son llevados a la práctica por la Deutsche Gesellschaft für Internaionale Zusammenarbeit (GIZ), que se concentra en programas de reforma de la administración y la Justicia, sociedad civil, economía agraria sostenible, abastecimiento de agua y eliminación de aguas residuales.
+
+En las áreas de educación intercultural bilingüe, reforma de la Justicia y protección ambiental, la GIZ coopera en Bolivia con el Banco Mundial, el BID, la AID y otras organizaciones bilaterales. Con la Unión Europea apoya con recursos en la lucha contra el narcotráfico; en el ámbito parlamentario, el intercambio de visitas de las delegaciones parlamentarias a Bolivia y viceversa se llevan a cabo con regularidad. Actualmente en Bolivia se cuenta con una Liga de Amistad Boliviana-Alemana con 26 parlamentarios/as de la Asamblea Legislativa Plurinacional.
+
+Hasta este año, el volumen de cooperación alemana a Bolivia representa 1.116 millones de euros, de los cuales 816 millones corresponden a la cooperación financiera y 300 millones, a la cooperación técnica. Alemania asignó para la gestión 2013- 2014 un nuevo monto de 35 millones de euros, 15 millones para la cooperación financiera y 20 millones para la cooperación técnica; además, cerca de 14 millones de euros de la cooperación financiera provenientes de gestiones pasadas serán reprogramados, haciendo un volumen total disponible para la cooperación técnica y financiera de 49,9 millones de euros
+
+Las condiciones de la cooperación financiera son ampliamente convenientes para Bolivia, ya que hasta 25 millones de euros van en calidad de préstamo con un plazo de amortización de 40 años, diez de gracia y una tasa de interés anual de 0,75%. Entre otras formas de cooperación del Gobierno alemán está el Servicio Alemán de Cooperación Social y Técnica (DED) y el Servicio Civil para la Paz, los Expertos Integrados (CIM), la Ayuda Humanitaria y de Emergencia, el SeniorExpertService (SES) y el InWEnt/DAA. Dentro de la cooperación alemana es preciso también considerar la importancia de la cooperación no gubernamental y de la sociedad civil alemana, particularmente aquella canalizada a través de organizaciones religiosas, culturales y educativas.
+
+Los logros de un trabajo compartido. En cinco décadas, la Cooperación Alemana se ha convertido en uno de los apoyos más continuos para el desarrollo del país. Los últimos años, 43 millones de euros han sido destinados para el mejoramiento de infraestructura en los municipios, como la construcción de escuelas, proyectos de agua y microrriego. Respecto al saneamiento básico, se ha apoyado con 100 millones de euros para la construcción de infraestructura y mejoramiento del servicio, que ha contribuido a que un mayor porcentaje de la población pueda gozar del acceso al agua como un derecho humano de buena calidad en sus domicilios.  En el sector agropecuario, con una inversión de 48 millones de euros, se amplió la cobertura de riego a 55.000 hectáreas de áreas cultivadas, beneficiando a 40.000 familias rurales con el incremento de su producción agrícola.
+
+El intercambio cultural bilateral entre Alemania y Bolivia se basa en una estrecha cooperación entre la embajada alemana, el Instituto Goethe Inter Nationes, el Centro Cultual Alemán y el Consejo Alemán de Música, entre otros. El intercambio cultural se canaliza también a través de los colegios alemanes de La Paz, Santa Cruz, Cochabamba y Sucre. El colegio alemán de La Paz, junto a la Cámara de Industria y Comercio boliviano-alemana, ofrece un curso de formación profesional dual en comercio exterior y administración y organización industrial, en el que participan 35 empresas. La Fundación Alexander von Humboldt y la Comunidad Alemana de Investigaciones respaldan el trabajo conjunto con el sector universitario y se ofrecen becas para estudiantes bolivianos.
+
+Por último, vale destacar que las áreas que se proyectan fortalecer en la relación bilateral de Bolivia con Alemania son las energías renovables, trasferencia de tecnología, adquisición de maquinaria y equipos, transporte masivo, inversiones para la industrialización de recursos naturales, formación técnica tecnológica, intercambio cultural, formación académica, científica y tecnológica, apertura de mercados para productos no tradicionales y promoción del turismo.
+####
+https://boliviaemprende.com/noticias/challapata-concentra-el-80-del-mercado-de-quinua
+####
+Aproximadamente 80 por ciento de la quinua producida en Bolivia se comercializa en el mercado de Challapata, según datos de la Asociación Nacional de Productores de Quinua (Anapqui).
+
+El vicepresidente de Anapqui, Epifanio Muraña, explicó que sus datos se basan en el hecho de que Anapqui tiene 2.080 familias productoras afiliadas, que representan a cerca del 20 por ciento de los productores de Bolivia y producen similar porcentaje de superficie cultivada de quinua.
+
+No existen estadísticas por tratarse de un espacio informal que se rige únicamente por las leyes del libre mercado pues los precios se definen por la oferta y la demanda, que varían según la temporada.
+
+Muraña afirma que es un mercado inestable y fluctuante porque el producto abunda entre los meses de marzo a mayo, que es época de cosecha, y escasea entre agosto y octubre, ya que los productores “guardan” la quinua hasta estar seguros de su próxima cosecha.
+
+En cuanto al precio, consideró que Challapata no lo define, pero sirve como un parámetro a nivel nacional. Para el caso de la exportación, quienes lo definen son los importadores. Detalló que, actualmente, el quintal de quinua en Challapata cuesta entre 1.700 y 1.750 bolivianos, en tanto que Anapqui compra el producto en unos 1.850 bolivianos el quintal.
+
+El tesorero de la Cámara Boliviana de Exportadores de Quinua y Productos Orgánicos (Cabolqui), Gonzalo Requena, coincidió en que eso no significa que ese mercado pueda definir el precio internacional pues eso depende de la competencia afuera, que en este caso es la quinua de Perú.
+
+En tanto que los productores independientes acuden al mercado de Challapata, que funciona sábados y domingos a lo largo de dos a tres cuadras, donde confluyen tanto compradores directos como intermediarios. “Tienen su organización, pero ellos venden al mejor postor”, señaló Muraña.
+
+El movimiento comercial en Challapata es tan intenso que desde fines de 2013, la Fundación Autapo implementó un sistema de mensajería móvil para difundir semanalmente los precios de la quinua en ese mercado. El servicio ayuda a los productores bolivianos a estar actualizados y a no dejarse sorprender con los intermediarios o acopiadores que llegan hasta las comunidades a ofrecer precios por debajo del de Challapata, señala una nota publicada en febrero pasado en Red Tic Bolivia.
+
+La actividad genera un importante movimiento para la economía de los bolivianos y genera muchos empleos en el municipio de Challapata.
+
+En cuanto al acopio, Anapqui cuenta con acopiadores que trasladan el producto a las dos plantas procesadoras construidas precisamente en Challapata.
+
+En Challapata se vende tanto la quinua real como la dulce y es también el lugar desde donde el producto sale ilegalmente hacia Perú, según Muraña. La diferencia entre ambas es que la quinua real es orgánica, es decir que se produce bajo normas nacionales e internacionales y según Requena “se trata de un tema de calidad” porque esas normas suponen ciertas restricciones como la prohibición de usar cierto tipo de pesticidas o de abonos y otras.
+####
+https://eju.tv/2014/11/municipios-de-bolivia-encabezarn-la-pelea-por-el-pacto-fiscal/
+####
+La FAM demanda la solidaridad de los municipios desarrollados en favor de los más deprimidos. Hay municipios de 1.600 habitantes y cinco concejales.
+
+El 29 de marzo, los bolivianos elegirán a nuevas autoridades ediles y departamentales. El miércoles fenece plazo para inscribirse en el padrón.
+
+Los 2.021 concejales que serán electos el 29 de marzo de 2015, serán la vanguardia de la pelea por el nuevo pacto fiscal que debe discutirse entre las regiones y el Gobierno central, en ese objetivo se centra el discurso presidencial que arenga a ganar las nueve gobernaciones y la mayor cantidad de municipios del país. El presidente de la FAM, Juan Carlos Padilla, dijo que el MAS tiene como objetivo tener más de dos tercios de los municipios.
+
+El analista José Antonio Coca recordó que el presidente Evo Morales fue muy elocuente para lograr este objetivo y recordó que serán las regiones las que se sienten a negociar el pacto fiscal y tendrán por detrás el apoyo de las alcaldías.
+
+Precisó que es mejor la negociación con gobernaciones afines, dijo que en 2010, el MAS logró la victoria en seis de las nueve gobernaciones y pudo pasar las exigencias regionales merced a esta fortaleza política regional y puede suceder lo mismo cuando se inicien las negociaciones del nuevo acuerdo económico.
+
+El municipalista Iván Arias afirmó que el aumento en el número de concejales no puede afectar a la negociación regional y que está definido que existen dos criterios de distribución de esos recursos: el de población y el de desarrollo humano.
+
+Arias alertó sobre otro conflicto que se cierne sobre los municipios más pobres y son los recursos que nacieron con la “Iniciativa de Alivio de Deuda para los Países Pobres muy Endeudados” (HIPC, por sus siglas en ingles que significan Highly Indebted Poor Countries), convenio que establece que los recursos que perciban los departamentos por la deuda externa serán invertidos en los municipios más pobres.
+
+Este programa, según Arias nació del diálogo en el año, 2001 y tenía una vigencia de 15 años. En total eran 1.500 millones de dólares que debían ser entregados a los municipios más pobres y ese programa llega a su fin el siguiente año.
+
+El presidente de la FAM dijo que en el pacto fiscal que se avecina deben tomarse en cuenta tres factores de distribución de recursos, por población, que tomaría en cuenta el número de habitantes por municipio; el segundo es desarrollo económico, que se vincula a los recursos de coparticipación y la generación de ingresos propios; finalmente el tercero es el de índice de pobreza que es el caso de la mayoría de los municipios pobres que tienen una gran extensión pero que están despoblados.
+
+El municipio de Ingavi en el departamento Pando es el que menos habitantes tiene con 1.654 pobladores y debe generar recursos para la manutención de cinco concejales que serán electos en marzo.
+
+Según Padilla, la mayoría de los municipios deprimidos están en los departamentos de Cochabamba y Chuquisaca donde no llega ayuda.
+####
+https://eju.tv/2014/06/cooperativistas-mineros-aliados-de-evo-rehyen-pago-de-millonaria-deuda-al-estado/
+####
+El presidente de la Fencomin) , Alejandro Santos, evitó referirse a cómo se pagará la deuda de $us 26 millones contraída por las Cooperativas Mineras con la estatal Comibol y prefirió enfatizar sobre la proclamación de Evo Morales como candidato a la presidencia para las elecciones del 12 de octubre.
+
+El presidente de la Federación de Cooperativas Mineras (Fencomin), Alejandro Santos, evitó este viernes referirse a cómo se pagará la deuda de $us 26 millones contraída por las Cooperativas Mineras con la Corporación Minera de  Bolivia (Comibol) y prefirió hablar ante la prensa sobre la proclamación electoral de Evo Morales como candidato a la presidencia para las elecciones del 12 de octubre.
+
+Las empresas privadas mineras adeudan unos $us 10 millones y las cooperativas mineras al menos $us 26 millones a la Comibol, por la recepción de maquinaria y equipos de dicha entidad estatal desde 1997. Sumadas ambas cifras la deuda alcanza a $us 36 millones.
+
+Santos, si bien dijo que se cumplirá el pago de la deuda, evitó referirse al cómo se lo haría. “Las deudas son bienes del Estado, eso va a ir adelante, no hay dónde perderse, porque son bienes del Estado, nosotros normalmente vamos a ir cumpliendo lo que es su precio justo”, declaró Santos.
+
+El dirigente de Fencomin se hizo presente en la ciudad de La Paz para salir a marchar con sus bases con el objetivo de apoyar la candidatura para la reelección del actual presidente del Estado, Evo Morales, y del vicepresidente Álvaro García Linera.
+
+“El apoyo es incondicional ayer, hoy y mañana de las cooperativas, por siempre y para siempre será el apoyo de las cooperativas hacia el primer mandatario que es el compañero Evo Morales”, aseveró.
+
+El mismo dirigente, el 2 de abril de este año, cuando los cooperativistas salieron a las calles exigiendo respeto a la antigua redacción de la Ley de Minería y Metalurgia, señaló: “Si bien nosotros le hemos llevado a Palacio, ahora puede ser de que también nosotros le bajemos al (presidente) Evo Morales (…). Vuelvo a reiterar, vuelvo a manifestar, si bien nosotros hemos abierto el camino para que él (Evo Morales) se siente en el Palacio, ahora también puede ser de que las cooperativas le podamos bajar”.
+####
+https://www.opinion.com.bo/articulo/cochabamba/pandilla-usa-facebook-crecer-cochabamba-mata-rivales/20140406211600485114.html
+####
+“Hola cumpas, el día jueves habrá reunión de Los Chicos de los Andes (CH.D.L.A) urgente para hablar del Corso de Corsos, del Corso de la avenida Suecia y acerca de los bautizos de los nuevos y nuevas que quieren entrar a la Mara, llámenlos al Latini o al Misi”.
+
+Este es uno de los avisos, plagado de faltas de ortografía, publicado en el muro de Facebook del líder de la pandilla o Mara, Chicos de los Andes. El grupo tenía hasta ayer 593 integrantes en la página que abrieron en la red social para citarse, relacionarse y compartir fotos. Es imposible acceder al contenido del grupo que fue creado con el rótulo de “cerrado”, pero sí se puede conocer sus actividades entrando a los muros de sus miembros.
+
+Los Chicos de los Andes es el nombre de una pandilla que se hizo conocida en la sociedad porque algunos de sus integrantes fueron vinculados con el homicidio de El Ruso el día del Corso de Corsos. Algunos periodistas informaron que el crimen ocurrió por el robo de un celular, pero las investigaciones apuntan más bien a una cuestión de rivalidad pues El Ruso (apodo por su nacionalidad) pertenecía al grupo Gígolos y ADX.
+
+En el muro del líder de Chicos de los Andes, existen amenazas contra los Gígolos como “Para que vean hijos de p... no pudieron c.... ahora c... basuras Gígolos”, “Perros, son perros así, poco a poco me están pidiendo disculpas diciendo que nada que ver, solo algunos nombres se salvarán los demás c....Gígolos una polla basuras”.
+
+Las pesquisas privadas y policiales de la muerte de El Ruso lograron dar con un integrante del grupo que, presionado, contó varios detalles, según el abogado de la familia de El Ruso, Dante Reyes. Por ejemplo, que los miércoles y sábados, los CH.D.L.A. se reúnen cerca del Cine Center, aunque también pueden citarse en el hipódromo o en locales.
+
+En las redes sociales es difícil encontrarlos porque la mayoría usa dos puntos sobre las vocales de sus nombres y apellidos.
+
+Hombres y mujeres integran el grupo y se someten a bautizos que son dirigidos por el líder. El lenguaje con el que se refieren a las mujeres es machista, como si ellas fuesen de su propiedad. Frases como “Somos los CH.D.L.A a las chicas que tenemos las volvemos p....”. Sin embargo, las jóvenes no se sienten ofendidas y más bien ruegan por fiestas donde beben de baldes y fuman. Luego salen a pelear con otros grupos, armados de cadenas, cuchillos, bates e incluso armas de fuego según el testimonio. La misma persona dijo que integran la pandilla los dos hijos de un “pesado” delincuente que purga una condena en una cárcel de  Cochabamba.
+
+CONFLICTOS SOCIALES La pandilla es contratada por una dirigente para infiltrarse en marchas de protesta o en conflictos sociales, para hacer destrozos y hacer estallar la violencia. Participaron, por ejemplo, en los enfrentamientos que hubo en la Universidad Mayor de San Simón a causa de un acto electoral.
+
+Esta dirigente los protege, contrata abogados para ellos e incluso los acompaña a sus audiencias. Todos la llaman “La mamita de los Andes” y le temen.
+
+Hace cuatro meses, el líder de la pandilla fue detenido en una cárcel por matar a otra persona, con una botella de vidrio, en una discoteca. Mientras su situación legal “se soluciona”, dejó a encargados de la mara. Uno de ellos, conocido como el Moqo Danny fue enviado a la cárcel recién, como el principal sospechoso de matar al Ruso.
+
+DESCUIDO En los últimos dos años, varios crímenes y atracos en Cochabamba fueron perpetrados por pandilleros. Estos grupos juveniles han crecido en un 8 por ciento según datos del propio Gobierno, pero hasta ahora no existen políticas reales para frenarlos.
+
+En la mayoría de los países del mundo, la Policía cuenta con una unidad especializada en el control de pandillas, pero en  Bolivia ni siquiera existe un protocolo de registro y seguimiento de las mismas.
+
+Ocasionalmente, algún jefe policial levanta información sobre la cantidad de pandillas y la lista de las mismas, pero los datos se diluyen en el tiempo porque a otros jefes no les interesa indagar si los adolescentes o jóvenes que caen presos por distintos delitos, pertenecen a alguna pandilla.
+
+Es así que los CH.D.L.A, no figuraban en las ocasionales listas de pandillas de la Policía, pese a que según cuenta el mismo líder, en su muro del Facebook, el grupo nació el año 2002, luego de una pelea campal con otra “mara”. Desde entonces celebran su aniversario cada 10 de noviembre con fiestas donde abunda el alcohol, el cigarro y, por las bromas que se hacen entre ellos, también las drogas.
+
+La falta de recursos de la Policía y de políticas antipandillas serias, están permitiendo la expansión de estos grupos que, cada vez más, se dedican a robar, destruir y matar.
+
+﻿Hace cuatro meses, el ministro de Gobierno Carlos Romero reveló que en Bolivia existen 762 pandillas y que esa cifra aumentó en un 8 por ciento con respecto a 2011. En Cochabamba, de acuerdo a ese registro, existen 106 pandillas integradas por 3.195 personas, de las cuales 2.666 son varones y 529 son mujeres.
+
+En todo el país, existen 25.219 pandilleros. De acuerdo al estudio presentado por el Gobierno, seis de cada diez pandillas delinquen: robos, hurtos y atracos (61 por ciento ), riñas y peleas (30 por ciento ), agresiones (2,4 por ciento ), acogotamientos (4 por ciento ), extorsión y amenazas (2 por ciento ) y atracos, violaciones, asesinatos y secuestros (1 por ciento ). Las autoridades se alarmaron porque la edad de reclutamiento de miembros en las pandillas bajó de los 15 a los 12 años, tienen armas blancas y consumen drogas.
+
+﻿Los adolescentes, desde los 12 años, son reclutados en sus unidades educativas, aprovechando la falta de control de los padres que trabajan, las rupturas familiares o la migración de los progenitores, confirmó el ministro Carlos Romero.
+
+Las pandillas ahora son más violentas. En los meses de octubre y noviembre de 2013, se enfrentaron en batallas campales con la Policía. El 2 de noviembre, 164 menores de 11 pandilas atacaron el módulo policial 40 de Pucarita Chica, en  Cochabamba. Decenas de menores fueron aprehendidos.
+
+Los dueños de locales, además de algunas amplificaciones y radioemisoras alientan el crecimiento de pandillas por motivos económicos. Les organizan fiestas vespertinas y las presentan como si fuesen grandes personajes.
+####
+https://boliviaemprende.com/noticias/unas-5-mil-familias-de-productores-se-asocian-como-estrategia-para-exportar
+####
+Cacao silvestre a Suiza, maní orgánico a Europa o harina de oca a Colombia, son algunos de los productos que ya tienen mercado internacional gracias a la asociación de los productores para potenciar su capacidad productiva.
+
+Esos proyectos fueron presentados entre un total de 217 planes similares de producción asociada, a nivel nacional, al Fondo Concursable–Incremento y Diversificación de las Exportaciones, lanzado por el Gobierno con el apoyo de la Unión Europea (UE).
+
+Fueron seleccionados 31 proyectos que ayer recibieron los certificados que los acreditan como ganadores del fondo concursable. En un acontecimiento realizado en el centro de eventos El Portal, de esta ciudad, con la presencia de representantes del Viceministerio de Comercio Interno y Exportaciones, Promueve Bolivia y el Programa de Apoyo a la Promoción del Crecimiento y la Diversificación de las Exportaciones (Proex) y de la UE.
+
+De los proyectos bolivianos ganadores 10 son de La Paz, 7 de Cochabamba 4 de Santa Cruz, 4 de Potosí, 2 de Oruro, 2 de Pando, 1 de Tarija y 1 de Chuquisaca.
+
+Alrededor de cinco mil familias de productores y exportadores bolivianos en los sectores de alimentos orgánicos, artesanía y productos manufacturados recibirán el 80 por ciento del costo de sus proyectos. El monto de los contratos está entre los 790 mil y 890 mil bolivianos.
+
+Como un ejemplo de los resultados de la asociatividad, el coordinador del proyecto Asociación de Productores de Maní de Mizque (Apromam), Mario Arrázola, dijo que desde hace cinco años exportan 54 toneladas de maní orgánico a Europa, haciendo un total de 150 mil dólares en ganancias. La Fundación Valles ejecutará el proyecto que prevé duplicar sus exportaciones.
+
+Alrededor de 250 familias yuracarés exportan 850 quintales de cacao silvestre a Suiza, proyecto que ahora prevé incluir a las familias del Tipnis dijo Eduard Quiroz, coordinador del proyecto. Al año expandirán su mercado a Bélgica.
+
+Entre los productos novedosos que podrán llegar a mercados internacionales están el tusuwayo y la muña, mates que alivian el estrés y los dolores abdominales. Estas plantas crecen en el norte de Potosí y son parte del proyecto de mates, que además ofrece infusiones de cedrón, manzanilla e hinojo.
+####
+https://www.ultimahora.com/revelaran-hoy-el-informe-contaminacion-del-pilcomayo-n811790
+####
+Los resultados de los análisis de contaminación realizados al río Pilcomayo por el Ministerio de Medio Ambiente y las gobernaciones de Potosí y Chuquisaca, a causa del vertido de minerales en el río Pilcomayo registrado la semana pasada, serán revelados hoy, publicó ayer el diario La Razón, de Bolivia.
+
+Así lo afirmaron a La Razón el director general de Medio Ambiente en el ámbito nacional, Francisco Salvatierra, y el secretario de Medio Ambiente y Madre Tierra de la Gobernación de Chuquisaca, Eddy Carvajal.
+
+El dique de colas está ubicado en la comunidad potosina de Canutillos, en el municipio de Tacopampa y pertenece a la Empresa Minera Santiago Apóstol. Colapsó el viernes 4 de julio, con lo que restos de plomo, plata y zinc de los trabajos mineros fueron a parar al río Pilcomayo. El accidente no fue comunicado a las autoridades hasta una semana después. Según Carvajal, la empresa ya ha reparado la represa.
+
+municipios afectados. Sin embargo, los metales siguen su curso a través del Pilcomayo y ya han llegado hasta Chuquisaca, donde están afectados los municipios de Sucre, Yotala e Icla, según constató una comisión de la Gobernación que se trasladó hasta el lugar del dique.
+
+Carvajal informó que los técnicos de Chuquisaca sacaron muestras del agua del río para hacer estudios con los que establecerán los niveles de contaminación. Con estos datos, añadió, se trabajará en acciones destinadas a mitigar las consecuencias del colapso del dique y colaborar con las familias afectadas. Según informa el portal del diario El Potosí, el agua que beben los vecinos procede de la red de la Corporación Minera de Bolivia, por lo que no supone un riesgo para su salud.
+
+instan a no beber del río La situación es diferente para otras comunidades, según el fiscal de la provincia Cornelio Saavedra, José Luis Ríos, pues hay poblaciones sin sistemas de agua potable; en ellas, los vecinos consumen agua del río. El fiscal instó a la población a no beber del Pilcomayo para “evitar futuras enfermedades y hasta posibles muertes”, según Erbol. Señaló también que el vertido tóxico afectó a unos 500 metros cuadrados de terreno antes de llegar al cauce fluvial.
+
+Cancillería paraguaya. Atilio Medina, ex miembro de la Comisión Pilcomayo, afirmó que el vertido en Bolivia “sí o sí afectará al Paraguay, especialmente a las especies ictícolas, como así también los pequeños productores que se surten de las aguas del río”. Medina pedirá hoy a la Cancillería se convoque a una reunión con la Trinacional (grupo integrado por Argentina, Bolivia y Paraguay).
+
+La frontera de los tres países comparten el río. Por Bolivia transcurre el 31%, por Argentina el 25% y por Paraguay, el 44%.
+####
+https://es-us.noticias.yahoo.com/militares-bolivia-pausa-protestas-urgen-cita-morales-000842328.html
+####
+Los sargentos y suboficiales de las fuerzas armadas bolivianas, que manifestaron durante la semana pasada en las calles de La Paz, abrieron una pausa en sus protestas hasta el martes a la espera de una cita con el presidente Evo Morales, dijeron este domingo sus representantes. "Hemos decidido hacer un cuarto intermedio en nuestras medidas para generar un clima de diálogo y pedirle al hermano presidente (Evo Morales) nos dé unos 10 minutos de su tiempo" para explicarle las razones del movimiento, declaró Eloy Cartagena, vocero de los insubordinados. "Así como (Morales) escucha a los cocaleros, a los mineros y a otros sectores, (esperamos que) también escuche nuestras razones sobre por qué estamos en las calles", dijo Cartagena a la agencia de noticias Fides. La posibilidad de una negociación directa con las autoridades fue desestimada el viernes por el vicepresidente Álvaro García. "Fuera de la cadena de mando nada. Hagan lo que hagan, nada será oído, porque oír a quien rompe la cadena de mando es estar rompiendo la Constitución", sostuvo. El ministro de la Presidencia, Juan Ramón Quintana, desestimó de su lado este domingo una negociación, con los mismos argumentos. "Tengo la impresión de que una gran parte de los suboficiales y sargentos han sido absolutamente desinformados, han sido manipulados, han sido engañados", sostuvo Quintana, un militar retirado, en declaraciones a medios estatales. Los militares de bajo rango fueron influenciados "por el interés de un grupo que ha pretendido tener privilegios políticos y que en un momento electoral pretende tener espacios de poder, espacios de decisión política y los suboficiales y sargentos han caído en la trampa", manifestó. A pesar de los intentos de diálogo, los militares rebeldes, que exigen reformas en la institución y piden el fin de supuestas discriminaciones, llamaron "a la gente" a continuar con la protesta. "Hemos enviado comisiones a Achacachi y Huatajata (poblados de La Paz) para concientizar a la gente sobre nuestras demandas. Camaradas de Trinidad, Oruro y Santa Cruz se van a sumar a la marcha del martes", anunció Cartagena. Los sargentos y suboficiales pretenden realizar el martes una concentración masiva junto a sus esposas e hijos y el apoyo de organizaciones sociales.
+
+CIUDAD DE MÉXICO, noviembre 5 (EL UNIVERSAL).- Luego de que el candidato presidencial republicano Donald Trump amenazó con imponer 25% de aranceles si México no frena a "criminales" y "drogas", la presidenta Claudia Sheinbaum Pardo aseguró que "va a haber buena relación", independientemente de quién gane las elecciones presidenciales.
+
+En su conferencia mañanera de este martes 5 de noviembre en Palacio Nacional, Sheinbaum Pardo destacó el esfuerzo de México para disminuir la migración a través de distintas áreas del gobierno.
+
+Refirió que es muy importante que cuando se confirme a Donald Trump como ganador o a Kamala Harris como ganadora, debe haber reuniones e información entre autoridades de alto nivel de ambos países para que se conozca lo que ha hecho nuestro país contra el narcotráfico.
+
+Cuestionada sobre un "desconocimiento" de Trump, la presidenta Sheinbaum rechazó que esté calificando al candidato: "Entonces no califico ni a uno ni a otro, ni a uno ni a otra candidata, ni a los candidatos a la presidencia de Estados Unidos, sino que estoy convencida que va a haber buena relación y que tiene que haber este proceso de información de inicio y de colaboración y coordinación".
+
+"Estoy convencida que va a haber buena relación", expresó la Presidenta.
+
+Añadió que el próximo viernes el canciller Juan Ramón de la Fuente presentará un informe de la atención a la migración.
+####
+https://www.la-razon.com/politico/2014/01/12/zulma-yugar-parraga-alistando-su-segundo-libro-2/
+####
+Fue la primera titular del Ministerio de Culturas en 2010.  En su gestión se proyectaron leyes estructurales como la del Turismo y del Libro que ya fueron promulgadas. Ahora trabaja en su fundación cultural y en la elaboración de su segundo libro.
+
+Música folklórica, acción cultural y gestión política encontraron fusión y acierto en la vida de la orureña Zulma Yúgar Párraga, quien es reconocida en nuestra tierra y más allá de las fronteras como la “embajadora de la canción boliviana”.
+
+Concluida su gestión como Ministra de Culturas (2010-2011), retornó a Cochabamba para continuar administrando la fundación cultural que lleva su nombre. En 2012 presentó su primer libro —Patrimonio Cultural Intangible. Memorias desde el jurado— y  ahora escribe las últimas páginas del segundo que aún no tiene nombre, pero que contiene una suerte de recuerdos personales en el ámbito artístico.
+
+Por ejemplo, cuenta por teléfono que a los diez años tuvo un momento significativo en su vida cuando, inspirada en los paisajes geográficos vistos en distintos viajes por los rincones del país, se comprometió a cantar y difundir la música boliviana.
+
+La sutileza de su voz y esa sensación de entonación galante que transmite cuando canta impulsaron su trayectoria y conquista en la música folklórica. No menos importante fue su incursión en la política, que pese a ser breve, abrió camino a importantes cambios en ese ámbito.
+
+Recuerda que en 1997, el Movimiento de Izquierda Revolucionaria (MIR) la invitó a ser diputada por el departamento de Oruro y que “escasamente, por cerca de 400 votos, no se pudo lograr la diputación”.
+
+Con ese primer aliento, el Gobierno entrante del fallecido Hugo Banzer Suárez la invitó a ser parte del entonces Viceministerio de Culturas y allí se desempeñó como Directora General de 1997 a 2001. Fue en ese periodo de tiempo que la Unesco (Organización  de las Naciones Unidas para la Educación, la Ciencia y la Cultura) la incluyó en la lista del jurado internacional que estaba encargado de elaborar un marco legal para calificar el patrimonio intangible, inédito hasta esas fechas. “Logramos que el Carnaval de Oruro sea reconocido como Obra Maestra del Patrimonio Oral e Intangible de la Humanidad”, recuerda.
+
+Así concluyó aquella  etapa y se dedicó a la actividad cultural durante una década. En 2010, el presidente Evo Morales la convocó para que sea titular del naciente Ministerio de Culturas y ella no dudó en aceptar. “¡Fue así de sopetón!”, cuenta.
+
+Todo ese año fue más de transición. Comenta que a la par de trabajar en la logística, redactaron proyectos de ley sobre turismo —promulgado en septiembre de 2012—, del Libro —promulgado en abril de 2013— y del Cine, que está en tratamiento.
+
+Después de finalizar su gestión, en 2011, la cantante volvió a refugiarse en Cochabamba, donde radica en la actualidad. Fruto de su unión con el baladista Memo Arce, tuvo a su primera y única hija que es conocida en el ámbito artístico como Muñeca, también de nombre Zulma. Hace unos tres meses, la primogénita de 36 años emprendió vuelo a Estados Unidos. En tanto, Yúgar continúa trabajando en su fundación cultural que se enfoca, sobre todo, en alentar proyectos musicales.
+
+El segundo libro está en su última fase y que podría ingresar a la imprenta en marzo. ¿De qué se trata el texto? “Es un documento que todo artista debe dejar para la memoria del país”, adelanta la artista.
+####
+https://eju.tv/2014/02/suben-a-33-700-las-familias-afectadas-por-lluvias-y-riadas-en-bolivia/
+####
+El número de familias afectadas por las intensas lluvias en  Bolivia, que han dejado 46 muertos, trepó este fin de semana a 33.700, informó este domingo una autoridad de Gobierno.
+
+«Hasta el momento tenemos una cantidad de familias afectadas en todo el país de 33.700», afirmó el viceministro de Defensa Civil, Óscar Cabrera, entrevistado por la red Erbol.
+
+Hasta ayer los damnificados eran 28.500, principalmente en los departamentos de La Paz, Beni,  Santa Cruz y Cochabamba, los más golpeados por las inclemencias del tiempo que se registran en las nueve regiones del país.
+
+En tanto, las autoridades han situado en 46 el número de muertos contando a las dos menores que fueron encontradas ayer en un río del municipio potosino de Vitichi. En esa misma región hoy se continúa buscando a otra menor que también se llevó la corriente (hermana de las fallecidas).
+
+Cabrera informó que los esfuerzos gubernamentales están concentrados en el departamento de Beni, donde las localidades de Rurrenabaque, Reyes, Santa Rosa y San Borja están sufriendo por la crecida y desborde de los ríos a causa de las intensas lluvias.
+
+Los ministerios de Defensa, Salud y de la Presidencia han trasladado «unas 120 toneladas de vituallas y medicinas», señaló, e insistió que «la mayor atención es en Beni».
+
+Asimismo, Cabrera indicó que también hay alerta en la ciudad de Trinidad, de unos 93.000 habitantes, pues podría sufrir una inundación por la crecida del río Mamoré, que baña partes de la ciudad, antes de desembocar en el Río Iténez o Goaporé, que sirve de límite fronterizo con Brasil y termina en el Amazonas.
+
+También está en alerta el departamento amazónico de Pando, vecino de Brasil y Perú, donde el río Tahuamanu, que baña su capital Cobija, de unos 42.000 habitantes, podría desbordarse.
+
+Según las previsiones del Servicio Nacional de Meteorología e Hidrología (Senamhi), las lluvias continuarán hasta la primera quincena de marzo en el norte de La Paz, Beni y el trópico de Cochabamba.
+
+La época de lluvias comenzó este año en Bolivia a finales de septiembre, cuando lo habitual es que lo haga en noviembre.
+
+Las inclemencias del tiempo también han afectado 14.000 hectáreas de cultivos, según últimos balances oficiales.
+####
+https://www.la-razon.com/politico/2014/03/02/la-historia-de-la-guerra-del-pacifico-plagada-de-mitos/
+####
+Sin la intención de hacer una defensa del general Hilarión Daza, subrayando sus errores, muchos estudios desmienten, de manera documentada, la posibilidad de que se haya callado la noticia de la invasión.
+
+La historia de la Guerra del Pacífico, tras la cual Bolivia perdió su litoral en el océano Pacífico, está plagada de mitos. El ocultamiento de la información hecho por Hilarión Daza de la invasión chilena de Antofagasta, la traición boliviana al pacto con Perú, la existencia de Juancito Pinto o que la causa fundamental de la guerra haya sido el gravamen al salitre contra una empresa privada con capitales ingleses y chilenos, son algunos de los mitos que la historia ha perpetrado. A continuación se relatan estos mitos y se devela, si no una versión definitiva de lo sucedido, sí una desmitificación de lugares comunes inexactos de la historia nacional difundidos por décadas desde el Estado y desde una “oficialidad” de la historia.
+
+El ánimo con que se hace esto no es herir ninguna sensibilidad —cosa posible si se tiene en cuenta que dichos mitos son tomados como verdades hasta ahora— sino más bien seguir lo expresado al final del prólogo del libro Patria Íntima de Néstor Taboada Terán: “Vislumbrar una comunidad nacional que no se deja reducir a los presupuestos del Estado, que encuentra que su tristeza y su alegría es de ser simplemente lo que es, sin un ‘morir antes que esclavos vivir’ que difiere toda felicidad a una realización nunca lograda”.
+
+El mito más difundido sin duda fue el ocultamiento de la noticia de la invasión chilena por el presidente Daza, supuestamente para que la mala nueva no interrumpiera el carnaval de 1879.
+
+CARNAVAL. La versión se originó en Chile desde el principio de la guerra con una campaña de desprestigio de Bolivia. El historiador chileno Benjamín Vicuña Mackena divulgó el mito.
+
+Lo curioso es que la versión chilena es secundada por bolivianos ligados a la facción de Narciso Campero (quien dio un golpe de Estado contra Daza cuando éste se encontraba en el campo de batalla en Perú) y luego perpetrada por los intelectuales bolivianos posteriores a la guerra. Gabriel René Moreno, que es uno de éstos, reproduce la versión como todo un ‘historiador omnisciente’: “Guardando el Presidente de Bolivia (Daza) en los bolsillos de su disfraz la noticia por tres días, reservó su sorpresa para después de los carnavales”.
+
+Este relato fue adoptado por la historiografía liberal del positivismo (encabezada por Alcides Arguedas) y con la venia del líder de esa doctrina política, Eliodoro Camacho; posteriormente fue recitado por escritores más modernos, como Enrique Finot.
+
+El mito quiso ser desmentido por el historiador Fernando Cajías en la película de Antonio Eguino Amargo Mar. En este film, sin embargo, dice el historiador Pablo Michel, se “mitifica e idealiza” a Daza al mostrarlo como desamparado frente a la oligarquía boliviana que le hacía la guerra. Parece ser que de un mito se pasa a otra mitificación…
+
+Sin la intención de hacer una defensa del general Daza, subrayando también sus errores, muchos estudios desmienten, de manera documentada, la posibilidad de que se haya callado la noticia de la invasión. El libro más importante de este tenor es Daza no ocultó la noticia de la invasión chilena (1982) de Luis Antezana, aunque siete años antes Enrique Vidaurre ya presentaría pruebas en su libro El presidente Daza.
+
+La versión de Vicuña tuvo eco en Bolivia por la sencilla razón de que los camperistas —en pos de matizar sus errores— querían desprestigiar al militar derrocado para justificarse en el poder. “Es notorio que el pueblo de La Paz ignorara el aviso funesto del 14 de febrero (fecha en que la tropa chilena invade Antofagasta), mientras que Daza, aturdido por el bullicio del carnaval, ocultaba el parte”, cita a Eliodoro Camacho el historiador Antezana en el libro ya mencionado. Los que sostienen esta posibilidad hablan de que Daza y Eulogio Medina, entonces ministro de Relaciones Exteriores, recibieron el aviso del cónsul boliviano en Tacna, Manuel Granier, al día siguiente de la invasión, el 15 de febrero: “Gobierno chileno ha ordenado a fuerzas reunidas en Caldera ir a Antofagasta y ocupar Litoral”.
+
+La negación del relato chileno se basa en citas de la investigación del patricio Gastón Velasco (compositor de la letra del Himno al Litoral y exalcalde de La Paz). El argumento básico es que no existía una red de telégrafos entre Bolivia y Chile, y la noticia llegó hasta el Presidente a lomo de caballo el Martes de Carnaval (25 de febrero).
+
+La cronología según Velasco es citada por Antezana: El viernes 14 de febrero se inicia la invasión en Antofagasta. En la tarde del 16 llega al puerto el vapor Amazonas con bandera boliviana. El prefecto de la localidad, Severino Zapata, las autoridades y varias familias bolivianas se embarcan en ese buque para escapar de los excesos de los invasores.
+
+El lunes 17, el Amazonas llega a Tocopilla. El martes 18 parte con rumbo al entonces puerto peruano de Iquique y se envía un telegrama escueto al cónsul boliviano en Tacna, Manuel Granier. El 19 el vapor arriba a Arica. En el muelle se encuentra Granier para recabar más información y redactar la noticia para mandarla por correo a La Paz.
+
+El 20 (Jueves de Comadres) parte de Tacna el estafeta Gregorio Choque (apodado Goyo) con la correspondencia urgente; hace el recorrido de 76 leguas (más de 450 kilómetros) en seis días.
+
+“Bolivia no contaba con un servicio telegráfico (…), el camino directo era el de Tacora a Machagas”, escribe Velasco. Por su parte, el historiador chileno Tomás Caivano lo confirma en su libro Historia de la Guerra de América, entre Chile, Perú y Bolivia: “Repetimos, entre Bolivia y Chile no hay telégrafo. El (camino) más cercano del que puede hacer uso Bolivia va de Tacna y Arica”.
+
+El itinerario de Goyo fue el siguiente: el 20 de febrero fue de Tacna a Palca; el 21, de Palca a Huchusuma. El sábado 22 recorrió el trayecto de Huchusuma a la posta de Chulluncayani; el 23, de este lugar a San Andrés de Machaca. El 24, de esa localidad a Tambillo, y el 25 (Martes de Carnaval), de Tambillo a la ciudad de La Paz.
+Goyo llegó a La Paz a las 23.00 y se encontró con el cochero de Daza, quien lo llevó a la casa de Carlos Frías (esquina Yanacocha y Mercado), donde se festejaba el carnaval y donde había estado la comitiva presidencial. De esa casona, la autoridad se había retirado a la fiesta del coronel José María Baldivia, intendente de Policía, en la calle Pichincha. Efectivamente, allá encontraron a Daza y fue donde éste conoció de la ocupación. Eran las 24.00 cuando la noticia comenzó a circular inmediatamente (esta relación cronológica está registrada en los libros de Antezana y Vidaurre).
+
+Para el expresidente Carlos D. Mesa, la versión de Antezana es definitiva. “En cuanto Daza supo de la invasión suspendió el carnaval y convocó a la lucha”.
+
+Michel, sin embargo, desmiente la desmitificación asegurando haber visto cuatro notas de alerta en la Cancillería, una de ellas de tres días después de iniciada (la invasión)… y que el chasqui es un mito, pues existían “cinco empresas de correos con bases por todo el territorio nacional”.
+
+En todo caso, considera que un ocultamiento de la información no puede ser la causa de haber perdido la guerra, pues desde el 6 de enero los barcos chilenos estaban frente a los puertos bolivianos, es decir que el movimiento de la marina chilena alertaba “a gritos” que se buscaba provocar una guerra. “Que se hubiera guardado o no la información se vuelve totalmente irrelevante. Daza fue irresponsable al no enviar tropas con esas señales incontrastables de hostilidad”.
+
+En cambio, el escritor Mariano Baptista Gumucio avala la versión de Velasco y reitera que el mito del ocultamiento de la información fue obra de los chilenos. “La noticia llegó con semanas de retraso. Además era imposible que Daza haya podido movilizar las tropas por su cuenta, necesitaba el apoyo de Perú”.
+
+SALITRE. Otro mito es que la guerra se inició por el impuesto al salitre que impuso Daza a la Compañía de Salitres de capitales ingleses y chilenos. Esto no fue sino un pretexto para la invasión, nunca una causa.
+
+Tanto Perú como Bolivia —dice Baptista— sabían que había un “designio geopolítico de Chile”, desde hacía décadas, de “dominación en el Pacífico”, por lo que era inevitable que Chile busque un pretexto.
+
+No obstante, Daza “no tiene perdón” porque sabía que movía un “avispero” con el impuesto y daba el pretexto que Chile esperaba.
+
+Asimismo, Chile y Perú afirman hoy que Bolivia provocó la guerra. “Eso es totalmente falso”, dice Mesa y recuerda que Cobija había sido azotada por un tsunami y había una sequía en Bolivia que produjo una hambruna general, por lo que se impuso el impuesto. Chile protestó y Bolivia “soberanamente” rescindió el contrato. “Los chilenos debían haber respondido jurídicamente, pero una invasión armada no tiene ninguna correspondencia, por lo que es inequívoco que Chile inicia la guerra para defender capitales ingleses y chilenos”.
+
+El politólogo y estudioso de la historia bélica boliviana Jorge Abastoflor coincide. Además, dice, el salitre boliviano no le interesaba a Chile, sino el del territorio peruano, que en relación de cantidad al de Bolivia era de cinco a uno.
+
+Otra prueba de esto “es que la guerra terminó en Lima y no así en La Paz”, argumenta.
+
+HÉROES. Otro mito es la existencia histórica de los niños héroes Juancito Pinto y Genoveva Ríos.
+
+Ambos están en el imaginario de Gastón Velasco, que dedicó su vida entera a tratar de “interesar a los bolivianos sobre el tema del Pacífico; se fue exiliado con su padre a Antofagasta y quedó impresionado por la vista del mar”, dice Baptista, quien además confiesa nunca haber encontrado documentos sobre la existencia de ninguno. “La labor de Velasco fue muy buena, seguramente respondió a la necesidad de buscar héroes”.
+
+Mesa destaca que ambos forman parte de la construcción de un “imaginario nacional” que permite destacar actitudes más allá de los personajes como tales, si bien no ha revisado con detenimiento esos episodios como para afirmar o negar la existencia de esos hechos, lo cuales “no forman parte de lo relevante de la historia grande de la guerra”.
+
+Abastoflor rescata la creación del mito como positivo, pues de alguna manera refleja una realidad: “que el ejército boliviano peleó hasta su último hombre”. Michel, en cambio, señala que la existencia de Ríos es histórica, no así la de Pinto.
+
+En los últimos años, hubo estudios que quisieron cuestionar el papel de Eduardo Abaroa (no hay concierto en la manera correcta de escribir su apellido) de quien se dijo que no defendió la patria, sino sus intereses particulares. Mesa considera que esa versión es falsa y que está documentado que tuvo un rol heroico.
+
+En este mismo sentido, Michel apunta que Abaroa, antes de ir a combatir incluso se casó con su concubina para arreglar su herencia en caso de muerte, lo que prueba que se preparaba para dar batalla hasta el final.
+
+PERÚ. En torno al rol que jugó el Perú en el conflicto existen varios mitos. Uno es sobre la falsedad de que Perú se haya involucrado en la guerra a defender a Bolivia en honor del pacto secreto que tenían ambos países.
+
+Perú “no honró” la alianza; de hecho estuvo tratando de ser el negociador y evitar el conflicto, dice Michel. “Chile en realidad quería las salitreras del Perú y que el puerto de Valparaíso supere al del Callao, y Perú solo invocó la alianza cuando Chile le declaró la guerra, explica.
+
+Ya activada la alianza y como causa de un apoyo cuestionable del aliado de Bolivia, Daza estuvo “remoloneando por la impericia” de los gobernantes peruanos por ocho meses en Tacna, cuenta Baptista. El ejército boliviano, sin armas, no se movía de ahí. “El presidente peruano fue a Europa con el pretexto de comprar armamento y no volvió más. Fue una serie de desastres internos de los dos países”.
+
+Michel explica que el Perú nunca tuvo la intención de recuperar territorios bolivianos, sino formar una barrera en Tacna junto al ejército boliviano. Aunque Mesa señala que cuando se activa la alianza, el ejército chileno ya estaba de avanzada en territorio boliviano (la primera batalla conjunta es en territorio peruano, en Pisagua).
+
+Por otro lado, la historiografía oficial peruana está convencida de que Bolivia deshonró el pacto y abandonó a Perú tras la derrota en la batalla del Alto de la Alianza en 1880.
+
+Abastoflor cuenta que tras la derrota, el ejército boliviano quedó con 5.000 hombres (de sus 20.000 iniciales) y que se retiró a La Paz pensando que Chile quería invadir el país, sin embargo siguieron al norte hacia Lima: “a Chile no le interesaban las salitreras bolivianas sino las peruanas, porque eran las más ricas y dominar en el Pacífico, nosotros estábamos en medio…”
+
+Como se puede ver, aun entre conocedores bolivianos de la historia hay discrepancias en la materia. Queda preguntarse ¿por qué no puede haber una historia limpia de los hechos? Para Baptista, la razón de tanta mistificación en los relatos históricos es el “resentimiento y odio” que hubo entre Perú, Bolivia y Chile. Además, es claro que la academia no ha enfocado su vista en el estudio exhaustivo de la historia bélica del país. Es por eso que Baptista aconseja que las academias de historia se dediquen al estudio de la Guerra del Pacífico, tal vez uno de los acontecimientos de la historia de la que más se han hecho mitologías.
+####
+https://www.la-razon.com/lr-article/en-bolivia-el-negocio-de-la-belleza-crece-y-mueve-sumas-millonarias/
+####
+Año que pasa el negocio de la belleza mueve sumas millonarias en Bolivia. En el último quinquenio (2009-2013) la importación de cosméticos y perfumería creció en 86%. El año pasado las compras sumaron $us 138 millones, una de las más altas.
+
+Año que pasa el negocio de la belleza mueve sumas millonarias en Bolivia. En el último quinquenio (2009-2013) la importación de cosméticos y perfumería creció en 86%. El año pasado las compras sumaron $us 138 millones, una de las más altas.
+
+Para las importadoras de estos productos, el mercado boliviano es atractivo porque hubo un incremento de la clase media, que vio crecer su poder adquisitivo en los últimos años. Un experto dice que las causas son atribuibles a la estabilidad económica del país.
+
+Como muestra de este crecimiento, un estudio realizado el año pasado por el Consejo de Asociaciones de la Industria de Cosméticos  Latinoamericana (Casic) daba cuenta de que Bolivia ocupa el puesto 13 en el mercado de cosméticos en Latinoamérica. De acuerdo con el informe, cada habitante en el país tiene un consumo de $us 32,2 al año.
+
+Las cifras sobre la importación de estos productos son elocuentes. En 2009 se importó por un valor de $us 74,3 millones y en 2013 las compras subieron hasta los $us 138,2 millones. En ese periodo el alza fue del 86%, según los datos del Instituto Nacional de Estadística (INE) y procesados por el privado Instituto Boliviano de Comercio Exterior (IBCE).
+
+La información da cuenta de que el año pasado Bolivia importó más productos de belleza de Perú, Argentina, México y Colombia. En total se importaron 37 variedades de productos de tocador para hombres y mujeres de 51 países.
+
+Según el informe del IBCE, entre los principales productos que se importaron en los últimos cinco años figuran perfumes y aguas de tocador. En 2009 las empresas dedicadas a este rubro compraron por un valor de $us 14 millones y el año pasado esa cifra subió hasta los $us 29,2 millones.
+
+En el caso de los champús, las compras llegaron a $us 10,8 millones en 2009 y, cuatro años más tarde, se duplicaron hasta alcanzar los $us 21,9 millones. El maquillaje importado se incrementó de $us 10,6 millones a $us 19,4 millones en dicho periodo de análisis.
+
+De acuerdo con datos proporcionados a La Razón por la Aduana Nacional de Bolivia (ANB), en 2009 existían 155 importadoras de estos productos en el país. En la gestión 2010 subieron a 156, en 2011 se redujeron a 149 y el año pasado se incrementó a 163 firmas que comercializan cosméticos y/o productos de perfumería.
+Para el analista económico Jimmy Osorio López, el crecimiento de las importaciones de cosméticos se debe a tres factores: al aumento de la demanda interna, a la estabilidad de la economía boliviana y a la reducción del poder adquisitivo del país de origen de donde son traídos los productos.
+
+No solo las mujeres se preocupan por su imagen. En los últimos años esa tendencia se volcó ahora hacia los hombres, quienes con más frecuencia gastan en perfumería, cremas antiedad, desodorantes y otros artículos para el arreglo personal. Es lo que se ha venido a llamar los metrosexuales.
+
+Un metrosexual es un hombre que siente una gran preocupación por su imagen y se caracteriza por gastar en cosméticos y ropa bastante más que la media. El término es de aparición reciente. Fue inventado en 1994 por Mark Simpson, usando las palabras “metro” de metrópoli y “sexual” de sexo.
+
+Según la vendedora a detalle de cosméticos y/o perfumería, Irma Tinausa, el 60% de sus clientes son hombres de 20 a 25 años, los cuales se fijan en la calidad y el precio de los productos. En cambio, indica, los adultos buscan con mayor frecuencia colonias y cremas antiedad.
+
+Carolina Pérez, al igual que Tinausa, explica que son los hombres los compradores “más fieles, porque cada trimestre siempre adquieren cremas de afeitar, colonias, perfumes y pagan puntual”.
+
+El responsable de relaciones públicas y marketing de la importadora de perfumes Saint Honoré, Fernando Kushner, afirma que un hombre invierte cada dos meses hasta $us 150 en la compra de fragancias, gel de baño, desodorante, y cremas hidratantes y de afeitar.
+
+En lo que va del año, la Aduana Nacional de Bolivia (ANB) realizó 34 operativos en las fronteras del país para decomisar cosméticos y/o perfumería de dudosa procedencia. En el departamento de La Paz se hicieron 15 operaciones de supervisión, en Pando 11, en Potosí cinco y en Tarija tres, según información de la administración aduanera.
+
+De acuerdo con información de la Aduana Nacional de Bolivia (ANB), en el departamento de Oruro se decomisó en el primer semestre de este año una caja de perfume, en  Pando 132, en Santa Cruz 9 y en Tarija 2 cajas. En los operativos realizados por la ANB también se encontraron  seis cajas de tinte para cabellos de dudosa procedencia.
+
+Según Érika Toledo, jefa de la Unidad de Medicamentos (Unimed), dependiente del Ministerio de Salud, existen 160 importadoras autorizadas para traer del exterior productos cosméticos y/o perfumería. Indica que la comercialización de estos productos está regulada por las Decisiones 516 y 705 de la Comunidad Andina (CAN).
+
+El artículo 3 de la Decisión 516 de la CAN dice que los ingredientes que pueden incorporarse o no a los cosméticos son los recomendados por la Food & Drug Administration (FDA) y Personal Care Products Council (PCPC) de los Estados Unidos, la European Cosmetic Toiletry and Perfumery Association (COLIPA) y las Directivas de la Unión Europea.
+####
+https://boliviaemprende.com/noticias/dan-curso-proyecto-para-potenciar-la-ganaderia-en-la-chiquitania
+####
+Un día después que el presidente en ejercicio Álvaro García Linera, con ocasión del acto de celebración de los 50 años de vida institucional de la Cámara Agropecuaria del Oriente (CAO), reiterara el desafío a los líderes del sector agroproductivo cruceño de expandir la frontera agrícola en un millón de hectáreas anuales hasta 2020, la Federación de Ganaderos de Santa Cruz (Fegasacruz) reveló que se acordó con el Ejecutivo destrabar la implementación del proyecto Potenciamiento de la ganadería en la zona de la Chiquitania.
+
+Dio cuenta de que ayer se reunieron con personeros de las estatales INRA, Senasag, ABT, Ministerio de Desarrollo Rural y Agropecuario y la Gobernación de Santa Cruz de Santa Cruz y se convino conformar mesas técnicas de trabajo para consumar el proyecto pecuario.
+
+Según Menacho, los lineamientos de la propuesta formulada por los ganaderos de Santa Cruz de expandir 200.000 hectáreas de nuevas pasturas en la Chiquitania en los próximos dos años para incrementar la producción de carne bovina tiene luz verde para implementarse.
+
+Para ello, dijo que se pidió a las instancias estatales la correcta interpretación y aplicación del decreto 26075, que establece la clasificación de la tierra de acuerdo a su capacidad de uso mayor, en tierras de producción forestal permanente y de bosques y ganadería reglamentada. El sector planteó enmendar la falla técnica para convertir las tierras de producción forestal permanente a tierras con vocación para desarrollar ganadería en Bolivia.
+
+Explicó que se clasificarán 100 ganaderos que tienen su Plan de Ordenamiento Predial (POP) aprobado y papeles en orden para poner en marcha el proyecto, que prevé la importación de 500.000 matrices (vacas) de Brasil o Paraguay para potenciar en cinco años el hato ganadero nacional, con 1,5 millones de bovinos. Invertirán $us 450 millones.
+
+La propuesta de habilitación de nuevas pasturas se hará en el marco del manejo silvopastoril, que prevé un desmonte conservador porque no se elimina la totalidad de la masa boscosa.
+
+Según el director nacional del INRA, Jorge Gómez, suman 200 las unidades productivas que tienen trámites agrarios subsanables y que se acogieron al plan de saneamiento y la titulación acelerada del predio.
+
+Según Gómez, la superficie en proceso de saneamiento corresponde a 350.000 hectáreas que se hallan en la Chiquitania y el municipio de Guarayos.
+
+En la primera, dijo que se perfila consolidar una expansión de capacidad productiva ganadera y, en Guarayos, una ampliación de la frontera agrícola.
+
+Desde la Gobernación se indicó que incorporando una agricultura sustentable, ganadería reglamentada y adoptando nuevas tecnologías, Santa Cruz está en condiciones de duplicar el área cultivada de 2 a 4 millones de hectáreas el proximo año.
+
+La propuesta del Gobierno es ampliar este año 500.000 hectáreas la frontera agrícola actual y desde el próximo, un millón.
+
+Menacho informó que se está agilizando las trabas burocráticas para potenciar el ganado en la Chiquitania y así incrementar el hato ganadero en un 15% en los próximos tres años. Es por eso que se desmontará en total 200.000 hectáreas, para las pasturas de 500.000 matrices que se traerán desde Brasil y Paraguay.
+
+El proyecto lo hemos presentado hace tres meses, pero ahora ya existen luces para dar marcha al proyecto. Estamos en una selección de 100 productores bolivianos en primera instancia para dar marcha y aprovechar los últimos meses del año, creemos que hasta la primera quincena de noviembre ya vamos empezar a gestionar los permisos de desmonte para los productores que estén en el programa», explicó Menacho.
+
+El presidente de Fegasacruz indicó que con este proyecto se producirá 33.000 toneladas de carne al año en el departamento, además de señalar que a futuro se puede replicar el proyecto, pero en otras zonas del departamento.
+
+Por su parte, Gómez afirmó que el sector agropecuario cruceño se está centrando en dos zonas del departamento para ampliar la frontera agrícola y donde se acelerará el saneamiento de propiedades.
+
+Se debe aperturar áreas productivas en la zona de la Chiquitania y para el sector agrícola el potencial área es la zona de Guarayos. Lo que buscamos con acelerar los saneamientos de propiedades rurales y coadyuvar al proyecto ganadero es llegar a las 4 ó 5 millones de hectáreas bajo producción a nivel nacional», dijo Gómez a tiempo de agregar que actualmente existen 3 millones de hectáreas que están bajo producción agrícola en el país.
+####
+https://www.pub.eldiario.net/noticias/2014/2014_02/nt140216/laguia.php?n=18&-las-mas-lindas-de-la-tv-son
+####
+14 finalistas, 16.800 votos, actitud, carisma, profesionalismo y mucha, pero mucha belleza, es lo que dejó la elección de las más lindas de la TV. Hoy les presentamos a dos de las cinco ganadoras. Ellas son del oriente boliviano.
+
+Tras un final de infarto y un estrecho margen de diferencia entre nuestras 14 candidatas, hoy les presentamos, estimados e-lectores, a las ganadoras de la elección de las más lindas de la TV.
+
+Tal como sucedió en la tercera elección que realizamos el 2009, este año las mujeres más bellas de la pantalla chica que recibieron mayor apoyo de ustedes, nuestros fieles lectores, serán presentadas en dos ediciones, aclarando que el orden de publicación no implica lugar de ubicación obtenido en la votación.
+
+En la primera edición, que hoy tienen a mano, están Anabel Angus y Jimena Antelo, bellezas del oriente boliviano, y en la segunda, que será publicada el domingo 23, estarán… las otras tres lindas que radican en La Paz, completando así el quinteto de las mujeres más lindas de la TV boliviana.
+
+Debemos destacar que una vez más la elección fue un rotundo éxito. Los más de 16.800 votos que computamos en esta cuarta versión en la página web de EL DIARIO, sumados a los casi 2.500 votos que recibimos en la preselección de las candidatas, lo dicen todo. Fue tal la respuesta de nuestros lectores a esta iniciativa de La Guía que superamos el récord que logramos el año 2009 con 15.000 votos.
+
+Nuestra eterna gratitud a nuestras 14 candidatas por su tiempo y cariño y, fundamentalmente, a ustedes, amables y estimados lectores, por su decidido e incondicional apoyo a La Guía.
+
+María Jimena Antelo Telchi nació en Santa Cruz el 4 de julio de 1972. Divorciada, tiene dos hijos: Fernando (de 24) y Diego (de 13). Es ingeniera comercial y tiene una especialización en presentación de noticias en televisión realizada en España. Trabaja en TV hace veinte años. Comenzó en Bolivisión, allí estuvo cinco años, luego otros cinco años en ATB. En la Red UNITEL su paso fue más largo, fueron nueve años y ahora está en su proyecto personal en PAT con el programa No Mentirás. Además, desde el año pasado está en la radio con Fama, Poder y Ganas.
+
+Yo siempre agradezco a la gente que me tome en cuenta, es un honor para mí estar en sus pensamientos. Por la belleza hay que agradecer a Dios y a la naturaleza, yo por mi parte trato de trabajar cada día por mi carrera, cultivar mi alma y tener siempre los pies bien puestos en la tierra.
+Destaco mi compromiso y autenticidad. Intento con lo que hago ser un aporte a la sociedad, pongo mi mejor esfuerzo para lograr que sea la gente, el Soberano, como le llamamos, la que brille, tenga voz y sea tomada en cuenta. He hecho una carrera con mucho esfuerzo, ganándome con trabajo cada espacio y disfrutando cada peldaño alcanzado.
+Todas las mujeres tenemos momentos en la vida en los cuales nuestra autoestima baja, no puedo decir que me sentí fea, pero en algún momento de mi vida efectivamente no estaba conforme con mi físico. A Dios gracias eso me duró muy poco, aprendí a agradecer lo que soy y amo cada parte de mí con todos sus defectos y virtudes. Las mujeres somos muy exigentes con nosotras mismas, pero entendí que si yo no valoro lo que soy y lo que tengo, nadie lo hará.
+Mi hijo Diego es mi eterno enamorado, para él soy la mujer más bella de esta tierra (tiene aún 13 años, no sé cuánto durará eso), entonces siempre me lanza los mejores piropos y además como vienen de mi hijo están llenos de amor. Admito, con él me derrito.
+En este corre corre de la vida, valoro muchísimo el que la gente tome su tiempo en participar en una encuesta y votar por mí, quedo realmente agradecida. Es algo muy bello saber que la gente de una u otra forma te valora.
+
+“Les agradezco de corazón por pensar en mí”
+Anabel Angus Arza nació en Santa Cruz el 14 de marzo de 1990. Es soltera y licenciada en comunicación social. Es conductora en la Red Unitel hace 12 años. Comenzó con el programa Unitoons a través de un casting ganado entre 1.500 niños, lo cual le cambió la vida. Empezó a cumplir su sueño para luego pasar al programa Unitoon por 7 años.
+Actualmente es conductora de La Revista matinal (de Unitel), presenta las noticias de espectáculo en Telepaís y trabaja en el reality show “Yo me llamo”.
+
+¡Un orgullo enorme! Les agradezco de corazón por pensar en mí. Siento que la belleza es interna y al ser felices nos vemos por fuera lindos también, pero todo nace en el corazón.
+¡Amo lo que hago! Soy feliz, amo a la gente, ser parte de sus vidas... cuando algo te apasiona sale bien solito, soy muy agradecida con el público que me colocó donde estoy, entonces creo que destacaría que le doy la vida a esto.
+Un millón de veces, todos los días las mujeres nos sentimos feas por algo o por alguien, pero es parte del proceso de ser mujeres. Si no nos sintiéramos feas, no buscaríamos vernos mejores.
+Uno chistoso: “Señorita, por usted me cruzo el Titicaca en tutuma (sonríe)”.
+¡Que los quiero muchísimo! Que los llevo en mi corazón y que siempre podrán ver en mí a una servidora.
+####
+https://eju.tv/2014/07/en-bolivia-se-construyen-16-dobles-vas-con-una-inversin-de-us-1-850-mm/
+####
+El Gobierno construye 16 dobles vías en el eje troncal del país con una inversión de&nbsp; $us 1.850 millones que integrará&nbsp; el país y fortalecerá la integración bioceánica, de acuerdo con un informe de la Administradora Boliviana de Carreteras (ABC).
+
+El Gobierno construye 16 dobles vías en el eje troncal del país con una inversión de  $us 1.850 millones que integrará  el país y fortalecerá la integración bioceánica, de acuerdo con un informe de la Administradora Boliviana de Carreteras (ABC).
+
+“Todas estas carreteras son importantes por su vinculación estratégica entre los departamentos de La Paz, Oruro, Cochabamba y  Santa Cruz, y tiene su importancia porque fortalecerá la integración bioceánica, ya que estas dobles vías se construyen a lo largo de todo el corredor bioceánico”, explicó el presidente ejecutivo interino de la ABC, Antonio Mullisaca.
+
+Una de las carreteras que será entregada en esta gestión es la doble vía La Paz-Oruro, que tiene un avance del 80%. Los otros proyectos estarán concluidos entre 2015 y 2018, indicó la autoridad.
+
+De acuerdo con el detalle de la ABC, varias de las 16 dobles vías  ya están en proceso de construcción, otras para pronto inicio y algunas en gestión de financiamiento y con estudio a diseño final.
+
+Carreteras. Las 16 vías a construirse son las siguientes: La Paz-Oruro; Caracollo-Confital; Confital-Bombeo; Bombeo-Cruce Angostura; Cruce Angostura-Colomi; Putintiti-Villa Tunari; Villa Tunari-Chimoré; Puente Chimoré- Puente Mariposas-Ivirgarzama; Ivirgarzama-Puente Mamorecito-Puente Ichilo; Puente Ichilo-Yapacaní; Yapacaní-Montero; Sacaba-Chinata; Quillacollo-Suticollo; Río Seco-Huarina; Huarina-Achacachi y Huarina-Tiquina. Estas tres últimas en el departamento de La Paz.
+
+Todos los proyectos que corresponden al eje troncal y que atraviesan La Paz, Cochabamba y Santa Cruz, reforzarán la interconexión con los corredores bioceánicos, exceptuando las dobles vías Río Seco-Huarina-Achacachi y Huarina-Tiquina, así como los que se construyen en Cochabamba: Quillacollo-Suticollo y Sacaba-Chiñata, precisa la ABC.
+
+Las dobles vías son un modelo que refleja modernidad y responde a la demanda de un incremento considerable en el tráfico vehicular en el eje central del país.
+
+Tiene características novedosas y muy similares a las que se utilizan en el exterior. Contiene mejoras en el sistema de seguridad vial en cuanto a la visibilidad y señalización, además de contemplarse la automatización en los peajes, proporcionando seguridad vial a los usuarios y transportistas que utilicen estas carreteras, señala la entidad.
+
+Obras. Por lo general, los proyectos consideran la construcción de dos vías paralelas con separación de 14 metros en áreas rurales y 7 metros en áreas urbanas.
+
+Cada vía con un ancho de plataforma de 10,5 metros, conformada por dos carriles de 3,5 metros y bermas de 2,5 metros externa y 1 metro interna, según los datos técnicos.
+
+El pavimento de la vía nueva está constituido por una capa de concreto asfáltico elaborada con cemento asfáltico modificado con polímeros. En áreas urbanas por donde pasará una doble vía se definieron la incorporación de circunvalaciones y variantes.
+
+Se construirán y reforzarán los puentes en las vías existentes y se edificarán otras en las nuevas vías; contempla también pasarelas, sistemas de drenajes, viaductos a desnivel para el paso transversal de vehículos sobre las dos vías y la construcción de “vacaductos” para el paso de ganado.
+
+“Todos los proyectos suman más de 850 kilómetros de dobles  vías para  Bolivia. La inversión asciende a más de $us 1.850 millones”, dijo Mullisaca a La Razón.
+
+La ejecución de algunos proyectos se realizan con recursos propios, provenientes de los bonos soberanos. Otros son financiados por el Estado Plurinacional a través de Organismos Financiadores Externos Multilaterales y el aporte de las gobernaciones en los departamentos que les corresponde.
+
+El Estado, a través de la ABC,  está llevando adelante toda una revolución vial desde 2006, año de creación de la máxima entidad carretera. La vinculación e integración es una de las prioridades del actual Gobierno nacional, impulsando las dobles vías en toda la Red Vial troncal de Bolivia.
+
+“Al ser un país mediterráneo, somos una oportunidad y una necesidad para todos los países que nos rodean. Los países, como Brasil, Chile, Argentina o Perú, tienen la necesidad de mejorar su exportación hacia mercados asiáticos o europeos, reduciendo gastos y esfuerzos”, sostuvo Mullisaca.
+
+Los países vecinos llevarán sus productos vía terrestre en línea “recta” atravesando nuestro territorio, mejorarán sus exportaciones, ahorrando una gran cantidad de recursos, agregó el funcionario.
+
+Entre 2006 y 2013, la Administradora Boliviana de Carreteras (ABC) concluyó las dobles vías Warnes-Montero (2009), de 23 km, y Santa Cruz-Cotoca (2012), de 19 km.
+
+Actualmente se trabaja en 16 proyectos en el eje troncal del país: La Paz, Oruro, Cochabamba y Santa Cruz, señala el informe de la entidad estatal de caminos.
+
+Aparte de la construcción de las dobles vías, que integrarán varias regiones del país, la ABC trabaja en la construcción de carreteras nuevas, además de la conservación de las vías existentes, con el objetivo de tener hasta 2025 el 100% de las rutas pavimentadas de la Red Vial Fundamental (16.054 kilómetros), precisa la institución.
+
+La Red Vial Fundamental tiene una extensión de 16.054,35 km y se encuentra a lo largo de todo el país. La conforman cinco corredores principales: Este-Oeste, Norte-Sur, Oeste-Norte, Oeste-Sur y Central-Sur. El propósito de estos corredores es vincular el territorio nacional e integrar a la población boliviana para impulsar el desarrollo económico.
+
+Los industriales y empresarios privados de Bolivia aplauden las inversiones del Gobierno en carreteras porque se logrará un mayor desarrollo. “Cuando se trata de carreteras e integración física, los más beneficiados somos los del sector productivo, más todavía si estas carreteras conectan con las fronteras de los países vecinos”, manifestó el presidente de la Cámara Nacional de Industrias (CNI), Mario Yaffar. 
+
+El vicepresidente de la Confederación de Empresarios Privados de Bolivia (CEPB), Ronald Nostas, expresó que “el hecho de que el Ejecutivo haga una inversión de semejante magnitud con carreteras adecuadas y modernas que nos permitan acceder a los otros mercados” permitirá el desarrollo de algunas zonas. “Creemos desde el punto de vista productivo, económico, es una buena noticia para el país”.
+
+El Gobierno ejecuta la construcción de 16 dobles vías en el eje troncal del país con una inversión de $us 1.850 millones, de acuerdo con la información de la Administradora Boliviana de Carreteras (ABC).
+
+“Creemos que la inversión en infraestructura, en especial en carreteras, es la inversión prioritaria que debe hacer el Gobierno; apoyamos este tipo de inversiones y otra que hay que hacer en recursos humanos, capacitación y salud pública en el país”, afirmó el presidente de la CNI.
+
+Nostas, quien está a cargo de la CEPB en ausencia del presidente Daniel Sánchez, que se encuentra de viaje por Europa, indicó que estas carreteras lograrán un mayor desarrollo, integración y un mayor flujo económico. “Hay muchas zonas que no se desarrollan porque no tienen condiciones para sacar sus productos”, manifestó.
+
+Nostas precisó que una de las demandas que siempre realizaron los empresarios privados fue la integración de la red caminera porque permitirá un mayor desarrollo “en muchos aspectos de la economía nacional”.
+
+Mientras que para el presidente ejecutivo de la ABC, Antonio Mullisaca, la construcción de las dobles vías supone un cambio trascendental para el país porque se tendrá un tránsito de mercancías y oportunidad de comercio importante que impulsará el desarrollo socioeconómico y proporcionará un alto grado de seguridad en el tránsito vehicular a los usuarios.
+####
+https://boliviaemprende.com/eventos/el-80-de-las-pymes-de-bolivia-participaran-en-la-expocruz
+####
+A dos meses de la realización de la Feria Internacional de Santa Cruz (Expocruz), 523 de las 654 Pequeñas y Medianas Empresas Pymes de Bolivia, es decir el 80%, ya se han registrado para participar de la rueda de negocios de este evento emprendedor, confirmó ayer Cecilia Peredo, jefa de operaciones de la Cámara Industria, Comercio y Turismo (Cainco).
+
+Por otro lado, 100 firmas extranjeras ya confirmaron su participación en el evento emprendedor. La pasada versión, que contó con la participación de 1.090 empresas procedentes de 25 países.
+
+Peredo adelantó que la meta es superar las 10.935 citas de negocios que se realizaron durante las tres jornadas la pasada gestión.
+
+El 2013 se generó un movimiento económico en intenciones de negocios de alrededor de $us 201 millones. Este año se espera superar esa cifra.
+
+La Feria Exposición de Santa Cruz, FEXPOCRUZ, fue creada en 1962 y pertenece a la Cámaras de Industria, Comercio, Servicios y Turismo de Santa Cruz (CAINCO) y la Cámara Agropecuaria del Oriente (CAO), quienes, visionariamente casi intuyeron, el medio ideal para establecer contactos comerciales y económicos entre Bolivia y el mundo y así contribuir al desarrollo de la economía de Bolivia.
+
+La Feria de emprendimiento boliviano es considerada actualmente como el primer y más importante centro de negocios de Bolivia.
+
+La FEXPOCRUZ, organiza anualmente ferias de diferentes rubros como ser: FIACRUZ (Feria Integral Automotriz), EXPOFOREST (Feria Internacional Bosque, Madera y Tecnología), AGROPECRUZ (Feria Agropecuaria Internacional), MUJER (Feria Integral de la Mujer), EXPOMYPE (Feria de la Producción Nacional), EXPOCRUZ (Feria Internacional de Santa Cruz), y conjuntamente CAINCO, organizan la Rueda de Negocios Internacional – Bolivia.
+
+Desde el viernes 19 hasta el domingo 28 de septiembre
+Campo ferial de la FEXPOCRUZ
+Ciudad de Santa Cruz, Bolivia
+####
+https://eju.tv/2014/01/el-robo-de-ganado-hace-estragos-en-bolivia/
+####
+Denuncian la existencia de bandas de brasileños y bolivianos en Puerto Suárez y San Matías. Roban 600 cabezas de Paso de los Toros en San Juan de Mutún. Ganaderos cuestionan a un fiscal.
+
+EL DEBER,  Santa Cruz.- El abigeato complica al sector ganadero del país. En seis meses del 2013 una banda delincuencial robó 600 cabezas de ganado, por valor de $us 300.000, de la propiedad Paso de los Toros en la localidad San Juan del Mutún (Puerto Suárez) del veterinario Óscar Fidel Tarabillo Serrate. El afectado denunció el caso ante el Ministerio Público pero hasta la fecha las investigaciones no avanzan, es más, el fiscal asignado al caso liberó a los supuestos ladrones. A la fecha no se conoce de detenidos por este delito.
+
+El asunto comienza a preocupar a los ganaderos, pues se trata del abigeato más grande que se haya registrado en el país, sin embargo las autoridades son el foco de las críticas.
+
+Así como el caso del ganadero Tarabillo, hay 345 denuncias formales sentadas ante la Policía y 804 abigeatos sin denuncias solo en Santa Cruz, donde se estima que ocurre el 75% de los robos de ganado de élite. En todo el país se estima que hay unas 1.400 denuncias (casi 50% más que en 2010) que ocasionan pérdidas anuales por un valor de $us 2,5 millones, según la Confederación de Ganaderos de  Bolivia (Congabol) y la Federación de Ganaderos de Santa Cruz (Fegasacruz).
+
+El presidente de la Congabol y titular de Fegasacruz, Juan Carlos Peredo, criticó al Ministerio Público y a los jueces por no aplicar la ley con rigor. Es que en solo un año las pérdidas subieron de $us 2 millones a 2,5 millones sin tomar en cuenta los avances tecnológicos y la alta genética que se pierden.
+
+“Aquí los que deberían actuar directamente son la Fiscalía y los jueces, pero qué sucede, el trámite es moroso y todo queda en nada. La gente más tarda en entrar que salir de la cárcel. Hay clanes familiares que se dedican a esta actividad y esto se lo ve en lugares como Cotoca, Pailón, Warnes, Guarayos, Roboré, Puerto Suárez y San Matías. Lo extraño es que el anterior mes nos reunimos con las autoridades y nada se avanzó”, denunció Peredo.
+
+El caso que impacta es el de Paso de los Toros (PT) en Puerto Suárez, donde se robaron 600 cabezas de ganado Nelore y hasta la fecha no existe ningún detenido pese a las pruebas presentadas por el propietario de la hacienda.
+
+La propiedad rural Paso de los Toros está ubicada en el Km 10 sobre el camino a Puerto Busch, dentro de la comunidad San Juan del Mutún, De vocación ganadera especializada en cría, engorde y reproducción de la raza Nelore, con un hato de 2.800 cabezas. La finca está debidamente registrada en los registros de la Policía Nacional desde el año 2003 y en la Asociación de Ganaderos de Puerto Suárez con la matrícula Nº 000849.
+
+Al respecto, el ganadero afectado Óscar Fidel Tarabillo y su abogado Juan Pablo Peña, calificaron de ‘vergonzosa’ la actuación del fiscal Chambilla pues no tomó en cuenta las investigaciones de su antecesor, como el allanamiento a la propiedad Victoria–Santa Rita, en el que se encontraron los animales robados, con su marca, además de los fierros con los que se remarca el ganado, cuero de bovinos ya carneados y armas de fuego; tampoco valoró que los empleados de esta propiedad declararon que existían más animales pero que ya fueron vendidos o trasladados a Brasil.
+
+“No valoró que los denunciados tienen antecedentes penales en Bolivia y en el Brasil por el mismo hecho, pero lo más grave es que los animales secuestrados los están retirando y vendiendo; dichos actos fueron puestos en conocimiento del fiscal Chambilla y este manifestó que no puede decidir nada porque no tiene conocimiento del cuadernillo de investigaciones”, protestó Tarabillo.
+
+Tarabillo pidió ayuda a Fegasacruz, al Senasag y principalmente a la fiscal de Distrito, Marina Flores, para que intervenga en la investigación. El viernes el fiscal Chambilla fue recusado. La fiscal definirá el asunto el próximo jueves.
+
+El fiscal Cirilo Chambilla admitió que son varias las audiencias que se han suspendido desde que asumió el cargo en octubre pasado.
+
+Argumentó que la primera fue por el proceso de transición que se dio cuando asumió el cargo; la segunda, fue porque  no contaba con el cuadernillo de investigaciones y la tercera porque en la misma hora se había señalado otra audiencia cautelar con detenidos, dándose a esta prioridad por ser un caso de la Ley 1.008.
+
+El ganadero Luis Ernesto Áñez, dueño de la agropecuaria El Espinal, aseguró que no existe ningún control en la zona y que los productores tienen que esforzarse contratando más gente e incluso policías.
+
+“Últimamente me han robado 50 cabezas. He tenido que poner vigilancia particular y trancas. Han habido algunos operativos en los que detuvieron a los delincuentes pero a las 24 horas los sueltan.  Hay  bandas organizadas. Tiene que aprobarse una ley tipo 1008 para frenar el delito”, subrayó Áñez.
+
+En el departamento de Pando se han registrado más de 120 denuncias de robo de ganado hasta noviembre de 2013. Cabe recordar que en 2013 el presidente de la CAO, Julio Roda, sufrió la pérdida de cinco vacas lecheras de la raza Holando, por un valor total de $us 13.500
+####
+https://eju.tv/2014/01/restaurantes-y-sper-generaron-us-765-millones-en-bolivia/
+####
+En el país. Entre enero y octubre de 2013 los restaurantes facturaron $us 416 millones y los súper, $us 349 millones, según el Ministerio de Economía.
+
+Este año el sector recibió $us 44 millones más que en 2012. Para el ministro de Economía, Luis Arce, las cifras muestran una mejoría en la escala de ingresos de las familias bolivianas. El vicepresidente de la Cámara Nacional de Empresarios Gastronómicos, Mario Barrios, aseguró que los márgenes de utilidad no son cuantiosos. La llegada de las franquicias internacionales y la creación de patios de comida dinamizaron el negocio en el país.
+
+La actividad económica que gira en torno a restaurantes y supermercados en  Bolivia deja ‘jugosos’ dividendos. Según el Ministerio de Economía y Finanzas Públicas, con datos del Servicio de Impuestos Nacionales (SIN), los empresarios que desarrollan operaciones en ambos rubros, a escala nacional, facturaron más de $us 760 millones hasta octubre de 2013.
+
+Para el ministro de Economía y Finanzas Públicas, Luis Arce, este indicador que muestra un aumento notable del consumo en los restaurantes -de enero a octubre, comparado con 2012, creció de $us 411 a 416- refleja una mejoría en la escala de ingresos de las familias bolivianas.
+
+“En tiempos en que el cinturón más ajustaba, el jefe de familia ingresaba al restaurante y primero pedía la carta para calcular los gastos y ajustarlos a su presupuesto, ahora pide su ‘platillo’ favorito para él y su familia y no se fija en los precios”, dijo Arce, agregando que la estabilidad y calidad de vida, prueba que la microeconomía de las familias es saludable. 
+
+Según el reporte del Ministerio de Economía, de 2006 a 2012 los restaurantes del país facturaron  $us 1.616 millones y que de enero a octubre de 2012, cotejado con igual periodo de 2013, se refleja un repunte de $us 330 a 416 millones. “A octubre con $us 5 millones se superó el global de 2012. Los restaurantes están ganando bien porque el consumo creció”, apuntó el ministro.
+
+Si bien las cifras muestran un sector dinámico, el vicepresidente de la Cámara Nacional de Empresarios Gastronómicos (Caneg), Mario Barrios, indicó que los márgenes de utilidad no son cuantiosos porque los empresarios en épocas de factores climáticos adversos para la producción son los que soportan la subida de precios.  
+
+Empero, dijo que la disponibilidad de circulante en el mercado alienta la constitución de nuevos emprendimientos a escala nacional. Barrios dijo que las ciudades del eje central son las mejores plazas para invertir.
+
+El ejemplo ilustrado por Arce, a decir del presidente de la Cámara de Empresarios Gastronómicos de Santa Cruz, Juan Carlos Medina, es verídico y se da porque la clase baja y media ascendente como se conoce en el contexto de la gastronomía elevó sus ingresos y ahora concurre a los restaurantes, al menos una vez por semana, para degustar un churrasco personal de Bs 40 y acompañarlo con un trago fino. Dijo que la presencia de estos segmentos sociales se masificó en los restaurantes.
+
+A su juicio, este fenómeno que es nacional motivó nuevas inversiones del sector gastronómico y atrapó el interés de empresarios nacionales y extranjeros que están apostando por franquicias globales para diversificar el gusto y la preferencia de los comensales.
+
+Medina explicó que la gastronomía se ha convertido en el nuevo polo de desarrollo económico del país y que Santa Cruz es la mejor plaza para invertir en este negocio. Como representante del grupo Cadelca S.A., indicó que cerraron negocio con la franquicia estadounidense de hamburguesas Wendy’s para comercializar en  Santa Cruz. No se detalló las inversiones.
+
+Según Medina, un grupo de empresarios gastronómicos gesta el bulevar sur en la avenida Velarde, zona de la plaza Blacutt.
+
+Dio cuenta de que en este punto de la ciudad se abrirán al menos 16 restaurantes de comida típica regional, nacional e internacional. Evitó hablar de inversiones, pero dijo que para capitalizar un restaurante, dependiendo de la categoría, en promedio se requieren unos $us 100.000.
+
+La aparición de patios de comida en diferentes puntos de la urbe y supermercados -hay unos 15- y el ‘aterrizaje’ de franquicias globales en Santa Cruz, principalmente en el Ventura Mall, son otra señal que refleja el buen momento que pasa el sector empresarial gastronómico del país. 
+
+Referente a los montos facturados por ventas y servicios en los supermercados el cuadro del Ministerio de Economía especifica que de 2006 a 2012 facturaron $us 1.721 millones y que en el periodo enero a octubre, comparado con 2012, el monto creció de $us 310 millones a 349.
+
+Para el presidente de la Asociación de Supermercados de Santa Cruz, Meger Schamisseddine, son varios los factores que inciden en el crecimiento de la facturación en los súper.
+
+Entre otros, nombró las inversiones realizadas por los empresarios en numerosas zonas geográficas de la ciudad para atraer a nuevos clientes. Además la escala de precios competitivos comparada con el mercado informal, el crecimiento de la economía y el pago del doble aguinaldo motivaron mayor consumo y aportaron al crecimiento del sector, agregó.
+
+Los directivos de la Cámara Nacional de Empresarios Gastronómicos (Caneg) piden a la administración central extender la aplicación uniforme de la normativa impositiva para todas las actividades económicas que desarrollan sus operaciones en el negocio de comida, incluidos los ‘agachao’ y comedores improvisados que atienden en galerías de muchas viviendas en los barrios. 
+
+En criterio del vicepresidente de la Caneg, Mario Barrios, el sector informal genera una competencia desleal porque no contribuye con el pago de impuesto. En cambio, dijo que el sector privado formal soporta una fuerte carga tributaria y que, además, algunos empresarios pagan el alquiler del local, servicios básicos (luz, agua y otros), salarios a los trabajadores y otras prestaciones de servicios.
+
+Según Barrios, con datos de fabricantes y distribuidoras de bebidas y gaseosas, en la capital cruceña el universo de restaurantes formales es de aproximadamente 15.000, cifra que llega a unos 40.000 contando los ‘agachao’ y negocios familiares que operan en pasillos de domicilios de los barrios.
+
+El directivo de la Caneg llamó a la administración tributaria a ejercer mayor presión contra los informales. Refirió que estos venden platos típicos a precios que superan los rangos vigentes en restaurantes de categoría. “Ellos deben tributar”, remarcó.
+
+En países que tienen una forma de organización económica abierta o de mercado se utilizan ‘indicadores líderes’ o de corto plazo que tienen como fin medir la sensación térmica del consumidor con indicadores, como el consumo de energía, cemento, ventas al por menor, etc. Los indicadores líderes son una herramienta para dos agentes económicos: inversionistas y el Gobierno.
+
+Para los primeros son señales de mercado donde se puede generar oportunidad de negocio. El segundo los utiliza para fomentar competencia y adelantarse a un suceso adverso en el mercado donde es necesario que la política pública corrija.
+
+En la evaluación de la economía nacional 2013 el Ministerio de Economía muestra el incremento sustancial de las ventas en restaurantes y súper, que sumadas oscilan en los $us 1.000 millones en la gestión pasada.
+
+Es importante destacar el incremento de ventas de los supermercados y restaurantes indicando el perfeccionamiento y la formalidad en el sector comercio. De la misma forma, esfuerzos productivos que generan empleos y base tributaria.
+
+Hay que precisar un ‘truco’ en el análisis económico. Cuando se juzga si una economía se desempeñó bien o mal, es natural ver el ingreso y gasto. Ambas son lo mismo, el gasto total de los consumidores es igual al ingreso total de alguien (empresas o Estado). En ese sentido la escala de ingreso y gasto de la economía boliviana se han multiplicado desde 2006. Las fuentes del incremento son explicadas por las exportaciones de gas natural y minerales que han sido beneficiadas con buenos precios internacionales
+
+Urge la industrialización de las fuentes de ingresos tradicionales. Potenciar el gasto de inversión pública productiva en sectores no tradicionales
+
+El Banco Mundial, resalta que casi el 50% de la población boliviana se encuentra entre la clase pobre y media. De igual manera, en el informe del PNUD, se revela que en nuestra nación, el índice de Desarrollo Humano subió de 0,671 (2011) a 0,675 (2012) que nos ubica entre las naciones con desarrollo humano de escala media.
+
+A nivel macroeconómico, presentamos una mejora notable, elevadas Reservas Internacionales Netas que bordean casi los $us 15.000 millones, un PIB percápita de casi $us 4.000, una tasa de crecimiento del PIB que estima superó un 6,5%.  
+
+No obstante, y a pesar de que como nación estamos a punto de eliminar la pobreza extrema, la misma que bajó de un 38% (2005) hasta un 20% en la actualidad, pese a ello todavía las condiciones de vida de la población del campo y zonas periurbanas del eje troncal no son las adecuadas.
+
+Las condiciones de la gran mayoría de los bolivianos no es la óptima, como para afirmar con absoluta verdad y claridad de que las familias bolivianas gozan de buena solvencia económica, más aún si a ello añadimos que la pobreza y la desigualdad siguen muy generalizadas en nuestro país, además de la continuidad de los problemas del empleo y la distribución del ingreso.
+####
+https://eju.tv/2014/06/nuevo-cdigo-de-comercio-de-Bolivia-prev-reconocer-solo-3-tipos-de-sociedad/
+####
+El Gobierno y el empresariado coinciden en que el Código de Comercio de 1977 quedó obsoleto. Por ello, el Ejecutivo propone reducir en la nueva norma de seis a tres tipos de sociedad, entre varias modificaciones para modernizarlo y adecuarlo a la Constitución Política del Estado (CPE).
+
+El anteproyecto de ley, que se encuentra en revisión en el Órgano Ejecutivo y al que tuvo acceso La Razón, establece nuevas figuras comerciales y suprime otras caídas en desuso debido a que el actual Código de Comercio, aprobado por Decreto Ley 14379 del 25 de febrero de 1977, durante la presidencia de Hugo Banzer Suárez, está obsoleto y es necesaria su actualización.
+
+Una de las principales propuestas del Órgano Ejecutivo es la de suprimir tipos societarios previstos en la actual normativa como las sociedades comanditarias simples y por acciones debido a que han caído en desuso y al inexistente incremento en el número de éstas en el Registro de Comercio.
+
+Con ello, se busca “reducir” el catálogo de tipos societarios a tres: Sociedad Anónima (SA), Sociedad de Responsabilidad Limitada (SRL) y Sociedad Accidental (SA).
+
+Se formula una regulación especial para las asociaciones accidentales y de cuentas en participación, imponiéndoles el cumplimiento de requisitos mínimos para reducir eventuales fraudes dada la predominante informalidad que goza este tipo societario en la actualidad. 
+
+Sociedad. El actual Código de Comercio, en su artículo 126 de tipicidad, reconoce seis tipos societarios: Sociedad Colectiva, Sociedad en Comandita Simple, Sociedad de Responsabilidad Limitada, Sociedad Anónima, Sociedad en Comandita por Acciones, y Asociación Accidental o de Cuentas en Participación. Las Sociedades Cooperativas se rigen por ley especial.
+
+La propuesta gubernamental introduce la figura de la Empresa Unipersonal para otorgar a la persona privada la posibilidad de realizar un emprendimiento comercial sin la necesidad de conformar una sociedad. De manera adicional esto permitirá reducir la probabilidad de crear situaciones artificiales que distorsionan la realidad económica. La Cámara Nacional de Comercio (CNC) sostiene que actualmente son el 80% de los entes económicos existentes en el mercado local.
+
+También la propuesta plantea reconocer la existencia de las pymes y mypes con la creación de un régimen de micro, pequeñas y medianas empresas dentro del régimen previsto para las empresas comerciales.
+
+El anteproyecto introduce y regula el régimen del comercio electrónico, adoptando como principios rectores “la no discriminación”, equivalencia funcional y autonomía de la voluntad; se incorporaron nuevas definiciones como la firma electrónica, el cheque electrónico, mensaje de datos, intercambio electrónico de datos y otros. 
+
+Se establecen los requisitos para la eficacia y validez jurídica del intercambio electrónico de datos y se propone la creación de las Entidades de Certificación, entre otras propuestas.
+
+En referencia a los contratos bancarios, se dispone “la supresión de criterios arbitrarios del banco” o entidad financiera para negar un servicio al público; se modifica el régimen de imputación de pagos y se formula la introducción del régimen de cuentas de depósito para el pago de haberes.  El anteproyecto de ley del nuevo Código de Comercio plantea la supresión del Bono de Ahorro y traslado del Certificado Fiduciario para que sea regulado dentro de los títulos valores como tales. Esta propuesta contiene también el cambio de la lógica de favorabilidad del banco por una equilibrada entre el banco y el prestatario, precisa el documento.
+
+Crédito. Respecto al Crédito Documentario o Acreditado, se propone el cambio de denominación hacia una más cercana a la conocida internacionalmente como la de Carta Comercial de Crédito y contemplada dentro del mismo Código de Comercio.
+
+El anteproyecto de ley también reformula los regímenes de insolvencia, dejando claramente diferenciados los procedimientos para el proceso concursal preventivo y para la quiebra. Asimismo, se propone el procedimiento de entrega de bienes al martillero en casos de depósito y el peritaje.
+
+La presunción de quiebra fraudulenta de algunos auxiliares de comercio que implica presumir la  comisión de un delito ha sido adecuada con el principio de inocencia de la Constitución Política del Estado, ratifica la propuesta del Ejecutivo para una nueva norma.
+
+La Cámara Nacional de Comercio (CNC), cuyo actual presidente es Fernando Cáceres, propone crear la figura de la “Conversión” en el nuevo Código de Comercio, lo que permitirá que las organizaciones y entidades económicas se conviertan en sociedades comerciales.
+
+La propuesta de la CNC sostiene que la “Conversión” permite que las organizaciones económicas campesinas y comunitarias, cooperativas y los Empresarios Unipersonales de Responsabilidad Limitada (EURL) se conviertan en sociedades comerciales sin necesidad de que éstas puedan liquidarse.
+
+Las Empresas Públicas también pueden convertirse en Sociedades Anónimas Mixtas (SAM) o Sociedad Anónima Estatal (SAE). A la vez, la CNC propone que los Empresarios Unipersonales de Responsabilidad “Ilimitada” se conviertan en Empresarios Unipersonales de Responsabilidad Limitada.
+
+Cáceres indica que la  CNC llevó el liderazgo por parte del sector privado en el anteproyecto de ley del nuevo Código de Comercio adecuado al marco constitucional vigente.
+
+Gaceta. Otra de las principales sugerencias es la creación de una Gaceta Comercial como único medio de difusión a efectos de oposición de los actos, contratos y documentos sujetos a registro.
+
+La CNC propone cinco tipos de sociedad a diferencia de las tres que propone el Ejecutivo para el nuevo Código: Sociedades Constituidas en el Extranjero (SCE), Sociedades Anónimas Mixtas (SAM), Sociedad Anónima Estatal (SAE), Sociedad de Participación Laboral (SPL) y la Sociedad Anónima de Garantía Recíproca (SGR).
+
+El presidente de la Confederación de Empresarios Privados de  Bolivia (CEPB), Daniel Sánchez, considera que el tema de los “contratos comerciales” y su regulación debe merecer la mayor atención.
+
+Sánchez enfatiza que el apartado de una reforma comercial merece la mayor de las atenciones, “respetando las particularidades de la voluntad de las partes para negociar libremente muchos aspectos de sus relaciones jurídicas”, lo mismo que “definiendo una regulación independiente a la del Código Civil para normar la vida útil de los contratos comerciales, al igual que los efectos y vías de extinción de los mismos documentos.
+
+El empresario afirma que el actual Código de Comercio quedó obsoleto no solo por el tiempo transcurrido desde su aprobación hasta la fecha, sino sobre todo por los cambios que el mundo y Bolivia han experimentado en sus realidades y la forma de hacer negocios en el mercado.
+
+Considera que la promulgación de la CPE en 2009 define un nuevo modelo de gestión económica que, a partir de la economía plural, rediseña el espacio del mercado, que tampoco está previsto en la norma en actual vigencia.
+
+Moderno. Sugiere que el Código de Comercio debe modernizarse en la regulación sobre sociedades, “reconociendo la creación y ejercicio de una figura que ha cobrado vigor en la tradición boliviana como es la Empresa Unipersonal de Responsabilidad Limitada”. Sánchez también considera que deben agregarse figuras como aquellas reguladas por la Ley de Empresas Públicas, así como las sociedades de participación laboral y de garantía recíproca, entre otras.
+
+La Cámara Nacional de Industrias (CNI) considera que uno de los “grandes ausentes” en el anteproyecto de ley del nuevo Código de Comercio es el sector informal.
+
+El presidente de la CNI, Mario Antonio Yaffar, indica que el Código de Comercio no discrimina a los comerciantes por sectores,  sino por tipos societarios y actos de comercio. “Aunque sin perjuicio de lo anterior, ciertamente el gran ausente del Código de Comercio es el sector informal”, expresa Yaffar.
+
+El industrial sostiene que el hecho de que se tenga una “nueva” Constitución Política del Estado, aprobada hace cinco años, y que aún sigan vigentes códigos y leyes anteriores, no adecuadas a ese nuevo marco constitucional, perjudica al empresariado, “principalmente por la incertidumbre que genera la aplicación de la norma”.
+
+En esa medida, la CNI, que también fue parte de la elaboración del anteproyecto del nuevo Código de Comercio, plantea varias modificaciones, entre muchas coincidencias con las otras entidades y la propuesta gubernamental.
+
+Propuesta. La CNI propone que se debe disponer que las controversias comerciales se rijan por una judicatura comercial especializada en el rubro. 
+
+Advierte que debe excluirse del código la Asociación Accidental de la clasificación general de sociedades comerciales por tratarse de una figura contractual y no societaria. 
+
+“Debe permitirse que las juntas puedan ser celebradas a distancia, por medios técnicos idóneos reconocidos por este proyecto”, añade y exige adecuar y actualizar el contenido de esta norma a las necesidades actuales del comercio.
+####
+https://www.la-razon.com/politico/2014/11/09/bolivia-es-un-pais-enclaustrado-no-mediterraneo/
+####
+Desde hace 50 años, Bolivia fue impulsor de la organización de los países sin litoral; desde esa vez, sin embargo, siempre aclaró que su situación es especial: es un país que nació con costa soberana, la cual le fue arrebatada por Chile mediante una guerra; de ahí que reitera que su mediterraneidad es temporal.
+
+Con la participación del presidente Evo Morales en la Segunda Conferencia de la Organización de las Naciones Unidas sobre los Países en Desarrollo Sin Litoral (la pasada semana, en Viena, Austria) ha vuelto a la agenda noticiosa la cuestión marítima, pero en el contexto de este otro escenario: el de los países mediterráneos, sin acceso directo a costa marina. Mayor presencia del tema marítimo, además, por el anuncio que días después hizo el presidente Evo Morales, en sentido de que en la reunión de Viena se propuso que Bolivia se haga cargo de la “presidencia pro témpore” del grupo y que su próxima reunión sea en el país.
+
+Tanto excancilleres y analistas como actuales autoridades coinciden en precisar en todo momento que la situación de Bolivia dentro del grupo es especial: si bien comparte las reivindicaciones de estos países mediterráneos, de un trato preferencial por parte de la comunidad internacional por no tener salida al mar, nunca se dejó de recordar que el “encierro entre dos tierras” (que eso significa “mediterráneo” según la Academia Española de la Lengua), no le es propio al país, sino que es una situación que le fue impuesta y que, lo más importante, se la considera transitoria, circunstancial, temporal, que algún momento pasará. Esta es, precisamente, la reivindicación del derecho de retorno soberano al mar.
+
+La “situación de Bolivia no es comparable con la de los otros países sin litoral, porque nosotros nacimos con una costa soberana, amplia, en la que ejercimos soberanía durante 54 años, sin que nadie objetara la presencia soberana de Bolivia en el océano Pacífico. Esta no es la situación de los otros países sin litoral, que nacieron así a la vida independiente, encerrados geográficamente”, remarca la diferencia el excanciller Javier Murillo de la Rocha.
+
+Desde hace 50 años, desde 1964, recuerda por su parte el excanciller Armando Loayza, Bolivia (mediante el canciller de entonces Fellman Velarde) impulsó el establecimiento en las Naciones Unidas del derecho de los países sin litoral, o sea, la formulación de “medidas especiales para superar su situación de desventaja”; desde entonces, Bolivia siempre participó del grupo, que nació con 19 miembros, a los que luego se fueron sumando países producto de la desintegración de otros (como la ex Unión Soviética).
+
+Pero siempre ha sido la “doctrina” de Bolivia —enfatiza el diplomático Loayza— el diferenciarse de dicha comunidad de naciones, en el sentido en que el país participa y se solidariza con el grupo, pero que espera,  tarde o temprano, reasumir la condición de país ribereño al mar, de volver al mar.
+
+Así, la declaración del presidente Morales en la conferencia de Viena, cuando dijo que la mediterraneidad de Bolivia es “temporal” (Bolivia “no es un Estado sin litoral, sino un país que ha sido privado temporalmente de su acceso a los mares y a su propia costa”), no es ningún argumento aislado o fuera de contexto; al contrario, se trata de la reiteración de la doctrina boliviana al respecto: la permanente reivindicación boliviana de ejercer su derecho de retorno soberano a la costa del Pacífico.
+
+Para Loayza, es importante que el presidente Morales haya participado de la Conferencia de países sin litoral, sobre todo para exponer la problemática boliviana, aunque, propiamente —no deja de apuntar— el tema bilateral con Chile, y sobre todo la demanda en La Haya contra este país, “no corresponde” ser tratado por el grupo de los sin litoral, pues se trata de otra agenda: de los países sin costa que tratan de mejorar sus condiciones de libre tránsito.
+
+Para el excanciller Murillo, la confusión entre una y otra agenda (entre la reivindicación marítima y la exigencia del libre tránsito) puede incluso perjudicar al país: “Bolivia no debe asimilarse de una manera absoluta a esa condición de mediterraneidad (de los países sin litoral), porque nosotros no nacimos así a la vida independiente, sino que se nos fue impuesto a través de una guerra expoliatoria que perpetró Chile (…) Es una diferencia que siempre hemos hecho en estas reuniones con los países sin litoral; nosotros nos consideramos circunstancialmente parte de los países encerrados; porque si nosotros nos asimilamos plenamente a los países sin litoral, querría decir que estamos aceptando ante la comunidad internacional que somos un país que siempre tuvimos esa condición mediterránea, y eso no es así”.
+
+Con relación a que Bolivia sea sede de una próxima conferencia de los países en desarrollo sin litoral o que encabece el grupo, la especialista en derecho internacional Karen Longaric llama la atención sobre el cuidado que como Estado se debe tener de no promover ninguna inclusión oficial de la demanda marítima en las resoluciones del grupo; esto, más que ayudar, perjudicaría, advierte.
+
+“No creo conveniente introducir el tema de la demanda de Bolivia al océano Pacífico formalmente en este ámbito; formalmente significa una resolución; esto es otra cosa, absolutamente diferente; no es pertinente; son otros los propósitos: identifica a varios países que tienen una preocupación, los altos costes del transporte en el comercio internacional”.
+
+La agrupación de países sin litoral esencialmente tiene una motivación económica: la de contrarrestar la desventaja en la que se encuentran al no tener costa. Se sabe, señala Longaric, que el transporte marítimo de carga es el más barato con relación al aéreo y al terrestre; de aquí que es estratégico para el desarrollo de un país abaratar dicho costo adicional del transporte de sus mercancías. “Es una motivación esencialmente económica, para que estos países sin litoral puedan encontrar nuevas formas de romper esas enormes asimetrías que tienen frente a los países con litoral”, concluye.
+
+En la segunda conferencia de Viena, la propia Secretaría General de la ONU reconoció que los países en desarrollo sin litoral ven disminuido su progreso hasta en 20% a causa de su mediterraneidad. De ahí que la principal reivindicación de estos países es mejorar las condiciones del libre tránsito desde y hacia el mar, y que también ellos puedan explotar los recursos marinos y oceánicos en las costas de “sus” países ribereños.
+
+Desde 1982 existe la Convención de las Naciones Unidas sobre el Derecho del Mar (Convemar), la llamada “Constitución de los océanos”, la más importante después de la Carta de las Naciones Unidas, según los expertos. Fue aprobada tras nueve años de trabajo, el 30 de abril de 1982, en Nueva York (Estados Unidos); en diciembre de ese mismo año, fue “abierta a su firma” por parte de los Estados (en Bahía Montego, Jamaica), y entró en vigor el 16 de noviembre de 1994.
+
+En este importante documento se establece el derecho internacional del mar; entre otros aspectos: los límites de la zonas marítimas, la zona económica exclusiva de los países ribereños, la plataforma continental y el alta mar, los derechos de navegación en estrechos, los Estados archipelágicos, la paz y seguridad en los océanos y mares, la conservación y gestión de los recursos marinos vivos, la investigación científica, y los procedimientos para la resolución de controversias.
+
+De las 16 partes que conforman la Convemar, la décima está dedicada exclusivamente al (título de dicha parte) “Derecho de acceso al mar y desde el mar de los estados sin litoral y libertad de tránsito”.  Esta Parte X, que “consagra el acceso libre al mar y desde el mar”, insiste en recordar Loayza, en buena parte es obra de las delegaciones bolivianas: “Ahí hay todo un capítulo relativo a los países sin litoral, en el cual trabajó muchísimo Bolivia”.
+
+Aquí, el excanciller hace casi un homenaje a uno de los líderes históricos de la Revolución de 1952, Walter Guevara Arce. “Le voy a decir una cosa que mucha gente olvida. A partir de 1972, duró diez años de trabajo la Convemar; y el que lideró la posición y estableció las bases de las reclamaciones de los países sin litoral, fue el embajador boliviano en las Naciones Unidas, Walter Guevara Arce. En Naciones Unidas se le sigue reconociendo un rol pionero y de gran guía a nuestro embajador, que fue coordinador de los países sin litoral, entre el 70-71”. Lo mismo se puede decir de la labor del excanciller Gustavo Medeiros, apunta.
+
+Así, Bolivia ha tenido permanente presencia, y siempre se ha sostenido que es un país privado de su antigua costa, que se lo convirtió en un país sin litoral. Incluso esta doctrina está consagrada en la nueva Constitución, destaca Loayza, cuando se afirma el derecho del país a su soberanía en el océano Pacífico.
+
+En el mundo hay al menos 40 países sin litoral marítimo. En Viena, Austria, se reunieron los 32 países en desarrollo sin costa. Es la segunda vez que el grupo se reúne; la primera conferencia de estas naciones fue en 2003, en Kazajistán.  Los 32 Estados (entre los que están Bolivia y Paraguay) acogen a unos 450 millones de habitantes, pero participan con solo 1,2% del comercio mundial.
+
+En Viena, la semana pasada, este grupo de países asumió el denominado “Programa de acción de Viena”, una “hoja de ruta”, según la agencia de noticias EFE, para la próxima década con el objetivo de mejorar el acceso a los mercados mundiales de dichos 32 países en desarrollo que carecen de litoral.
+
+El subsecretario general de Naciones Unidas, Gyan Chandra Acharya, dijo que entre el 40 y 45% de los habitantes de estos países ganan solo 1,5 dólares diarios.  El funcionario internacional añadió que los países sin salida al mar pierden 20% de su potencial económico por su situación de mediterraneidad y que esto frena, además, su desarrollo económico y social. En la conferencia de Viena, efectuada la semana pasada, varios países, Paraguay entre ellos, insistieron en que se otorgue ventajas comerciales a los países sin costa.
+
+Al respecto, el subsecretario de la ONU, Acharya, señaló que la ventaja comercial es una idea “lógica”, pero reconoció que las negociaciones en la Organización Mundial del Comercio (OMC) al respecto no han fructificado hasta ahora. “Si lo que estamos haciendo es crear un espacio justo para la competitividad a escala global, todo el mundo debe partir de una situación similar”, declaró Acharya a la agencia de noticias EFE.
+
+En el acto de celebración del 188 aniversario de la Armada Boliviana, el jueves 6, su comandante, el vicealmirante Gonzalo Alcón, anunció que su institución prepara un estudio sobre la forma en que el país puede aprovechar las condiciones económicas que ofrece la Convención de las Naciones Unidas sobre el Derecho del Mar (Convemar) a los países sin litoral.
+
+“La Armada Boliviana viene encarando, con un equipo, un estudio respecto a la situación de nuestro país, como país sin litoral, al amparo de la Convemar. Es necesario que nuestro Estado pueda liderar este bloque de países o una organización de Estados sin litoral que permita, precisamente, materializar las facultades que están en la Convemar”, dijo Alcón.
+
+El comandante de la Armada Boliviana anunció además que “en días posteriores” se hará llegar al Ejecutivo una propuesta producto de dicho estudio.  A los países sin litoral (Bolivia y Paraguay en la región) la Convemar les ofrece sobre todo facilidades en el libre tránsito de sus mercaderías a través de países ribereños, además de la posibilidad de actividad pesquera en aguas de dichos países.
+
+En la Parte X de la Convención de las Naciones Unidas sobre el Derecho del Mar, a la par de establecerse la categoría “Estado sin litoral”, lo mismo de importante es el término “Estado de tránsito”. Mientras el primero es un Estado que no tiene costa marítima, el de tránsito es un Estado “situado entre un Estado sin litoral y el mar, a través de cuyo territorio pase el tráfico en tránsito”.
+
+Si bien en la primera parte del artículo 125 de la Convemar se establece que “los Estados sin litoral gozarán de libertad de tránsito a través del territorio de los Estados de tránsito por todos los medios de transporte”, en la segunda parte se determina que “las condiciones y modalidades para el ejercicio de la libertad de tránsito serán convenidas entre los Estados sin litoral y los Estado de tránsito”; aún más, en el tercer segmento del mismo artículo los Estados de tránsito pueden condicionar dicho derecho: “Los Estados de tránsito, en ejercicio de su plena soberanía sobre su territorio, tendrán derecho a tomar todas las medidas necesarias para asegurar que los derechos y facilidades estipulados para los Estados sin litoral no lesionen en forma alguna sus intereses legítimos”.
+
+Los “Estados ribereños” más prácticos para Bolivia son Perú y Chile. Perú no suscribió la Convemar, aunque para el excanciller Armando Loayza esto no impidió que establezca facilidades para Bolivia mediante específicos tratados bilaterales. En todo caso, el país ribereño por excelencia hacia el Pacífico es Chile.     
+
+La Convemar también considera los derechos de los países sin litoral en el artículo 69, sobre el “Derecho de los Estados sin litoral”. En esta parte, se determina que los Estados sin costa puedan acceder a la explotación económica en el mar territorial de “su” Estado ribereño: Los sin litoral “tendrán derecho a participar, sobre una base equitativa, en la explotación de una parte apropiada del excedente de recursos vivos de las zonas económicas exclusivas de los Estados ribereños de la misma subregión o región (…)”.
+
+Aunque esa explotación económica (pesca) en las aguas exclusivas del país ribereño adjunto al Estado sin litoral, está sujeta a “la necesidad de evitar efectos perjudiciales para las comunidades pesqueras o las industrias pesqueras del Estado ribereño”.
+####
+https://eju.tv/2014/07/ministro-arce-bolivia-mantiene-un-crecimiento-fuerte-que-garantiza-el-pago-del-segundo-aguinaldo-este-ao/
+####
+«La economía boliviana en ese contexto tan adverso mantiene un crecimiento fuerte, estamos creciendo por encima del 5% sin ningún problema incluso hubo meses que estábamos por encima del 6%, pero la dinámica de la economía es siempre de esta manera», afirmó el titular de Economía.
+
+El ministro de Economía, Luis Arce, afirmó este domingo que  Bolivia mantiene un crecimiento fuerte, a pesar de que en el último semestre la economía mundial ha sufrido altas y bajas, y aseguró que el segundo aguinaldo, que se pagó el año pasado por primera vez, por un crecimiento económico mayor a 4,5%, está garantizado para esta gestión.
+
+En una entrevista con los medios estatales, Arce aseguró que la economía boliviana «va bien» como lo han reconocido organismos internacionales que siguen el comportamiento de las economías de Latinoamérica y que sitúan a Bolivia una vez más entre las tres mejores de la región.
+
+«La economía boliviana en ese contexto tan adverso mantiene un crecimiento fuerte, estamos creciendo por encima del 5% sin ningún problema incluso hubo meses que estábamos por encima del 6%, pero la dinámica de la economía es siempre de esta manera», fundamentó y dijo que según los cálculos, el segundo aguinaldo «está garantizado», porque la economía del país crecerá por encima del 4,5%.
+
+El año pasado, el Gobierno promulgó un Decreto Supremo que estableció el pago de un segundo aguinaldo a los trabajadores del sector público y privado cuando el crecimiento del Producto Interno Bruto (PIB) supere el 4,5%.
+
+«Estamos tranquilos, la economía va bien pese a un contexto muy complicado a nivel internacional, Bolivia se ha mantenido entre los mejores países comportados así lo han demostrado las proyecciones de los organismos internacionales que han hecho una reevaluación para mayo y abril de este año, donde a Bolivia es uno de los pocos países que le han subido las estimaciones que ellos tenían al principio y al resto, a una gran mayoría, han reducido sus perspectiva de crecimiento», remarcó el Ministro de Economía.
+
+A su juicio, esa situación demuestra que el crecimiento no sólo está siendo detectado por los bolivianos, sino también por los organismos internacionales que están mirando el comportamiento de las economías de América Latina y que sitúan una vez más a Bolivia entre las tres mejores economías de la región.
+####
+https://www.opinion.com.bo/articulo/deportes/fbf-prescinde-nestor-clausen-coordinador/20141228194600509012.html
+####
+El secretario ejecutivo de la Federación Boliviana de Fútbol (FBF), Alberto Lozada, informó que prescindieron de los servicios del director técnico Néstor Clausen como coordinador de las divisiones menores de la Selección Nacional.
+
+El dirigente informó que “no se podrá implementar el proyecto” con el estratega y por esa razón el acuerdo de palabra que tenían, se cayó.
+
+Por su parte, Clausen agradeció a los dirigentes de la FBF la oportunidad que le dieron para dirigir a la Selección Nacional en el partido amistoso frente a Venezuela (3-2) y ser parte del sorteo de la Copa América.
+
+Asimismo, Lozada manifestó que la FBF tiene como prioridad contratar al director técnico de la selección aboluta para que se pueda planificar el trabajo de la Verde de cara a la Copa América que arranca el próximo junio.
+####
+https://eju.tv/2014/12/bolivia-inunda-brasil-de-cocaina/
+####
+Esta es la segunda gran incautación de droga en menos de un mes en Mato Grosso do SulCon la frontera perforada, traficantes de Bolivia están inundando Brasil de cocaína, entrando en el país volúmenes cada vez mayores del estupefaciente. La línea fronteriza a partir de Corumbá continúa siendo el punto más vulnerable, una puerta abierta a los narcotraficantes, que no se limitan a pequeñas remesas por automóviles o buses, sino que han pasado a los grandes cargamentos. Ahora, por ejemplo, agentes de la Policía Federal interceptaron, al fin de la mañana, una carga de más de 700 kilos de droga boliviana. El hecho se registró hacia las 11:00 horas, en la BR-262, a la altura de Indubrasil. El valor, considerando su destino, podría llegar a cerca de 10,5 millones de reales.Esta es la segunda gran incautación del estupefaciente en menos de un mes en Mato Grosso do Sul, por la Policía Federal. El anterior aconteció en noviembre, en la región de Paranaíba, donde también fueron encontrados 700 kilos de la misma droga.Según informaciones divulgadas por la Superintendencia Regional de la PF en Campo Grande, como resultado de un minucioso trabajo de investigación agentes de la Oficina de Estupefacientes se dirigieron a BR-262, a la altura de Indubrasil, donde abordaron una camioneta Scania blanca, procedente de Corumbá. Después de un rápido interrogatorio al chofer, que viajaba solo, se revisó la carga que transportaba el vehículo, donde los federales encontraron centenas de paquetes de cocaína, que pesaban algo más de 700 kilos.Correio do Estado – BrasilTraducción de eju.tvLink al artículo original en portugués 
+####
+https://eju.tv/2014/09/burlan-la-ley-en-los-yungas-revenden-gasolina-para-autos-chutos-hasta-en-bs-10/
+####
+La Asunta. Comerciantes y dueños de vehículos indocumentados se proveen de combustible en el único surtidor que existe en esta población de los Yungas de La Paz. Foto: Luis Salazar
+
+A 210 kilómetros de la ciudad de La Paz, en La Asunta, al sur de los Yungas, los propietarios de autos chutos hacen fila con bidones de entre 10 y 20 litros para cargar gasolina en sus vehículos o para revenderla hasta en Bs 10 el litro en el “mercado negro”, constató este medio.
+
+Cada miércoles temprano, la estación de servicio de ese municipio, a unas siete cuadras de la plaza principal, acaba sus provisiones de gasolina y diésel. La demanda de los propietarios de coches —en su mayoría chutos o sin papeles— para adquirir el valioso carburante, rebasa la oferta.
+
+“Hoy se acaba en el surtidor y luego solamente podremos encontrar en el ‘mercado negro’, por eso vengo aquí”, dijo un joven chofer de un taxi blanco sin placas, mientras hacía cola con dos bidones para comprar la gasolina subvencionada por el Estado. El costo legal del litro de gasolina es de Bs 3,72, pero en el “mercado negro” yungueño un litro puede costar entre Bs 7, Bs 8 y Bs 10. Mientras el litro de diésel que vale Bs 3,74, en la región se consigue a Bs 5.
+
+Ilegalidad. Mientras la Agencia Nacional de Hidrocarburos (ANH) dispuso en julio que no se venderá gasolina a los carros chutos que ingresan de contrabando al país, estos vehículos la adquieren sin problemas en los Yungas. Sus dueños se convirtieron en los principales clientes de los especuladores del carburante.
+
+Y pese a que la Aduana Nacional de Bolivia (ANB) y el Control Operativo Aduanero (COA) llevan adelante operativos en el ámbito nacional para capturar a estos motorizados ilegales que, en algunos casos, incluso portan placas de control clonadas, en Chulumani y La Asunta estos autos circulan sin ningún problema.
+
+“Yo compro el litro de gasolina en 7 y hasta 8 bolivianos, y luego lo vendo en 10 bolivianos, por eso no se gana mucho”, comentó María, quien evitó brindar su apellido, en la comunidad Chamaca, a poco de llegar a La Asunta, cuando La Razón le consultó cómo vendía el carburante en el lugar.
+
+Este negocio y el libre tránsito de los vehículos chutos en esos dos municipios evidencia que tampoco se acata la Ley 100 de Desarrollo y Seguridad de las Fronteras, que castiga a la persona que “almacene o comercialice diésel, gasolina o gas licuado de petróleo, sin estar autorizado por la entidad competente”. Ello es sancionado con la privación de libertad de tres a seis años “y la confiscación de los bienes e instrumentos para la comisión del delito”, señala la norma.
+
+No obstante, este medio evidenció que jóvenes choferes, ayudados por sus esposas e hijos, compraban diez, 20 y hasta 30 litros de gasolina de la estación se servicio de La Asunta, para luego esconderlos en los asientos traseros de sus vagonetas chutas.   
+
+Cuando La Razón se acercó a la vendedora de este surtidor y preguntó el precio del litro del carburante, la muchacha nerviosamente respondió: “Vendemos a Bs 3,72…”. Empero, los compradores aseguraron que mínimamente cuesta Bs 4, que posteriormente es revendido en Bs 10. En La Asunta se observan por lo menos tres tiendas en las que se anuncia “gasolina-diésel Bs 7”. La calle donde se encuentran éstas se halla a una cuadra del inmueble de la Alcaldía.
+
+Desde las oficinas ediles, Bernal López, responsable de Transporte del municipio asunteño, se declaró sorprendido cuando se le consultó por el comercio ilícito de carburantes que impera en la región. “La Agencia (Nacional) de Hidrocarburos tampoco coordina con nosotros y no sé qué tipo de tratos tendrán con los encargados del surtidor”, se defendió.
+
+Además, señaló que cuando se hacen inspecciones no hay filas de personas con bidones en la estación de gasolina y menos automóviles chutos por los alrededores. “Me voy a dar una vuelta”, prometió. Eso sí, admitió que tomar cartas en el asunto también sería un poco complicado para él, porque los involucrados en la compraventa se “la tomarían” con el Gobierno Municipal de La Asunta.
+
+Consultado sobre el arribo y la circulación libre de los motorizados sin papeles, apuntó que los funcionarios municipales no pueden hacer nada y que debe ser la ANB la que tiene que efectuar el control en las fronteras.
+
+La Razón evidenció que incluso hay vehículos sin placas que brindan el servicio de transporte público de la Asociación Yungas. “Sí, ese es el problema, por eso vamos a tener una reunión (con ellos) para ver qué se puede hacer, porque los ilegales ya no deben circular. Hace poco hemos tenido un accidente (de tránsito) y el auto era chuto y ¿quién cubre eso?… Nadie cubre”, manifestó López.  
+
+Mientras el presidente del Concejo Municipal asunteño, Willy Ramos, no quiso hablar con este medio cuando fue abordado sobre este asunto. Chulumani. Si eso sucede en La Asunta, unas tres horas y media antes, en Chulumani, igual existe un “mercado negro” de carburantes en los talleres de cambio de aceite y llanterías al ingreso de la localidad.
+
+Allí el litro de gasolina cuesta Bs 7 y cuando La Razón preguntó dónde más se puede comprar este carburante, lugareños apuntaron a los buses interprovinciales. “Hoy es martes y los martes las flotas traen (bidones de gasolina), por eso tiene que ir a esperarlos”, reveló una comerciante en la plaza principal.
+
+Desde la gasolinera La Elegida, una de las dos que están a poco de arribar al municipio chulumaneño, sus empleados indicaron que no venden gasolina a los carros chutos.
+
+Allí se formó la Asociación de Propietarios de Vehículos Indocumentados del Norte de La Paz, cuyo presidente Armando Ambrosio admitió que los 3.000 afiliados tienen problemas para proveerse de gasolina en los surtidores y que hasta deben pagar el doble por cada litro. Los dueños de estos carros sin papeles esperan una audiencia con el presidente Evo Morales para conseguir una nueva nacionalización, lo que fue descartado varias veces por el Gobierno.
+
+En Caranavi, Guanay y Palos Blancos también existen motorizados ilegales, municipios donde, según los mismos conductores, se puede conseguir gasolina, pero a entre Bs 7 y Bs 10 el litro. Eso pasa en Yungas, uno de los paraísos de los chutos en el país.
+
+El pueblo de Uncía, en el norte de Potosí, continúa siendo uno de los mercados donde los contrabandistas o chuteros ofrecen autos sin papeles. El Control Operativo Aduanero (COA) no tiene pisada en este municipio donde mandan los ayllus, que esperan una nueva nacionalización.
+
+Según lugareños entrevistados por La Razón, Uncía es considerado “zona roja” por la instalación de este “mercado negro”, aunque los militares acantonados en el sitio ejecutan operativos de fiscalización en las localidades cercanas para evitar el ingreso y proliferación de estos carros.
+
+Una fuente militar, que pidió reserva en su identidad, comentó que hasta hace tres meses la venta de chutos era intensa. “Copaban toda la avenida Chayanta entre 200 y 300 autos de todas las marcas y modelos como Terrano, Probox, Caldina, Noah, incluso los jeep Cherokee, que costaban desde 3.000, 4.500 hasta 5.600 dólares”. Añadió que esta oferta bajó por decisión de las autoridades originarias o “segundas mayores”. Y los carros fueron replegados a las comunidades a la espera de una amnistía.
+
+Josefina, quien no quiso dar su apellido, reveló que los comerciantes de estos motorizados son lugareños de los alrededores que aún llegan los domingos y los lunes a Uncía para ofrecer su “mercadería” en la calle que se conecta con la vía a Chayanta. “Entre 30 y 50 autos venden hasta en 2.000 dólares; están rematando porque no hay nacionalización”.
+
+En las vías públicas de Uncía al menos medio centenar de vehículos sin placas, convertidos en taxis, circulan sin impedimento. Realizan viajes a los pueblos de Chuquihuta, Macha, Chayanta, Pocoata, Cala Cala, entre otros, y a las aguas termales y al cuartel. Se habla de un convenio que permite este servicio en la jurisdicción, aunque hay taxis que la rebasan y se trasladan hasta Llallagua, y para ello usan placas ilegales, según uno de los conductores.
+
+El encargado de Tránsito en Uncía, suboficial Eduardo Flores, reconoció que su autoridad fue rebasada. “No podemos hacer nada para controlar a los autos que circulan sin placa, tememos la reacción de los comunarios como ocurrió hace unos cuatro años, cuando en una comunidad (Cala Cala) murieron cuatro efectivos de la Dirección de Prevención y Robo de Vehículos”.
+
+El alcalde Hilarión Flores admitió que su municipio es una vía de tránsito de chutos a otros departamentos y que los comunarios se compraron “su autito” por los bajos precios; aunque aclaró que los carros indocumentados son ilegales. Y negó conocer la presencia de un “mercado negro”. “No podemos meternos en algo ilegal”.
+
+Los operativos del Control Operativo Aduanero (COA) no llegaron al trópico cochabambino, pero ante rumores de una posible intervención para incautar vehículos indocumentados o chutos, los dueños de éstos evitan sobre todo circular por la carretera. La Policía tampoco puede realizar operativos por posibles atentados contra la vida de los uniformados.
+
+“Dijeron que el COA y la Policía iban a entrar, que vendrán a sacar estos autos que nos perjudican; sin embargo hay alerta, dicen que no van a permitir como la anterior vez que les pegaron a los policías”, rememoró Rolando, un chofer de transporte público en Ivirgarzama. “Puede haber enfrentamiento”, complementó su colega Germán, del sindicato Carrasco.
+
+Hay pocos uniformados en la región para poner coto a centenares de propietarios y comerciantes de estos motorizados. “En reunión resolvieron tomar las oficinas policiales y a los policías de rehenes” si se secuestran sus autos, reveló un policía. “Así se pidan refuerzos, no podrá ser posible la intervención porque hay que preservar la integridad de los camaradas”, mencionó otro efectivo. “Tal vez ni un ingreso como se hizo en Challapata (en 2012) serviría, no es una población como ésa, aquí hay sendas, no se podrá perseguir”, agregó otro uniformado.
+
+Circulación. Desde el Comando Regional del Trópico se informó que existe una orden del Comando General de la Policía de no emitir criterio ni declaraciones sobre el tema. En cuanto a estos motorizados, siguen circulando, aunque pocos sin placas. “No pueden cargar combustible si no tienen placas y por eso todos ya tienen, la mayoría son ‘gemeleadas’ (clonadas), solo la Policía podría saber que no son originales, pero no hay control”, dijo Rolando.
+
+La Razón recorrió 40 kilómetros de vía, desde Villa Tunari hasta Ivirgarzama, y constató la circulación de chutos. En hora y media de viaje se identificó al menos diez sin placas y otros con éstas, pero cubiertas con protectores, algunas con el alfanumérico casi imperceptible. “Ahora no te venden nada en los surtidores si no tienes placa, todos los chutos tienen; si no ‘gemelean’, se prestan de otro vehículo, compran y luego se entran a las sendas”, añadió Rolando, quien además señaló que la anterior nacionalización dio una oportunidad, pero “más autos han entrado y siguen haciéndolo, perjudicando nuestro trabajo, nos quitan pasajeros”.
+
+Hay más. Los propietarios de chutos apuestan al ingreso de estos carros en líneas de transporte público, la mayoría se encuentra en Ivirgarzama, según transportistas consultados por este medio. “Los chutos formaron incluso un sindicato, hay una línea con esos autos”, indicó una las personas entrevistadas. La denuncia fue respaldada por fuentes policiales.
+
+El alcalde de Ivirgarzama, Félix Acosta, aseguró que desconoce esta propuesta. “Con claridad no puedo precisar si hay o no coches indocumentados, se dice que hay”. Opinó que personalmente está de acuerdo con que el ingreso de estos motorizados “perjudica a los transportistas, pero mal podría decir si es verdad o no, no puedo decir que sí están trabajando o no porque no lo he visto”.
+
+Admitió que no es posible controlar el ilícito porque se requerirían otros datos para comprobar el alfanumérico de las placas y verificar si son originales o no. “Este trabajo de verificación es reciente, antes las capitales de provincia centralizaban todo. Complementó que la mayoría de las placas de vehículos corresponde a otros municipios y departamentos: de 2.500 coches en este municipio, solo 500 están registrados y pagan impuestos que benefician a Ivirgarzama.
+
+En Villa Tunari, donde existe más presencia policial, no hay vehículos chutos en el área urbana. Y dueños de estos coches señalaron que el peor riesgo que corren no son los controles de las autoridades, sino protagonizar un accidente de tránsito que deje en evidencia la falta de documentos. Incidentes que ya provocaron el secuestro de al menos cinco motorizados en la zona.
+
+“Chocaron y verificando los documentos uno no tenía, era chuto, sin opción a reclamos el carro fue trasladado hasta la Dirección de Prevención y Robo de Vehículos (Diprove) en la ciudad, y el propietario remitido al Ministerio Público para no tener problemas”, indicaron fuentes policiales.
+
+“Creo que con el tiempo, ante estos incidentes, será preferible que vendan los vehículos por partes, aquí es peligroso comprar un auto, te pueden vender hasta tus parientes uno indocumentado diciendo que todo está bien”, confesó Mario, un poblador de Chimoré. “Los coches están ocultos ahora, son Ipsum, Noa, hay también lujosos que transitan por las sendas y aunque pidamos que se deshagan de ellos porque nos dan mala imagen, aunque pidamos que venga la Policía, no va a pasar”, añadió.
+
+Una fuente aseguró que “los motorizados siguen llegando desde Chile, si pillan que la placa no es original, se paga entre 100 y 400 bolivianos, luego con sus piecitos nomás llega al trópico y pasa las trancas”.
+####
+https://eju.tv/2014/04/informe-del-pen-bolivia-sobre-la-libertad-de-expresin/
+####
+El presente informe da cuenta del estado de situación de la libertad de expresión en  Bolivia. Presenta las problemáticas que caracterizan esta realidad actualmente y los casos que la ilustran. La mayor parte de los problemas de represión a la libertad de expresión tienen que ver en Bolivia con la actuación de los Medios de Comunicación, con los cuales el gobierno de Evo Morales sostiene una tensión constante.
+
+Se ha buscado como fuente principal la información proporcionada por la ANP (Asociación Nacional de la Prensa, son parte de ella los 20 medios más importantes de Bolivia) que cuenta con una “Unidad de Monitoreo y Vigilancia de la Libertad de Prensa y Expresión en Bolivia” y está encargada de registrar todos los casos de atropello, agresión, amedrentamiento u otras acciones estatales que coarten la información y el pensamiento en libertad.
+
+Uno de los indicadores del actual “Proceso de cambio” en Bolivia es la precaria libertad de expresión. Incluso los analistas que reconocen bondades en el actual modelo político boliviano (indicadores macroeconómicos o inclusión de sectores antes marginados) aceptan como dificultad la restricción a la libertad de información y opinión, especialmente de la prensa y de los medios en general. Se trata de una problemática que comparte Bolivia (con matices propios) con otros países latinoamericanos como México, Ecuador, Argentina, Colombia, Venezuela y Cuba. Sin embargo, el gobierno declara que en Bolivia existe plena libertad de expresión. El presidente Evo Morales en una entrevista con el diario El Deber dejó entender que un 80% de la prensa está de su lado.
+
+El informe denominado “Rastros y Rostros de la Libertad de Expresión de América Latina y Caribe 2013”, elaborado por la IFEX-ALC (Alianza por la Libertad de Expresión en América Latina y el Caribe), muestra que cada vez más agresiones y asesinatos contra periodistas están quedando en la impunidad ante lo cual no existe una voluntad política de las autoridades por revertir este panorama. Pero también suman otro tipo de agresiones: presión y amedrentamiento.
+
+Con los gobiernos considerados “progresistas” en América del Sud, parece haberse iniciado la implantación de un modelo que atenta contra la libertad de expresión. Este modelo consiste en la intención de los gobiernos de turno de desacreditar a la prensa y copar la mayor cantidad posible de espacios en los medios de comunicación con el propósito de crear una hegemonía para que sólo se cuente una sola verdad: la versión oficialista.
+
+Desacreditar al periodismo, describirlo como mentiroso, corrupto o enemigo de los cambios. El discurso contra la prensa se construye con una poderosa propaganda estatal centrada en la victimización.
+
+El presidente y otros dignatarios de estado: Vicepresidente, Ministra de informaciones, otros, permanentemente acusan a los medios independientes ante el pueblo como opositores. El pueblo que se identifica con Evo Morales, turbas, grupos del partido gobernante, atacan y amedrentan a periodistas, reporteros y camarógrafos.
+
+Se consigna de este modo, el atentado sufrido en octubre de 2011 por el periodista Fernando Vidal y la trabajadora de radio Karen Anze, en la ciudad de Yacuiba, cuando un grupo de personas incendió el estudio de la emisora desde el que transmitían un programa de comentarios y noticias.
+
+"El 2 de septiembre de 2012, el presidente Evo Morales sugirió a los productores de hoja de coca del Trópico de Cochabamba asumir acciones legales contra ‘los opositores que manejan los medios de comunicación’ porque los califican de narcotraficantes (El Día, A4.03.09.12)."
+
+Los ataques verbales y físicos de organizaciones sociales afines al partido gobernante, están alentados por declaraciones y agresiones verbales contra el trabajo de los medios independientes.
+
+El segundo elemento es utilizar el poder judicial. Se emprenden acciones legales contra periodistas, los procesos no avanzan o se paran antes de dictar sentencia. Se ejerce acoso judicial o administrativo. El informe titulado Estado de la Libertad de Expresión 2012 denuncia que las reiteradas advertencias del gobierno se consumaron en acciones como el juicio penal contra la Agencia de Noticias Fides (ANF), los periódicos El Diario y Página Siete por el supuesto delito de "difusión e incitación al racismo o la discriminación". Los incidentes de acoso administrativo, daños materiales a equipos de periodistas y medios, y normas que dificultan el acceso a la información pública y el trabajo periodístico también están registrados.
+
+El tercero es un montaje de un círculo legal. Se crean leyes, decretos y normas para amedrentar a la prensa. Se legaliza una serie de mecanismos de control para amordazar la libre expresión. Es el caso de los artículos observados por la prensa boliviana en la “Ley contra el racismo y toda forma de discriminación” o el Proyecto del Ministerio de Transparencia que cambia el espíritu de apertura del decreto 28168, promulgado en mayo de 2005, antes del gobierno de Evo Morales, sobre el acceso a la información. Se restringía solamente dicho acceso, a datos secretos y de carácter reservado. Por el contrario, ahora, se incluyen 11 restricciones que limitan el derecho de los ciudadanos a conocer cómo se administran los recursos públicos (Denuncia de la ANP)
+
+Se castiga a los Medios considerados “opositores” o que publican noticias u opiniones que no gustan al gobierno con una serie de escarmientos que perjudican su funcionamiento y estabilidad. “La ANP que agrupa a los 20 medios impresos más importantes de  Bolivia, señala su permanente preocupación porque las medidas gubernamentales despojan de ingresos financieros a los medios a través de impuestos y la publicación gratuita de mensajes educativos en espacios destinados a la publicidad, el principal ingreso para su sostenimiento financiero.”
+
+Se utiliza abiertamente el Canal 7(Canal estatal) y otros medios (el periódico Cambio o la red radial Patria Nueva, periódico La Razón) como medios de propaganda proselitista constante en favor del gobierno. Se invierten para ello ingentes recursos en propaganda política. El pasado 15 de octubre en la Universidad de la Plata Argentina, el Presidente Evo Morales declaró que hay que “descolonizar” los medios de comunicación privados e independientes “que son para la dominación”. Esta amenaza define la ofensiva política orientada a restringir la libertad de opinión.
+
+La impunidad en el caso del asesinato de tres periodistas en 2012, y la ausencia de resultados en las investigaciones y castigo para los responsables, es motivo de preocupación para la ANP que denuncia la impunidad de hechos que afectan al trabajo de medios y periodistas:
+
+“A pesar de los reclamos de la ANP, la Fiscalía mantiene silencio acerca del proceso de investigación sobre los incidentes violentos que provocaron lesiones serias y posterior muerte del periodista de Radio Municipal de Pucarani, Carlos Quispe, el 29 de marzo de 2008. A cinco años del trágico suceso y ante la proximidad de la prescripción del asesinato del comunicador, la ANP recordó que la Ley del Ministerio Público obliga a la conclusión de las investigaciones, para establecer las responsabilidades de un hecho que es rasgo elocuente de impunidad. La Fiscalía ordenó la detención de supuestos responsables materiales del hecho, pero las pesquisas permanecen inconclusas y la justicia no llega”
+
+Otro tanto pasa con el asesinato de la periodista de PAT Hanaly Huaycho, ultimada por su propio marido, un policía, en El Alto, el 11 de febrero 2013 por sospechosas motivaciones no esclarecidas.
+
+“La Asociación Nacional de Periodistas de Bolivia (ANPB), la Asociación Nacional de la Prensa (ANP), la Asociación Boliviana de Radiodifusoras (Asbora) y la Asociación de Periodistas de La Paz (APLP) rechazan categóricamente las afirmaciones del Presidente del Estado Plurinacional, Evo Morales, que se estrelló contra los medios periodísticos luego de las agresiones y violaciones a los derechos humanos cometidos por su gobierno contra los indígenas que marchaban defendiendo el territorio del Parque Nacional Isiboro Sécure. Deploran profundamente que sea el Presidente quien se contradiga a sí mismo en menos de 24 horas, después de felicitar primero a los medios de comunicación por la cobertura de la brutal agresión policial contra los indígenas del Tipnis y al día siguiente amenazar con librar una batalla contra la “falsedad” de los medios a los que calificó como “el mejor opositor” que tiene el gobierno.”
+
+La autocensura es una lamentable consecuencia de la restricción a las libertades de expresión basada en el amedrentamiento, las acusaciones de ser “terrorista”, “derechista” u “opositor al proceso de cambio”. El miedo ha acallado a la prensa y a la sociedad civil. La prensa ha abandonado en gran parte su rol vigilante, fiscalizador y de denuncia. Se prefiere callar para no entrar en conflicto con el poder. El humor gráfico y el humor escénico también sufren de autocensura. En los espectáculos como los café-concert se abandona el humor político por miedo a sufrir represalias.
+
+“Irónicamente, en tiempos en que se habla de revolución democrática y cultural, de participación y miradas entre iguales, el periodismo boliviano enfrenta la realidad de una arremetida desde el poder, sin antecedentes en el periodo democrático inaugurado en 1982.
+
+La estrategia del gobierno en este asunto es muy clara. Su proyecto de poder ilimitado, se apoya en la necesidad de un manejo unidireccional de la información, la propaganda y las ideas. La imposición de una hegemonía no es amiga del pluralismo. Un periodismo abierto y discrepante, con mirada crítica y con capacidad de interpelación, es la antinomia del discurso único, de la verdad política incontrastable convertida en dogma.
+
+La táctica también es muy visible. Los medios del Estado, viejos y nuevos (el periódico Cambio o la red radial Patria Nueva, por ejemplo) son medios del gobierno, para el gobierno y por el gobierno, no medios públicos pagados por los contribuyentes destinados a responder a sus intereses de educación, cultura y entretenimiento.
+
+“Si no puedes con ellos…”. Para reducir el espectro de la diversidad, a través de interpósitas personas o empresas, el gobierno ha logrado controlar la línea editorial e informativa de prestigiosas empresas de prensa, radio y televisión.
+
+Lógica amigo-enemigo. Arremete contra los medios opositores. Son “neoliberales”, mienten, quieren desestabilizar al Presidente, están en contra de la dirección de la historia. Enjuicia a periodistas y empresas con acusaciones diversas bien o mal fundamentadas, basadas en nuevas leyes que permiten libre interpretación y acción discrecional. Fiscales y jueces contra periodistas. Resultado, el reino del miedo, el peor de los escenarios, la autocensura. Antes de ser acusado prefiero no decir lo que pienso, ser tibio…”
+####
+https://eju.tv/2014/05/disputas-evitan-la-legislacin-en-el-87-de-los-municipios-de-bolivia/
+####
+Los municipios tienen una baja producción legislativa con relación a otros niveles del Estado. Los conflictos internos y la no aprobación de sus cartas orgánicas son los factores.
+
+De 339 alcaldías del país, el 87% (295) no promulgó ninguna ley en el periodo 2010-2013, según reseña un estudio del Servicio Estatal de Autonomías (SEA). Los munícipes atribuyen la deficiente producción de normas a los conflictos entre los órganos Ejecutivo y Legislativo municipales.
+
+El SEA, dependiente del Ministerio de Autonomías, elaboró el informe Análisis Normativo Competencial del Estado Plurinacional de Bolivia 2010-2011 en el que da a conocer el avance del proceso autonómico en su facultad legislativa. El documento desvela que en ese periodo solo se aprobaron 210 leyes. Estos datos dan cuenta de que la producción legislativa en los Gobiernos Autónomos Municipales (GAM) es deficiente, con relación, por ejemplo, a los Gobiernos Autónomos Departamentales (GAD), que trataron 920 instrumentos legales.
+
+“Pareciera que los gobiernos regionales no se han apropiado de la capacidad que tienen de legislar. Hay algunos temores para desarrollar sus competencias”, señaló el director de Desarrollo Legislativo de Competencias del SEA, Daniel Viscarra.
+
+Con base en el estudio citado, los municipios de Cobija y Oruro recién en 2013 promulgaron su primera ley. “Los conflictos dentro de los concejos ediles y entre el Ejecutivo y Legislativo municipal frenan el trabajo”, enfatizó el presidente de la Federación de Asociaciones Municipales (FAM-Bolivia), Juan Carlos León. Sin embargo, el estudio aclara que existen normas municipales promulgadas que no fueron remitidas al SEA para ser sujetas de análisis.
+
+Líder. El documento además destaca el trabajo legislativo del municipio de La Paz. “En 2010 solo ha habido un gobierno municipal que ha legislado, es el municipio de La Paz. Actualmente es el más legislador de Bolivia en municipios”, indicó Viscarra. Esta Alcaldía, en la actualidad, es la que más legisla. De las 210 normas aprobadas a nivel nacional, 55 pertenecen a la sede de gobierno.
+
+El analista político Marcelo Silva asegura que para producir leyes no solo se necesita buena voluntad, sino “correlación de fuerzas políticas”. Aunque “las mayorías absolutas o, en algunos casos, los dos tercios van en demérito de la pluralidad del debate de temas importantes”, sostuvo.
+
+Para León, existen otros factores que explican la baja productividad de normas ediles. “Hace dos o tres años no teníamos la capacidad de legislar, solo podíamos emitir resoluciones y ordenanzas, después de la Ley de Autonomías ya se permite legislar, sin embargo exigen las Cartas Orgánicas municipales”, manifestó.
+
+Proceso. Esta exigencia constitucional se refiere a que los gobiernos locales deben elaborar un documento equivalente a una carta “fundamental”, como la Constitución Política del Estado, pero de menor nivel.  “Lo dan los ciudadanos de un municipio, toda vez que implica un pacto social que será aprobado por el órgano deliberante o Concejo Municipal y aprobado mediante referéndum”, explicó la especialista Norma Durán.
+
+Empero, en enero de este año, la Asamblea Legislativa aprobó la Ley Nº 482 de Gobiernos Autónomos Municipales que regula la estructura organizativa y funcionamiento de los gobiernos autónomos municipales mientras éstos no cuenten con su Carta Orgánica Municipal. El 9 de abril se cumplió el plazo de 90 días que establecía la norma. Solo el 20% de los municipios del país adecuaron sus normas internas a la Ley 482.
+
+Viscarra, director de SEA, cree que este déficit legislativo se explica porque el proceso autonómico es nuevo y aún requiere tiempo para su implementación. “Estos datos nos ponen tareas y nuevos retos. Hay que tomar medidas de gestión pública, políticas para el fortalecimiento a la gestión de los gobiernos autónomos”, enfatizó.
+
+La Federación de Asociaciones Municipales (FAM) ve en el Tribunal Constitucional Plurinacional (TCP), órgano encargado de validar las cartas orgánicas, un obstáculo para el normal desarrollo del ejercicio de las autonomías regionales.
+
+El documento orgánico es un conjunto de normas que rigen la vida institucional, política y económica de un municipio. Es una ley fundamental que declara los principios que norman el sistema, su modelo de organización, de crecimiento y de distribución de recursos. Además, organiza los poderes y determina las atribuciones y funciones de los órganos municipales del país.
+
+“Tenemos más de 120 cartas orgánicas en el TCP, estamos esperando. Hacemos un llamado para que se pronuncie de una vez por todas porque es un perjuicio, ya está desde el año pasado”, enfatizó el presidente de la Federación de Asociaciones Municipales, Juan Carlos León.
+
+En una entrevista con La Razón, la ministra de Autonomías, Claudia Peña, indicó que similar situación sucede en la ratificación de los estatutos de municipios que optaron por el régimen autonómico indígena originario campesino. “Donde ahora se están atorando todos los procesos es en el pronunciamiento del TCP. (…) ése es un retraso que ahora se está viviendo”, lamentó la autoridad.
+
+En esta línea, los alcaldes de los 339 municipios del país se reunirán en Chuquisaca el 22 y 23 de este mes para analizar el desarrollo de las autonomías. “Se está concretando un encuentro de la FAM en el que analizaremos el tema de las cartas orgánicas y el tema de legislación”, indicó León.
+####
+https://boliviaemprende.com/noticias/aniversario-de-chuquisaca-abre-con-hallazgos-de-potencial-hidrocarburifero-obras
+####
+Chuquisaca recibe a su 205 aniversario con noticias positivas, dado que la empresa boliviana estatal Yacimientos Petrolíferos Fiscales Bolivianos YPFB estima recursos hidrocarburíferos potenciales en las áreas Huacareta y Azero del departamento, mismos que alcanzarían aproximadamente a 16,5 trillones de pies cúbicos (TCF por sus siglas en inglés).
+
+El anuncio fue realizado por el presidente de YPFB, Carlos Villegas, a pocos días de celebrarse el Primer Grito Libertario del 25 de Mayo de 1809.
+
+Ambos bloques están ubicados en la zona no tradicional de Chuquisaca. El área Huacareta tiene una extensión de 453.750 hectáreas, en tanto que el área Azero tiene una extensión de 785.625 hectáreas.
+
+Supongamos que haya éxito no necesariamente los recursos se transforman en reservas probadas automáticamente, todo depende de la tasas de extracción”, explicó Villegas en una nota enviada por YPFB.
+
+En la exploración del área Huacareta, la compañía inglesa BG Bolivia Corporation invertirá 100 millones de dólares en los primeros cinco años.
+
+El 2014, esta compañía va invertir 8,8 millones de dólares que básicamente son para estudios de geología de superficie y para la licencia ambiental”, indicó Villegas.
+
+En tanto que la rusa Gazprom y la francesa Total, invertirán 130 millones en el bloque Azero en la primera fase de exploración. En la etapa de perforación se trabajarán dos pozos de 5.000 metros de profundidad cada uno hasta llegar a la formación Huamampampa.
+
+Villegas dijo que Chuquisaca tiene mucha potencialidad pues todos los estudios arrojan muy buenos indicios de existencia de recursos hidrocarburíferos.
+
+El presidente Evo Morales inició una serie de visitas al Departamento durante seis días, para desarrollar una agenda de entrega de obras en varios municipios de Chuquisaca, como homenaje a Chuquisaca.
+
+En la comunidad de Santa Rosa del municipio de Huacaya, Morales inauguró un internado técnico escolar, que demandó una inversión de Bs 2,1 millones financiados por el programa “Bolivia cambia, Evo cumple”,
+Así también se entregó un estadio de fútbol con césped sintético, construcción que demandó Bs 5,5 millones, provenientes de la Alcaldía de Huacaya y la Gobernación de Chuquisaca.
+
+En este municipio, el presidente Evo entregó 150 viviendas y dio inicio a la construcción de una planta procesadora de miel en el municipio de Monteagudo. “Son 150 viviendas para nueve comunidades” de Monteagudo, manifestó en un acto efectuado en la comunidad de Alto Divisadero.
+
+La Agencia Estatal de Vivienda ejecutó el proyecto habitacional con una inversión de Bs 13,5 millones. Cada una de las casas fue construida en una superficie de 70 metros cuadrados y consta de una planta con dos dormitorios, cocina, sala, comedor y baño, informó la directora de la institución Mabel Gómez.
+Respecto a la construcción de la planta procesadora de miel en Monteagudo, emprendimiento boliviano que será financiado como compensación por el escaño perdido en Chuquisaca, Morales dijo que ese proyecto demandará la inversión de Bs 49,4 millones.
+Indicó que el Centro de Innovación Productiva Apícola (Promiel) pondrá en marcha esa industria en Monteagudo e instalará centros de acopio de miel en los municipios de Camargo y El Villar.
+####

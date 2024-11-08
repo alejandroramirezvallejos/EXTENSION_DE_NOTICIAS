@@ -1,33 +1,778 @@
-año,noticiero,URL,letras,palabras,oraciones,parrafos
-2016,eju,https://eju.tv/2016/03/caso-zapata-abogado-evo-morales-dice-hijo-materialmente-no-existe/,1914,409,14,1
-2016,lostiempos,https://www.lostiempos.com/actualidad/nacional/20160925/hogar-ancianos-recibe-distincion-simbolos-patrios,1356,288,10,8
-2016,eju,https://eju.tv/2016/01/los-oficialistas-les-veo-preocupados-alterados-nerviosos-dice-reyes-villa-desde-exilio/,2526,495,10,1
-2016,mediaticadigital,https://www.mediaticadigital.com.ar/nota/14855-preocupante-de-casi-500-policias-solo-163-aprueban-test-psicologico/,1194,260,13,7
-2016,eju,https://eju.tv/2016/08/gracias-santa-cruz-cobijar-fuerzas-armadas-comandante-gonzalo-duran/,1071,221,6,1
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_04/nt160403/principal.php?n=90&-santa-cruz-eligio-a-sus-soberanas,445,90,3,2
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_09/nt160904/nacional.php?n=36&-movilizacion-por-conservacion-de-patrimonio-natural-en-santa-cruz,2459,490,11,7
-2016,la-razon,https://www.la-razon.com/economia/2016/02/14/otras-entidades-se-disolvieron-voluntariamente-2/,1704,344,15,9
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_05/nt160522/nacional.php?n=47&-ejecutivo-inicio-investigacion-de-la-fiesta-del-gran-poder,2573,503,17,8
-2016,opinion,https://www.opinion.com.bo/articulo/informe-especial/bolivianos-empleo-viven-asistencia-argentina-espa-ntilde/20160306194600672637.html,7938,1587,68,50
-2016,opinion,https://www.opinion.com.bo/articulo/tendencias/bolivia-triunfa-anticr-eacute-tico-pasanaku/20161023191500671651.html,3624,760,35,23
-2016,eju,https://eju.tv/2016/09/quemas-ilegales-ahogan-al-bosque-en-santa-cruz-mientras-las-autoridades-se-miran/,7070,1501,67,1
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_02/nt160228/nacional.php?n=45&-de-364-rios-tres-amenazan-la-paz,2400,474,16,11
-2016,cubanet,https://www.cubanet.org/una-calamidad-llamada-evo/,3281,695,49,13
-2016,eju,https://eju.tv/2016/03/39-aserraderos-cerrado-estan-paralizados-santa-cruz/,2796,578,18,11
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_04/nt160410/principal.php?n=90&-mas-risas-locuras-y-diversion-en-bigote,413,86,3,3
-2016,eju,https://eju.tv/2016/12/santa-cruz-tiene-medio-millon-de-migrantes/,6154,1277,43,1
-2016,pub,https://www.pub.eldiario.net/noticias/2016/2016_07/nt160703/nacional.php?n=61&-9-de-10-ninios-adolecen-de-caries-dental-en-la-ciudad,2263,482,16,10
-2016,urgente,https://www.urgente.bo/noticia/lavadores-de-d%C3%B3lares-son-100-bolivianos-los-reciben-en-sus-cuentas,2982,613,19,15
-2016,opinion,https://www.opinion.com.bo/articulo/ramona/combate-marcelo-quiroga-santa-cruz/20160313173800672678.html,8543,1877,69,13
-2016,opinion,https://www.opinion.com.bo/articulo/informe-especial/adultos-mayores-colonia-sienten-como-hogar/20160710192100673601.html,3094,644,27,20
-2016,eju,https://eju.tv/2016/02/por-vez-primera-los-bolivianos-votan-por-reformar-la-cpe/,4048,810,29,12
-2016,noticias,https://noticias.unitel.bo/hemeroteca/presidente-morales-felicita-al-vice-y-su-esposa-por-embarazo-via-twitter-JBUN13847,905,201,14,6
-2016,opinion,https://www.opinion.com.bo/articulo/informe-especial/jampiri-usa-naturaleza-devolver-equilibrio-persona/20161127191400671892.html,4055,825,46,31
-2016,eju,https://eju.tv/2016/05/prestatarios-ahorristas-exmutual-la-paz-haran-operaciones-mercantil-santa-cruz/,1072,223,10,4
-2016,eju,https://eju.tv/2016/11/preocupacion-por-la-deforestacion-en-el-urubo/,4347,935,31,14
-2016,opinion,https://www.opinion.com.bo/articulo/informe-especial/transporte-circula-mal-estado/20160117160900672268.html,685,137,6,5
-2016,elperiodico-digital,https://www.elperiodico-digital.com/2016/12/04/salamanca-es-tomado-preso-y-es-obligado-a-renunciar/,3086,595,23,9
-2016,elperiodico-digital,https://www.elperiodico-digital.com/2016/08/28/cual-es-la-cerveza-mas-consumida-en-tarija/,3393,751,23,14
-2016,eju,https://eju.tv/2016/05/jazmin-duran-chochea-con-su-primogenito/,991,243,9,5
-2016,eju,https://eju.tv/2016/02/fondo-protege-al-ahorrista-bolivia-ya-acumulo-la-suma-us-530-mm/,4928,1003,34,19
-2016,opinion,https://www.opinion.com.bo/articulo/informe-especial/maestros-sienten-discriminados-recibir-t-iacute-tulos-diferenciados/20160131062600672375.html,3203,639,26,22
+2016
+https://eju.tv/2016/03/caso-zapata-abogado-evo-morales-dice-hijo-materialmente-no-existe/
+####
+Gastón Velásquez, abogado del presidente Morales en caso Zapata. Foto / Erbol
+Erbol / La Paz El abogado defensor del presidente Evo Morales, Gastón Velásquez, afirmó este domingo que el hijo del primer mandatario formalmente existe en los papeles, pero materialmente no, porque hasta la fecha la madre Gabriela Zapata no pudo demostrarlo ante la juez del menor.Manifestó que Evo Morales, en calidad de ciudadano y padre del menor, dijo toda su verdad y anunció que hasta el mes de abril se conocerá si el hijo existe o no, por los plazos procesales que se están cumpliendo de manera paulatina.Velásquez sostuvo que Morales reconoció la paternidad en el año 2007 y luego, por versiones de la  madre, se enteró que el menor se había enfermado, motivo por el cual solicitó ayuda económica que, según dijo, fue efectiva hasta ese año, cuando lamentablemente el niño habría fallecido.El abogado del presidente apareció en pantallas de  Bolivia TV, para aclarar que Morales no pudo preguntar más sobre el fallecimiento, por las múltiples ocupaciones de Estado.Dijo que es falsa la versión de que su defendido habría convivido con Gabriela Zapata, así como también que mantenía una relación hasta el año 2012, o que el presidente se habría sometido a una prueba de ADN, sabiendo que existía un acta de reconocimiento.Explicó que desde febrero de este año,  Gabriela Zapata se manejó en mentira tras mentira sobre la existencia del menor, y es por eso que el padre decidió acudir ante la juez para reclamar por los derechos del menor.“Hasta la fecha el niño ha sido ocultado. Ella dice por razones de seguridad, ahora dice que está en el exterior y que su vida corre peligro. Son afirmaciones temerarias de la señora Zapata. No tenemos una evidencia concreta y real que el niño exista y eso le preocupa al presidente Morales porque le crea una duda razonable que ese niño no existe”, declaró.Velásquez manifestó que la conducta de Zapata deja mucho que desear porque está actúa de mala fe y de manera desleal.“Nosotros podemos decir con total claridad que la señora Zapata está mintiendo, se está mintiendo  a ella misma, a Evo Morales, a su hijo y a todo el mundo y   no merece credibilidad”.Admitió que este conflicto ha creado problemas personales y de prestigio público al presidente Evo Morales y de comprobarse judicialmente que el menor no existe, Zapata podría ser objeto de un proceso penal por daño al honor al Jefe de Estado.
+####
+https://www.lostiempos.com/actualidad/nacional/20160925/hogar-ancianos-recibe-distincion-simbolos-patrios
+####
+El Hogar de Ancianos Santa Cruz recibió ayer la máxima distinción que otorga el Senado Nacional de Bolivia, la condecoración Símbolos Patrios, por sus 50 años de vida institucional en beneficio de las personas de la tercera edad del departamento y del país.
+
+La medalla fue otorgada por el senador Óscar Ortiz a la directora del hogar Irma Montiel Velásquez, de la congregación Hermanitas de los Ancianos Desamparados, mientras que el diputado Luis Felipe Dorado entregó un reconocimiento a sor Elisa Rivera, por sus 46 años de servicio en la institución.
+
+"Hace 50 años que las madrecitas de la congregación de ancianos desamparados iniciaron esta labor. Por ello gestionamos ante el Senado que se le entregue la máxima condecoración, reconociendo su trabajo en beneficio de Santa Cruz y de Bolivia para la atención de quienes son quizás los más débiles y más necesitados: nuestros ancianos", manifestó Ortiz.
+
+El Hogar de Ancianos Santa Cruz abrió sus puertas el 24 de septiembre de 1966 en el espacio que ocupa hasta la fecha, en la avenida Beni entre segundo y tercer anillo, donde se encontraba una propiedad del Arzobispado.
+
+Fue creado a iniciativa de Monseñor Luis Rodríguez Pardo, por la necesidad de contar con un lugar digno para cobijar a los viejitos cruceños. 
+
+El 25 de mayo de 1966 llegaron a Santa Cruz cinco religiosas de varias nacionalidades, procedentes de Lima (Perú).
+
+Poco después, el día del aniversario cívico cruceño, el hogar inicia actividades con el ingreso de dos ancianitos, de 80 y 82 años. 
+
+Con el paso de los años, 2.791 abuelitos han pasado por el local. A la fecha atiende a 187 ancianos, de los cuales un buen número proviene de provincias y de las zonas rurales del departamento.
+####
+https://eju.tv/2016/01/los-oficialistas-les-veo-preocupados-alterados-nerviosos-dice-reyes-villa-desde-exilio/
+####
+El exprefecto del departamento de Cochabamba y excandidato a la presidencia del país, Manfred Reyes Villa, en contacto telefónico con un medio de comunicación local desde Estados Unidos,  dijo que los líderes políticos del  partido en función de Gobierno se ven desesperados y nerviosos ante los resultados de las encuestas sobre el referendo, donde ganó el No a la propuesta de reelección de Evo Morales Ayma y pidió  conciencia a la población antes de emitir su voto.“Les veo preocupados, los veo realmente alterados y nerviosos por lo que va ocurrir el 21 de febrero, por eso es que voy que pedirle a la familia boliviana que hoy piensen antes de emitir su voto el 21 de febrero, yo creo que tiene que ser consciente para fortalecer la democracia y felizmente la población ya sabe qué tipo de gobierno tenemos”, agregó Reyes Villa.Según las últimas encuestas realizadas por la empresa privada  Apoyo Opinión y Mercado (IPSOS) en los departamentos del eje del país, revelado el pasado martes, se  estableció que el 50% de los encuestados se opone a una reforma constitucional que permita la repostulación del presidente Evo Morales para la gestión 2020–2025.Cesar Navarro, dirigente del Movimiento Al Socialismo (MAS) y Ministro de Minería, acusó a los exlíderes políticos: Carlos Sánchez Berzain, Manfred Reyes Villa y Gonzalo Sánchez de Lozada, refugiados en Estados Unidos, de articularse y dirigir al partido político en oposición para hacer campaña contra el No para la reelección del presidente Evo Morales.“La oposición está siendo articulada y dirigida por gente que vive en el extranjero y eso demuestra una especie de subordinación y sumisión constante y permanente de los políticos nuestros hacia consigan externas, eso es lamentable porque el país se gobierna desde adentro y no desde afuera”, aseveró Navarro.Puntualizó  que los partidos políticos contrarios al Movimiento Al Socialismo (MAS) se unieron con la derecha, ultra derecha, centro derecha, trosquistas  y resentidos políticos del MAS, que recurren a repetir frases y eslogan de consigan de carácter intercontinental  y similares a las expresiones de totalitarismo y antidemocráticos utilizados por las exautoridades de gobierno.“Recordemos que Sánchez Berzain desde el 2006 acuñó la frase del totalitarismo, sindicalismo y antidemocrático que está dirigiendo el país, esas mismas frases y conceptos  que han estado repitiendo los políticos, por lo tanto la oposición está siendo articulada por gente que vive en el extranjero y eso demuestra una subordinación”, insistió Navarro.Reyes Villa negó que todos los líderes políticos refugiados en Estados Unidos se hayan unido para hacer campaña por el No en el referéndum del 21 de febrero, sin embargo aseveró estar pendiente, constantemente,  de los acontecimientos que se sucintan en el país.“Veo la desesperación, no tienen otra cosa que inculparnos, a mí siempre me andan nombrado porque saben que yo he estado presente y siempre voy a estar presente  en los acontecimientos del país (…)”, subrayó.Aseveró que es importante la alternancia en el poder político para estar al corriente de cómo se fue manejando y administrando el país.
+####
+https://www.mediaticadigital.com.ar/nota/14855-preocupante-de-casi-500-policias-solo-163-aprueban-test-psicologico/
+####
+Según datos oficiales, muchos policías de Santa Cruz no están dando el "apto psicológico", condición necesaria para portar un arma.
+
+Un dato preocupante entre las filas policiales y en la misma ciudadanía lo dio en el programa de La Vanguardia del Sur el jefe de la Unidad Regional, comisario mayor Dante Jattar Abboud: menos de un cuarto de los policías nuevos aprobaron el test psicológico. Es por eso que varios policías no pueden trabajar con un arma reglamentaria.
+
+Hasta que no pasen la prueba psicológica, que la dicta el gabinete social policial, no podrán portar el arma de fuego.
+
+"Con respecto al armamento, a través del área de capacitación profesional, se están entregando armas. Pero, para lo cual, se están haciendo los test psicológicos", explicó Abboud en diálogo con el programa en Radio Hora Prima 97.1 Mhz, de La Vanguardia del Sur.
+
+"Antes de entregar un arma, primero el policía debe pasar un test de idoneidad en el uso de esa arma. Y por lo que tengo informado en el área de capacitación, todos los exámenes realizados en zona norte fueron 483. Aptos quedaron 163; y 320 efectivos policiales no resultaron aptos para el uso de arma de fuego", expresó.
+
+"Por el momento, los que no son aptos no pueden usar el arma. Luego de seis meses pueden volver a hacer el test psicológico"; dijo.
+
+Cabe acotar que el área de Capacitación Profesional no depende de la Jefatura Regional, sino que la superioridad está en la Dirección Provincial de Capacitación Profesional, con sede en Río Gallegos. (La Vanguardia del Sur).
+####
+https://eju.tv/2016/08/gracias-santa-cruz-cobijar-fuerzas-armadas-comandante-gonzalo-duran/
+####
+El desfile militar inició a las 9:00 de este domingo. HERNÁN VIRGOEL DEBER / Santa CruzHacia las 10:00 de este domingo, con algo de retraso, comenzó la parada militar en el Cambódromo, en donde miles de  cruceños esperan ver el desfile que corona los actos por el 191 aniversario de la independencia de  Bolivia, y que se realiza en Santa Cruz después de varios años.»Gracias a Santa Cruz por cobijar a sus Fuerzas Armadas» manifestó el comandante de las Fuerzas Armadas (FFAA), general Gonzalo Durán, al inicio de un discurso en el que recalcó los nuevos roles y el cambio de actitud de las FFAA durante la actual gestión de gobierno.La autoridad destacó que las FFAA contribuyen con el fin social del Estado, reafirmó la subordinación de las mismas a la democracia y pidió a los militares participar en el «desarrollo integral del país, conforme al mandato de la Constitución Política del Estado».Así mismo aseguró el Ejército está preparado para preservar el territorio nacional, la soberanía y la unidad del país y pidió la «confianza» del pueblo boliviano.El desfile se desarrolla mientras en el palco se encuentran el presidente Evo Morales, el vicepresidente Álvaro García Linera, el presidente del Senado, José Alberto Gonzalez, la presidenta de la Cámara de Diputados, Gabriela Montaño, y el gobernador cruceño Rubén Costas, entre otras autoridades.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_04/nt160403/principal.php?n=90&-santa-cruz-eligio-a-sus-soberanas
+####
+Santa Cruz eligió anoche a las cuatro representantes, de un total de 17 participantes, las que buscarán el título de Miss Bolivia 2016. Antonella Moscateli es Miss Santa Cruz y Nilsa Barrientos es Miss Señorita Santa Cruz; entretanto, Kendra Yañez alcanzó el título de Miss Litoral y Ana Karen Gamón es Miss Señorita Litoral.
+
+Por otro lado por unanimidad de sus propias compañeras, Nayeli Camacho fue elegida como Señorita Amistad y Simpatía, quien destacó durante el período de trabajo para llegar hasta dicha instancia por su alto espíritu de colaboracion.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_09/nt160904/nacional.php?n=36&-movilizacion-por-conservacion-de-patrimonio-natural-en-santa-cruz
+####
+Santa Cruz.- Unidades Educativas, universidades públicas y privadas, instituciones, municipios y población en general, participaron de la marcha que organizó la Gobernación de Santa Cruz en conmemoración al Día de las Áreas Protegidas, que se celebra hoy.
+
+El evento que partió desde la Plaza del Estudiante y concluyó en la Manzana Uno, con la asistencia de más de mil personas, demostró el interés de la población por la conservación de nuestro patrimonio natural.
+
+La secretaria de Desarrollo Sostenible y Medio Ambiente de la Gobernación, Cinthia Asín, sostuvo que esta marcha tiene por finalidad concienciar a la población sobre las importantes funciones que nos brindan las áreas protegidas y unidades de conservación del Patrimonio Natural, no solo por la conservación de la biodiversidad y el hábitat, sino también por las funciones ambientales que nos brindan las cuales son vitales para nuestro desarrollo, progreso y bienestar. Destacamos el gran apoyo de la población y el interés de los jóvenes por conservar nuestro patrimonio, resaltó.
+
+Bolivia es uno de los quince países mega-diversos del planeta, cuenta actualmente con 137 áreas protegidas (22 nacionales, 25 departamentales y 90 municipales), sumando todas ellas un total de 25.5 millones de ha (23% del territorio nacional). Santa Cruz, cuenta con 34 áreas protegidas y unidades de conservación, de las cuales 10 son administradas por la gobernación, llegando a concentrar el 53% de las áreas protegidas de todo el país, lo que nos demuestra que Santa Cruz es líder a nivel nacional en conservación, indicó Cinthia Asín.
+
+La Gobernación, a través de la Secretaría de Desarrollo Sostenible y Medio Ambiente, está dando mayor énfasis a la conservación de las áreas protegidas y unidades de conservación, trabajando de forma permanente en el control y monitoreo del patrimonio natural y cultural del departamento. Al mismo tiempo trabajamos para que la población en su conjunto, niños y adultos, puedan conocer este patrimonio natural, a través del Programa de Educación Ambiental y sus actividades en el CEA, porque de los que estamos seguros es que todos dependemos de nuestras áreas protegidas y entre todos debemos protegerlo, indicó el director de Conservación del Patrimonio Natural de la Gobernación, Juan Carlos Añez.
+
+Los municipios que se encuentran en emergencia por sequía reciban la ayuda para paliar este mal momento por el que están pasado, la Gobernación de Santa Cruz está enviando ayuda a los municipios de Guarayos, El Puente, Comarapa, Boyuibe, este último recibirá 10 toneladas de forraje, que es una especie de alimento para el ganado.
+
+El director del Centro de Operaciones de Emergencia Departamental de la Gobernación (COED), Enrique Bruno, dijo que por ahora lo importante es dotar de la ayuda necesaria a todos los municipios que están en emergencia, sobre todo agua que es lo más esencial, “hoy estamos haciendo el envío de forraje y en el transcurso de la próxima semana se realizará con los otros municipios, porque también tenemos entendido que se han vuelto activar los focos de quema”.
+####
+https://www.la-razon.com/economia/2016/02/14/otras-entidades-se-disolvieron-voluntariamente-2/
+####
+Tras la quiebra de la Cooperativa San Luis, otras entidades financieras de Santa Cruz sufrieron la corrida de depósitos, lo que les generó iliquidez. Producto de esta situación, las cooperativas Nuestra Señora de Cotoca, San Gabriel, Jerusalén y Montero se acogieron a la disolución voluntaria.
+
+La Autoridad de Supervisión del Sistema Financiero (Asfi) realizó en su momento las declaraciones de disolución voluntaria de las mencionadas entidades.
+
+En 2013 se detectó un hueco financiero de Bs 51 millones en la Cooperativa Nuestra Señora de Cotoca y posteriormente se la declaró en quiebra técnica.
+
+En el caso en la vía judicial, el Ministerio Público imputó a al menos 20 personas por la quiebra de la financiera. De los acusados solo unos cuantos asumieron su defensa, mientras el resto fue declarado en rebeldía.
+
+La segunda entidad cerrada, después de 50 años de funcionamiento, fue la Cooperativa Montero, que se acogió a la disolución voluntaria, también en 2013, por una iliquidez que no le permitió cumplir con sus compromisos a corto plazo. La devolución del dinero a los socios se hizo de manera programada.
+
+Al momento del cierre, la Cooperativa Montero presentaba un activo de $us 7 millones y un pasivo similar, hecho que le permitiría garantizar la devolución de la totalidad de los depósitos de los 6.500 socios activos de un total de 18.000 ahorristas.
+
+Retorno. La Cooperativa Jerusalén, que sufrió los embates de la corrida de depósitos por la quiebra de San Luis, determinó su salida voluntaria y programó la devolución de los depósitos en un plazo de 60 meses a los más de 10.000 socios. Hasta 2015 ya había logrado devolver a más de 8.000 ahorristas.
+
+Asimismo, durante el primer semestre de 2015, la Cooperativa Societaria de Ahorro y Crédito San Gabriel Limitada corrió la misma suerte que las anteriores entidades financieras, pues se declaró en liquidación voluntaria.
+
+El hueco financiero de San Gabriel Limitada bordearía los $us 9 millones, según información de la última directiva encabezada por Víctor Gonzales. El representante atribuyó el desfalco a la mala administración de la entidad en anteriores gestiones.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_05/nt160522/nacional.php?n=47&-ejecutivo-inicio-investigacion-de-la-fiesta-del-gran-poder
+####
+El Gobierno anunció ayer que en cuatro meses estará listo el documento que será presentado ante la Unesco de Naciones Unidas para que considere la declaratoria de la principal fiesta religiosa del mundo andino en Bolivia como de Patrimonio Cultural e Intangible de la Humanidad.
+
+El Gobierno se dio cuatro meses a partir de la fecha, para presentar ante las autoridades de la Unesco una solicitud que permita la declaratoria de Patrimonio Cultural e Intangible de la Humanidad a la Fiesta de Jesús del Gran Poder. Estas declaraciones fueron vertidas por el ministro de Culturas, Marko Machicao, quien participa de la festividad religiosa.
+
+Según dijo la autoridad, esta celebración debe ser sujeta de una investigación cultural y que permita identificar sobre qué aspectos se fundamentará su identidad, de manera que el organismo de Naciones Unidas pueda adoptar una determinación.
+
+Machicao manifestó que para el señalado propósito, se ha cursado invitaciones a un grupo de expertos y historiadores para elaborar una carpeta que incluirá, además, material audiovisual.
+
+La fiesta del Señor Jesús del Gran Poder es un evento religioso cultural, que nace en la zona de Ch´ijini (ahora conocida como Gran Poder). Una pequeña fiesta de barrio logró convertirse en el evento folklórico más importante de la ciudad de La Paz. La actividad principal de la fiesta es la entrada folklórica que se realiza un día sábado a finales del mes de mayo o principios de junio, dice un documento publicado por el Municipio de La Paz en 2012.
+
+La entrada folklórica se extiende por todo el macrodistrito Max Paredes y parte del macrodistrito Centro, termina en Miraflores. Los participantes de esta fiesta tienen motivaciones diferentes, como: representar a través de su danza la devoción al Señor Jesús del Gran Poder, utilizar el evento para realizar una muestra de su poder económico, ya que ser parte de esta fiesta para ellos es un símbolo de status social y finalmente ser partícipes de un evento folklórico de gran importancia con concurrencia masiva de espectadores locales y no locales. “Los bailarines se agrupan en fraternidades que se clasifican en tres tipos según la magnitud del gasto que implica la participación en ellas, a saber: danzas pesadas, livianas y autóctonas. Esta clasificación permite también establecer, entre los participantes, cierta jerarquía social relacionada al costo de participación”, señala. En términos económicos es la fiesta más importante del municipio de La Paz, por la magnitud del movimiento de recursos monetarios y porque se convierte en un atractivo turístico con gran valor cultural y folklórico anual. Además de la capacidad de movilización de personas participantes, espectadores y emprendedores que la fiesta genera.
+
+Este año participaron 67 organizaciones folklóricas, haciendo un total de más de 30.000 bailarines, según estimaciones de Radio Metropolitana que transmitió la celebración.
+
+En 2012 participaron 63 fraternidades de las que, 28,6% perteneció a la danza de la morenada, 15,9% a la kullawada, 14,3% caporales, 7,9% tinkus, 6,3% diablada y 4.8% tobas. Las danzas compuestas por dos fraternidades representan el 3,2% y las compuestas por una fraternidad 1.6%.
+####
+https://www.opinion.com.bo/articulo/informe-especial/bolivianos-empleo-viven-asistencia-argentina-espa-ntilde/20160306194600672637.html
+####
+La crisis económica que afecta a Brasil y Argentina empieza a cobrar factura entre los  bolivianos que migraron a esos países. Decenas de compatriotas, según algunos testimonios recogidos por este diario, se quedan sin empleo y están obligados a sobrevivir de la asistencia que brindan organizaciones civiles, con el apoyo de sus familiares o del Estado.
+
+Otros se ven obligados a aceptar trabajos precarios y temporales, sin los beneficios de la seguridad laboral, en Argentina, Brasil y España, donde se encuentran las comunidades bolivianas más numerosas.
+
+En Argentina, algunas familias desesperadas llegan al extremo de buscar alimentos entre los desperdicios, porque se encuentran sin empleo y no tienen dinero, informa el periodista David Tejerina, quien dirige el diario digital de la comunidad boliviana Infodiez.com.
+
+Los que tienen familiares en Argentina reciben el apoyo en alimentos, pero solo por un tiempo.
+
+En el caso de España sucede algo similar. Muchos de los bolivianos que radican en ese país, se ven obligados a aceptar empleos temporales y precarios, según la concejal del Ayuntamiento de Murcia, Margarita Guerrero Calderón.
+
+Esta autoridad, de origen ecuatoriano, asegura que cuando las familias bolivianas se quedan cesantes, al igual que muchas españolas, tienen que asistir a Cáritas (organización de la Iglesia católica) o entidades sin ánimo de lucro y bancos de alimentos para recibir comida.
+
+Tejerina confirma que los bolivianos en Argentina están perdiendo sus empleos y, por ende, su principal fuente de ingresos.
+
+A los despidos se suman otras tres dificultades para los bolivianos: El incremento en las tarifas de los servicios básicos (agua, luz y gas), hasta en un 60 por ciento , los trabajos precarios que se ven obligados a aceptar (sin protección laboral), lo que les imposibilita realizar reclamos porque no tienen cómo justificar sus demandas y la falta de estudios superiores.
+
+Asegura que el 95 por ciento de los bolivianos que llegó a la Argentina no tiene título profesional, lo que les impide contar con un empleo bien remunerado.
+
+La crisis económica en Argentina se ahondó, según los bolivianos entrevistados, desde que Mauricio Macri asumió la Presidencia de Argentina el 10 de diciembre de 2015, por la implementación de varias medidas.
+
+Una disposición que el Gobierno de Macri dispuso fue el denominado "tarifazo" eléctrico, al quitar los subsidios al consumo de este servicio básico.
+
+Gracias a los subsidios, los habitantes de Buenos Aires tuvieron una de las tarifas eléctricas más bajas del mundo, pero que se incrementó hasta en 300 por ciento , según un reportaje publicado por BBC Mundo.
+
+Otra medida aprobada por Macri fue la de los despidos masivos de funcionarios públicos, especialmente de aquellos que fueron nombrados en los últimos meses de 2015 por las autoridades salientes.
+
+El problema de esta disposición, según el boliviano Damián Calderón, quien reside en Argentina desde hace cinco años, es que estos funcionarios despedidos se convierten en competencia para los bolivianos y los mismos argentinos en los diferentes rubros de trabajo.
+
+"Hay más gente desempleada y la oferta de mano de obra se multiplica. Los precios de los jornales bajan y hay menos oportunidades", afirma Calderón, quien todavía cuenta con un ingreso fijo.
+
+Para acceder a un empleo y no ser víctima de la discriminación, cientos de  bolivianos optaron por naturalizarse como ciudadanos argentinos.
+
+“Antes de que el presidente Evo Morales llegue al Gobierno, ser  boliviano en Argentina era la peor escoria humana. Por ello, el peor insulto que te pueden decir es “bolita”, que hace referencia a una persona de color, pobre y humillada, de un país endeudado y sin empleo”.
+
+No obstante, muchos de los bolivianos que llegaron en las décadas pasadas lograron sortear lo peor de la crisis de Argentina, especialmente en 2001.
+
+“Saben que la única solución para sobrevivir a una crisis es trabajar y tratar de no endeudarse”.
+
+En Brasil, donde residen 64.621 bolivianos, según el Instituto Nacional de Estadística (INE) de Bolivia, el cierre de los talleres de costura causa preocupación entre los compatriotas que trabajan en ese rubro.
+
+Pablo Gonzales, quien se dedica a confeccionar ropa desde hace tres años en un taller de Sao Paulo tuvo que aceptar la reducción de su salario ante la posibilidad de quedar sin empleo. El dueño de la empresa le paga ahora cerca de 15 centavos de dólar por cada prenda que confecciona, después de algunos descuentos.
+
+Un último informe del Instituto Brasileño de Geografía y Estadística (IBGE) da cuenta de que Brasil se contrajo un 3.8 por ciento en 2015 y sufrió así su mayor recesión económica en los últimos 25 años.
+
+Este dato, según la agencia española EFE, refleja la acentuada crisis que atraviesa el país que durante años fue la locomotora de América Latina.
+
+La situación del desempleo en el país ibérico preocupa también a los españoles, pero más a los ciudadanos extranjeros.
+
+Un reportaje del diario digital 20minutos.es señala que en ese país la cifra de desempleados asciende a 4.152.986 personas.
+
+El Ministerio de Empleo y Seguridad Social de España confirmó que el número de desempleados sigue por encima de la barrera de los cuatro millones y que los colectivos más afectados son, por ahora, las mujeres y los menores de 25 años.
+
+Para acceder a un trabajo más estable y con mayores beneficios, los bolivianos optan por la nacionalidad española.
+
+El Instituto Nacional de Estadística de España informó en diciembre de 2015 que 20.895 bolivianos lograron la nacionalidad española, durante la gestión 2014.
+
+Este mismo año, un total de 205.880 residentes extranjeros obtuvieron la nacionalidad española, un 8.8 por ciento menos que 2013.
+
+Una investigación del diario digital Infodiez.com revela que el denominado trabajo esclavo sigue vigente en Argentina. Uno de los empleados que confeccionaba ropa para una línea conocida en ese país documentó, mediante una cámara oculta, las deplorables condiciones en las que se encontraban los compatriotas.
+
+En este taller de costura, ubicado en el barrio de Mataderos, de Buenos Aires, trabajaban 13 costureros de origen boliviano, varios de ellos en situación migratoria irregular, sin documentación, obligados a la servidumbre y el hacinamiento.
+
+La cámara muestra que convivían en habitaciones pequeñas, donde trabajaban, comían y dormían.
+
+Cumplían jornadas extenuantes desde las siete de la mañana hasta las 22:00 horas. A cambio recibían 1.800 pesos argentinos (unos 114 dólares).
+
+Infodiez.com señala que los costureros estaban encerrados y para ir a hacer un simple mandado a la calle y traspasar la puerta de hierro, debían dejar siempre sus pertenencias como garantía de que no escaparían.
+
+En el taller de costura se puede apreciar también a varios niños, hijos de los costureros, que estaban sometidos al encierro y compartían un mismo baño en condiciones bastante precarias.
+
+Esta investigación, en la que se involucra a la esposa del presidente de Argentina, Mauricio Macri, fue publicada el 16 de febrero de 2016.
+
+Según Infodiez.com, Juliana Awada, primera dama de Argentina, administra esta empresa en la que se estaría esclavizando a los  bolivianos.
+
+Pese a la crisis económica que afecta a los bolivianos que residen en el exterior, las remesas que envían al país representan montos importantes.
+
+Un informe del Banco Central de  Bolivia (BCB) señala que durante la gestión 2015, el país recibió 1.178 millones de dólares, monto mayor en 1.28 por ciento respecto a 2014.
+
+En 2015, las remesas por origen provinieron de España (41.7 por ciento ), Estados Unidos (16.5 por ciento ), Argentina (10 por ciento ), Brasil (8.7 por ciento ) y Chile (5.8 por ciento ).
+
+Según datos oficiales del Instituto Nacional de Estadística de Bolivia, casi medio millón de bolivianos reside fuera del país.
+
+El Censo Nacional de Población y Vivienda, realizado en 2012, concluyó que 489.559 bolivianos viven en el exterior. De este total, 187.011 residen en Argentina (38.2 por ciento ), 116.515 se encuentran en España (23.8 por ciento ) y 64.621 están en Brasil (13.2 por ciento ).
+
+Otros países que albergan a numerosas comunidades bolivianas son Chile con 28.883 personas (5.9 por ciento ); Estados Unidos con 20.561 (4.2 por ciento ) y el resto 14.7 por ciento vive en otras naciones.
+
+﻿Los migrantes procedentes de Latinoamérica en España atraviesan problemas derivados del desempleo. Con el efecto de la burbuja inmobiliaria (especulación en el mercado de bienes inmuebles) muchas personas que trabajaban en la construcción se quedaron sin empleo.
+
+El cuidado de personas es otro sector en el que trabaja este colectivo (migrantes de países latinoamericanos), mayoritariamente mujeres, mientras que los hombres se ocupan más del sector agrícola.
+
+Además de las altas cifras de paro (desempleo) hay que tener en cuenta las condiciones del mismo, cada vez más precario y temporal. Salarios más bajos y jornadas más largas.
+
+Para sortear la crisis económica, lo que hacen los bolivianos es trabajar más, aunque eso signifique sacrificar tiempo de ocio o de estar con la familia, por lo que hemos comentado antes de la precariedad y temporalidad laboral. No obstante, trabajar más no significa tener garantizadas las necesidades básicas.
+
+La crisis económica afecta a bolivianos y migrantes de otras nacionalidades, que se ven perjudicados por las mismas condiciones laborales, la facilidad del despido a raíz de la reforma laboral. Esto, sumado a que existe mucha oferta y poca demanda, da como resultado salarios bajos.
+
+Pero más que perder las fuentes de trabajo existe una competencia aún mayor por mantener empleos precarios.
+
+Cuando un trabajador es despedido, algunos tienen derecho a cobrar paro (prestación por desempleo) porque han cotizado los meses suficientes, pero siempre que tengan la tarjeta de residencia o la nacionalidad. Otros suelen hacer trabajos informales, sin contrato, pequeñas tareas y obras que les permita subsistir.
+####
+https://www.opinion.com.bo/articulo/tendencias/bolivia-triunfa-anticr-eacute-tico-pasanaku/20161023191500671651.html
+####
+Las sociedades desarrolladas apenas conciben el ahorro y la financiación al margen de los bancos, pero en  Bolivia están arraigadas dos formas tradicionales de préstamo sin intermediación financiera: el "anticrético" y el "pasanaku".
+
+El "anticrético" o "anticresis" es un acuerdo de préstamo de una suma alta con un inmueble como garantía que está reconocido en el Código Civil de Bolivia y en países como Argentina o Venezuela.
+
+El prestatario es propietario de un inmueble que ocupará como vivienda un prestamista por algunas decenas de miles de dólares, generalmente con un año de plazo y prorrogable a dos. Al cabo de este período, el prestamista debe devolver el inmueble en su estado original y recibe su dinero.
+
+El paceño Marcelo Cáceres puso varios inmuebles de su familia en el sistema del "anticrético" con el propósito de completar la construcción de un bloque de departamentos en el centro de  La Paz.
+
+Cáceres explica a Efe que tenía su casa a medio construir con dos pisos levantados y dejó en "anticrético" el segundo para poder financiar la construcción de un tercer nivel.
+
+La también paceña Teresa Paz vive de esta forma con su pareja desde hace algo menos de dos años. "Una de las principales ventajas de estar en "anticrético" es que tú pagas, digamos diez mil dólares, cuando concluye el contrato te devuelven el dinero. En cambio en alquiler pagas cada mes un importe y ese dinero no te van a devolver", argumentó.
+
+No es casualidad que estos acuerdos, al margen de los sistemas de financiación bancaria, sigan existiendo en Bolivia, donde alrededor de un 70 por ciento de los trabajadores se emplean en la economía informal.
+
+"Todo el mundo evita trabajar formalmente con los bancos (...) Además cuando se busca un préstamo te piden garantías casi imposibles de cumplir", dijo a Efe el antropólogo Carlos Östermann.
+
+La otra forma peculiar de financiarse en Bolivia fuera de los bancos es el juego del "pasanaku", por el que una suma de dinero pasa de mano en mano entre los miembros de un grupo de confianza.
+
+Se trata de un préstamo rotativo que algunos explican por la influencia de la cultura de cooperación en el mundo indígena andino, pero que se ha extendido a las clases media y alta de Bolivia.
+
+Las personas del grupo aportan la suma de dinero de forma periódica y una de ellas se lleva el total en cada cita.
+
+Al cabo del ciclo, que generalmente es de un año entero con encuentros mensuales, cada persona habrá recibido exactamente la cantidad que ha aportado mensualmente.
+
+Aunque existen modalidades puramente económicas, donde incluso una persona se encarga de recaudar las sumas y se lleva una pequeña comisión, es muy popular ligar el "pasanaku" a encuentros sociales.
+
+Ignacio Díez, profesor de secundaria, participa en un "pasanaku" con sus amigos de infancia. "Cuando salimos del colegio todos toman su camino y una idea de poder vernos más seguido era organizar este tipo de reunión", explica.
+
+En ese caso concreto, juegan once parejas y en cada reunión, siempre en casa de alguien, cada una aporta 20 dólares.
+
+Cuando se reúnen practican juegos de mesa o cantan karaoke. "La cena tiene que ser novedosa y diferente, cada pareja se esfuerza porque sea única", apunta.
+
+Vanessa Carvajal, una joven psicóloga que participa en cuatro grupos de "pasanaku", considera que el sistema tiene un carácter eminentemente femenino en la sociedad  boliviana "patriarcal".
+
+"Las mamás y las abuelas siempre han encontrado formas de ahorrar y mantener formas de ingreso. Esta es una forma de mantener los vínculos entre mujeres", apunta la profesional.
+
+Carvajal, que juega sumas de entre quince y cuarenta dólares con dos grupos de amigas del colegio, también con compañeros de la universidad y con colegas de su empresa, destaca la importancia lúdica que tienen los encuentros de esta forma de financiación.
+
+Son citas a las que sus amigas han asistido disfrazadas de pitufos, superhéroes o varones, todo con el pretexto de un nuevo encuentro, en el que el "pasanaku" para conseguir fondos parece secundario.
+
+"A veces en el "pasanaku" ya no es tan importante el dinero, lo importante es la interacción que se hace del grupo, y esta suerte de permanencia en el tiempo", indica Östermann.
+
+Según el antropólogo, el principio del "pasanaku" (dar para recibir en el futuro) es similar al "ayni" aimara, que permite a los miembros de una comunidad indígena trabajar para los demás.
+
+"Muchas instituciones tienen raíces vinculadas con nuestro pasado andino (...) Uno de los valores esenciales que caracteriza a las sociedades andinas es el sentido de la reciprocidad", argumenta.
+####
+https://eju.tv/2016/09/quemas-ilegales-ahogan-al-bosque-en-santa-cruz-mientras-las-autoridades-se-miran/
+####
+Reconocen que se necesita una decisión política, pero cada instancia descarga su culpa en el otro. El 85% de las quemas son ilegales y más de la mitad se realizan en tierra sin sanear. Todos los años arden los mismos lugares y San José es el más chamuscadoPablo Ortiz / EL DEBER Santa Cruz se cocina lentamente en el fuego de su modelo de desarrollo. Todos los años, como una tragedia anunciada, las mismas regiones vuelven a arder mientras las instituciones encargadas de controlar la situación se limitan a contar focos de calor, apagar incendios que se salen de control y a esperar que llueva para que se acabe la temporada de quema. En años como este, cuando las lluvias se vuelven tacañas, escasas e insuficientes, el mapa cruceño parece un cenicero.Según el reporte de la Autoridad de Bosques y Tierras -organización dedicada a otorgar derechos y permisos de desmontes y quemas, según explica Víctor Yucra, director general de gestión- hasta el 30 de agosto había más de 34.000 focos de incendios detectados por los satélites en Santa Cruz. Suben a más de 60.000 en todo el país. Incluso se podría dibujar una línea de fuego que comienza en el Pantanal, sube por el bosque seco chiquitano, se pasa a la zona de colonización de Chiquitos, atraviesa el Río Grande para las áreas del Norte Integrado, degrada el Choré, se come la Reserva Forestal Guarayos, no respeta la frontera departamental e incendia la provincia Marbán de Beni e incinera sus pampas. La mancha de fuego que deja a su paso come los bosques y coincide exactamente con las zonas productivas del país.Sin embargo, eso no implica que las quemas sean legales. Solo el 15% de los incendios registrados en este año, según la ABT, corresponden a permisos de quema tramitados. Que sean tierras para producción, no implica que estén saneadas. Más del 57% de las quemas se hacen en terrenos sin saneamientos. El resto, se reparte entre las propiedades empresariales (27%), comunidades campesinas y territorios indígenas (ambos con 8%). Es decir, a los bosques y a los cruceños los ahogan quemas ilegales en tierras que aún no tienen poseedores titulados.Pero eso no es todo. El fuego ilegal en el departamento de Santa Cruz es el infractor de la ley más anunciado. Un estudio de Rafael Cabrera, experto en sistemas de información satelital y profesor de la Universidad Nacional Ecológica, ha demostrado que siempre se incendian los mismos lugares, que año tras año los mismos problemas atacan a los mismos municipios sin que nadie los pueda detener. “Se deberían preparar. No basta con contar focos de calor, dotar lampas y cascos, hay que evitar que las quemas vuelvan, no dar permisos de quemas a los lugares que ya han ardido”, opina.Quién lo evitaCuando se le pregunta a Víctor Yucra sobre a quién le corresponde esta tarea, cita la ley de incendios de 2013 que entrega la responsabilidad de crear mapas de riesgos a los municipios y gobernaciones. “Muchas veces se confunden las actividades de la ABT, que es dar derechos y regularlos. No tenemos presupuestos ni control sobre los incendios. Nuestro deber es generar información de los focos de calor y pasar la información a municipios y gobernaciones”, explica Yucra.En el mapa, los alrededores de la Laguna Concepción, en San José de Chiquitos, parece una quemadura de cigarro. Es el territorio nacional con mayor concentración de incendios por kilómetro cuadrado. Pese a que esto se repite todos los años, el alcalde Germaín Caballero se sorprende. Explica que como municipio no tienen la capacidad de monitorear de manera precisa lo que está sucediendo, pero de todas formas es consciente de que en algunas zonas de su municipio la ABT ha autorizado desmontes masivos y que esos datos no son compartidos con el gobierno municipal.Admite que en los últimos días ha visto quemas descontroladas que corresponden a los cordones dejados por productores que han desmontado 1.000, 2.000 y 3.000 hectáreas. “Nosotros tratamos de atender las emergencias, pero la cantidad de incendios forestales sobrepasa la capacidad de nuestro municipio”, explica Caballero.Cinthia Asín, secretaria de Medio Ambiente de la Gobernación de  Santa Cruz, lleva la cuenta de esos incendios forestales. Iban 75 hasta el 15 de septiembre y uno de ellos, el de Santa Rosa, cerca de Choré, estaba aún activo. Ella dice que la Gobernación no tiene la fuerza coercitiva para evitar, mediante las sanciones, que esta situación se repita todos los años, que esa fuerza recae en la ABT y en la Fiscalía. Sin ella, la Gobernación y los municipios solo se encargan de apagar los incendios con la única ayuda del Ejército.La Gobernación, según cuenta Asín, también cuenta los focos de calor. Asegura que le hace un seguimiento minucioso hasta descubrir dónde se inició el incendio con el fin de que la Fiscalía y la ABT sancionen a los responsables. Este año, hasta el 30 de agosto, según los reportes de la ABT, se habían iniciado 340 procesos administrativos contra quemas ilegales. Solo 19 de ellos fueron procesados en Santa Cruz y solo cinco derivaron en procesos penales. Si se toma en cuenta que hubo más de 34.000 incendios hasta esa fecha, solo uno de cada 6.800 incendios derivaron en un proceso penal contra los infractores.No es fácil dicen desde la ABT. Yucra cuenta que aún tienen problemas por las multas emitidas por la institución en 2011, cuando se detectó a todos infractores de la barbarie de 2010, cuando se registraron más de 100.000 focos de calor en Santa Cruz. Para no pagar las sanciones, los campesinos multados han tomado las unidades forestales, impidiéndole el trabajo a la institución. Así, sin fuerza para hacer cumplir las propias sanciones que imponen, Yucra asegura que este año quieren ser más precisos y descubrir dónde comenzaron los fuegos para evitarse problemas y papeleos excesivos. En Santa Cruz, el 27% de las quemas son con autorización de la ABT.El modelo es el problemaCuando el fuego es la principal tecnología de la expansión agrícola de un país, el humo es la consecuencia lógica. Cinthia Asín dice que sería deseable que  Bolivia tuviera formas de producción más ecológicas y sostenibles, pero no las tiene. Es más, el Estado alienta a que cada vez haya más quemas. Este año amplió las quemas sin muchos trámites de cinco a 20 hectáreas. A eso se suma la meta de ampliación de frontera agrícola que figuran en el Plan Nacional de Desarrollo 2015-2020, que son 1,2 millones de hectáreas. Eso quiere decir que cada año tienen que caer 240.000 hectáreas de bosques, una superficie equivalente a ocho veces toda la ciudad de Santa Cruz de la Sierra. Eso produce millones de metros cúbicos de madera que deben arder y que se queman todos los años. Sin embargo, Yucra explica que la ABT llega a autorizar solo 160.000 hectáreas por año, pero la superficie desmontada supera las 240.000 hectáreas. “A los bolivianos nos encanta vivir en la ilegalidad”, dice Yucra.Todo esto ya se refleja en la salud del departamento. Si se toma en cuenta el Índice de Vegetación, el de Santa Cruz varía entre 0,1 y 0,55. Este indicador oscila entre -1 y 1. El negativo es una roca y el positivo es un bosque saludable y tupido. Esto quiere decir, según el estudio de Rafael Cabrera, que a  Santa Cruz ya no le quedan esos bosques cerrados que había que desencantar y que la mayor parte de su territorio es o zona erosionada, con pampas, bosques debilitados, tierra de cultivo o barbechos que quedan como testigos raquíticos de lo que fue un monte cerrado.Asín pide cambios de leyes y una participación más decidida del nivel central del Estado para evitar que esta situación se dé todos los años. Yucra, por su parte, habla de generar temporadas de quema diferenciada según la región, para evitar que todo el oriente arda al mismo tiempo. De momento, no se avista ninguna decisión gubernamental de bajar la expectativa de deforestación hasta 2020.Para Andrei Abruzezze, ingeniero ambiental, se necesita una articulación entre el sector productivo y todos los niveles del Estado. “Si seguimos a este ritmo, nuestro aporte de cambio climático no será por industria, sino por la deforestación y la quema”, dice.Vincent Vroomans, ingeniero en recursos naturales de la Fundación Noel Kempff Mercado, explica que en realidad estamos generando nuestro propio cambio climático. El viento que rebota en la cordillera de los Andes y pasaba por los bosques frondosos, se cargaba de humedad.Al estar el bosque expuesto a continuas quemas, al volverse menos denso, ya no retiene tanta humedad como antes y el viento que azota las ciudades y llanuras del oriente es más seco, por lo tanto las lluvias son cada vez más escasas y las temperaturas más altas. Así, el gran modelo productivo cruceño, se cocina lentamente en su propio jugo, sin darse cuenta de que el combustible de su desarrollo, de a poco, pondrá en riesgo al mismo modelo productivo, cuando las lluvias sean cada vez más escasas y el viento erosione los campos.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_02/nt160228/nacional.php?n=45&-de-364-rios-tres-amenazan-la-paz
+####
+Los ríos Jillusaya, Huayñajahuira e Irpavi son los más peligrosos para los habitantes de La Paz
+
+La ciudad de La Paz cuenta con 364 ríos, riachuelos y afluentes, de los cuales tres que cruzan el sur de la urbe generan amenaza a La Paz, entre ellos el Huayñajahuira que, con sus ondas pulsantes, destrozó aceras y puentes, durante las lluvias registradas en la semana.
+
+Los ríos Jillusaya, Huayñajahuira e Irpavi son los más peligrosos para los habitantes de La Paz, debido a sus características de alta montaña con pendientes pronunciadas que derivan que sus aguas, en temporadas de lluvia, descienden a una velocidad intensa y con turbulencia y generen ondas pulsantes de hasta siete metros, según información de la Municipalidad.
+
+El director de Prevención de Riesgos, Jaime Tinini, explicó que dichos afluentes tienen una característica “muy súbita”. En temporada seca las aguas no conducen material de arrastre, pero en tiempo húmedo sí y se vuelven “temibles y amenazantes”.
+
+“En estos ríos de alta montaña se generan comportamientos críticos, turbulentos, que el agua baja con una altura considerable y una fuerte velocidad y turbulenta, el comportamiento de las partículas del agua es caótica y cuando encuentra obstáculos se generan resalto hidráulico u ondas. Tienen un ascenso, una cresta y un descenso, pero no solamente es líquido, también es material de arrastre, este material coadyuva a la peligrosidad de las ondas”, explicó.
+
+Agregó que para afrontar dicha peligrosidad, el personal de la Secretaría Municipal de Gestión Integral de Riesgos (Smgir) está preparado técnica y operativamente. “También preparamos a la gente para contrarrestar cualquier evento dificultoso, cualquier adversidad”.
+
+La Comuna cuenta con la unidad del Sistema de Alerta Temprana (SAT), dependiente de la Smgir, que tiene más de 60 puntos de monitoreo establecidos en sectores estratégicos de ríos, cuencas, subcuencas, puentes, pasarelas y otros. Posee cámaras que miden el nivel de altura de los ríos. “Miden el comportamiento hidráulico de cada río, miden la cresta de cada onda”, explicó la autoridad en entrevista con Cadena A.
+
+El sistema cuenta además con un radar meteorológico de área local, cámaras de videovigilancia y pluviómetros establecidos en puntos seleccionados estratégicamente.
+
+“Nuestro sistema montado en Alto Obrajes detecta toda irregularidad o fenómeno en las cuencas, trabajando las 24 horas, los técnicos que estamos esparcidos en toda la ciudad son responsables de recibir esta alerta de crecimiento de los ríos o de las precipitaciones en alta montaña, intensa o suave, eso nos hace mover (al personal)”, explicó Tinini.
+
+A través del radar meteorológico de área local, la Comuna advierte la presencia de nubes negras con frente frío en alta montaña o cuenca alta, antes de que se presente la lluvia.
+
+De esta manera se puede desplazar personal y maquinaria y prevenir tragedias. “Hay que anticiparse a las lluvias, por eso es que cerramos anticipadamente la avenida Costanera (en la zona Sur)”, dijo.
+####
+https://www.cubanet.org/una-calamidad-llamada-evo/
+####
+Evo Morales ya cumplió 10 años como presidente de Bolivia. Es la persona que más tiempo ha ocupado el cargo consecutivamente en la historia de ese país desde que Simón Bolívar lo inauguró en 1825. Éste es su tercer mandato. Terminará en el 2019.
+
+Le parece poco. No está conforme. Quiere reelegirse cuando llegue esa fecha. El relevo generacional y la circulación de las élites le dan una risita nerviosa. Ha convocado a referéndum para poder aspirar una cuarta vez, llegar al 2025 en la poltrona presidencial, y celebrar los dos siglos de la inauguración de la República.
+
+Luego querrá seguir, y seguir, y seguir. Le resulta muy divertido ser presidente. Le gusta vivir en el Palacio Quemado. No sabe de leyes, de economía, de historia. No sabe nada de nada, salvo de las bondades infinitas de la coca, una planta cuyo cultivo es cada vez más extendido para tristeza de la DEA.
+
+No importa. A fin de cuentas, el que gobierna es su vicepresidente, Álvaro García Linera, un profesor marxista, matemático y sociólogo, con un tremebundo pasado revolucionario, que se ocupa de la carpintería oficial. Evo, mientras tanto, se exhibe, juega al fútbol, dice evadas y se entretiene mucho.
+
+Hay algo enfermizo en la necesidad de mandar que Evo exhibe. Es la representación viviente de la idea platónica del narcisismo. Ha enmendado dos veces la Constitución. Si gana el referéndum no tendrá que retocar el texto una vez más. Ya podrá reelegirse indefinidamente y morirá en la cama regia, como los monarcas antiguos.
+
+¿Lo logrará? Debiera perderlo, aunque no se sabe. Ha aumentado el gasto público salvajemente. Cuando llegó al poder, el gobierno consumía el 21.05% del PIB. Ya va por el 43.26. Es el segundo país con mayor gasto público per cápita de América Latina. El primero es Ecuador (44.17%). Chile, que es la nación mejor gobernada de América Latina, le dedica a este rubro el 24.88.
+
+Ese enorme gasto público no sería tan grave si el dinero de todos se manejara honradamente, pero no es así. Según el Índice de percepción de corrupción de “Transparencia Internacional” Bolivia es una pocilga: obtiene 3.5 de coeficiente. En esa catalogación, con menos de 5 el país desaprueba. Ocupa el lugar 103 de entre 175 escrutados. Es uno de los peores de América Latina.
+
+Bolivia va de cabeza hacia una crisis. Probablemente devalúen después del referéndum. Como buen populista, ni Evo Morales ni su vice creen en la libertad económica ni en las virtudes del mercado. Son estatistas-clientelistas, han confiscado varias empresas clave, han suscrito la fatídica receta del Socialismo del Siglo XXI, y, con la colaboración de los servicios cubanos, no han dejado de encarcelar adversarios, exiliarlos, y, una que otra vez, los han asesinado.
+
+Cuando llegaron al poder, Bolivia comparecía en un lugar razonable del Índice de Libertad Económica de la Heritage Foundation. Se clasificaba como “moderadamente libre”. Hoy está a la cola, y su economía es calificada de “reprimida”. Esa es la receta infalible para el desastre. Basta revisar la lista para confirmar que a mayor libertad y apertura se corresponde un mejor nivel de desarrollo.
+
+Pero, a mi juicio, el mayor daño ha sido hecho en el terreno institucional y en el tejido íntimo de la nación boliviana. El Estado plurinacional es una puñalada a la idea de una república de ciudadanos iguales ante la ley, unidos por el patriotismo constitucional, como pretendió Bolívar y como trató de llevar adelante Víctor Paz Estenssoro con la revolución unificadora de 1952.
+
+Evo Morales retrotrajo a Bolivia a la etapa precolombina, como si aquel mundillo hostil y feroz de retazos étnicos que se hacían la guerra frecuentemente hubiera sido una especie de confederación pacífica de gente beatífica.
+
+No entendió que la propia idea de la República de Bolivia era el producto de la modernidad encarnada en los sueños de Bolívar y Sucre, y no en las fantasías de Túpac Katari, inevitablemente borradas de la historia por la insensible aplanadora europea, como sucedió en todo el Nuevo Mundo con las culturas indígenas.
+
+El 21 de febrero sabremos si esa calamidad llamada Evo Morales tiene fecha de caducidad o si llegó al poder para eternizarse. Falta poco.
+####
+https://eju.tv/2016/03/39-aserraderos-cerrado-estan-paralizados-santa-cruz/
+####
+Un 39% de los aserraderos que operan en el departamento de  Santa Cruz han cerrado o se encuentran paralizados por la crisis que atraviesa el sector forestal desde el 2013, perdiéndose al menos 2.000 fuentes de empleos, así lo informó Humberto Andia, representante de los aserraderos.
+
+«Había 104 aserraderos registrados y de estos 40 están cerrados o paralizados, porque al normar demasiado y al sacar instructivas prohibiendo la comercialización de madera hacia el exterior en ciertas condiciones está afectando, por eso ha comenzado a estocarse la madera en las barracas y los precios han caído», explicó Andia.
+
+Cierres tienen un efecto multiplicador. El representante de los aserraderos también comentó que cada establecimiento cuenta con alrededor de 50 trabajadores, por lo que se estima una pérdida de unas 2.000 fuentes laborales, sin contar el sector transporte que traslada la madera a las barracas y a la ciudad, además de las comunidades indígenas que dejan de percibir los recursos económicos por la comercialización.
+
+«Producto de esta situación se ha dado vía libre a la internación de madera o productos maderables desde Brasil y China, que están a un precio menor pero con una calidad desastrosa. Si bien hemos retomado las conversaciones con la ABT no pasa nada, entonces el Gobierno tiene que asumir su responsabilidad con este sector, como lo hace con los agropecuarios o los industriales», exclamó Andia.
+
+Al menos 1 millón de metros cúbicos están estocados. En tanto, Erwin Vargas, jefe del departamento económico de la Cámara Forestal de  Bolivia (CFB), señaló que la situación de los aserraderos se refleja en toda la cadena productiva forestal. Es así que de los 1,7 millones de metros cúbicos de bosques que se aprovechó la anterior zafra, más de 500.000 metros cúbicos de madera se encuentran estocados por falta de mercado. 
+
+«Si las empresas no pueden vender es probable que este año aprovechen menos o directamente cierren sus unidades productivas. Todo esto debido a las importaciones que están haciendo daño a la industria», comentó Vargas.
+
+También comentó que según los representantes del sector en La Paz, desde 2013 a la fecha se han cerrado al menos 2.000 carpinterías, siendo que en cada una de ellas trabajaban entre cuatro a cinco personas, la pérdida de fuentes de empleos está entre 8.000 a 10.000.
+
+«Esta situación se repite en todo el país, entonces hay muchas empresas que están haciendo sus cuentas para despedir gente o para cerrar», finalizó Vargas.
+
+En este marco, la Autoridad de Bosques y Tierras (ABT) está proponiendo que el sector ingrese a la era de la industrialización a través de las plantaciones forestales y la instalación de una Planta de Pulpa de Celulosas, con el objetivo de tener un mejor aprovechamiento (400 metros cuadrados por hectáreas) y al mismo tiempo generar grandes recursos económicos para el país.
+
+Comercio. De acuerdo a los datos del Instituto Boliviano de Comercio Exterior (IBCE) las exportaciones de madera y sus manufacturas al primer mes de este año alcanzó un valor de $us 4,3 millones, mientras que en 2015 fue de $us 5,1 millones, es decir una reducción de un 15%. Asimismo, en el periodo de 2014 llegó a $us 5,6 millones y en 2013 cuando empezó la crisis del sector forestal las ventas se encontraban en $us 6 millones.
+
+En volumen las exportaciones de madera y sus manufacturas descendieron de 7.418 toneladas a 3.171 toneladas en el periodo 2013-2016 y tiende a agudizarse aún más, según los representantes de la cadena productiva forestal.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_04/nt160410/principal.php?n=90&-mas-risas-locuras-y-diversion-en-bigote
+####
+Nuevos rostros, otro horario, más segmentos, nuevos juegos y entretenidos retos son parte de las novedades que presenta la tercera temporada de Bigote.
+
+El programa juvenil de la Red Uno inició su nuevo ciclo y la apuesta es entretener a la familia boliviana, pero sin perder la esencia de Bigote.
+
+A Oriana Arredondo y Carlos Marquina, Bigote sumó en la conducción a Marco Antelo, Gabriela Zegarra, Sebastián Putz y Eliana Gonzales, conocidas figuras juveniles de la Red Uno que ya tienen su público en la audiencia.
+####
+https://eju.tv/2016/12/santa-cruz-tiene-medio-millon-de-migrantes/
+####
+A diario se ve una importante cantidad de población migrante en las calles y avenidas de Santa Cruz de la Sierra realizando diversos trabajos que benefician al desarrollo.Entre el 2001 y 2012, cuando se realizaron los Censos de Población y Vivienda, cerca de medio millón  de la población del departamento de Santa Cruz era migrante y en su mayoría llegaban de Chuquisaca, Cochabamba, La Paz y Potosí, según los datos del estudio Desafío XXI SCZ presentado hace unos días por la Cainco. El mismo es una investigación en la cual, a través de un amplio proceso de investigación y consulta ciudadana, se identifican los retos para Santa Cruz y Bolivia. El documento también mostró que para el 2001, más del 25% de la población se identificaba como residente no nacido en la región, mientras que en 1992; la inmigración de toda la vida, que son las personas que viven en un lugar diferente de donde nacieron por un periodo superior a cinco años, llegó a las 292.185 personas originarias de Cochabamba, Chuquisaca, Potosí y La Paz.Crecimiento es hacia las ciudades. René Pereira Morató, sociólogo urbano y director del Instituto de Investigaciones Sociológicas (IDIS) de la UMSA, explicó que en el último tiempo se está intensificando el movimiento migratorio urbano a urbano, «es decir que los migrantes están saliendo de las ciudades menores hacia las grandes capitales; independientemente si su origen es rural o urbano», detalló el experto.Agregó que Santa Cruz de la Sierra es el principal receptor de esta migración, aclarando que hace unas décadas el flujo de personas era hacia el oriente boliviano,  Santa Cruz, Beni y Pando, pero en los últimos años esto ha cambiado y ahora la capital cruceña se ha vuelto el principal punto de este flujo migratorio. «Se ha visto que a Santa Cruz se va por el dinamismo y la actividad económica pero además porque las actividades de servicio y de comercio son muy importantes», destacó.La planificación cruceña. Sandra Velarde, secretaria municipal de Planificación, informó que el municipio cruceño está abocado, dentro de la planificación, a densificar el radio urbano, «por ejemplo solamente se han ampliado las áreas que han sido rebasadas por diferentes imprevistos, además cada año se planifica de acuerdo a la cantidad de población, demanda vecinal y el crecimiento de nuestros distritos», complementó la autoridad.También dijo que para los próximos 20 años que vendrán, se está elaborando un plan de ordenamiento territorial integral, el cual está tomando en cuenta estos crecimientos poblacionales. «Es importante destacar que deberían venir unificados a este crecimiento; mayores desembolsos económicos», destacó Velarde.En tanto Tito Sanjinés, concejal y miembro de la comisión de Planificación del legislativo cruceño, dijo que se está viendo el tema de la migración no solo del occidente de Bolivia, sino incluso de algunas provincias cruceñas. «Se tiene conocimiento de que una gran parte de las personas que están migrando son de La Paz y El Alto, que se dedican al transporte con sus minibuses, entonces previniendo este tema se está sacando una ley de transporte».Residentes ponen su grano de arena. Ramiro Paz, representante del Centro de Residentes Paceños (Cerepa) dijo que la población paceña en la capital cruceña estaría superando los 350 mil habitantes. «El crecimiento de la comunidad paceña en Santa Cruz se debe a diversos fenómenos, siendo el más importante la búsqueda de empleo y nuevos horizontes». Agregó que los residentes paceños en Santa Cruz de la Sierra han realizado importantes aportes para el desarrollo económico de la región.Paz también dijo que en las últimas semanas se ha visto un importante flujo de paceños hacia Santa Cruz de la Sierra. «En las terminales aéreas y terrestres se está viendo este fenómeno; que son miles de familias que vienen aprovechando sus vacaciones o viendo la posibilidad de quedarse. Por eso nuestro deber será recibirlos con los brazos abiertos porque son nuestros hermanos», agregó.Christian Justiniano Saldaña, secretario de Transporte de los taxis de la terminal Bimodal, confirmó esta situación.»Tuve la oportunidad de llevar a una señora, y su familia, que vivían en la zona sur de La Paz. Ella me contó que el tema de la escasez de agua los apuró a tomar esta decisión porque la crisis de este elemento vital tiende a alargarse. Y como ellos, son varias familias que están llegando a buscar casa», dijo el trabajador.Descartan afluencia inusual. Sandra Velarde, secretaria de Planificación, dijo que es muy «a priori» hablar de esta situación, porque en esta temporada si se registra una importante migración de personas esto se debe a las vacaciones de fin de año. «Entonces para tener un criterio adecuado, las mediciones se deberían hacer tres veces al año en vez de una. El otro factor es que no existe un efecto inmediato a la crisis del agua en los municipios del occidente, pero que podría suceder si no se regulariza y no se buscan soluciones».El sociólogo urbano René Pereira Morató, dijo que hablar de un factor de crisis para el tema del agua es muy arriesgado.»Porque no se está en una larga crisis como la que sucedió en Potosí hace algunos años y que en efecto obligó a la gente de la zona a buscar otros destinos», destacó el investigador social.«El problema del agua no es de los residentes y menos de la comunidad paceña, sino de las autoridades que no encuentran una solución».Ramiro PazRepresentante del Centro de Residente Paceños«Nosotros hemos aprobado la ley del agua para que nuestra población o el crecimiento de la misma cuide este recurso que es importante».Sandra VelardeSecretaria Municipal de PlanificaciónDatosGran crecimiento durante los siglos XX y XXI en  Santa CruzSegún los Censos de Población y Vivienda en  Bolivia, desde 1950 a 2012, se registra un gran crecimiento en la población cruceña, que creció once veces a diferencia de las cuatro que tuvo Bolivia.En 1950 el departamento de Santa Cruz contaba con 244.658 habitantes en tanto que Bolivia registraba 2.704.165 de habitantes. Para inicios del presente siglo (2012), el censo empadronó 2.657.762 personas en Santa Cruz y 10.059.856 a nivel nacional.En tanto la migración hacia el departamento cruceño registra un 27% del crecimiento poblacional en el período comprendido entre los años 1950 a 1976; 24% en el lapso en 1976 a 1992 y 30% en el transcurso de 1992 a 2001, según el documento Desafío XXI SCZ, elaborado por la Cainco en los pasados días.Finalmente, en el último periodo comprendido entre el 2001 y 2012, la variable registra tan solo el 3% del crecimiento demográfico.FamiliasBaja el número de integrantesEntre 1976 y 2012 el número promedio de integrantes por familia y vivienda, en Santa Cruz, disminuyó de 5,2 a 4 y de 4,4 a 3,5 en el país. Por otro lado, en las provincias, según la información del Instituto de Estadística, en 2012 el número medio de integrantes por familia y vivienda iba de 4,7 personas, en zonas como Chiquitos y Velasco, hasta 3,3 en Vallegrande.Por otra parte, la tasa global de fecundidad, número de hijos por mujer en edad fértil, y la tasa bruta de reproducción, número de hijas por mujer en edad, en Santa Cruz descendieron durante la última década de manera similar al promedio nacional. Entonces la extrapolación de estas tasas sugiere que hacia el 2030 la media anual de nacimientos en el país será similar a la del departamento con 2,2 y 1,1 hijos nacidos vivos, respectivamente. Por otro lado, si bien el número aproximado de integrantes por familia y por vivienda en Santa Cruz se ha mantenido en un nivel más alto que el de Bolivia, se debe destacar el aumento del porcentaje de mujeres jefes de hogar, tanto en el departamento como en el país, donde esta  proporción se incrementó en 10 puntos porcentuales.
+####
+https://www.pub.eldiario.net/noticias/2016/2016_07/nt160703/nacional.php?n=61&-9-de-10-ninios-adolecen-de-caries-dental-en-la-ciudad
+####
+El 90 por ciento de los niños del municipio de La Paz tiene algún problema de caries, según datos de la Secretaría Municipal de Salud y Deportes, por lo que la Alcaldía, a lo largo de tres meses, capacitó a más de 70 mil menores de escuelas, albergues y centros infantiles en el correcto cepillado de los dientes y el cuidado de la salud bucal.
+
+Como parte del cierre de esta actividad, en la semana que concluye se realizó la "Maratón del cepillado" en 187 unidades educativas fiscales, en 50 centros infantiles municipales, 30 centros de día, de escucha y albergues.
+
+Las autoridades de la Alcaldía organizaron un acto en el atrio del Palacio Consistorial que contó con la participación de cientos de niños de diferentes unidades educativas y centros infantiles que con alegría tomaron un cepillo de dientes y una pasta dental y mostraron cómo se deben cepillar los dientes.
+
+El secretario municipal de Salud, Roger Tapia, comentó que es necesario "recordar que la caries es una enfermedad que afecta a más del 90 por ciento de los niños. A futuro un problema de caries por la infección puede causar problemas al corazón, a los pulmones o articulaciones. Esta es una epidemia de salud pública".
+
+Afirmó que este problema afecta a la primera dentición temporal de los niños, de cuatro a seis años. Advirtió que cuando ocurre el cambio de dientes, sino hubo un buen cuidado o tratamiento la enfermedad daña a la nueva dentadura.
+
+La secretaria de Desarrollo Social, Erlinda Quispe, recordó que la Alcaldía, mediante la ordenanza 320/2015, declaró el 25 de junio de cada año como "el día de la salud oral del cepillado de dientes en el municipio de La Paz" con la finalidad de institucionalizar esta actividad.
+
+"Como padres descuidamos la salud oral de nuestros niños, por esa razón con esta ordenanza queremos recordar y simbolizar que se debe cuidar la salud oral de los hijos para prevenir la caries", manifestó.
+
+Desde abril hasta el 17 de junio se capacitó a los escolares en el correcto cepillado de los dientes y el cuidado de la salud bucal. Esta actividad contó con la participación de las universidades Mayor de San Andrés, Universidad de Aquino de Bolivia, Universidad del Valle, Universidad de Francisco de Asís, institutos ITE, Santa Rita, Cruz Roja, Señor de Mayo, Copacabana y varias unidades de la Alcaldía.
+
+La empresa transnacional, Colgate Palmolive, apoya esta iniciativa con la entrega de kits de limpieza (cepillos de dientes infantiles y adultos, pasta dental y una guía familiar) a niños y padres de familia.
+
+"Esta campaña se realizó para educar y prevenir la aparición de caries. Nosotros impulsamos el cuidado de la salud desde hace 15 años con el proyecto Sonrisas brillantes, futuro brillante. La educación es el pilar fundamental para la prevención de caries en la edad escolar", dijo la gerente de Marketing de Colgate, Claudia Guereca.
+####
+https://www.urgente.bo/noticia/lavadores-de-d%C3%B3lares-son-100-bolivianos-los-reciben-en-sus-cuentas
+####
+Expertos en investigar las transacciones ilícitas señalan que una de las características del lavado de dinero en Bolivia es que unos son los “lavadores” y otros son los proveedores del dinero sucio proveniente de actividades como el narcotráfico.
+
+Expertos en investigar las transacciones ilícitas señalan que una de las características del lavado de dinero en Bolivia es que unos son los “lavadores” y otros son los proveedores del dinero sucio proveniente de actividades como el narcotráfico.
+
+“El 100% de los lavadores de dinero que hay en el país son bolivianos”, dice Franco Rojas Sagárnaga, gerente general del Grupo AMLC, especialistas en Prevención de Lavado de Activos y Financiamiento, y exinvestigador financiero de la Unidad de Investigación Financiera (UIF), al identificar uno de los modus operandi de esta actividad en el país.
+
+Pues lo que se hace normalmente es que los lavadores abren o habilitan sus cuentas bancarias para que, por ejemplo, los narcotraficantes depositen su dinero.
+
+“Los lavadores de dinero no necesariamente son los que ejecutan el acto violento, sino que son los que dan limpieza al dinero ilícito, entonces esa es la diferencia, por eso me animaría a decir que todos son bolivianos”, remarcó.
+
+Este dato fue confirmado por un miembro del ente encargado de la lucha contra el narcotráfico, que prefirió guardar su nombre en reserva.  Él señala que en el país hay “emisarios” extranjeros que “tienen vínculos con los clanes familiares en Bolivia”, los cuales están siendo investigados.
+
+Según el ranking elaborado por el Instituto de Gobernanza de Basilea, ente multidisciplinario especializado en prevención de la corrupción y el lavado de dinero,  en base a los datos del Grupo de Acción Financiera Internacional (GAFI), Bolivia es el segundo peor país sudamericano en la lucha contra el lavado de dinero, solo detrás de Paraguay.
+
+Este ranking clasifica a 162 países según el grado de vulnerabilidad de su infraestructura jurídica e institucional frente al blanqueo de activos ilícitos.
+
+Para ello establece un índice, en el que 0 significa la ausencia de riesgos, y 10, una indefensión absoluta ante estos delitos.
+
+Según su último informe, Bolivia ocupa el puesto 17 de los 162 países, con un índice de 7,38. En Sudamérica, solo está por debajo de Paraguay, que tiene un índice de riesgo de 7,56.
+
+Las cifras así lo corroboran. A pesar de que el país tiene cinco leyes y tres decretos supremos que buscan afrontar este problema, el número de sentencias es muy bajo en relación a las denuncias presentadas.
+
+Por ejemplo, a finales del año pasado, el representante de la Oficina de Naciones Unidas contra la Droga y el Delito (UNODC), Antonino Di Leo, señalaba que Bolivia tenía 950 denuncias de lavado de dinero.
+
+Por su parte, la Dirección Nacional de Sustancias Controladas de la Fiscalía General del Estado, indicó a Oxígeno que la gestión 2015 se cerró con un total de 111 procesos por Legitimación de ganancias Ilícitas, de los cuales 60 corresponden al departamento de Santa Cruz, 19 a La Paz, 13 a Cochabamba, 10 al Beni y el restante a los demás departamentos.
+
+“Al margen de los resultados, las investigaciones en temas de lavado de activos revisten mayor complejidad, asimismo requiere cierta especialidad por parte de los Fiscales, y la pasada gestión se ha creado esta especialidad para los Fiscales de las (ciudades del) Eje”, aseguró el Director Nacional de Sustancias Controladas de la Fiscalía General del Estado, Freddy Larrea.
+
+A esto se suma que el país es productor de cocaína y marihuana, casi, por excelencia. Según los datos de la UNODC, durante la gestión 2015 en Bolivia se incautaron 12,6 toneladas de cocaína base, 8,6 toneladas de clorhidrato de cocaína y 26,1 toneladas de marihuana para expendio.
+####
+https://www.opinion.com.bo/articulo/ramona/combate-marcelo-quiroga-santa-cruz/20160313173800672678.html
+####
+De estar vivo, el líder socialista hubiera cumplido hoy 85 años. El autor de este texto le rinde un homenaje abordando El Combate, cortometraje del también escritor y cineasta. “Parece una constante la idea de ‘el combate’ en la obra de Marcelo”, señala Sánchez, tras un recorrido por el legado del izquierdista desaparecido.
+
+﻿Un día como hoy, 13 de marzo, nacía en  Cochabamba el líder socialista Marcelo Quiroga Santa Cruz. Hace 85 años veía la luz uno de los intelectuales más importantes del siglo XX. Su figura se hace mayor cuando se lo descubre en su más amplia dimensión humana, entendiendo la relación entre acción y pensamiento siempre consecuente. Quiroga Santa Cruz fue asesinado y torturado el 17 de julio de 1980, durante el asalto a la Central Obrera Boliviana (COB) en El Prado de  La Paz, en un acto de atropello y brutalidad que daba inicio a la dictadura militar de Luis García Meza.
+
+En 2010, al recordarse los 30 años de la desaparición forzada del cuerpo de Quiroga Santa Cruz se multiplicaron los homenajes y se puso en valor algo más de la producción intelectual de este hombre comprometido con su pueblo y la realidad nacional. Fue entonces que se publicó la biografía escrita por Hugo Rodas, Marcelo Quiroga Santa Cruz. El socialismo vivido. Sucedió entonces que se sumaron las actividades en torno a la memoria de quien fuera Ministro de Minas y Petróleo durante el Gobierno de Ovando Candia, y a quien se le reconoce la gestión de nacionalización de la Bolivian Gulf en beneficio del Estado boliviano.
+
+Al calor de aquella llama encendida, que no es nostalgia sino ejemplo vivo de restitución de la dignidad nacional y denuncia del atropello general, se exhibió en Fundación Cinemateca Boliviana, como una gestión de la revista online Cinemas Cine, el cortometraje El Combate, que tiene como realizadores a Enrique Arnal y al propio Marcelo. Esta fue una extraordinaria oportunidad para hacer un trabajo de arqueología del cine. Con tal motivo, pude entrevistar a Enrique Arnal y lograr así algunas declaraciones que ayudan a entender de mejor manera lo que significó esta experiencia cinematográfica.
+
+A mediados de los años 50, luego de la Revolución del 9 de abril de 1952, Marcelo dejó Bolivia para radicar en Santiago de Chile. Allí, en 1955, junto con Enrique Arnal y Fernando Montes, jóvenes artistas bolivianos que también residían en el vecino país, entabló una profunda amistad y juntos realizaron algunos cortometrajes con una cámara Kodak de 16 mm. El tiempo de estos primeros experimentos estaba sujeto a la duración de los rollos de película. Según Arnal, el primer corto que hicieron “fue en una estación de trenes y filmamos la llegada de un tren”.
+
+Cierta inclinación al cine por parte de Marcelo se puede rastrear desde las publicaciones que hizo y su trabajo al interior de la revista Pro-Arte, por ejemplo, o en algunos ejemplares de la revista Guión, páginas donde se promovía el arte y la cultura dando especial énfasis a las películas que se exhibían en la cartelera regular, como también, y con mayor atención, a la programación del Cine Club Luminaria del cual Quiroga fue también animador en los primeros años de la década del 50 en La Paz.
+
+El Combate es el registro de una pelea de gallos, riña que tiene como figuras centrales a un gallo blanco y uno negro, y como protagonista a un niño que observa cómo el negro le gana al blanco, pero la película permite una segunda versión onírica inversa, gracias a la imaginación del niño en la que gana el gallo blanco. La otorgación de valores a los gallos, el registro documental de la riña y una posible ficcionalización de ciertos pasajes que interpreta el niño acercan al corto al neorrealismo italiano, lo emparejan con esta posibilidad de ver la realidad sin muchos filtros y hacen evidentes los conflictos mayores, desde ejemplos —en apariencia— sencillos.
+
+Cuenta Arnal (quien cooperó ampliamente en la realización del film) que en esas épocas él y Marcelo frecuentaban el Club Asil, un reñidero de gallos en la zona de San Pedro. Ahí peleaba un gallo blanco invencible, el campeón de todo el lugar. Un día cuando caía la tarde, cuando parecía que todo había acabado, llegó un hombre que llevaba bajo su brazo, envuelto en un papel periódico, un gallo negro destartalado al que quería hacer pelear para ganarse algún dinero. Por (mala) suerte, le toca contra el campeón. El dueño del gallo blanco acepta el reto y de esa manera se acomoda el espacio. Una extraña atmósfera se apodera del lugar y sucede lo impredecible: el gallo negro gana en el primer round dejando fuera de competencia al contrincante. Arnal recuerda al oponente poéticamente, como “un enviado de la muerte”. En la segunda parte de El Combate, la segunda pelea en la imaginación del niño, el gallo blanco logra ganar la contienda.
+
+En 1959, Quiroga Santa Cruz había comprado un nuevo equipo de cine y tenía mucho interés en empezar a filmar, así fue que realizó La bella y la bestia (cortometraje en 16 mm) y El Combate. Es el mismo año en el que se publica su primera novela, Los deshabitados, obra que en 1962 fue merecedora del Premio a la Novela Iberoamericana que otorgaba la Fundación William Faulkner. Su segunda novela, Otra vez marzo, quedó incompleta y fue editada luego de su asesinato. Es en esta novela póstuma que se encuentran las mayores y más claras referencias a “el combate” como concepto. Con una descripción absolutamente visual, Marcelo logra dar forma desde su literatura a lo que ya ha puesto en imágenes varios años antes con su película. Por ejemplo, dice: “Empuja más la cabeza haciéndola deslizar sobre los barrotes pulidos por sus propias manos, por los picos de otros gallos, por los granos de maíz arrojados desde lejos, hasta por el agua que los animales escurren en su desplumada y herida nuca. Dilata las fosas nasales para aspirar mejor el olor del combate pegado a las tablas, el olor de cien gallos mutilados, arrojados en la profundidad de su jaula, al atardecer, después de la pelea, ateridos, enloquecidos, picoteando la obscuridad con gesto casi agónico, gimiendo de una furia inútil, ebrios de la sangre del adversario metida en el buche, hecha flema que ahoga, con las colas gachas y pringosas del estiércol empujado por el miedo”.
+
+En la novela, Quiroga Santa Cruz utiliza un recurso de la literatura que permite al lector explorar sus sentidos. Y, además de hacer descripciones visuales, apuesta por trabajar lo sensorial desde otras dimensiones: “El olor del combate. ¿Hay, en verdad, un olor de combate? ¿Qué combate? La frente empuja como queriendo penetrar, no en la jaula, sino en el centro mismo de ese olor por cuya autenticidad pregunta José al gallo. ¿Qué combate, sí, qué combate?”. Marcelo se hace la pregunta clave, intenta responder más adelante, y logra incomodar a quien lee con el detalle del olor de los gallos, el estiércol y el propio combate. Es esta la pregunta, entre otras tantas, que quedó por hacerle: ¿Qué es para él “el combate”? Una palabra que se puede rastrear en muchos de sus discursos, en su obra literaria y es la que se puede leer en su obra fílmica. Como sostiene el propio Hugo Rodas, autor de la biografía, Quiroga Santa Cruz trabajaba en una novela titulada El combate, que posteriormente sería publicada como Otra vez marzo. También Luis H. Antezana escribe en 1984 en  Cochabamba, para la edición de Otra vez marzo, en sus “Acotaciones”, que, de acuerdo al Diccionario de la literatura boliviana (1977) de Ortega y Cáceres, entre las obras inéditas de Marcelo se encuentra El combate.
+
+“¿Los combates espectáculo o los que nadie especta? Porque hay luchas sobre un escenario y en presencia de una multitud y obscuras disputas a ras de suelo, sin un solo testigo. Los hay en la noche, bajo reflectores, con los puños vestidos y el cuerpo desnudo, y esos huelen a dinero. O aquellos que se realizan al amanecer, en presencia de cinco personas y una vaca imperturbable, y esos huelen a publicidad. O el que sostiene el pueblo combatiente en las minas, en las escuelas, en los mercados, en los talleres, en las calles; y ese huele a comida. Y los que exigen la participación de miles de hombres que un día serán reducidos a uno solo, de bronce, que nunca estuvo en la batalla, y esos huelen a dinero, publicidad y a comida”. Quiroga Santa Cruz se pone más crítico, resuelve desde “el combate” hablar de la realidad y la política nacional. No hay forma de desasociar la política del hombre. Su absoluto compromiso con la causa de un país más justo marca a fuego toda su obra. Toda lectura que pretenda alejarse de esta condición sine qua non peca de intentar asignarle un valor abstracto a un autor que todo lo hizo en relación a la causa del socialismo en  Bolivia. He ahí la más importante reflexión que se puede hacer ahora al recordar su natalicio. Y más como una anécdota, se podría decir que, de acuerdo a los propios apuntes hechos por su autor, el personaje principal de Otra vez marzo, José, también habría nacido el 13 de marzo de 1921.
+
+Claro está que existe una distancia temporal bastante grande entre el rodaje de El Combate y la escritura de Otra vez marzo, pero parece una constante la idea de “el combate” en la obra de Marcelo. No se aleja de su continua reflexión este ejercicio de perfilar “el combate” en paralelo a lo que puede ser un reñidero de gallos. Y sin embargo es necesario volver a Enrique Arnal, recuperar de su primer testimonio aquel del 2010, una declaración que también ayuda a entender el cortometraje. Su abuelo criaba gallos en Oruro y el propio Arnal se hizo cargo de la crianza de estos animales durante su adolescencia. En una contextualización histórica, el pintor crea sus más importantes series de gallos a finales de los años 50, por eso también el sentido plástico en la riña de gallos tiene un valor significativo en relación a un registro plano. Hay un sentido estético muy valioso en lo que se ve, y es posible que Arnal haya intervenido conscientemente en este aspecto de la realización.
+
+El niño que sufre y sueña en El Combate es Alfonso Morales, una persona de la que no se sabe ya nada, alguien que, a pesar de figurar en los créditos de la película, parece un ser anónimo. A pesar de tener rostro y nombre, es también uno más. Su significancia en el relato tiene aquella dimensión de poder causar empatía con cualquiera al tener/ser la mirada inocente que se enfrenta a la realidad de “el combate”. Es esta ironía tan amarga, la de tener que estar hablando de desapariciones. En el caso de Morales, una casualidad; en el de Quiroga Santa Cruz, la premeditación y alevosía de la atrocidad criminal de los gobiernos militares. Con ambas desapariciones se pierde la inocencia de la mirada, se quiebra el sueño, se vuelve a la realidad. Pero la desaparición forzosa de Marcelo es más bien el aliento para seguir combatiendo por un país más justo: con pan, techo y trabajo.
+####
+https://www.opinion.com.bo/articulo/informe-especial/adultos-mayores-colonia-sienten-como-hogar/20160710192100673601.html
+####
+Lucía tiene 90 años y afirma que se siente como en su hogar en la Casa de Reposo La Colonia, un centro geriátrico que atiende a adultos mayores.
+
+Esta nonagenaria tiene siete hijos, quienes habían decidido turnarse para hacerse cargo de su cuidado, pero ella tomó la decisión de “independizarse”. Cuando se enteró de los servicios que ofrecía este centro geriátrico no lo pensó ni siquiera una vez y se trasladó a este lugar hace un año y medio.
+
+“Este centro -afirma- es mi hogar, un lugar tranquilo, donde nadie me molesta y el personal me tiene mucha paciencia”.
+
+Cuando le preguntan qué tiempo piensa permanecer en esta casa de reposo, Lucía es tajante con su respuesta: “Me voy a ir solo cuando tengan que sacarme con los pies por delante, antes no”.
+
+En cuanto a los costos, el jefe médico de este centro, Aníbal Cruz, explica que los precios oscilan entre 5.000 bolivianos al mes, las habitaciones más sencillas, y 7.000 bolivianos las suites.
+
+“Pero hay que tomar en cuenta que a los pacientes se les brinda sesiones de fisioterapia, comida, dormitorios con baño privado, terapia ocupacional, enfermería y ambientes amplios, entre algunos beneficios”, puntualiza.
+
+La Casa de Reposo La Colonia está emplazada sobre una superficie de 2.000 metros cuadrados y se encuentra en el kilómetro dos de la carretera a Sacaba.
+
+Estimular la memoria de los pacientes que viven en este centro y las sesiones de fisioterapia son dos de las actividades más importantes que se realizan en este centro geriátrico, a cargo de especialistas en las diferentes áreas.
+
+Cruz subraya que entre los servicios que brindan a sus pacientes se pueden citar: fisioterapia, apoyo psicológico, terapia ocupacional, musicoterapia, dieta especial, cuidado las 24 horas del día, enfermería, ambientes individuales y áreas de esparcimiento.
+
+Las sesiones de fisioterapia se realizan dos veces al día y el tiempo que permanecen en esta sala los adultos mayores depende de las necesidades que tiene cada uno de ellos.
+
+Cruz apunta que la fisioterapia es el fuerte de este centro. Hay diez fisioterapeutas que trabajan con los 60 adultos mayores que residen en el centro La Colonia.
+
+El médico recuerda que un adulto mayor que se mantiene inactivo es más propenso a enfermarse y, a la larga, morir.
+
+“Una de las principales causas de muerte en los adultos mayores es el tromboembolismo pulmonar (embolia) por la inactividad, lo que hace que el flujo vascular sanguíneo se detenga y se formen coágulos”, afirma Cruz.
+
+La Casa de Reposo La Colonia tiene en sus predios diferentes salas para las distintas actividades.
+
+En la sala de la alegría, por ejemplo, los adultos mayores realizan actividades cotidianas, por grupos. El profesor de música del centro les canta cuecas y otros ritmos.
+
+Cuando el clima es favorable, los pacientes del centro se dirigen a la sala de fototerapia, donde ellos reciben los rayos del sol durante unos 15 minutos. Esta actividad les ayuda a sintetizar la vitamina D y combatir la osteoporosis.
+
+En la parte sur del centro se destaca una réplica de la torre de la Catedral Metropolitana de Cochabamba, lo que les permite a los adultos mayores no olvidar su ciudad.
+
+Otra sala es la multisensorial, en la que los adultos mayores están en contacto con algunas especies de peces, aves y vegetación. En este espacio realizan también diferentes manualidades y sus trabajos los regalan a sus familiares y amigos.
+
+En la cocina del centro se prepara la comida, según la necesidad de cada uno de los pacientes. Nutricionistas y chefs están a cargo de este espacio.
+
+﻿El jefe médico de la Casa de Reposo La Colonia, Aníbal Cruz, afirma que la infraestructura ha sido construida y adaptada a todas las necesidades de las personas de la tercera edad. Tiene ascensor, rampas, cámaras de seguridad, enfermería, habitaciones con baño privado, jardines temáticos, terraza panorámica y sala de cuidados intermedios.
+####
+https://eju.tv/2016/02/por-vez-primera-los-bolivianos-votan-por-reformar-la-cpe/
+####
+Hoy, 6.502.169 bolivianos habilitados para sufragar decidirán en las urnas si se aprueba o rechaza la reforma parcial de la Constitución Política del Estado (CPE). Es la primera vez en la historia del país que se consulta al electorado sobre un ajuste de este tipo.
+
+En anteriores oportunidades, las modificaciones a la Carta Magna se validaban solo en el extinto Congreso de la República, hoy Asamblea Legislativa Plurinacional, y no se consignaba ninguna forma de participación directa de la ciudadanía. Así lo confirmó el vocal del Tribunal Supremo Electoral (TSE) José Luis Exeni, quien aseguró que hoy, “por primera vez, se le está consultando a la ciudadanía si aprueba o no una reforma parcial de la Constitución”.
+
+El acto electoral que se desarrolla desde las 08.00 consulta a los bolivianos del territorio nacional y a aquellos que radican en las 73 ciudades de los 33 países donde el país cuenta con representación diplomática, sobre la modificación del artículo 168 de la CPE cuyo texto actual estipula que los gobernantes sean reelectos por una sola vez de manera continua.
+
+El oficialista Movimiento Al Socialismo (MAS) y sus sectores afines de origen indígena y campesino no lo consideraron suficiente, por ello en septiembre de 2015 solicitaron a la Asamblea abrir la Carta Magna —que el propio presidente Morales había promulgado con gran algarabía en 2009— para ampliar el número de repostulaciones continuas a dos.
+
+Inédito. Este planteamiento generó críticas en los bloques opositores del país que consideraron que el presidente Morales y el vicepresidente Álvaro García buscan “eternizarse” en el poder. Sin embargo, para el vicepresidente de la Cámara de Diputados y legislador por el MAS, Víctor Borda, la consulta ciudadana de hoy tiene una connotación “histórica y sui géneris” porque las modificaciones a la Constitución se efectuarán “previa aceptación del pueblo”, es decir, si gana el Sí. “Estamos colocando bajo la voluntad del pueblo la reforma de la Constitución. Tenemos la obligación ineludible de respetar esta decisión y esta voluntad soberana del pueblo”, sostuvo Borda.
+
+El vocal Exeni recordó que en el pasado las reformas constitucionales, como ocurrió en 1994 y 2004, se hacían sin ningún tipo de participación ciudadana directa. “Constituye, pues, un ejercicio democrático”, enfatizó la autoridad.
+
+Ejercicio que se puso en práctica justamente es el referéndum nacional constituyente del 25 de enero de 2009, consulta mediante la cual se aprobó mayoritariamente la nueva Constitución Política del Estado, resultante de la Asamblea Constituyente, que ahora está en plena vigencia.
+
+En ese entonces, el abogado  Luis Antezana repasó que la anterior Carta Magna, que sentó sus bases en la Constitución Bolivariana de 1826, sufrió al menos 17 reformas, todas más de forma y no de fondo. La primera de ellas se produjo en 1831 durante el gobierno de Andrés de  Santa Cruz, y ajustó la Carta Magna para asuntos relacionados con la tenencia de la tierra. “Después hubo otras 16 asambleas constituyentes y reformas en el Congreso Ordinario”, explicó Antezana al matutino paceño El Diario.
+
+Más allá de la legalidad del proceso electoral de esta jornada, se ha cuestionado la urgencia con que el oficialismo allanó la reforma. El exministro de Justicia del gobierno del expresidente Carlos Mesa y jurista constitucionalista Carlos Alarcón aseguró que si bien el referéndum “formalmente” es un hecho inédito, en esencia es una violación al artículo 168 de la Carta Magna. “Cuando se aprobó esta Constitución con más del 61% de los votos, el debate de la reelección estaba zanjado, el soberano ya dio su veredicto. Ahora se burla esta disposición constitucional y se anticipa la reforma cuando ese artículo nunca fue aplicado.
+
+El MAS y sus sectores campesinos sostienen que el plan de reforma se sostiene en la necesidad de que el presidente Evo Morales se habilite en la elección presidencial de 2019 para acceder a un eventual mandato 2020-2025 y así cumplir la Agenda 2025: un ambicioso plan de gobierno de largo aliento que, entre otras metas, se trazó eliminar la extrema pobreza.
+
+Bicentenario. Justamente en 2025, el bicentenario, el país cumplirá 200 años de creación. El oficialismo considera que la permanencia de Morales en el gobierno es un justo reconocimiento a su administración que en 2020, cuando cumpla su tercer periodo de gobierno (2006-2010; 2010-2015 y 2015-2020), cumpliría 14 años de mandato continuo. Destacan la estabilidad económica, la estatización de los hidrocarburos y los beneficios sociales, pero concuerdan en que los casos de corrupción como el del ex Fondo Indígena mellan la imagen del Gobierno.
+
+No obstante, Alarcón consideró que existen reformas a la Carta Magna mucho más urgentes. Una de ellas tiene relación con el sistema judicial, cuyas autoridades son electas por voto popular, según la CPE. “A través de una iniciativa popular constituyente, los ciudadanos debemos plantear cómo debería ser la justicia”, explicó Alarcón. El diputado Borda asevera que los ajustes de esta área son el siguiente paso a emprender
+####
+https://noticias.unitel.bo/hemeroteca/presidente-morales-felicita-al-vice-y-su-esposa-por-embarazo-via-twitter-JBUN13847
+####
+El presidente Evo Morales envió, mediante un mensaje de Twitter, una felicitación a Alvaro García Linera y su esposa Claudia Fernández, tras el anuncio de que esperan un bebé.
+
+“Hermano Vpdte. después de 4 años mi regalo de matrimonio, el cangurito, prestará servicio. A Claudia y Álvaro, ¡felicidades y mucha suerte!”, asegura el tuit del Mandatario.
+
+Se refería a un "alzador" (algo que ayuda a un bebé a caminar) que le regaló Morales en su matrimonio,
+
+El sábado, usando las redes sociales, García Linera y Fernández anunciaron que esperan un bebé. Será el primer hijo de ambos, que contrajeron matrimonio en 2012.
+
+Fernández, que es presentadora de noticias de la red televisiva UNO, anunció mediante una foto en su cuenta de Instagram, que está embarazada. "Muy felices, la familia va creciendo. Esperamos un bebé", escribió la esposa de García Linera y compartió también la noticia en su cuenta de Twitter.
+
+La misma foto fue publicada en la cuenta de Twitter de García Linera, en la que se ve a la pareja junto a sus dos perros. Ella tiene en su mano la fotografía de una ecografía. “Estamos muy felices. Clau está embarazada. Esperamos un bebé”, dice el tuit de García Linera.
+####
+https://www.opinion.com.bo/articulo/informe-especial/jampiri-usa-naturaleza-devolver-equilibrio-persona/20161127191400671892.html
+####
+Restablecer la armonía del cuerpo y del espíritu es el objetivo principal del jampiri (médico tradicional quechua), y para eso utiliza todos los elementos de la naturaleza: plantas medicinales, minerales y animales.
+
+Carlos Prado es uno de los jampiris que ejerce la medicina tradicional en  Cochabamba. Aprendió de sus padres y abuelos, desde que tenía cuatro años.
+
+El jampiri quechua es el médico herbolario que por tradición se dedica a restablecer el equilibrio, la salud del cuerpo y del espíritu y no solamente de la parte física.Comprar vitaminas y suplementos
+
+Los médicos tradicionales realizan también ceremonias rituales en las que no necesariamente utilizan plantas medicinales, sino también otros elementos.
+
+Prado explica que hay tres formas de aprender la medicina tradicional. La primera es cuando en la familia hay un médico tradicional y este enseña a los hijos y nietos esta práctica. El niño mira a sus padres o abuelos y aprende.
+
+Otro camino es, si el niño no tiene un familiar que sea médico tradicional, estar bajo la tutela de un maestro, una persona que le enseñe estas artes, “pero eso parte de la vocación de cada uno. No cualquiera puede ser médico tradicional”.
+
+Una tercera forma de convertirse en médico tradicional es cuando una persona sobrevive a la caída de un rayo.
+
+El yatiri, por ejemplo, comienza su carrera, a practicar la medicina tradicional, tras sobrevivir a la caída de un rayo, confirma Prado. Esta persona adquiere poderes sobrenaturales. Sus sentidos se hacen más sensibles y es capaz de ver el pasado, el presente y el futuro. “Puede tener premoniciones y tiene una sensibilidad bastante fuerte”.
+
+En algunas tribus amazónicas, afirma Prado, los nativos toman una planta, la ayahuasca, que les permite ampliar su campo sensorial.
+
+Un chamán del Amazonas le aseguró que cuando tomaba esta planta podía escuchar hasta cómo caminaban las hormigas.
+
+Para diagnosticar los males físicos y los del espíritu, el jampiri Prado utiliza diferentes métodos. El punto de partida es la observación mediante la hoja de coca.
+
+Otro método de diagnóstico es presionar la vena del antebrazo de la persona para ver de qué dolencia padece.
+
+Asimismo, los jampiris utilizan el denominado rapé, que es un polvo producto de la molienda de plantas medicinales.
+
+Para diagnosticar el estado de salud de la persona que consulta, el jampiri agarra el rapé y lo hace respirar al paciente.Comprar vitaminas y suplementos
+
+Si la persona responde en 30 segundos a la acción del rapé, es decir si estornuda después de aspirar el polvo, significa que su mal, si padece alguno, puede tener remedio.
+
+Pero cuando no hay respuesta alguna del paciente, es decir, no estornuda tras aspirar el rapé, su mal no tiene remedio e incluso puede morir.
+
+Prado atendió a una persona a la cual hizo respirar al menos 10 veces el rapé de plantas medicinales y en ninguna de ellas obtuvo respuesta.
+
+El paciente falleció a los tres días, recuerda Prado.
+
+En cambio, si la persona tiene su ánimo y energía en buenas condiciones, estornuda en 30 segundos.
+
+Otra forma de diagnosticar los males de las personas es mediante el millo (mineral), con el cual se frota el cuerpo del paciente y después se quema.
+
+El millo se transforma y adquiere formas. El jampiri o médico tradicional se puede percatar si la persona que consulta ha sufrido algún “susto”, problema físico o de su espíritu.
+
+Prado explica que en la Amazonía, los médicos chamanes tienen formas avanzadas para diagnosticar los males de las personas, por medio de plantas medicinales determinadas para obtener también respuestas específicas.
+
+Cuando una persona toma una determinada planta, la respuesta llega en aproximadamente 30 minutos o una hora, como máximo. Prado explica que el paciente siente dolor en el sector del organismo que padece alguna enfermedad. De esta manera, el chamán descubre si la persona está mal del hígado, riñón, estómago, próstata o el corazón.
+
+Para devolver el equilibrio al paciente y recuperar su espíritu, los médicos tradicionales utilizan una técnica ancestral llamada pichara.
+
+Esta técnica ancestral utiliza todos los recursos disponibles para restablecer la salud de las personas, calor, frío, sonidos y olores.
+
+En la Amazonía, las tribus amazónicas, por ejemplo, utilizan el pez volador que está hecho de una madera dura.
+
+El chamán hace girar rápidamente el pez volador sobre el paciente que está echado en el piso. Prado explica que el fuerte zumbido que produce cura al paciente.
+
+﻿Los curanderos, que reciben los conocimientos de sus padres o abuelos, heredan también un atado en el que guardan sus amuletos.
+
+A medida que pasa el tiempo, el médico tradicional añade elementos que considera importantes para canalizar la energía y poder curar más fácil y rápidamente a sus pacientes.
+
+﻿La cosmovisión andina maneja cuatro principios. El primero, todo está relacionado en el universo; segundo, la bipolaridad, los opuestos complementarios (vida y muerte).
+
+Tercero, el animismo, todo en la naturaleza tiene espíritu (energía). El cuarto principio es la reciprocidad. Para curar, hay que aplicar los cuatro principios.
+####
+https://eju.tv/2016/05/prestatarios-ahorristas-exmutual-la-paz-haran-operaciones-mercantil-santa-cruz/
+####
+La Asfi intervino el viernes la exmutual, con 45 años de funcionamiento, y anunció “un proceso de solución”, mecanismo que implica una salida ordenada del mercado. La Paz se transformó en 2014 en una Entidad Financiera de Vivienda (EFV) en cumplimiento a normativas de la entidad reguladora, lo que conllevó a un cambio en el nombre de la institución.
+
+Las personas que mantenían cajas de ahorro, depósitos a plazo fijo y créditos en La Paz, entidad financiera de vivienda intervenida por la Autoridad de Supervisión del Sistema Financiero (Asfi), podrán hacer sus operaciones financieras, desde el lunes 16 de mayo, en el Banco Mercantil  Santa Cruz S.A. en horarios de atención al público, según un comunicado de la entidad reguladora.
+
+La Asfi intervino el viernes la exmutual, con 45 años de funcionamiento, y anunció “un proceso de solución”, mecanismo que implica una salida ordenada del mercado. La Paz se transformó en 2014 en una Entidad Financiera de Vivienda (EFV) en cumplimiento a normativas de la entidad reguladora, lo que conllevó a un cambio en el nombre de la institución.
+
+La intervención a la entidad financiera de vivienda no obedece a problemas de solvencia, por lo que los ahorros de los socios fueron transferidos al Banco Mercantil Santa Cruz S.A. Mayores detalles acerca de esta información, mañana en la edición impresa de La Razón.
+####
+https://eju.tv/2016/11/preocupacion-por-la-deforestacion-en-el-urubo/
+####
+La deforestación en el Urubó, cerca a la población de Porongo, ha acarreado diversos problemas a los habitantes de esta zona, según informaron vecinos del lugar y activistas. «La sensación térmica  es alta y por tanto se ha vuelto insoportable, además los vientos son huracanados y al no tener esa superficie boscosa que protegía se está exponiendo a los pobladores del lugar a los vientos que vienen de la cordillera y existe la erosión en los suelos porque al no haber árboles no hay quién fije la raíz, porque estos hacen esto», destacó Eliana Torrico, de la Plataforma por el Medio Ambiente y la Vida. 
+
+Otras problemas en la zona. Carmiña Pereira, vecina de la zona, concuerda con Torrico en estas problemáticas. «Los vientos son más fuertes y huracanados, el calor es más intenso, se han dado casos de sequía porque las quebradas se están secando.   Los que vamos a sufrir más somos los que vivimos en la ciudad», indicó.
+
+Agregó que no se ha tomado en cuenta a dónde van a ir las aguas servidas y los residuos sólidos, «porque no se cuenta con un vertedero para el tratamiento de la basura», agregó.
+
+Por su parte Andrei Abruzzese, experto ambiental, contó que según el Plan de Uso de Suelo en el municipio de Porongo el 47% del territorio tiene limitaciones de drenaje y fertilidad; entonces la misma no es apta para los cultivos anuales. «También se tiene que el 45% de este territorio cuenta con limitaciones de fertilidad reduciéndola para pastoreo y ganadería. Y finalmente se tiene una última limitación, donde se restringe toda actividad en estos terrenos porque los mismos son bosques de protección que se abren a la vida silvestre y cuencas», dijo el experto.
+
+No se estarían pidiendo estudios. Abruzzese agregó que otras de las preocupaciones que se tiene es que se estarían aprobando, de parte de la gobernación cruceña, las licencias ambientales con categoría 3, «donde se dispensa de hacer estudios más profundos, sobre todo en los suelos donde hay agua, ecología, flora y fauna».
+
+Abruzzese dijo que entre 2009 y 2015 se han presentado en todo el departamento de Santa Cruz, 151 documentos para la apertura de urbanizaciones o condominios, ya sean abiertos o cerrados.
+
+Porongo tiene 56, lo que equivale al 38% y después le sigue Warnes con el 22%. Agregó que en el caso de Porongo, de donde han salido la mayoría de los documentos, le han sido devueltos 10 de los cuales casi el 100% cuenta con la categoría 3. «El proceso es que los responsables de la urbanización llevan la petición al gobierno que corresponde, por ejemplo Porongo, de ahí pasa a la gobernación de Santa Cruz donde se le da la categoría del estudio, que va del 1 al 4. Cuando se le da el 3 solamente se realiza un documento con los planes de mitigación y una matriz de seguimiento para la autoridad», destacó.
+
+Además dijo que en la categoría 1 y 2, en las que deberían estar los condominios o urbanizaciones a entender del especialista, además de los estudios que se tiene que hacer en el ecosistema del lugar, tierra, animales y aguas, se debe realizar una consulta pública con los habitantes de la zona. «Entonces existe la preocupación porque se está modificando la estructura de las microcuencas debido a los cambios en 3.700 hectáreas ubicadas en la zona del Urubó».  
+
+Finalmente, agregó que es necesario un cambio real en las políticas de las autoridades departamentales, en lo referente a la entrega de estas licencias ambientales.
+
+Crecimiento desordenado. Por su parte Eliana Torrico, de la Plataforma por el Medio Ambiente y la Vida, dijo que existe preocupación por lo que está sucediendo en los municipios que son parte de la «metrópoli» en Santa Cruz, ya que se está creciendo de manera desordenada y sin seguir los lineamientos de los gobiernos nacionales y departamentales. «Además que no se está prestando atención a las normas como por ejemplo; la ley de uso de suelo que habla de la vocación que cada suelo tiene para la planificación del territorio, en función a las diversas actividades que se pueden realizar en el mismo».
+
+Además, dijo que gracias a las normas es que se tienen los 1.000 metros de cordón ecológico los que se deben tener en cuenta, desde el río Piraí hacia adentro en cada uno de los municipios. «Si uno pasa por el puente del Urubo, va ver que en el municipio de Porongo la norma ha sido vulnerada porque tenemos edificaciones que están dentro de los 1.000 metros e incluso dentro de los 500 metros de la línea de servidumbre ecológica, que ha sido llamada así para evitar posibles inundaciones o para que sea un área forestada que tendría que evitar los vientos huracanados».
+
+Deben contar con un plan de drenaje. Álvaro Leigue, director de Manejo de Cuenca del Searpi, dijo que en la zona del Urubó, algunos drenajes naturales han sido eliminados o tapados, además que se han construido algunas urbanizaciones que no cuentan con un plan de drenaje y como consecuencia de esto se están eliminando algunas lagunas de regulación.
+
+«Algunas urbanizaciones están botando sus aguas servidas al río provocando así contaminación. Entonces estas deben contar con una planta de tratamiento contra las bacterias. Pero a esto existen urbanizaciones que cuentan con alcantarilla, lagunas de tratamiento y pozo séptico».
+
+Finalmente Johnny Melgar, director municipal de Medio Ambiente de Porongo, informó que la entrega de autorizaciones se encuentra paralizada y solo se está dando curso a las que estaban autorizadas y por ello se encuentran en el proceso de implementación de sus condiciones.
+####
+https://www.opinion.com.bo/articulo/informe-especial/transporte-circula-mal-estado/20160117160900672268.html
+####
+En la ciudad y en las provincias circulan vehículos de transporte público que no cuentan con las mínimas condiciones para el traslado de personas.
+
+Mediante una simple observación se puede ver que gran parte de los motorizados tienen los faroles rotos y los parabrisas clisados, entre los problemas más recurrentes.
+
+Pese al mal estado en el que se encuentran, estos vehículos llevan la roseta de inspección vehicular en sus parabrisas y circulan por las calles sin que los agentes de Tránsito observen estas irregularidades.
+
+En las calles de la ciudad se puede observar también vehículos viejos que ya cumplieron su tiempo de vida útil.
+
+Otro problema que causan los vehículos en mal estado es la contaminación del medio ambiente. Muchos, especialmente antiguos, emiten humo de color negro que causa molestia y problemas de salud en los peatones.
+####
+https://www.elperiodico-digital.com/2016/12/04/salamanca-es-tomado-preso-y-es-obligado-a-renunciar/
+####
+A partir de ese momento, el Presidente Daniel Salamanca Urey quedó preso en el bien inmueble donde funcionaba anteriormente la Casa «Staudt» (Berlín, Alemania), solamente acompañado por su hijo Hernán, subteniente de reserva. El retén militar instalado en la puerta principal, estuvo al mando de un Teniente con la consigna: «…nadie puede salir ni entra
+
+Mientras tanto, los miembros de la Misión Checa que se encontraban almorzando en su Campamento en Villa Montes, fueron los primeros en enterarse del penoso episodio, porque un oficial boliviano de enlace, les dio la noticia: «…señores, el Presidente está preso».
+
+Actual casa de la Compañía Alemana Staud y Cia. Se encuentra en el mercado central de Villa Montes, remodelada y constituida en Museo de historia de la Guerra del Chaco, donde el Presidente Salamanca fue acorralado por los militares en la “Operación  Corralito”.
+
+La Misión Militar Checoslovaca, llegó a Bolivia a mediados de junio de 1934 a iniciativa y gestiones del Presidente Salamanca y en coordinación con el Ministerio de Guerra previo consentimiento de las Fuerzas Armadas de la Nación, las que posteriormente fueron objetadas por Peñaranda y otros militares a pesar de las reiteradas y oportunas explicaciones y aclaraciones brindadas por Salamanca. Ese mismo día, después del almuerzo -realizado en el Rancho de los «Menonitas», que servía como casino (comedor/bar),  los militares golpistas que participaron en el levantamiento  Enrique Peñaranda, Sanjinés, José Rivera, Rodríguez, Germán Busch, Adalid Tejada Fariñas, Enrique Frías, Victorino Gutiérrez, Miguel Alaiza, Néstor Montes, Heriberto Ariñez, Jorge Jordán, Víctor F. Serrano, Alfredo Santalla, Enrique Vidaurre, Luis Añez, Julio Díaz, Manuel Tardío y Roberto Ramallo, sostuvieron una reunión.
+
+Hubo una discusión general y todos participaron exponiendo sus puntos de vista y acusando a Salamanca de ser el culpable de la situación. También reconocieron las consecuencias de esa acción a nivel internacional  y asumieron que  era necesario evitar que el hecho fuera tildado como  una revolución de carácter político.
+
+Mientras los militares ejecutaban el golpe contra el Presidente Salamanca, las tropas se desangraban en la lucha por la defensa del territorio.
+
+El General Sanjinés, sugirió que se entrevistaran con Salamanca y le exigieran su renuncia e invitaran al Vicepresidente Tejada Sorzano, ocupar la Presidencia. Germán Busch, apoyo la sugerencia de Sanjinés y pidió conformar una Comisión de dos jefes. Fueron elegidos el General Tejada y el Coronel Serrano y posteriormente, se incorporó el Coronel Ángel Rodríguez. Asimismo, se determinó amenazar a Salamanca que si no renunciaba «…su estadía en Villa Montes sería indefinida».
+
+Con marcado temor en enfrentarse a Salamanca, los tres comisionados buscaron al Dr. Ugarte para que los acompañe y convenza al Presidente a firmar la nota de dimisión que fue elaborada por Rivera, Baldivieso y Torrico respectivamente. Respecto a esta Comisión, es importante hacer conocer qué, el Coronel Rodríguez se excusó de participar de la visita y entrevista con el Presidente Salamanca. Tal cual previno el Dr. Ugarte, el Presidente Salamanca se negó rotundamente a firmar dicho documento. El mismo Salamanca, en sus memorias dice, que fueron dos los puntos centrales: «…primero, que debía dimitir a la Presidencia y para ello le amenazaron en tomar medidas severas contra su persona si se negaba y segundo, exigían pactar inmediatamente con el Paraguay la cesación de hostilidades».
+
+Salamanca, en definitiva desechó el texto del documento elaborado por los militares golpistas, pero no se negó a renunciar a la Presidencia de la República. Más al contrario, convocó al Dr. Ugarte y le dictó lo siguiente: «…A la Nación. Por razones que pesan en mi ánimo, hago renuncia y dejación del cargo de Presidente Constitucional de la República…»
+####
+https://www.elperiodico-digital.com/2016/08/28/cual-es-la-cerveza-mas-consumida-en-tarija/
+####
+Empieza la época de calor en la ciudad de Tarija y con ella la demanda de bebidas refrescantes entre ellas la cerveza crece. Las marcas de esta bebida que consumen los tarijeños es variada desde las nacionales como Paceña o Huari a cervezas internacionales como Corona, Imperial o Block. Sin embargo, de entre todas la que más aceptación tiene entre los tarijeños, al menos, por venta es la Paceña.
+
+La Cervecería Boliviana Nacional en Tarija explica que la mayor cantidad de cerveza que se produce es la Paceña en  botella de litro, con una cantidad de 5.500 hectolitros a la semana, unos niveles de producción que en la época de carnavales y fin de año se multiplican debido a la alta demanda.
+
+Los distintos puntos de venta de la ciudad coinciden en que la Paceña es la cerveza más demanda entre los tarijeños. “La cerveza que más vendemos es la paceña de litro”, afirma un administrador de una licorería del barrio San Martín.
+
+En el sector de restaurantes y bares también se expende este tipo de bebidas y  la temporada de calor hace que tengan más ingresos por el consumo de bebidas. “Todas las cervezas se venden por igual, pero la Paceña tiene más salida, tal vez porque tiene una calidad superior a todas”, explica uno de los vendedores de un local comercial del centro de la ciudad.
+
+En las licorerías ubicadas en el centro de la ciudad, sin embargo, la preferencia de cervezas cambia, ya que según aseguran los comerciantes las marcas de cerveza más consumidas son Corona y Heineken. “La cerveza que se vende más en mi negocio es la Corona y  la Heineken son importadas esas dos, el precio está alrededor de 250 bolivianos la caja”, afirma el administrador de una licorería.
+
+Otro dato importante, según la Cervecería Boliviana Nacional, es la producción de las cervezas como la Imperial y Paceña de 0.620 litros es la más baja según la demanda percibida en la ciudad, aunque en las licorerías locales se pudo constatar que la marca Huari tampoco es de mayor preferencia en los consumidores.  “La que menos vendemos es la Huari, casi no sale mucho, no sé por qué no sale, no compran”, apunta Barney Gómez, un vendedor de uno de los negocios del centro de la ciudad.
+
+Sin embargo, entre las personas amantes de esta bebida también la preferencia es variada.  “Mi cerveza favorita es la Paceña Black porque su sabor es más concentrado, es de malta negra menos procesada, su sabor es más dulce y tiene más sabor que la normal, es como el maltín por eso me gusta”, indicó a elPeriódico un joven mientras degustaba una cerveza durante una kermes.
+
+“Yo soy más fan de la cerveza Paceña, y siempre que hace calor es lo mejor”, dice en cambio otro joven.
+
+La subida de las temperaturas de la ciudad hace la venta de bebidas refrescantes aumenten aunque los gustos en las bebidas varían. “Por temporada de calor tenemos más venta, incluso el consumo depende la temporada, por ejemplo en invierno más salen los licores fuertes singanis y ron pero en verano nos quedamos sin cerveza, compran mucho”.
+
+Se puede definir a la cerveza como una bebida alcohólica no destilada de sabor amargo que se fabrica con granos de cebada germinados u otros cereales y cuyo almidón se fermenta en agua con levadura y se aromatiza a menudo con lúpulo, entre otras plantas, su graduación alcohólica puede alcanzar hasta cerca de los 30 grados, aunque principalmente se encuentra entre los 3  y los 9 grados de alcohol.
+
+La cerveza no tuvo una producción en masa hasta 1914 los primeros productores fueron Alemania y Gran Bretaña, a partir de entonces el primer productor fue Estados Unidos. En el período de entreguerras la producción mundial alcanzó los 250 millones de hectolitros.
+
+España se va posicionando a nivel mundial como potencia en la producción de cerveza, con un ingreso de casi 3 millones de euros.
+
+Algunas de las cervezas más populares del mundo son: en Primero lugar se registra a la cerveza china Snow que tiene una marca del 5,3% del mercado mundial, luego la marca Budweiser con la venta de más de 4.400 millones de litros en el mercado mundial, Skol que en Brasil es la cerveza está dirigida a los jóvenes bebedores.
+
+Y en la lista también aparece una marca que la mayoría de los tarijeños conocen como Heineken, tan solo el año pasado, los bebedores de cerveza consumieron 2.800 millones de litros de este producto.
+####
+https://eju.tv/2016/05/jazmin-duran-chochea-con-su-primogenito/
+####
+Ya son casi tres meses que la exmiss  Bolivia Tierra 2015 disfruta de la compañía de su bebé Aarón, con su pareja Imran Hussain. Su aventura con los pañales le encanta
+
+La potosina Jazmín Durán (25), que el año pasado renunció a la corona de Miss Bolivia Tierra un mes después de ganarla, está pasando por la mejor etapa de su vida: ser mamá. Ella y su pareja, Imran Hussain (32) disfrutan al máximo de la compañía de Aarón. 
+
+La llegada del primogénito de la pareja fue el 10 de febrero de este año, ese fue uno de los días más felices de su vida. El bebé nació en Inglaterra y se encuentra perfectamente de salud.
+
+La exreina de belleza contó que a pesar de tener la mejor compañía que una mujer podría querer, un hijo, pasó por momentos difíciles como el del primer mes, el primer baño y afrontar algunas enfermedades del bebé, aunque no haya sido nada riesgoso, el ser ‘mamá primeriza’ y los nervios le jugaron en contra.
+
+Otro motivo fue el no tener a su familia cerca. Su madre la ayudó en lo que pudo, pero para que Jazmín este a pleno en su felicidad desearía reencontrarse nuevamente con toda su familia en Bolivia. Además contó que fue lo peor de esta etapa «Mi parto fue natural y sin anestesia local, no imaginé que era tan duro, pero valió la pena para tenerlo en mis brazos», finaliza la modelo.
+####
+https://eju.tv/2016/02/fondo-protege-al-ahorrista-bolivia-ya-acumulo-la-suma-us-530-mm/
+####
+El Fondo de Protección del Ahorrista (FPAH), que salvaguarda los depósitos de los clientes de entidades financieras, acumuló unos $us 530 millones hasta noviembre de 2015 y desembolsó $us 9,9 millones para cubrir la quiebra de la Mutual Guapay, que operaba en Santa Cruz.
+
+Un informe del Banco Central de  Bolivia (BCB) da cuenta que la totalidad de los recursos fueron colectados desde 2001. Ese año fue creado, en primera instancia, el Fondo de Reestructuración Financiera (FRF), mediante Ley 2297, de diciembre de 2001. Posteriormente, el mismo fue reemplazado por el FPAH, que fue creado mediante Ley 393, de agosto de 2013.
+
+“Su objeto (refiriéndose al Fondo) es proteger los ahorros de las personas naturales y jurídicas depositados en las entidades de intermediación financiera, a través del apoyo a procedimientos de solución y mediante la devolución de depósitos”, explica el ente emisor en respuesta a un cuestionario enviado por este medio.
+
+Para ello, las entidades financieras están obligadas a realizar aportes al FPAH, en base al total de los ahorros que administran. Dichas contribuciones, dice el BCB, son consideradas gasto, por lo que “las entidades no tienen ningún derecho” sobre esos recursos.
+
+Bajo esas reglas, en 2008 se dio vía libre al proceso de solución (posterior a la intervención y que tiene la  finalidad de proteger los intereses de los depositantes y acreedores) de la Mutual Guapay, para lo que se erogó  $us 9,9 millones, que por entonces eran administrados por el FRF.
+
+Un informe de enero de 2008 de la entonces Intendencia de Supervisión de Riesgos y de Asuntos Jurídicos de la ex Superintendencia de Bancos y Entidades Financieras, actual Autoridad de Supervisión del Sistema Financiero (Asfi), daba cuenta que las pérdidas acumuladas por esa entidad ascendían a Bs 95,5 millones, por lo que correspondía su intervención. Según datos a esa fecha, los depósitos y cuentas de los ahorristas sumaban $us 35 millones.
+
+Datos. La memoria anual 2008 de la ex superintendencia da cuenta que los pasivos y activos de Mutual Guapay fueron transferidos al Banco BISA, entidad que se presentó a una compulsa y ganó, tras ofrecer $us 1.091.000.
+
+En noviembre de 2009, la entidad reguladora emitió una resolución que revocó la licencia de funcionamiento de la mutual cruceña, con lo que se concluyó el proceso de solución.
+
+La disposición por la cual el FPAH es responsable de los gastos de una entidad financiera quebrada está vigente desde 2001. Antes de esa gestión, el Estado asumía los costos por la liquidación forzosa de una entidad.
+
+El BCB recuerda que la Ley General de Bancos de 1928 y la Ley 1488 de Bancos y Entidades Financieras, de 1993, autorizaron a esa entidad y a la ex Superintendencia de Bancos a intervenir las entidades financieras quebradas y designar a intendentes interventores, con la finalidad de aplicar procedimientos de solución o liquidación forzosa judicial.
+
+Además, el ente emisor recuerda que mediante Decreto Supremo 23881 se autorizó al BCB “a otorgar recursos económicos con el objetivo de proceder a la devolución total o parcial de los depósitos del público”.
+
+Esa disposición estuvo vigente entre 1985-2000. Bajo ese procedimiento, según un informe de gestión de la ex Superintendencia de Bancos, se llevó adelante la liquidación forzosa del Banco Sur SA (1994); Banco de Cochabamba SA (1994); Banco Agrícola de Bolivia (1991); Banco Minero de  Bolivia (1991); Banco Financiero Industrial SA (1991); Banco Latinoamericano de Desarrollo SA (1988); Banco del Progreso Nacional SAM (1987); Banco de Potosí SA (1987); Banco de Crédito Oruro SA (1987); Banco de la Vivienda SAM (1987).
+
+El BCB informa que actualmente administra las carteras del Banco de Crédito de Oruro, del Banco de Potosí, Banco del Progreso Nacional SAM, Banco Sur y Bidesa. Además, está a cargo de las deudas del Banco Boliviano Americano, la Cooperativa San José Obrero y del Instituto Nacional de Preinversión (Inalpre).
+
+HonrarLa dación de pago se produce cuando una persona natural o jurídica entrega un bien para pagar total o parcialmente su deuda. RecursosLa liquidación forzosa acontece cuando la autoridad que regula el sistema financiero, en este caso la Asfi, dispone la intervención de una entidad financiera afectada para su liquidación. A través de ese procedimiento se convierte los activos en efectivo.AhorroEl procedimiento de solución es posterior a la intervención y su finalidad es proteger los intereses de los depositantes y acreedores de la entidad. El BCB debe cobrar 3.849 préstamos
+
+Un total de 3.849 prestatarios aún deben pagar sus deudas al Banco Central de Bolivia (BCB) porque esta entidad se hizo cargo de las carteras de créditos de ocho entidades de intermediación financiera que quebraron. Del total, el instituto emisor recibió 3.803 créditos en dación de pago y a título gratuito y 46 corresponden al ex Inalpre.
+
+De acuerdo con un informe del BCB, 2.705 créditos corresponden al Banco Boliviano Americano (1999), 119 al Banco de Crédito de Oruro (1987), dos al Bidesa (1997), 423 al Banco de Potosí (1987), 193 al Banco Progreso Nacional SAM (1987), 358 al Banco Sur (1994) y dos a la Cooperativa San José Obrero (1997). A ellos se suman los 46 préstamos del ex Inalpre. Las obligaciones que el BCB recibió en dación de pago corresponden a la entrega de un bien para cubrir total o parcialmente la deuda.
+
+El instituto emisor informa que con la finalidad de facilitar a los deudores y garantes la cancelación de sus obligaciones, el directorio aprobó el Reglamento de Incentivos para la Cobranza de Cartera de Créditos, que está vigente hasta el 31 de diciembre de la presente gestión.
+
+“Esta normativa obedece al criterio de que es más factible recuperar capital con cierto grado de condonación de intereses. Asimismo, el BCB busca que los deudores se habiliten como usuarios del sistema al salir de la Central de Información Crediticia (Central de Riesgos)”, explica la entidad.
+
+Las personas deudoras podrán beneficiarse de las nuevas condiciones si cancelan la totalidad de la deuda, en un solo pago y en efectivo, “favoreciéndose de la condonación de intereses corrientes, penales, moratorios y otros cargos (publicaciones, formularios y seguros)”.
+####
+https://www.opinion.com.bo/articulo/informe-especial/maestros-sienten-discriminados-recibir-t-iacute-tulos-diferenciados/20160131062600672375.html
+####
+La entrega de títulos diferenciados por parte del Programa de Formación Complementaria para Maestros y Maestras en Ejercicio (Profocom) provoca malestar entre los profesionales universitarios que trabajan como profesores en los colegios.
+
+Los docentes universitarios reciben certificados de diplomado, mientras que los maestros egresados de las normales obtienen el título a nivel licenciatura cuando terminan de cursar el Profocom.
+
+Claudia es una maestra (con formación universitaria) que trabaja en un colegio particular de Cercado. Estudió Psicología en la Universidad Mayor de San Simón y si bien nunca pensó en ejercer su carrera en un colegio, el amor por los niños la llevó hasta el gabinete de una unidad educativa, hace seis años.
+
+El rumor difundido por algunos de sus colegas, de que iban a despedir a los maestros universitarios que no contaran con el título del Profocom, le causó preocupación.
+
+Esta maestra decidió inscribirse a este programa para cumplir con este requisito formal y no tropezar con ninguna dificultad en el futuro.
+
+No obstante, al finalizar el curso sufrió una desilusión, por el título que recibió. “En un principio creí que el certificado que nos iban a otorgar sería a nivel licenciatura, tal como a los normalistas”.
+
+Sin embargo, en el momento de pasar las clases, los fines de semana, se enteró de que el título tendría solamente un valor como un diplomado y no le pareció justo.
+
+Los diplomados son cursos cortos. No se obtiene ningún grado académico, sin embargo sirve para actualizar los conocimientos del estudiante.
+
+La licenciatura es un grado académico que se obtiene tras estudiar entre cuatro a seis años en una universidad y tiene un mayor curricular que el diplomado.
+
+“Siento que los normalistas tienen una preferencia. Se nos debía otorgar también un título de licenciatura en Educación”.
+
+La noticia de que recibirían solo un certificado correspondiente a un diplomado hizo perder el interés por el curso a la profesora Marlene, quien dictaba clases de música en una unidad educativa privada.
+
+Argumentó que al haber avanzado los mismos contenidos en las clases, todos los maestros debieron haber recibido el mismo título, “lo contrario es una discriminación”.
+
+Puso como ejemplo que en el colegio donde ella cursó el Profocom, en  La Paz, dos maestros normalistas que pasaron dos meses más de clases obtuvieron el grado de licenciatura.
+
+David, profesor de un colegio fiscal, hizo notar que los normalistas pasan durante más tiempo las clases del Profocom, entre dos a seis meses extras con relación a los graduados de la universidad.
+
+Los universitarios se graduaron después de realizar 10 módulos, mientras que los normalistas tuvieron que cumplir hasta 16 para recibir su título.
+
+“No ha sido el mismo esfuerzo, nosotros hemos hecho algo más, es cierto que es el mismo contenido, pero los normalistas fuimos un poco más allá”.
+
+El coordinador departamental del Profocom, Rubén Ustáriz, afirmó que no se puede dar un título en licenciatura a quienes ya lo tienen, al referirse a los profesionales en psicología, medicina, sociología, arquitectura y derecho, entre otros que imparten clases en las aulas.
+
+Ustáriz dijo que el curso busca beneficiar con un diploma a nivel postgrado a los profesores con título y no como sucede con los normalistas que carecían en primera instancia de la licenciatura.
+
+A nivel curricular, según Ustáriz, el postgrado tiene mayor validez para los profesionales que para los normalistas.
+
+“Qué podíamos hacer con los profesionales que ya tienen licenciatura en educación, que son muchos, no se les podía dar dos títulos de lo mismo”, acotó.
+
+Ustáriz puntualizó que el Programa de Profesionalización de Maestros Interinos (PPMI) dio a los profesores con título profesional una oportunidad para conseguir el grado de normalistas.
+
+Según Ustáriz, casi el 90 por ciento de los maestros realizó este curso para adquirir destrezas de enseñanza en el aula, por lo que los profesionales no pueden compararse con los maestros normalistas.
+####

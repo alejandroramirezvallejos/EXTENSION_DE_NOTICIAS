@@ -1,33 +1,688 @@
-año,noticiero,URL,letras,palabras,oraciones,parrafos
-2018,opinion,https://www.opinion.com.bo/articulo/informe-especial/venezolanos-ingresan-bolivia-como-turistas-tienen-prohibido-trabajar/20180325105300677176.html,3735,745,27,16
-2018,opinion,https://www.opinion.com.bo/articulo/cochabamba/80-f-aacute-rmacos-fueron-retirados-mercado-ntilde/20180204204800603779.html,3687,716,39,22
-2018,eju,https://eju.tv/2018/04/techo-e-paja-dice-que-prefiere-olvidar-el-pasado-y-que-no-le-gustan-los-lujos/,1594,347,16,6
-2018,eju,https://eju.tv/2018/12/virupaya-la-localidad-creada-por-las-mafias/,1835,363,17,5
-2018,opinion,https://www.opinion.com.bo/articulo/el-pais/sinohydro-confirma-robo-dens-iacute-metro-nuclear-da-detalles-aparato/20180722080300620623.html,1084,222,8,5
-2018,opinion,https://www.opinion.com.bo/articulo/cochabamba/%EF%BB%BFveh-iacute-culos-antes-1990-usan-repuestos-adaptados-garant-iacute/20180902200500624988.html,3275,703,31,20
-2018,reduno,https://www.reduno.com.bo/noticias/2018-2-11-21-0-0-mas-de-un-centenar-de-emojis-llegaran-a-whatsapp,840,169,11,5
-2018,opinion,https://www.opinion.com.bo/articulo/ramona/ldquo-grotesca-parodia-rdquo-educaci-oacute-n-boliviana/20180826173800678188.html,4363,889,41,11
-2018,opinion,https://www.opinion.com.bo/articulo/el-pais/morales-entrega-coliseo-cerrado-colegio-militar-ej-eacute-rcito/20180218060800604873.html,969,190,7,6
-2018,eju,https://eju.tv/2018/04/real-esta-cero-deudas-ahora-no-debe-nada/,3213,748,32,11
-2018,eju,https://eju.tv/2018/10/bolivia-gana-medalla-de-bronce-en-olimpiada-de-astronomia/,2247,429,15,1
-2018,eju,https://eju.tv/2018/10/rodriguez-veltze-asegura-que-se-dara-cuenta-de-los-costos-que-significo-el-juicio-ante-la-haya/,808,177,7,4
-2018,urgente,https://www.urgente.bo/noticia/escolares-de-tarija-potos%C3%AD-oruro-y-la-paz-retornan-clases-este-lunes-25,799,166,5,4
-2018,urgente,https://www.urgente.bo/noticia/victoria-l%C3%B3pez-lo-que-garc%C3%ADa-mesa-me-debe-es-no-poder-haber-sido-ser-mam%C3%A1,2065,437,14,7
-2018,elpais,https://elpais.bo/tarija/20180401_los-violines-y-el-zapateo-acompanan-la-pascua-florida.html,5611,1218,50,24
-2018,la-epoca,https://www.la-epoca.com.bo/2018/07/01/bolivia-impulsa-la-produccion-de-alimentos-ecologicos/,1494,286,9,8
-2018,reduno,https://www.reduno.com.bo/noticias/2018-7-8-0-0-0--gabriela-zegarra-obsesionada-con-instagram,995,209,10,6
-2018,reduno,https://www.reduno.com.bo/nota/joven-secuestrado-fue-victimado-con-disparos-en-la-cabeza-por-delincuentes-brasilenos-20181216161627,1989,422,13,7
-2018,opinion,https://www.opinion.com.bo/articulo/informe-especial/alba-ntilde-iles-exigen-rituales-cada-construcci-oacute-n/20181125181500678806.html,4276,912,47,23
-2018,eju,https://eju.tv/2018/01/dockweiler-revela-que-eeuu-solicito-ayuda-a-bolivia-para-implementacion-de-teleferico-en-miami/,1595,335,8,7
-2018,opinion,https://www.opinion.com.bo/articulo/informe-especial/departamentos-pa-iacute-s-violencia-familiar-crece/20180415182600677331.html,3160,697,27,19
-2018,urgente,https://www.urgente.bo/noticia/incendio-en-pastizales-de-viru-viru-alerta-bomberos-de-santa-cruz,868,181,6,6
-2018,elpais,https://elpais.bo/economia/20181104_rentismo-en-bolivia-disminuye-el-bienestar-y-la-produccion.html,4325,821,20,16
-2018,eju,https://eju.tv/2018/10/us-33-mil-millones-de-perdida-en-10-anos-por-enclaustramiento/,3865,752,29,2
-2018,urgente,https://www.urgente.bo/noticia/interceptan-avioneta-con-droga-en-brasil-donde-iba-bordo-supuesto-militar-boliviano,960,190,7,6
-2018,eju,https://eju.tv/2018/03/personajes-clave-en-la-demanda-de-bolivia-contra-chile/,2879,524,20,2
-2018,eabolivia,https://www.eabolivia.com/blogs/25470-portabilidad-numerica-en-bolivia-rige-desde-el-lunes.html,1109,227,5,5
-2018,eju,https://eju.tv/2018/01/indignacion-en-cochabamba-pandillero-que-quemo-vivo-a-un-adolescente-recibe-leve-condena/,2167,487,31,3
-2018,reduno,https://www.reduno.com.bo/nota/2018-10-14-21-0-0-periodista-argentino-llama-perro-a-lampe-y-rompe-su-camiseta-de-bolivia,1540,324,10,7
-2018,opinion,https://www.opinion.com.bo/articulo/informe-especial/12-aciertos-errores-gobierno-morales/20180121185400676709.html,5058,1046,43,27
-2018,reduno,https://www.reduno.com.bo/nota/2018-9-9-21-0-0-en-cochabamba-escenifican-revuelta-del-14-de-septiembre-de-1810,726,143,5,3
-2018,urgente,https://www.urgente.bo/noticia/jefe-militar-iran%C3%AD-comandante-de-ffaa-tenemos-una-alta-estima-bolivia-por-su,1130,247,6,6
+2018
+https://www.opinion.com.bo/articulo/informe-especial/venezolanos-ingresan-bolivia-como-turistas-tienen-prohibido-trabajar/20180325105300677176.html
+####
+Los ciudadanos de ese país solo pueden permanecer 90 días, luego tienen que presentar una solicitud de permanencia, de lo contrario, Migración los multa por cada jornada de irregularidad.
+
+Por fin, luego de siete días de viaje por tierra, se alejó de aquella convulsión social, económica y política que sacudía a su tierra natal, Venezuela. Mientras daba sus primeros pasos en territorio  boliviano, dentro de sí, pensaba: “Lo peor ya pasó”, pero, a poco más de un mes de su llegada a  Cochabamba, siente que su vida está más truncada que allá, aunque al menos no le falta comida.
+
+“Cada día que pasa es un día menos”. Así de pesimista es un joven venezolano que se refugia en el departamento y que, por cuestiones obvias, prefirió mantener en reserva su identidad. Su vida transcurre en cuenta regresiva, pues tiene que decidir si luego de los 90 días que el Estado Plurinacional de Bolivia le permite permanecer legalmente como turista en el país, emprenderá un nuevo viaje hacia otro destino u optará por presentar una solicitud de “permanencia temporal” en Cochabamba.
+
+Por como van las cosas, considera que, después de los 90 días, escogerá lo primero y continuará su “huida” de Venezuela hacia otro país de Sudamérica.
+
+Y es que, para acceder a un permiso de permanencia temporal “por trabajo” de tres años (tiempo máximo de autorización) tiene que invertir más de 3 mil bolivianos. “Inclusive si solo pidiera que me den permiso para quedarme a trabajar un año en Cochabamba, tendría que pagar más de 2 mil pesos”.
+
+La Dirección General de Migración también emite permisos temporales “por familia” y “por objeto determinado”, según las categorías que manejan.
+
+Justificó que sus ahorros y la ayuda económica que le dieron sus padres, apenas cubrieron su salida de Venezuela hacia Bolivia por vía terrestre. Aspirar a conseguir tres mil o dos mil bolivianos es “casi imposible”, considerando que su autorización de ingreso dice “turista”, lo que significa que tiene prohibido trabajar.
+
+Esa categoría establece que durante 90 días ese venezolano u otro extranjero solo debe de involucrarse en actividades netamente turísticas.
+
+Si, por ejemplo, una autoridad de la Distrital de Migración descubre a un venezolano vendiendo arepas (pan de maíz de forma circular que se puede cocinar asado o a la parrilla; se rellena con ingredientes según las regiones) en la plaza principal 14 de Septiembre o las puertas de los supermercados, como acostumbran hacerlo, puede ordenar su detención.
+
+El responsable de la Distrital de Migración de Cochabamba, Bladimir Orellana, explicó que los venezolanos, al igual que los turistas provenientes de otros 51 países como Alemania, Chile, España y Noruega, tienen la posibilidad de ingresar al territorio boliviano sin visa. Solo presentan su documento de identidad y tienen aval para permanecer hasta 90 días en el territorio nacional. Si después de ese período deciden quedarse en Cochabamba u otro departamento del país, tienen que solicitar una permanencia temporal, de lo contrario, son considerados ilegales.
+
+¿Cómo identifica Migración a un venezolano u otro extranjero que sobrepasó ese tiempo límite de autorización turística (90 días)? Orellana dijo que es a través de operativos en puntos estratégicos como hoteles, hostales y residenciales.
+
+Los funcionarios de la Distrital de Migración de Cochabamba organizan ese tipo de “batidas”, a veces respaldados por otras instituciones, al menos dos veces a la semana.
+
+Los ciudadanos venezolanos que están “de ilegales” en Cochabamba, pero aún no fueron descubiertos por las autoridades, están sujetos a una multa de 27  bolivianos por cada día de permanencia irregular, de acuerdo con Orellana.
+
+Si en algún momento quieren regularizar su situación, antes les instruirán que cancelen sus deudas.
+
+La mayoría de los venezolanos que busca refugio en  Cochabamba manifestó que quisiera quedarse en Bolivia, pero no tiene posibilidades económicas para solicitar una residencia en la Distrital de Migración, así que se arriesga a permanecer ilegal o, en última instancia, irse a otro país. “En otros lugares nos permiten estar de turistas por cuatro meses. Solo en Bolivia te dan tan poco tiempo”.
+
+Al margen del dinero, los venezolanos deben presentar otros requisitos. Si quieren una autorización de “permanencia temporal por trabajo”, por ejemplo, tienen que adjuntar el contrato laboral de la institución, visado por el Ministerio de Trabajo, además de una copia simple del acta de constitución, el Número de Identificación Tributaria (NIT), certificación electrónica, Registro de Comercio u otro documento similar. El contrato puede ser reemplazado por una carta notariada o un contrato civil con reconocimiento de firmas.
+####
+https://www.opinion.com.bo/articulo/cochabamba/80-f-aacute-rmacos-fueron-retirados-mercado-ntilde/20180204204800603779.html
+####
+﻿La Agencia Estatal de Medicamentos y Tecnología en Salud identificó “ampollas con pelusa, cristales y partículas” y remedios que no cumplieron el test de disolución.<BR>
+
+Al menos 80 medicamentos fueron retirados del mercado farmacéutico de Bolivia en dos años (2008-2010), de acuerdo con un reporte de la Agencia Estatal de Medicamentos y Tecnología en Salud del Ministerio de Salud.
+
+El último producto cuya comercialización se prohibió en el país es Ibufort de 800 mg., un comprimido fabricado por el laboratorio Hahnemann.
+
+El Servicio Departamental de Salud (SEDES) de Cochabamba recomendó a la población no adquirir el producto debido a que presentó observaciones en el proceso de control de calidad.
+
+Al igual que Ibufort de 800 mg., hay otros 79 fármacos en los que la Agencia Estatal de Medicamentos y Tecnología en Salud encontró irregularidades, por lo que los retiró del mercado.
+
+Un informe de esa instancia, dependiente del Ministerio de Salud, en su página web especifica algunos detalles de las suspensiones. Por ejemplo, hallaron “ampollas con pelusa, cristales y partículas”.
+
+La venta de ese lote de inyecciones se suspendió. El medicamento era usado para mejorar las contracciones durante el parto y reducir el sangrado después del alumbramiento.
+
+NO PASARON TEST Otros medicamentos cuya comercialización se suspendió no cumplieron los exámenes de disolución.
+
+Ese proceso se emplea generalmente para evaluar la disolución de los “principios activos contenidos”. Este ensayo es una parte fundamental de los análisis empleados para el desarrollo, estabilidad y control de la calidad.
+
+Entre los remedios que fueron retirados por esta causa, están el Metronidazol de 500 mg. (cápsula), utilizado para el tratamiento de las infecciones provocadas por protozoarios y bacterias anaeróbicas. El lote sancionado es el que produce el laboratorio Hahnemann. En la lista también está el Cloranfenicol de 500 mg. (cápsula). Su uso se limita a infecciones graves como la fiebre tifoidea.
+
+CAUSAS Las “diferentes fechas de vencimiento en los envases primario y secundario”, el hallazgo de “partículas en suspensión”, o la presencia de un “principio activo por debajo de los límites establecidos” son otras causas por las que prohibieron la venta de ciertos lotes de medicamentos desde 2008.
+
+Una vez que la Agencia Estatal de Medicamentos y Tecnología en Salud detecta problemas de calidad en uno o más lotes de medicamentos, instruye que la empresa responsable proceda con el retiro del mismo en un lapso que oscila entre 72 horas y tres meses, dependiendo de la gravedad del hecho.
+
+Finalmente, el representante legal del producto debe realizar la incineración de los medicamentos.
+
+La Agencia Estatal de Medicamentos y Tecnología en Salud retira medicamentos del mercado bajo tres criterios:
+
+1. El uso o exposición al lote de un producto que puede causar consecuencias adversas de salud. Por ejemplo, contiene un excipiente tóxico en lugar del correspondiente.
+
+2. El uso o la exposición a un lote de producto puede causar efectos adversos temporales. O bien, cuando la probabilidad de serios daños es remota. Por ejemplo, si un medicamento incluye un edulcorante o colorante no aceptado.
+
+3. Cuando el uso o exposición a un lote de producto no causa reacciones adversas en la salud, pero presenta fallas. Por ejemplo, cuando no hay uniformidad de contenido, errores en los requerimientos de disolución, decoloración, precipitado, presencia de partículas, etiquetado con fecha de vencimiento equivocada, entre otros.
+
+﻿La Agencia Estatal de Medicamentos y Tecnología del Ministerio de Salud tiene una lista actualizada a enero de 2018 en la que especifica que 89 medicamentos tienen registro sanitario cancelado.
+
+La mayoría suspendió el registro por decisión de las empresas que los comercializan. No obstante, hay otros fármacos sin registro como “medida sanitaria”, tal es el caso de una crema de Colombia en base a cannabis.
+
+﻿La responsable de Farmacias del Servicio Departamental de Salud (SEDES), Aleida Camacho, informó que la falsificación es otro factor que propicia el retiro de fármacos del mercado.
+
+﻿Si bien el Servicio Departamental de Salud de Cochabamba (SEDES), por instrucción de la Agencia Estatal de Medicamentos y Tecnología de Salud, ordena el retiro de ciertos fármacos, la población que sigue un tratamiento con ello no está desamparada, sino que tiene acceso a otros con la misma composición, pero son elaborados por otros laboratorios.
+
+Por esa razón, cuando prohíben la venta de cierto medicamento, el SEDES especifica de qué marca es y en qué presentación viene.
+####
+https://eju.tv/2018/04/techo-e-paja-dice-que-prefiere-olvidar-el-pasado-y-que-no-le-gustan-los-lujos/
+####
+El periodista Guider Arancibia habló en exclusiva con el boliviano que fuera comparado en la década de los 90’s con Pablo Escobar y que retornó a Bolivia hace seis días, tras permanecer más de 27 años preso en EEUU. Este lunes lea la entrevista ampliada.
+
+Jorge Roca Suárez, conocido como Techo ‘e paja, a seis días de su llegada a Bolivia rompió el silencio en una entrevista exclusiva con EL DEBER. Ya antes lo había hecho, pero desde la cárcel Taft de California, en EEUU, donde permaneció más de 27 años preso por delitos relacionados con el tráfico de sustancias controladas, entre otros. Actualmente, está en la cárcel de San Pedro, de La Paz, desde donde hablo con el Diario Mayor.
+
+Roca Suárez habló sobre su trasladado a Bolivia, de su familia y de sus bienes. “Yo no fui extraditado, como se está hablando de manera errónea. Voluntariamente pedí mi traslado, porque acá tengo a mis hijos y a mi padre que está muy enfermo. Estoy contento de llegar a mi tierra, como de todo, comida camba, beniana y de aquí, de La Paz”, dijo.
+
+Contó que antes de salir de la cárcel de Taft, sus compañeros presidio, de diferentes nacionalidades, le prepararon una emotiva cena de despedida. De California se fue a Miami escoltado por agentes policiales de la United States Marshals Service (Cuerpo de Alguaciles de Estados Unidos, en español), una de las más antiguas e históricas instituciones del Departamento de Justicia de EEUU. Los agentes lo escoltaron hasta Miami, donde fue entregado a policías de la Interpol de Bolivia.
+
+Sobre sus bienes dijo que en 1990 todo le fue incautado en EEUU y en Bolivia, luego de haber sido aprehendido. De sus dos matrimonios tiene seis hijos y diez nietos, cuatro viven en ciudades estadounidenses y dos en Bolivia.
+
+“En la cárcel de California no perdí mi tiempo”, dijo a tiempo de explicar que estudió Derecho Penal y Derecho Internacional Público, además de Arquitectura. Durante su estadía en prisión, ayudó a muchos presos latinoamericanos con diversos escritos, gracias a su dominio del idioma inglés.
+####
+https://eju.tv/2018/12/virupaya-la-localidad-creada-por-las-mafias/
+####
+La comunidad en plena frontera, en un momento, fue declarada por el extinto COA como ‘impenetrable’
+
+Está justo en la línea fronteriza entre Bolivia y Perú. La comunidad de Virupaya fue creada por los mismos contrabandistas para desarrollar en esa zona una feria como pantalla para intercambiar productos de manera ilegal.
+
+Del lado boliviano pasa al peruano generalmente combustible —sobre todo diésel—, rollos de tela, ropa y artefactos eléctricos que llegan desde Chile. Virupaya no figura en el mapa, pero existe y se extiende en ambos territorios.
+
+Está aproximadamente a 215 kilómetros al norte de la ciudad de La Paz. En esa zona, toneladas de productos son transbordados desde camiones a minibuses, que después inician su recorrido hacia la ciudad peruana de Juliaca. En Virupaya, los clanes mafiosos, según la Policía de Perú, construyeron al menos diez inmuebles con apariencia de viviendas familiares, pero en realidad son almacenes que sirven para guardar la mercadería que no lograron subir a los motorizados: en estas viviendas hay artefactos, ropa, rollos de plásticos y telas. Esta carga, por lo general, llega desde el norte de Chile y atraviesa gran parte del departamento de La Paz para llegar a las principales ciudades peruanas, como Lima y Arequipa.
+
+Las ferias se realizan los miércoles y sábados a la par del traspaso de la mercadería de contrabando. Para la Policía de Perú, la feria de Virupaya no es más que una fachada cuyo fin es agrupar a personas vinculadas con los cargamentos que saldrán hacia Juliaca. La fuerza policial asegura que estas personas suelen estar armadas. Existen mafias que se dedican a la internación de diferentes productos. Otras familias se desempeñan exclusivamente al contrabando de combustible, por lo general diésel y garrafas de gas licuado. Estos productos se venden libremente en mercados del sur peruano. Cuando existía el Control Operativo Aduanero (COA), la feria de Virupaya era una zona impenetrable, ya que las mafias se organizaban para evitar el ingreso de personas extrañas. Hubo casos en los que policías infiltrados fueron agredidos. Aparte de Virupaya, las ferias en esa zona se extendieron a las comunidades de Jankho Jankho y Patacaile, donde cada miércoles y sábado existe mucho movimiento comercial.
+####
+https://www.opinion.com.bo/articulo/el-pais/sinohydro-confirma-robo-dens-iacute-metro-nuclear-da-detalles-aparato/20180722080300620623.html
+####
+La empresa china Sinohydro confirmó en un comunicado el robo de un densímetro nuclear de su campamento ubicado en la localidad de Paracti, en Cochabamba, y explicó detalles de cómo se ve el equipo que, mal manipulado, puede generar alto riesgo para la salud por la exposición a la radiación.
+
+"El densímetro nuclear es un artefacto que emite radiación para medir humedad y densidad de suelos bases, hormigones y asfalto. El dispositivo se encuentra dentro de una caja amarilla de aproximadamente 30 centímetros de alto, con los logotipos que informan sobre la peligrosidad de su contenido", indicó la empresa china. 
+
+Agregó que es pertinente señalar que si la caja no es abierta, no existe ningún riesgo para la salud de las personas. "Las autoridades han tomado a su cargo la investigación de este hecho y la gestión necesaria para socializar la alerta y prevenir eventuales accidentes que puedan representar un riesgo para la salud", explicó la firma china.
+
+Sinohydro dijo que, conforme al protocolo vigente de seguridad en el manejo de materiales radioactivos, reportó el viernes 20 de julio el robo del densímetro nuclear.
+
+Personal de Inteligencia de la Policía en Cochabamba y Santa Cruz investiga el caso porque es “muy delicado”. También la Policía Caminera realiza el control a todos los vehículos y personas en las trancas para hallar el equipo.
+####
+https://www.opinion.com.bo/articulo/cochabamba/%EF%BB%BFveh-iacute-culos-antes-1990-usan-repuestos-adaptados-garant-iacute/20180902200500624988.html
+####
+﻿Asamco señala que muchas de las piezas de los motorizados ya no llegan, por lo que acondicionan accesorios de otros automotores de años posteriores al 2000.
+
+Todos los vehículos de antes de los años 90 circulan con accesorios adaptados. En el mercado no existen repuestos originales y los dueños y mecánicos optan por adecuar piezas de otros modelos y marcas más actuales.
+
+El presidente de la Asociación Automotriz de Mecánicos Cochabamba (Asamco), Jesús Paredes, explicó que lo que se hace es adaptar repuestos cuando no se los encuentran en el mercado.
+
+“Agarramos repuestos de otro vehículo parecido, para que el motorizado siga andando en las calles”.
+
+Señaló que como taller no dan algún tipo de garantía, debido a que, “si se consigue una pieza de otro vehículo más moderno, esta no sería para la misma función o no tendría la dureza que la pieza original”.
+
+“No podemos garantizar el tiempo de funcionamiento de estos repuestos, ya que pasan por distintas modificaciones para que se adecúen al vehículo viejo”.
+
+Agregó que, en el caso de los motores, estos son adaptados de otro vehículo por completo, ya que a Bolivia no llegan motores nuevos o cero kilómetros. “Todos los que llegan son trabajados”.
+
+Explicó que, en el caso de los micros, incluso hay de los años 60 y, por más que se adapte un motor del año 2000, el chasis sigue siendo de época antigua y se debe considerar que el metal del vehículo se va degradando.
+
+“Antes del cambio, se le advierte (al dueño del auto), sobre la dureza del chasis señalando que por el peso del motor, no va a durar”.
+
+El secretario de Relaciones del Sindicato Mixto de Micros, Buses, Taxitrufis y Trufibuses, Mario Lino, afirmó que evidentemente es difícil conseguir repuestos para vehículos de modelos inferiores a los de los años 90, pero que, en el caso de los micros de este sindicato, se han adaptado partes de vehículos superiores a las del año 2010.
+
+“En el caso de nuestros socios, los micros han cambiado el tren delantero donde andan las ruedas, que es primordial porque allí funcionan los frenos. Se los ha retirado y cambiado por una maraca Nissan Cóndor 2010”.
+
+Señaló que, de a poco, se realizan los cambios en partes de los micros, con el fin de que no se estigmaticen a los micros antiguos.
+
+Datos del Instituto Nacional de Estadísticas (INE), al año 2017, señalan que Cochabamba tiene un parque automotor de 386.952 vehículos. De esta cantidad, 70.635 tienen fecha de fabricación por debajo de los años 90, entre públicos y privados. La información fue extraída del Informe de Estadísticas del Parque Automotor 2003 – 2016, elaborado por el INE.
+
+CAMBIOS Los cambios que más se realizan en los talleres mecánicos son de los frenos, la suspensión, los amortiguadores y el motor.
+
+Paredes explicó que es importante el mantenimiento de motorizados antiguos con chequeos oportunos en la revisión superficial de los niveles de aceite, anillas, temperatura de agua y fugas de aceite, además de la parte eléctrica.
+
+Con este diagnóstico, un mecánico puede advertir si el auto necesita una revisión más minuciosa; hallar partes que humean, bota aceite o pierde fuerza.
+
+Cochabamba tiene un parque automotor de 386.958 unidades. De esta cantidad 70.635 son inferiores al año 90 entre públicos y privados, datos obtenidos del Informe de Estadísticas del Parque Automotor 2003, elaborado por el INE.
+
+﻿El secretario de Relaciones del Sindicato Mixto de Micros, Buses, Taxitrufis y Trufibuses, Mario Lino, señaló que los micros antiguos están en proceso de modernización con el cambio de carrocerías autorizadas y modificación de ciertas partes del auto.
+
+“Todos los micros son antiguos. Su sistema de funcionamiento ya es pasado y son adaptados por otros más modernos”.
+
+Señaló que, del 100 por ciento del parque automotor, un 40 por ciento ya hizo estas modificaciones. Explicó que, por ejemplo, se les exige cambiar el sistema de frenos de forma obligatoria para que no ocurran accidentes como un reciente en La Paz, donde hubo cinco muertos. “El sistema de frenos es más moderno, ahora nos avisa. En un sistema antiguo reventaba el freno y el micro se estrellaba donde sea. En el nuevo, revienta un retén y el freno ya no es seguro”.
+####
+https://www.reduno.com.bo/noticias/2018-2-11-21-0-0-mas-de-un-centenar-de-emojis-llegaran-a-whatsapp
+####
+El uso de emojis o emoticones que tenemos en el WhatsApp y celulares, son una herramienta más para comunicarnos de manera efectiva. Estos se han convertido en una parte esencial al momento de conversar con amigos y familiares.
+
+Unicode, la compañía que actualiza estas figuras, ha anunciado los más de 150 emojis que lanzará para este 2018, entre los meses de agosto y septiembre.
+
+Algunos de estos nuevos emojis incluyen hombres y mujeres pelirrojos con piel negra, morena, amarilla y blanca. También superhéroes blancos, negros, morenos y amarillos.
+
+Asimismo, obviamente, superheroinas blancas, negras, amarillas y morenas.  Y no podían quedar atrás los súper villanos y las súper villanas, desde luego también con diferentes colores de piel y cabello.
+
+Los dibujos de personas de cabello rizado. Y cómo olvidar el emoji de pierna blanca, negra, morena y amarilla. Las nuevas imágenes suelen aparecer primero en WhatsApp y iOS, para llegar finalmente a Android un poco después. Mira aqui el video para que te familiarices con ellos antes de su llegada.
+####
+https://www.opinion.com.bo/articulo/ramona/ldquo-grotesca-parodia-rdquo-educaci-oacute-n-boliviana/20180826173800678188.html
+####
+﻿Uno de los pensadores más brillantes que tuvo nuestro país vivió y murió entre la incomprensión y el olvido. Sin embargo, su impronta en la forma de entender  Bolivia y sus miserias continúa vigente.
+
+Cuenta Mariano Baptista Gumucio, en la introducción a su Atrevámonos a ser  bolivianos (Vida y epistolario de Carlos Medinaceli), que un 12 de mayo de 1949, él y un grupo de muchachos del colegio La Salle fueron a ver los restos mortales de Medinaceli. Los restos se velaban en la Alcaldía de La Paz y, además del féretro rodeado de cuatro lámparas y diez personas, no había nada más. Nada más.
+
+Curiosamente, dicho dato biográfico no me hizo ver lo obvio, sino más bien lo aparentemente irrelevante. Es decir, el que un par de muchachos de secundaria tengan si quiera el vislumbre de hacer lo que sus mayores no hicieran por ciega y estúpida ingratitud: homenajear a una de las mentes bolivianas más brillantes del siglo XX.
+
+Cuan distantes parecen dichas actitudes, y a la vez, cuan imposible su praxis en nuestros días. No se trata de un fatalismo nostálgico hacia tiempos mejores, cuestión ingenua en sí misma, pero, en nuestro caso carece incluso de la posibilidad de la ilusión. Se trata simplemente de tratar de desenmarañar aquella futilidad sin horizontes en la que vivimos y tratar de remediar o, por lo menos, tratar de notar sus causas. Para Baptista y Medinaceli, dicha causa estaba en nuestra educación: una “grotesca parodia”.
+
+Baptista recoge la inmensa decepción que Medinaceli sentía por ese “fachadismo educacional” y ese “parasitismo social” del cual la sociedad boliviana de “doctores” estaba infestada. Retrospectivamente, afirma Baptista, dicho juicio, o, más bien, la resignación de Medinaceli, “podría repetirse hoy sin cambiar una sílaba”. Yo digo, casi 50 años después, exactamente lo mismo. Básicamente, es la educación formal la que nos está volviendo cada vez más idiotas y la autenticidad de cualquier historia vital es relativamente proporcional a su grado de dependencia de la educación formal. En palabras de Medinaceli: “cuanto menos pervertido está un sujeto por la ‘educación’ oficial es tanto menos un animal inofensivo, como es una alimaña dañosa cuando más abachillerado y doctorado es el quisque”.
+
+Evidentemente todo es “lugar común”, sin embargo, por eso mismo sorprende la insistencia en el remedio. Vinieron constituciones, reformas educativas y todo tiende a hundirse aún más. De ahí, cabe preguntarnos si todavía necesitamos de ella, de “la educación oficial”. Más cuando el ciberespacio ha vuelto casi obsoletos a nuestros profesores. Siempre es odioso generalizar, pero salvo rarísimas excepciones nuestros profesores viven para cobrar ítems y no para moldear espíritus. Un círculo vicioso dentro de la sociedad de masas, probablemente sí. Pero, ante la insistencia de quemar generaciones enteras, preferiría esa ausencia. Medinaceli, otro espíritu “quemado” por dicho “fachadismo” nos dice que “para lo que la instrucción pública hace en Bolivia, más valiera que no exista, porque lejos de crear un ambiente social próspero, es el origen de toda la improbidad intelectual, la anarquía moral y el aniquilamiento volitivo que ha hundido y continuará hundiendo al país”.
+
+Pensar en eliminar “la educación oficial” puede sonar temerario, soberbio y, por qué no, ingenuo. Porque sin ella, ¿cómo mantendríamos nuestra cohesión social, nuestra instrucción académica y nuestra voluntad (en el sentido tamayano del término)?. En ese caso también cabría preguntarse: ¿cuál de ellas está presente en nosotros hoy en día gracias al colegio? Lo que pensamos, lo pensamos gracias a la tele, las redes sociales, Hollywood y la mucha o poca educación de nuestros padres. En el colegio nos alfabetizan, nos instruyen para el mercado de trabajo y nos dan un diploma de bachiller. Hacer eso en el siglo XXI es como intentar matar un mosquito con una bazuca.
+
+Heidegger afirma que “todo preguntar esencial de la filosofía permanece necesariamente inactual”. Vale decir que cualquier interrogante verdaderamente esencial no debería acomodarse a un determinado contexto, sino, por el contrario, debería centrarse, valga la redundancia, en lo esencial. El resto es moda. Más allá de la notoria arrogancia del filósofo, su afirmación encierra un innegable verdad. Si nos limitamos a ver la educación como la veíamos en el siglo XIX, visión ya deficiente en nuestro caso, estaremos condenados a seguir “quemando” y “desalmando” a nuestros niños. Cuando en realidad deberíamos buscar crear seres humanos más libres y despiertos.
+
+Se trata de parar de matar con el remedio a las potenciales recetas de nuestra cura. Parar la fuga constante de  bolivianos que al no soportar nuestro “parasitismo social” abandonan el barco, o, lo que es peor, se hunden en su propia miseria y abandono. Y Medinaceli es sólo un ejemplo de entre tantos.
+
+Medinaceli tuvo una vida breve, “signada por la incomprensión y la falta de aliento de una sociedad atrozmente fenicia y estólida, que dejó que se consumiera la llama del genio, que ardía en ese cuerpo castigado por el abandono y el alcohol, mientras proclamaba como conductores y héroes, a saurios de uniforme o rendía pleitesía a quienes habían ‘triunfado’ en la vida, enriqueciéndose a costa del sudor y el esfuerzo de miles de siervos en las minas o el campo.”
+
+Ayer se rendía pleitesía a “saurios de uniforme” hoy a líderes “más allá del bien y del mal”. Y lo verdadero y esencial siempre “termina quemado por la helada”… anocheciendo a medio día… “Chaupi punchaipi tutayarka”.
+####
+https://www.opinion.com.bo/articulo/el-pais/morales-entrega-coliseo-cerrado-colegio-militar-ej-eacute-rcito/20180218060800604873.html
+####
+El presidente Evo Morales entregó el domingo por la mañana un coliseo cerrado al Colegio Militar del Ejército con una capacidad para 520 espectadores y cuya construcción demandó la inversión de 2,5 millones de bolivianos.
+
+Este es "un pequeño aporte más para nuestro Ejército como también para el pueblo paceño y boliviano", dijo.
+
+La nueva infraestructura está ubicada en la zona de Irpavi de la ciudad de La Paz y contribuirá a la preparación de los oficiales del Ejército que practican gimnasia artística.
+
+La obra fue emplazada sobre 342 m2, tiene graderías a los lados, camerinos para hombres y mujeres y baterías de baño.
+
+En su discurso, Morales informó que en predios del Colegio Militar del Ejército está en construcción una pista atlética reglamentaria y un gimnasio de alto rendimiento para la preparación de los militares y de deportistas bolivianos.
+
+"solo falta voluntad, disciplina, esfuerzo y compromiso por la patria. Garantizar una medalla en Sudamericanos para Bolivia sería un gran orgullo para el Ejército, para nuestras Fuerzas Armadas, esperamos que estén preparándose atletas para dignamente representarnos en los Juegos Sudamericanos que se van a realiza este año en Cochabamba", manifestó.
+####
+https://eju.tv/2018/04/real-esta-cero-deudas-ahora-no-debe-nada/
+####
+El presidente de Real Santa Cruz está en el ojo de la tormenta luego de que el club perdiera 5.500 metros cuadrados de su terreno.
+
+Hace unos días se subastaron 5.500 metros cuadrados del terreno que tiene Real Santa Cruz, que en 1999 ya habían pasado a poder de Findesa, según explicó el presidente del club Juan Carlos Durán. Por este motivo le han pedido públicamente su renuncia, pero él se mantendrá en el cargo y asegura que ahora la institución alba está limpia de deudas.
+
+La subasta que ha hecho Findesa es de un bien que ya era de Findesa, porque se lo dimos como parte de pago en 1999, previa asamblea, porque no teníamos capacidad de pago, ya que en ese entonces se le debía cerca de $us 350.000 que podían convertirse en 450.000 y amenazaba con subastar el predio completo. Entonces vimos que la única forma era entregar los 5.500 metros cuadrados de los 65.000 que tiene Real.
+
+Ahí hubo un montón de problemas que llegó hasta la Corte Suprema. En un auto supremo convalidó el pago, si no tenía que rematarse todo Real a precio de la deuda. Se logró que la Corte acepte el pago porque no se podía vender, pero el argumento fue que la plata que nos prestamos fue para terminar la construcción del estadio. Era un crédito supervisado, los cheques salían destinados para comprar cemento y el material de construcción.
+
+En 1999 ya era dueña y de allí a la fecha hemos ido peleando de una forma u otra para que no subaste el terreno, pero llegó el momento que Findesa no puede retener el bien porque todo tiene un término y lo subastó. Podíamos presentarnos a la subasta con $us 600.000 pero ese dinero no existe en Real, nunca hubo esa plata.
+
+En el interín, en 2012 firmamos un acuerdo con Macro Fidalga, era un convenio para que nosotros le demos en comodato, por 20 años, la parte frontal de la sede y ellos nos daban el dinero para pagar a Findesa, pero no fue posible porque la Alcaldía dijo que no se podía hacer ninguna construcción que no sea deportiva en ese lugar, por ley.
+
+Yo he hecho el estadio, el coliseo, la sede, las canchas, las piscinas y muchas cosas más. De ser un campo abierto, pelado, se ha hecho una infraestructura que fue la primera en Bolivia. A Bolívar la Alcaldía de La Paz le dio entre medio millón y un millón para que haga Tembladerani, a The Strongest igual y aquí la Alcaldía está dando a otros clubes y a Real Santa Cruz nada. Este es un esfuerzo personal y de un grupo de gente que no desvió un solo centavo de los $us 300.000 que nos prestó Findesa.
+
+Real ahora no tiene ninguna deuda. Había otra deuda cuando me hice cargo esta última vez (2017). Me llamó Gadea (Óscar), que estaba de presidente, y su equipo, los que ahora me critican, diciéndome que me haga cargo del club porque toda la sede estaba a punto de ser rematada por la Alcaldía por un monto enorme.
+
+Un monto muy grande, yo gestioné a gran velocidad para sacar la resolución de personería jurídica como una entidad sin fines de lucro y cuando se está bajo esa figura estamos liberados de todos los impuestos. Gracias a Dios yo había metido hace varios años al Concejo Municipal una liberación de impuestos que estaba concedida, cuando Óscar Vargas era presidente de dicho Concejo, y con esa resolución pude salvar al club del tercer remate.
+
+Ese comité de defensa es la anterior directiva, Gadea y compañía. Ellos nunca hicieron nada y ahora que el club está saneado aparecen y piden mi renuncia. Eso no me molesta, pero por qué no lo hacen en el club. No puedo aceptar que dañen mi imagen.
+
+Estoy haciendo una tarea de institucionalizar como tiene que ser una entidad sin fines de lucro y una vez esto termine se tiene que enfrentar un nuevo ciclo, después veremos.
+No. No alcanza. Solamente la planilla del primer equipo son $us 10.000, además hay que pagar cuerpo técnico, preparadores físicos, utileros, medicamentos, uniformes, tarjetas, para todas las divisiones. También hay personal de mantenimiento y los servicios del club. Si se saca cuentas, siempre hay déficit en el club y hay que poner plata.
+Desde mi punto de vista este es el mejor equipo que hemos conformado en los últimos años y lo vamos a ver en la cancha.
+####
+https://eju.tv/2018/10/bolivia-gana-medalla-de-bronce-en-olimpiada-de-astronomia/
+####
+La delegación boliviana que participó en la X Olimpiada Latinoamericana de Astronomía y Aeronáutica (OLAA), realizada en Ayolas (Paraguay), retorna al país con una medalla de bronce y cuatro menciones honoríficas tras competir  con representantes de Paraguay, Brasil, Uruguay, Ecuador, Argentina Panamá, Colombia, México, Perú y Chile.Adriana Vásquez, de 17 años, del colegio Santa Ana de Sucre (Chuquisaca) obtuvo la medalla de bronce y un reconocimiento en la categoría de mejor prueba observacional  en la OLAA.“Me siento muy contenta con este logro, puesto que para mí siempre fue una ilusión todo esto de las olimpiadas. Es la muestra de que los sueños se hacen realidad y estoy muy orgullosa de poder llevar algo para mi país y también para mi hermosa ciudad Chuquisaca”, dijo Adriana -desde Paraguay- mediante un contacto telefónico con Doble Click.Paola Medrano (Cochabamba), Fernanda Yucra, Carla Lobo (ambas de Santa Cruz) y Ruth Liceras (Chuquisaca) obtuvieron mención de honor en la competencia que se desarrolló durante cinco días en Ayolas, Misiones (Paraguay).“La competencia ha cumplido las expectativas como un evento internacional, fue rigurosa, ha puesto a prueba a nuestros estudiantes y la participación de nuestra selección ha sido muy buena” señaló Luis Ancari, vicelíder  que acompañó a la delegación y es exolimpista en astronomía que ganó medalla de bronce, el 2013.Durante la competencia las jóvenes realizaron exámenes grupales e individuales, tanto teóricos como prácticos donde demostraron sus habilidades en astronomía y aeronáutica.“Fue una muy buena experiencia, la gente es muy cálida y amable”, dijo Ruth, quien es estudiante de la Unidad Humanística Técnica Domingo Savio, de Chuquisaca. Explicó que tuvieron cuatro pruebas: la primera fue individual teórica, la segunda grupal teórica, la tercera cohetería grupal y la última observacional individual (las dos últimas fueron prácticas).Paola destacó todo el aprendizaje que tuvieron en astronomía y aeronáutica y el poder compartir esto con estudiantes de diferentes culturas.Carla señaló que cada uno realizó muchos esfuerzos para poder ganar las diferentes etapas en las competencias en sus países y así poder llegar a la latinoamericana y representar a su nación donde cada uno sigue esforzándose para desempeñar un buen papel.“La competencia fue bonita, los ejercicios tienen su dificultad, pero estoy contenta de los logros”, dijo Fernanda Yucra del colegio Santa Cruz Domingo Savio.Por su parte, la profesora  Zulma Valdez que conformó la delegación como líder del equipo, señaló: “Estoy muy contenta y orgullosa de las chicas. Nuestro país está elevando su nivel en la ciencia”. Comentó que la Gobernación de Asunción condecoró a los líderes y todos los equipos fueron reconocidos como Huéspedes Ilustres por el municipio de Ayolas .
+####
+https://eju.tv/2018/10/rodriguez-veltze-asegura-que-se-dara-cuenta-de-los-costos-que-significo-el-juicio-ante-la-haya/
+####
+Estamos en proceso de elaborar los informes y todas las actuaciones que nos toco cumplir. Yo creo que es importante darle una transparencia absoluta en la forma en la que se obró apuntó el Agente boliviano ante La Haya.
+
+El agente de Bolivia ante La Haya, Eduardo Rodríguez Veltzé, informó este domingo que se alista un informe en el que se dará cuenta de los costos económicos que representó para el país la demanda marítima en la Corte Internacional de Justicia (CIJ). A casi una semana de la lectura del fallo, el Gobierno no transparentó el uso de los recursos y lo mantuvo en reserva. 
+
+“En próximos días posiblemente la Diremar (Dirección Estratégica de Reivindicación Marítima) y la Cancillería darán cuenta de los costos que tomó a Bolivia conducir este proceso” aseguró Veltzé a través del canal estatal. A su criterio consideró importante transparentar esa información.
+
+El vecino país de Chile reveló, luego de conocerse el fallo de La Haya, que había gastado más de 24 millones de dólares, en los cinco años que duró el juicio.
+####
+https://www.urgente.bo/noticia/escolares-de-tarija-potos%C3%AD-oruro-y-la-paz-retornan-clases-este-lunes-25
+####
+La Paz, 22 de julio (Urgentebo).- A partir de este lunes 25, los escolares de los departamentos de Tarija, Potosí, Oruro y el altiplano de La Paz deben retornar a clases en horario de invierno, informó el viceministro de Educación Regular, José Quiroz. 
+
+La autoridad indicó que la ampliación de una semana más al receso pedagógico en estas cuatro regiones a causa de las bajas temperaturas no altera el calendario escolar, por lo que las clases culminarán hasta el 30 de noviembre como se tiene previsto.  
+
+“El Ministerio de Educación quiere informar que luego de haber transcurrido el descanso pedagógico en todos los departamentos del territorio boliviano este día lunes  se está reiniciando las labores en los cuatro últimos departamentos que aún  continúan en descanso pedagógico”, informó Quiroz.
+
+Aclaro que en el caso del departamento de La Paz son 42 distritos los que retornan a clases la siguiente semana ya que la región del norte y los Yungas ya retomaron las actividades educativas el lunes 18.  
+####
+https://www.urgente.bo/noticia/victoria-l%C3%B3pez-lo-que-garc%C3%ADa-mesa-me-debe-es-no-poder-haber-sido-ser-mam%C3%A1
+####
+Al igual que ella, asegura Victoria López, varios hombres y mujeres que están asentados en la vigilia instalada frente al Ministerio de Justicia durante más de seis años, tienen su propio testimonio de vida producto de las persecuciones y torturas en tiempos de la dictadura, y que a la fecha aseguran no encontrar justicia.
+
+La Secretaria General de la Plataforma de Luchadores Sociales Sobrevivientes de las Dictaduras, Victoria López, quien fue víctima de la dictadura de Luis García Meza, asegura que lo que le debe al ex presidente de facto es una vida trágica de sufrimiento desde su detención en la dictadura, ya que producto de las torturas perdió a su hijo en un embarazo de tres meses y nunca más pudo ser madre.
+
+“En la dictadura de Banzer, yo era dirigente de la Full y debido a eso fui apresada por dos militares para mi captura y tortura por orden de García Meza. Yo estaba embarazada de tres meses y por tanta tortura perdí a mi hijo y nunca más pude ser madre. Eso le debo a García Meza, una vida trágica desde mi detención en su dictadura”, recuerda con impotencia Victoria López.
+
+Al igual que ella, asegura López, varios hombres y mujeres que están asentados en la vigilia instalada frente al Ministerio de Justicia durante más de seis años, tienen su propio testimonio de vida producto de las persecuciones y torturas en tiempos de la dictadura, y que a la fecha aseguran no encontrar justicia.
+
+“En la empresa Minera Caracoles las compañeras han sido vejadas sexialmente por los soldados enviados por García Meza, porque ese fue un lugar donde se resistió durante más tiempo el golpe de Estado. Ha habido cuatro mujeres que por hemorragia producto de las violaciones de los militares que asaltaron la minera murieron desangradas”, asegura López, “Esos son los recuerdos que nos quedan de este militar asesino”, enfatizó.
+
+En 1980 Luis García Meza, dio un golpe militar que derrocó a Lydia Gueiler, para impedir que Hernán Siles Zuazo, triunfador en las elecciones, asumiera el poder. Su mandato al frente del país estuvo caracterizado por la represión, la corrupción y la protección del narcotráfico. Fue obligado a dimitir al año siguiente por la corrupción administrativa y su presunta complicidad con el narcotráfico. Entregó la presidencia de la república a una Junta de Generales, que nombró a Celso Torrelio presidente de la nación.
+
+Luis García Meza, el último dictador de Bolivia, ha fallecido la madrugada de este domingo en la clínica Cossmil, luego de haber sufrido sucesivos ataques cardiacos desde fines de la tarde de este sábado, reportaron. La mañana de este domingo.
+####
+https://elpais.bo/tarija/20180401_los-violines-y-el-zapateo-acompanan-la-pascua-florida.html
+####
+Florindo Ordoñes es un violinista de San Lorenzo que desde hace muchas décadas participa de todas las actividades de la Pascua Florida. Con su hablar pausado cuenta que desde que tiene memoria, él reconoce el sonido de las cuerdas del violín que acompañan la cultura de su pueblo. La...
+
+Florindo Ordoñes es un violinista de San Lorenzo que desde hace muchas décadas participa de todas las actividades de la Pascua Florida. Con su hablar pausado cuenta que desde que tiene memoria, él reconoce el sonido de las cuerdas del violín que acompañan la cultura de su pueblo.
+
+La añoranza por el zapateo, las tonadas de la pascua y la creencia tradicional es muy importante para Ordoñes, porque según el artista, la pascua es el símbolo de renacer y de la transformación, así como la religión católica la plantea con la muerte y resurrección de Jesús.
+“El violín empieza en la Pascua y termina en septiembre. Cuando hay zapateo y cuando son las hierras en el campo se toca el violín para acompañar el año de los campesinos”, explica el artista.
+
+Como es de conocimiento popular, el violín es el instrumento de la época de la Pascua, debido a que en Tarija el calendario folclórico esta íntimamente ligado a la religiosidad y al ciclo agrícola.
+
+El alcalde de San Lorenzo Miguel Ávila detalla que cuando terminan las festividades de Carnaval inician las festividades católicas que llaman al arrepentimiento recordando la resurrección de Jesús. “Para esta temporada se acompaña con una música más bien melancólica y triste que es el violín. Es una música no muy festiva por el hecho que se recuerda. Las tonadas tienen un rasgo muy característico de contrición después de la fiesta de Carnaval que es más sórdido”.
+
+Don Rosendo Aramayo, profesor de violín de la escuela de música Pastor Achá Martínez -recuerda que cuando era un niño- su padre ya tocaba el violín. Dice que en esas épocas ser violinista era un trabajo muy reconocido. Él fue observando y escuchando a su padre por mucho tiempo, así comprendió que era eso lo que quería ser.
+
+Dice que el violín tarijeño, a diferencia del violín europeo, que es referente de la música clásica, es más criollo, debido a que los mismos fabricantes muchas veces no seguían las medidas específicas y los materiales eran de maderas autóctonas.
+
+“No hay en exactitud un tiempo que pueda marcar cuándo ha llegado el violín, pero se manejan ciertas hipótesis, además de la adquisición del ritmo del zapateo que se dice que es gitano. Cuando llegan los españoles, nos traen esta melodía”, explica Aramayo.
+
+El tiempo de los zapateos, según los análisis de Aramayo, es diferente de acuerdo a cada comunidad y cada compás está compuesto por cuatro tiempos, empero existen variaciones, como cinco cuartos o tres cuartos.
+
+Asimismo, dice que las rondas que se realizan para las danzas, como la rueda chapaca y los zapateos, empiezan a desarrollarse debido a que “bailando en grupo encuentran otro tipo de connotación, pues al bailar entre parejas es un acto romántico o de cortejo”.
+
+En cuanto a la fabricación de los violines, hace varias décadas atrás, la elaboración de los mismos era bastante rústica y esto derivaba en sonidos más toscos, sin embargo, aun así, eran los protagonistas de las fiestas. En los últimos tiempos, la fabricación de violines en la industria china ha invadido el mercado en Bolivia y por ende en Tarija.
+
+“Ya no se encuentran muchos violines de los antiguos que utilizaban nuestros abuelos, hay puros violines chinos. Antes, se utilizaba el cedro para hacer las tapas, las fajas de nogal y el mango también de cedro. Más o menos de maderas sencillas”, dice Aramayo.
+
+Revela que el fabricante de Tarija no tomaba las medidas exactas del arco o de otras partes del violín y las cerdas las hacían de la cola del caballo y la resina la extraían del molle.
+
+Unos de los luthiers más famosos era parte de la familia Jeréz, Aramayo cuenta que tuvo la oportunidad de conocerlo. Dice además que en épocas pasadas cuando iban al campo hacían cambio los violines por papa y maíz. “Mi padre en eso como también tocaba el violín ha adquirido un instrumento”, cuenta.
+
+Alrededor de 88 comunidades participarán esta gestión en la Pascua Florida de San Lorenzo. El día jueves iniciaron las actividades con las Hermandades en la misa de las Siete Palabras, donde se realizó el descenso de la cruz.
+
+La Pascua Florida es una de las festividades que mejor caracteriza a San Lorenzo, debido a que es una tradición traída de España que con el tiempo se mezcló con las tradiciones autóctonas de la región, pero que ha mantenido su esencia cultural y religiosa. Ésta cobró fuerza hace más o menos un siglo atrás.
+
+El sábado por la noche es cuando se realiza la vigilia. Los comunarios, visitantes de otros municipios y población en general se concentran alrededor de la plaza frente a la iglesia y se preparan para pasar la noche en desvelo mientras comparten algunas bebidas calientes y pueden disfrutar de tonadas, zapateos y violinistas que tocan fervientemente hasta el amanecer.
+
+“Toda la noche a partir de las 21.00, las comunidades y las ruedas van llegando a la plaza de las Pascuas, donde hay distintas manifestaciones tradicionales como el zapateo, el violineo, el canto y las tonadas. La idea es hacer una noche de vela, de profundo fervor religioso donde se espera la resurrección de Jesús”, explica Ávila.
+
+Tras la velada, el domingo de resurrección inicia con una misa prevista a las 5.00 de la mañana, que es la más importante, pues la población que se quedó acompañando durante toda la noche la vigilia podrá asistir y retirarse a descansar.
+
+Este año se realizarán tres mismas durante toda la mañana para que a población y los visitantes creyentes puedan asistir a escuchar las palabras del sacerdote. A partir del mediodía, San Lorenzo otorga diferentes festines tradicionales en sus patios de comida, en el mercado, los restaurantes y casas que abren sus puertas para recibir a los visitantes.
+
+“Se recorren las calles de San Lorenzo que tiene una enorme oferta de comida y la tradición de las personas que siguen festejando la Pascua. La invitación que le hacemos a las personas es que nos acompañen desde el sábado por la noche hasta el domingo para poder disfrutar de todas las actividades”, puntualizó Ávila.
+
+La Pascua Florida es una de las festividades que mejor caracteriza a San Lorenzo, debido a que es una tradición traída de España que con el tiempo se mezcló con las tradiciones autóctonas de la región, pero que ha mantenido su esencia cultural y religiosa, cobró fuerza hace un siglo atrás.
+
+La comida criolla toma su propio espacio en estas fechas en especial en este día cuando es ofrecida en toda su variedad. Entre los principales platos están: el picante de gallina, la sopa de maní, el saice, la ranga ranga y otros, que calman el hambre de quienes participaron activamente de la vigilia.
+
+La Semana Santa de antaño finaliza con el baile de la rueda chapaca y la entonación de coplas y tonadas interpretadas por los mozos y mozas a lo largo de las calles de San Lorenzo. El zapateo es una celebración que ameniza la vigilia que anticipa el domingo de resurrección.
+####
+https://www.la-epoca.com.bo/2018/07/01/bolivia-impulsa-la-produccion-de-alimentos-ecologicos/
+####
+La Paz-. Bolivia impulsa hoy la producción de alimentos ecológicos, muy demandados en los mercados nacional e internacional, informaron autoridades del Ministerio de Desarrollo Rural.
+
+En la nación andino amazónica alrededor de 12 mil familias producen anualmente entre 128 mil y 130 toneladas de alimentos de ese tipo, comunicó José Martínez, responsable de la Unidad de Coordinación del Consejo Nacional de Producción Ecológica, entidad dependiente del mencionado ministerio, según publicó el periódico Cambio.
+
+Añadió que para ello explotan cerca de tres millones de hectáreas de tierra en los departamentos de La Paz, Oruro, Cochabamba, Chuquisaca, Potosí, Tarija, Pando y Beni.
+
+Del total de alimentos producidos, dijo, el seis por ciento se consume en el país, en tanto el resto se destina a mercados externos, entre ellos, la Unión Europea, Estados Unidos y Japón.
+
+Se denomina alimento orgánico, ecológico o biológico al producto agrícola o agroindustrial producido bajo un conjunto de procedimientos denominados ecológicos, que evitan el uso de productos sintéticos, como pesticidas, herbicidas y fertilizantes artificiales.
+
+El objetivo del Gobierno es aumentar este tipo de producción en más del 10 por ciento hacia el año 2020, en el contexto del Plan de Desarrollo Económico Social.
+
+Apoya esta actividad con la promulgación de normativas jurídicas como la Ley de Regulación y Promoción de la Producción Agropecuaria y Forestal No Maderable Ecológica, con el propósito de que un mayor cultivo de alimentos en el país no dañe el medio ambiente.
+
+Además, el tema está regulado en la Constitución, la Ley de Revolución Productiva Comunitaria Agropecuaria, la Ley Marco de la Madre Tierra y la Ley de Organizaciones Económicas Campesinas Indígena Originarias, las cuales señalan claramente que hay que proteger a la agricultura familiar y a la madre naturaleza.
+####
+https://www.reduno.com.bo/noticias/2018-7-8-0-0-0--gabriela-zegarra-obsesionada-con-instagram
+####
+Carlos Marquina en el capítulo 71 se quejó de Gabriela Zegarra. Ella está obsesionada con subir historias en Instagram, acusó. Además, añadió que para asustándolo cada momento que puede.
+
+“Espero que no me asuste llegando tarde a su boda”, advirtió molesto Marquina. En su defensa Gabriela explicó que ella necesita estar conectada a las redes sociales y mantener al tanto a sus seguidoras, dejando por cerrado este reclamo.
+
+Por otro lado, en este capítulo nos mostraron el avance de las últimas remodelaciones que están realizando en su departamento, con el fin de optimizar sus espacios.
+
+Para la influencer su cuarto de maquillaje quedó perfecto, además que es el lugar donde graba sus episodios para su canal de maquillaje en YouTube.
+
+Asimismo, Marquina mostró las adaptaciones en su vestidor, que ahora luce ordenado y organizado con nuevas repisas. “Estoy feliz con mi vestidor”, dijo Marquina, no sin antes advertirle a Gabriela que no lo deje desordenado, mientras pasaban unas imágenes en la TV donde Carlos y Gaby se divertían tirándose la ropa que estaba en el piso.
+
+Y recuerda no te pierdas todos los fines de semana Los Marquina que vuelven con más historias y aventuras por la Red Uno de Bolivia en su nuevo horario desde las 17:00 horas.
+####
+https://www.reduno.com.bo/nota/joven-secuestrado-fue-victimado-con-disparos-en-la-cabeza-por-delincuentes-brasilenos-20181216161627
+####
+El director de la Felcc, Gonzalo Medina, informó que el hijastro de la familia de la víctima tenía una deuda con esta organización delictiva. Willy Pedraza fue asesinado el mismo día que pidió recompensa por su liberación
+
+Agentes de la Fuerza Especial de Lucha Contra el Crimen (Felcc), llegaron hasta una quinta en la localidad de Montero Hoyos, en Santa Cruz, para proceder al levantamiento del cuerpo sin vida de Yery Willy Pedraza Rivero (24), el joven que fue secuestrado el 22 de octubre cuando cayó en manos de una banda de secuestradores brasileños tras ser seducido por una mujer también de nacionalidad brasileña. 
+
+El director de Felcc, Gonzalo Medina, informó que el cadáver fue encontrado enterrado de pie en una fosa, maniatado y presentada al menos dos disparos en la cabeza. El jefe policial indicó a Notivisión de que Willy fue liquidado el mismo día en que fue filmado por sus captores donde pedía a sus familiares que cancelen la suma de $us. 80.000 en dos pagos para su liberación. 
+
+"(Después de asesinarlo) estos delincuentes se fueron al noreste de Brasil y desde allá negociaron. Es una deuda que emerge por narcotráfico", señaló Medina a tiempo de comentar de que el hijastro de la familia tenía una deuda económica con esta facción delictiva. 
+
+La familia de la víctima acompañó la operación policial hasta dicha quinta que fue alquilada por la organización delictiva para cometer el crimen, y que según la Policía boliviana se trataría de una mafia peligrosa de secuestradores compuesta por brasileños y bolivianos. El abogado, Denver Pedraza, afirmó que el hallazgo del cadáver se dio gracias a un hombre que vive de casero por la zona, quien presenció la presencia de este grupo junto al plagiado en la quinta, y que en el momento de escuchar los disparos se fue de la casa que cuidaba durante tres días por medio a represalias hacia su familia.  
+
+El cuerpo de la víctima se encontraba en estado de descomposición, por lo que fue trasladado a la morgue del hospital de la Pampa de la Isla, para la autopsia de ley. Medina comentó que se trata de un suceso violento con las características de redes vinculadas a ajustes de cuentas por narcotráfico. 
+
+La Policía continúa tras la captura de Jhony Oliveira, alias "Ceara", buscado en Brasil por asesinato, secuestro y narcotráfico, y sus cómplices brasileños Francisco Silva, Alyne Maia, Erik Roberto Barbosa, además del boliviano Diego Menacho. Por el momento solo dos personas de nacionalidad brasileña se encuentran en la cárcel de Palmasola. 
+####
+https://www.opinion.com.bo/articulo/informe-especial/alba-ntilde-iles-exigen-rituales-cada-construcci-oacute-n/20181125181500678806.html
+####
+﻿Reconocieron que hacen q’oas, pero no recurren al sacrificio de seres vivos. Expertos coincidieron que en  Cochabamba se ofrenda más comida y granos a la Pachamama.
+
+Los albañiles de la Llajta exigen que se hagan hasta tres ofrendas a la Madre Tierra por cada obra que construyen.
+
+La Cámara de Construcción de Cochabamba (Cadeco) y la Federación de Entidades Empresariales Privadas del departamento reconocieron que, “por respeto a las creencias de los trabajadores”, q’oan en el proceso de edificación de infraestructuras o al comienzo de un nuevo emprendimiento.
+
+El presidente de Cadeco, Antonio Siles, explicó que es una “exigencia” de los obreros. Es más, el ritual se desarrolla no solo una vez, sino hasta tres. “Es por etapas. Antes de iniciar la obra, luego en la primera losa (placa de  hormigón apoyada sobre el terreno para repartir el peso del edificio sobre toda la superficie) se hace otro pequeño ch’allaku (término quechua que significa rociar con trago o chicha). La construcción sigue avanzando y cuando se llega a cubierta nos piden hacer otra q’oa”.
+
+Antonio Siles dijo que lo hacen para pedir a la Pachamama (Madre Tierra) “que no hayan accidentes, que la obra se lleve de la mejor manera”. No obstante, si bien esta costumbre ya está instaurada en el rubro, aclaró que garantizan que sea “sencilla, con un brindis y sin excesos”.
+
+Descartó el uso de sullus (palabra quechua que significa feto) de llamas porque, según dijo, esa es una tradición paceña. Aunque el presidente de la Federación de Entidades Empresariales Privadas de Cochabamba, Javier Bellot, mencionó que en ese ámbito sí recurren a los fetos de llama, a petición del personal.
+
+Siles mencionó que a lo largo de los 26 años que está inserto en la construcción, no supo de sacrificios de humanos en obras de Cochabamba, pero sí en La Paz, aunque no le consta.
+
+Un grupo de albañiles que actualmente construye una vivienda por inmediaciones a Colcapirhua dijo que “hay la creencia de que la construcción come gente” por eso piden que se sahume.
+
+Don Leoncio Mamani, maestro albañil, indicó que “a veces se ven accidentes, especialmente, al inicio de la obra, que es cuando más profundo cavamos” y, según le contaron, eso se debe a que no se ofrendó a la Madre Tierra.
+
+Los relatos populares a los que accedió a OPINIÓN, que no están comprobados, dicen que “ en los edificios de El Prado, por ejemplo, se siente un “ambiente pesado” cuando uno entra en ellos porque, presumiblemente, se construyeron sobre restos humanos”.
+
+Un guardia de seguridad contó que en la zona sur de Cochabamba, por la zona de El Arco, había una chichería que “de la noche a la mañana apareció como edificio”.
+
+“Dicen que los dueños le pidieron a uno de sus vecinos que consiga albañiles del campo. Antes de empezar la construcción les han hecho tomar hasta que quedaron inconscientes. A la mañana siguiente, faltaba uno, solo encontraron su ropa y sus zapatos. Cuentan que lo hicieron hervir toda la noche en la chicha y eso lo echaron a la tierra”.
+
+A partir de ese hecho, del que no hay pruebas, supuestamente, la familia empezó a prosperar. “Se compraron surtidores que hasta ahora administran”.
+
+El jefe de la Unidad de Medicina Tradicional del Servicio Departamental de Salud (SEDES), Jesús Gómez, el curandero Raúl Ayma y el médico tradicional kallawaya Abelino Paucar coincidieron en que en  Cochabamba “no es muy común ofrendar seres vivos”, sino comida y granos.
+
+Antes de iniciar la construcción, Ayma dijo que los dueños q’oan y alrededor del brasero ponen cuatro cántaros llenos de comida tradicional a la que no se le debe echar sal, como ají de fideo y lawa de quinua. “Todo eso se entierra”.
+
+Paucar añadió que otros optan por preparar comidas típicas de la región como chicharrón o sillpancho. El procedimiento es el mismo.
+
+Mientras que los cereales también se ofrendan, pero con otros fines, como el alejamiento del infortunio. “La gente acostumbra enterrar quinua al ingreso del domicilio, “es como una tranca”, contó Gómez.
+
+En criterio de Ayma, el ritual para las construcciones solo se realiza una vez. Pero, Paucar aseveró que se lo debe hacer al menos cada tres años. “No debe ser antes, ni tampoco cada viernes porque la Pachamama se vuelve viciosa”.
+
+Los comerciantes ofrecen q’oa según las necesidades de sus clientes. Hay preparados para negocio, trabajo, familia y salud, entre otras áreas.
+
+En la intersección de la avenida Barrientos y Tarata, en el mercado La Pampa de Cochabamba, se concentra la mayoría de vendedores de q’oa, amuletos y otros elementos.
+
+﻿Los curanderos recomiendan a los constructores que realicen su ofrenda a la Pachamama en ciertos días a la semana, martes y viernes.
+Consideran que esos días la Madre Tierra “abre la boca”.
+
+
+﻿ARGENTINA/INFOBAE La Pachamama es, ante todo, una deidad. Para algunos historiadores tiene origen aymara, un poblado de la meseta andina del lago Titicaca que se distribuyó entre el occidente de  Bolivia, el sur del Perú y Chile. Sin embargo, su expansión se la debe al Imperio Inca (Tahuantinsuyo).
+
+﻿Los pueblos indígenas, originarios y campesinos de Bolivia, Perú y Argentina consideran a la Pachamama como su máxima deidad.
+En otros pueblos la llaman Mamapacha. En ambos casos significa Madre Tierra.
+﻿Los pueblos indígenas de América Latina celebran el Día de la Madre Tierra el 1 de agosto.
+Esa jornada organizan rituales para agradecer, pedir y bendecir los frutos que da la Pachamama, que es la “diosa de la fertilidad”.
+####
+https://eju.tv/2018/01/dockweiler-revela-que-eeuu-solicito-ayuda-a-bolivia-para-implementacion-de-teleferico-en-miami/
+####
+El gerente de la empresa Mi Teleférico de La Paz, César Dockweiler, manifestó que el transporte por cable llama la atención a muchos países del mundo que piden información sobre su implementación porque todas las ciudades tienen el problema de congestionamiento vehicular.
+
+El gerente de la empresa Mi Teleférico, César Dockweiler, informó este domingo que Estados Unidos solicitó a Bolivia una ayuda para implementar un teleférico en la ciudad de Miami, pedido que dijo no se esperaba.
+
+«Nos ha llamado muchísimo la atención que un país que quizás nosotros no esperemos que nos pida o solicite algo, el caso de Estados Unidos, nos ha solicitado que apoyemos en la implementación de un teleférico para Miami, entonces son cosas como estas que nos levanta, nos pone a los bolivianos en un sitial que es muy importante», dijo en entrevista con medios estatales.
+
+Dockweiler manifestó que el transporte por cable llama la atención a muchos países del mundo que piden información sobre su implementación porque todas las ciudades tienen el problema de congestionamiento vehicular que buscan solucionar mediante ese medio de transporte que es único en la región.
+
+«Ahora han visto y si en La Paz están haciendo, por qué nosotros no lo podemos hacer y hemos recibido 60 delegaciones del mundo de diferentes ciudades, de diferentes países que vienen a consultarnos a preguntarnos qué es lo que estamos haciendo, cómo podemos implementarlo», mencionó.
+
+El Gerente de Mi Teleférico añadió que hace unos tres años recibió a una delegación técnica chilena a la que se le explicó el sistema operacional y de implementación que se tiene en ese medio de transporte y ahora adjudicaron el proyecto en Santiago a la misma comisión que visitó Bolivia.
+
+Tras la inauguración de la Línea Roja en 2014, que une la ciudad de El Alto y La Paz, la sede de Gobierno es conocida como la «ciudad de los teleféricos», y hasta la fecha ya cuenta con otras cuatro líneas más en pleno funcionamiento, la Amarilla, Naranja, Verde y Azul. (28/01/2018).
+####
+https://www.opinion.com.bo/articulo/informe-especial/departamentos-pa-iacute-s-violencia-familiar-crece/20180415182600677331.html
+####
+﻿Cochabamba, Chuquisaca, Tarija, Potosí, Beni y Pando tienen los mayores índices de violencia intrafamiliar, mientras que en Santa Cruz, La Paz y Oruro los hechos de tránsito marcan los delitos más graves.
+
+La agresión dentro de la familia es el delito que más se comete en Cochabamba, Chuquisaca, Tarija, Beni, Pando y Potosí.
+
+En tanto que en Santa Cruz, La Paz y Oruro están en mayor cantidad los infractores de tránsito.
+
+La semana pasada, el Ministerio de Gobierno presentó en Sucre un informe sobre la prevalencia de los delitos en el país. Lo hizo en la Precumbre de Seguridad Ciudadana con la participación de instituciones que tienen que ver con la prevención y control de la delincuencia.
+
+Los datos otorgados corresponden a la gestión 2017. El año pasado fueron atendidos 94.352 casos en el país. De esa cantidad, 30.971 corresponden a delitos contra la violencia familiar seguido de 28.665 hechos de tránsito, 16.938 robos contra la propiedad, 8.108 delitos contra las personas, 4.757 casos de delitos contra la libertad sexual, 3.729 de robo de vehículos, 698 de delitos contra la vida y 486 delitos de trata y tráfico y delitos conexos.
+
+El desglose de los delitos por departamentos muestra a Cochabamba, Chuquisaca, Tarija, Potosí, Beni, Oruro y Pando con prevalencia de la violencia intrafamiliar. Se reportaron 30.971 casos.
+
+En Santa Cruz también ocurrieron 8.939 casos; en La Paz, 8.955; y Cochabamba, 5.257. Le sigue Tarija (2.221), Potosí (1.969), Chuquisaca (1.896), Beni (659), Pando (580) y Oruro (495).
+
+Nuevamente Santa Cruz, La Paz y Cochabamba, en ese orden, tienen los índices de violencia más altos, con 34.7 por ciento , 25.5 por ciento y 14.1 por ciento respectivamente.
+
+Sin embargo, en Santa Cruz, La Paz, y Oruro se imponen los delitos relacionados con hechos de tránsito, con 10.882, 9.854 y en Oruro 1.490. También en Cochabamba suceden 5.257 casos, le siguen Chuquisaca, Tarija, Potosí, Beni y Pando.
+
+Después de los accidentes de tránsito y los delitos de violencia familiar, el tercer delito más grave en Santa Cruz es el robo contra la propiedad con 7.772, delitos contra la libertad sexual (2.240), delitos contra las personas (2.191), robo de vehículos (500), delitos contra la vida (147, y trata y tráfico (80).
+
+De todos los hechos delictivos, el 35 por ciento se comete en Santa Cruz, el 26 por ciento en La Paz, el 14 por ciento en Cochabamba, el 7 por ciento en Chuquisaca, el 6 por ciento en Tarija, 5 por ciento en Potosí, 4 por ciento a Beni, el 3 por ciento en Oruro, el 2 por ciento en Pando.
+
+La violencia intrafamiliar ha subido considerablemente de 5.236 casos en el año 2015 a 5.324 en 2016. y 6.001 en 2017.
+
+En Cercado ocurrieron 2.523; en Quillacollo, 2024; en Sacaba, 760; en el Valle Alto 377 y 317 en el trópico.
+
+De todos los casos, la violencia intrafamiliar alcanzó el 66 por ciento , la violencia física el 26 por ciento y un 8 por ciento violencia psicológica.
+
+También la violación a niños, niñas y adolescentes tuvo su evolución, de 102 en 2015, 148 en 2016 y 158 el año pasado.
+
+De acuerdo a informe del Comando Departamental de la Policía, en 2017 hubo 23 feminicidios, de los que 7 sucedieron en Cercado, 6 en Quillacollo, 4 en Sacaba, 3 en el trópico y 3 en el Valle Alto.
+
+Si bien los datos ofrecidos en Sucre por el Ministerio de Gobierno y el Comando de la Policía Departamental no representan la cantidad ni porcentajes de personas recluidas en los penales del país, sí permiten visibilizar la evolución del grado de violencia en Bolivia, que año que pasa ha ido incrementando considerablemente, en algunos casos duplicando o triplicando hechos.
+
+Expertos en el temas de seguridad señalan que lo que está sucediendo es que la gente, pero particularmente las mujeres, van tomando conciencia de sus derechos y las leyes que les protegen y hay aprehendido a denunciar a sus agresores.
+
+Además, los hechos de violencia no estaban tipificados en la norma. Desde la Ley 348, para garantizar a las mujeres una vida libre de violencia la actitud tanto de operadores de justicia como de los ciudadanos empezó a cambiar.
+####
+https://www.urgente.bo/noticia/incendio-en-pastizales-de-viru-viru-alerta-bomberos-de-santa-cruz
+####
+El incendio se propagó aproximadamente a dos hectáreas y amenaza con extender por la intensa calor y ante la posibilidad de que se produzcan ráfagas de viento en horas de la tarde.
+
+Más de 50 efectivos de bomberos se movilizaron en las cercanías de aeropuerto Viru Viru (a 17 kilómetros de Santa Cruz) para controlar un incendio que se produjo en pastizales que están ubicados de forma colindante con la terminal aérea.
+
+El incendio se propagó aproximadamente a dos hectáreas y amenaza con extender por la intensa calor y ante la posibilidad de que se produzcan ráfagas de viento en horas de la tarde.
+
+Los bomberos trabajan para armar rompe fuegos para evitar su propagación en medio del pastizal seco por falta de lluvias.
+
+Asimismo tratan ahogar las llamas con extintores y retiran basura del lugar entre bolsas de plástico y llantas que podrían avivar aún más el siniestro.
+
+La humareda no ha determinado alteración en el itinerario aéreo sin embargo personal del Servicio de Administración SABSA está pendiente para  reforzar el trabajo de los bomberos que trabajan en la zona.
+####
+https://elpais.bo/economia/20181104_rentismo-en-bolivia-disminuye-el-bienestar-y-la-produccion.html
+####
+A pesar del “impacto positivo” generado por la bonanza de las materias primas (gas, minerales, soya), “el número de conflictos motivados por diversas exigencias sociales a favor de la obtención de rentas que provengan de las arcas del Estado no se redujo como podría haberse esperado, sino que en los hechos se incrementó”.
+
+La afirmación proviene de los investigadores Bernardo Fernández -Profesor de la Escuela de la Producción y la Competitividad de la Universidad Católica Boliviana (ePC-UCB)-,  Marcelo Gantier -investigador junior del Instituto de Investigaciones Socio-Económicas (IISEC-UCB)-, y Martín Palmero -Profesor Asociado de la UCB-, en un trabajo conjunto publicado a través la Fundación INESAD.
+
+El aumento de conflictos relacionados con la búsqueda de captura de rentas del Estado ya ha sido documentado en años recientes por expertos de larga trayectoria académica, como José Gordillo, Jorge Komadina, Roberto Laserna, Jose Luis Evia y Cesar Rojas, en diferentes investigaciones.
+
+Este fenómeno, a decir de Fernández, Gantier y Palmero, “sugiere un proceso de intensificación del comportamiento de rent-seeking por parte de determinados grupos sociales y agentes económicos en Bolivia”, que a su vez ha estado generando “importantes pérdidas, tanto en términos de crecimiento del producto como del bienestar general de su población”.
+
+El comportamiento de rent-seeking, o rentismo, como se lo llama comúnmente, es definido en la citada investigación como “una acción improductiva que busca la apropiación de ventajas que brindan resultados positivos para un individuo, pero no a la sociedad en su conjunto”.
+
+Y según los autores del estudio, puede ser más grave en países que, como Bolivia, concentran gran parte de sus esfuerzos económicos en la exportación de una o más materias primas o commodities, como el gas, petróleo, minerales, soya.
+
+“En efecto, se ha evidenciado que países con bajo nivel de institucionalidad, altos niveles de corrupción y abundantes en recursos naturales, experimentan menores tasas de crecimiento económico”, agregan los investigadores.
+
+Así, aunque durante la última década Bolivia se benefició de un “súper-ciclo” de precios elevados de materias que le permitió alcanzar tasas de crecimiento de la economía de alrededor del 5% en promedio, y lograr mejoras importantes en términos de la reducción de la pobreza y la desigualdad, Fernández, Gantier y Palmero consideran que el rentismo asociado a este periodo ha afectado negativamente el desenvolvimiento de la economía, reduciendo los beneficios que podría haberse alcanzado sin este problema.
+
+El rentismo, afirman los expertos, ocasiona que los individuos destinen tiempo productivo a la búsqueda de rentas, “lo cual genera una distorsión en los incentivos que podría llegar a modificar, de manera negativa, el patrón de crecimiento económico”. Este comportamiento suele manifestarse en distintas formas, como sobornos, corrupción, contrabando, mercados negros y presión social por recursos estatales.
+
+Dos mecanismos suelen predominar en el rentismo: a) rentas obtenidas por sindicatos u otras agrupaciones sociales formales o informales con poder de negociación a nivel público y privado; o b) rentas obtenidas a partir de la función pública y la estructura burocrática, asociadas con actos de corrupción.
+
+Los investigadores encontraron también que, a partir de 2004, el número de conflictos tiende a crecer significativamente a pesar del buen desempeño económico registrado, alcanzando un nuevo record de 890 en 2011 (superando los casi 800 conflictos que atravesó el Gobierno de Siles Suazo en 1984), año en que el PIB creció en 5,2%. Y en 2017 se registró un nuevo récord en el número de conflictos, igual a 984 casos.
+
+A través de modelos matemáticos, Fernández, Gantier y Palmero calculan que el comportamiento rentista, exacerbado por la baja institucionalidad, altos niveles de corrupción y la bonanza de materias primas, provoca que, en el largo plazo, la economía crezca un 2,37% menos de lo que lo haría, pese a que en el corto plazo la economía ha crecido a niveles importantes.
+
+Según los investigadores, ese resultado se debe al gran aumento del tiempo que los individuos dedican al trabajo improductivo rentista en detrimento del trabajo productivo.
+
+En el escenario “ideal” sin rentismo, los individuos dedican todo su tiempo al trabajo efectivo, “y por ende el número de las horas trabajadas en actividades productivas se incrementa en 2,335%. A su vez, los recursos obtenidos por el incremento de horas trabajadas se destinan a consumo e inversión lo cual incrementa la tasa de crecimiento del producto”.
+
+Asimismo, se encontró que el 29% de las recaudaciones del gobierno pasan a manos de las personas que se dedican a actividades de rent-seeking. Y que, en el largo plazo, “el país pierde 6% de la producción” a causa del rentismo.
+
+El trabajo también afirma que si se aplican mejoras institucionales de “primera generación” (plataformas tecnológicas de gobierno abierto y datos abiertos, transparencia presupuestaria,  tecnologías para la lucha contra la corrupción, transparencia en licitaciones y adquisiciones) o de “segunda generación” (independencia poderes, autonomía de entidades reguladoras, modelos participativos para definición de presupuestos y de rendición de cuentas), la economía mejora “en su conjunto” al reducir los mecanismos que poseen los agentes para obtener rentas.
+####
+https://eju.tv/2018/10/us-33-mil-millones-de-perdida-en-10-anos-por-enclaustramiento/
+####
+Las pérdidas por el enclaustramiento marítimo que soporta Bolivia desde 1879 son millonarias, sólo en los últimos 10 años, alcanzan a 33 mil millones de dólares.El estudio denominado “La mediterraneidad como determinante del flujo comercial bilateral”, realizado por el economista Rodrigo Alfonso Burgoa Terceros y publicado en la Revista Latinoamericana de Desarrollo Económico (LAJED por sus siglas en inglés), señala que las pérdidas debido al enclaustramiento representan, en promedio, el 11,7% de su Producto Interno Bruto (PIB), en el período analizado, de 2006 a 2015.Sólo en el año 2015, el enclaustramiento marítimo de Bolivia se relaciona con una pérdida de 1.528 millones de dólares en exportaciones, y a una pérdida de 1.834 millones de dólares en importaciones.El estudio explica que el impacto negativo de la mediterraneidad sobre el comercio de los países es conocido desde el siglo XVIII con los trabajos del famoso economista escocés Adam Smith. El término que se utilizaba entonces era el costo de “travesías de frontera”.Los costos de la mediterraneidad se refieren a la dependencia de los países sin acceso a un puerto soberano respecto a los países por los que su comercio transita. A esto, se añade varios factores que inciden en que las transacciones comerciales sean más o menos costosas: la distancia entre países, el compartir una historia colonial común, ser participantes de una zona comercial, compartir fronteras comunes, entre otras circunstancias.Señala que el principal efecto de la mediterraneidad se da mediante los denominados costos de transporte. Todos los estudios planteados hacen referencia, de manera explícita o tácita, a esta variable que tiene impacto directo sobre el flujo comercial de un país sin acceso al mar.La investigación, que está publicado en la revista N° 30 de LAJED, de la Universidad Católica Boliviana “San Pablo”, calcula la cifra de los costos económicos de la mediterraneidad para Bolivia, utilizando un modelo econométrico que controla los factores ya mencionados. La revista será presentada el 6 de noviembre.El autor explica que el estudio analiza las principales variables que explican el comportamiento del flujo comercial bilateral. Se pone especial énfasis en la mediterraneidad, una variable geográfica que caracteriza a casi el 25% de la totalidad de los países en el mundo.Mediante la construcción de un panel de datos compuesto por 10.712 flujos comerciales bilaterales correspondiente a 104 países en el período 2006-2015, se contó con 107.120 observaciones. A partir de dicho panel, se realizó la estimación en el marco de la ecuación de gravedad.Burgoa encuentra que en promedio la mediterraneidad reduce las importaciones de países mediterráneos en 15%. En el caso particular de Bolivia entre los años 2006 y 2015, Burgoa encuentra que el costo de la mediterraneidad pudo haber estado entre 11,7% y 13% del PIB, correspondiente a la suma de las pérdidas en términos de exportaciones e importaciones, como muestra la tabla (ver gráfico).
+
+Estas cifras brindan una justificación económica para buscar arreglos comerciales que permitan a Bolivia mayor independencia en relación a circunstancias externas y elegir socios comerciales que ofrezcan mejores condiciones para el flujo comercial. La investigación deja en claro la existencia de una desventaja comparativa de Bolivia para lograr un desarrollo por medio del sector externo, lo cual pone una mayor presión por lograr ventajas competitivas en los sectores exportadores. El valor agregado incorporado en dichos productos debe compensar los mayores costos de comerciarlos.Concluye que el obtener nuevamente su condición marítima –pese al fallo adverso en la Corte Internacional de Justicia– llevaría a Bolivia a jugar en el mercado mundial sin desventajas de las que es víctima en la actualidad.Bolivia, enclaustrada 139 añosBolivia nació con 400 kilómetros de costa sobre el océano Pacífico en 1825. Tras una invasión y luego de una guerra declarada por Chile, en 1879, este país se adueñó de Antofagasta y dejó al país sin acceso soberano al mar.Hace 139 años que Bolivia no ha cesado de buscar, sin éxito, toda forma posible para que Chile le devuelva su condición de país costero. La última demanda presentada contra Chile en 2013 ante la Corte Internacional de Justicia tampoco tuvo éxito, pues 12 jueces fallaron en favor de Chile y sólo tres respaldaron la demanda boliviana.
+En el mundo, hay 44 países mediterráneos, incluyendo un caso sui generis, como es el Estado del Vaticano.Otro punto que se debe destacar es la localización de los países mediterráneos y enclaustrado. De los 45 países, más de la mitad se encuentran en los continentes de Europa y África, 17 y 16, respectivamente. Asimismo, 10 países mediterráneos están ubicados en Asia y tan sólo dos en América.
+####
+https://www.urgente.bo/noticia/interceptan-avioneta-con-droga-en-brasil-donde-iba-bordo-supuesto-militar-boliviano
+####
+Según un medio brasileño, el boliviano alegó que recibiría 5.000 dólares para ayudar a transportar la droga que tenía como destino el municipio de Chapada dos Guimarães.
+
+Brasil interceptó a una aeronave procedente de Bolivia con 250 kilos de cocaína este sábado. Dos personas fueron arrestadas, una de ellas fue expuesta como un miembro de la Policía Militar boliviana, según publicó el portal brasilero O Globo.
+
+La avioneta interceptada transportaba 250 kilos de cocaína proveniente de Bolivia, donde estaban a bordo Harysohn Pedrosa Pina (piloto) y Aldo Sánchez Sandoval (copiloto), quien supuestamente sería policía militar, según el mismo medio.
+
+"Los dos intentaron huir, pero fueron capturados, presos y encaminados a la comisaría de la Policía Federal, en Cáceres, a 220 kilómetros de Cuiabá", señaló el medio brasilero.
+
+La nave con matricula PR-EBF proveniente de Bolivia fue interceptado en la localidad de Serra Tapirapuã, por aviones de combate de la Fuerza Aérea Brasileña (FAB) debido a que carecía de autorización para sobrevolar el vecino país.
+
+La actuación de la FAB forma parte de la Operación Óstium, de represión al tráfico de drogas, armas y contrabando en las fronteras, reportan medios brasileños.
+####
+https://eju.tv/2018/03/personajes-clave-en-la-demanda-de-bolivia-contra-chile/
+####
+La determinación de Bolivia de acudir a la Corte Internacional de Justicia (CIJ) de La Haya (Holanda) se tomó luego del fracaso de diversos diálogos y negociaciones directas con Chile debido a que sus diferentes administraciones siempre tuvieron el ánimo de prorrogar su falta de voluntad de no resolver el enclaustramiento marítimo.El presidente Evo Morales es parte fundamental del proceso porque fue quien tomó la decisión de acudir a juzgado internacional, después de consultas a exmandatarios y exdiplomáticos; pero también se los considera relevantes en cuanto a su participación a otros personajes que en su momento ocuparon cargos estratégicos y otros que todavía continúan.En 2011, ante la falta de avances y el cambio de posición de Chile, el presidente Evo Morales anunció la decisión de acudir a tribunales internacionales para resolver la problemática marítima boliviana. Finalmente, después de dos años del anuncio, en abril de 2013, Bolivia presentó ante la CIJ su demanda contra Chile.El 4 de abril de 2013, el presidente Morales decidió que un expresidente dirija la demanda marítima contra Chile ante la Corte de La Haya.Mediante la Resolución Suprema 9385 designa a Eduardo Rodríguez Veltzé como Embajador Extraordinario con Representación Plenipotenciaria. Asumió el papel de agente en representación de Bolivia en la demanda marítima.El 28 de abril de 2014, el expresidente Carlos Mesa fue encomendado por Morales, como Representante Oficial del Estado boliviano para la demanda marítima, con la misión de posicionar internacionalmente los motivos de la demanda contra Chile ante la Corte Internacional de Justicia.Mesa sostuvo encuentros con exmandatarios, jefes de organizaciones internacionales y otras personalidades, entre ellas con Ban Ki Moon, en ese tiempo secretario General de Naciones Unidas, y el expresidente de los Estados Unidos, Jimmy Carter. Sin embargo, tuvo una importante repercusión la entrevista que le hicieron en la televisora estatal chilena TV Chile en septiembre de 2015.También se reunió con el secretario general de la Organización de Estados Americanos (OEA), el chileno José Miguel Insulza, pero antes tuvo encuentros con los embajadores de diferentes países en la OEA, entre ellos Panamá, República Dominicana, Honduras, El Salvador, Guatemala, Costa Rica, Belice y Nicaragua.
+
+El excanciller David Choquehuanca habla en La Haya. ABILos que participaron desde el inicio del procesoTras el anuncio del 23 de marzo de 2011 del presidente Evo Morales de crear la Dirección Estratégica de Reivindicación Marítima (Diremar) para la elaboración de la demanda, Rubén Saavedra (luego Ministro de Defensa) asume el mando en abril de ese año.Sólo pudo abocarse a la parte organizativa, contratando personal, asesores internacionales, investigadores nacionales y la asignación de las tareas. Sin embargo, logró consolidar la presencia del abogado español Antonio Remiro Brotóns como asesor en la demanda marítima.Además, informó sobre la incorporación de un equipo de profesionales bolivianos, incluyendo abogados, economistas e historiadores.El historiador Fernando Cajías formó parte del equipo de investigadores que elaborara la documentación de la demanda marítima.El entonces canciller, David Choquehuanca, y el agente ante el tribunal, Eduardo Rodríguez, entregaron la demanda en La Haya. Sin embargo, ese tiempo también jugaron un papel importante los ministros de Defensa, Rubén Saavedra y Reymi Ferreira; así como el procurador General que estaba, Hugo Montero.Los Tiempos / Wilson Aguilar.
+####
+https://www.eabolivia.com/blogs/25470-portabilidad-numerica-en-bolivia-rige-desde-el-lunes.html
+####
+La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT), recordó que desde el lunes regirá la portabilidad numérica, es decir, que los usuarios del servicio de telefonía móvil podrán cambiar de operador sin perder su número.
+
+"El objetivo de este servicio es el fomentar una competencia más equitativa entre los proveedores del servicio móvil y a su vez se traduce en mejores tarifas, mejor calidad, incremento de promociones en beneficio del usuario, evitando los costos derivados por cambio de número telefónico y un uso más eficiente de la numeración", remarca un boletín institucional.
+
+El documento explica que el trabajo previo se realizó en coordinación con las operadoras de telefonía móvil: Entel, Tigo y Viva, y tiene el objetivo de mejorar el servicio móvil al usuario final.
+
+Según datos oficiales, más de 11,5 millones de líneas telefónicas de todo el país, se beneficiarán con este nuevo servicio.
+
+Para cambiar de empresa, el cliente debe apersonar a la telefónica a la que quiere migrar y llenar un formulario de portabilidad, además, cumplir varios requisitos, como ser titular de la línea; no tener facturas vencidas (30 días posteriores a su disposición) o contrato vigente (que haya recibido un celular y todavía el plazo acordado no haya fenecido o no se hubiere pagado el valor del equipo), además de tener antigüedad mayor a 60 días en el operador actual.
+####
+https://eju.tv/2018/01/indignacion-en-cochabamba-pandillero-que-quemo-vivo-a-un-adolescente-recibe-leve-condena/
+####
+La familia de Javier Canchi Choque, el infortunado joven cruelmente asesinado, llora de impotencia.
+
+Juicio oral en Cochabamba.Un Tribunal de Sentencia dictó 7 años de cárcel para un joven que roció con gasolina y le prendió fuego al adolescente. En las redes sociales ya convocan a marchas de protesta. 
+
+GUSTAVO EZEQUIEL CALLA VARGAS.“Hermanito, mirá, me han quemado. Sus chicos de la Delia han sido. René y otros. Si voy a morir va a ser por culpa de ella. No creo que me recupere. Me han pegado, me han hecho tomar gasolina en la loma y me han prendido fuego. Estoy muy mal”. Esta es una de las frases dichas por el estudiante Javier Canchi Choque, de 17 años, poco antes de morir con el cuerpo calcinado el 31 de octubre de 2016.La historia adquirió tintes macabros cuando se supo que su exnovia Delia, una adolescente de 15 años, lo había citado en una loma de Alto Sivingani y lo esperó con tres integrantes de las pandillas Teddy Boys y Cártel Central: su nuevo enamorado Guery V.R. (16), René M.H. (16), que había sido compañero de colegio de la víctima, y Gustavo Ezequiel Calla Vargas, de 18 años. De acuerdo a la confesión de René, Gustavo y Guery fueron quienes obligaron al estudiante a beber gasolina de una botella y luego le prendieron fuego.Delia, Guery y René fueron enjuiciados como menores de edad y por ello fueron sentenciados con la máxima pena que se le otorga a un adolescente: seis años de encierro. A otros dos cómplices menores, tres años.Sin embargo, Gustavo Ezequiel Calla Vargas era mayor de edad cuando ocurrió el atroz crimen y su juicio, como adulto, concluyó recién. La Fiscalía lo acusó del delito de asesinato y pidió 30 años de reclusión por la saña y alevosía con la que actuó al momento de obligar a Canchi a beber gasolina y prenderle fuego. Sin embargo, los jueces lo condenaron a siete años de cárcel por el delito de lesiones graves seguidas de muerte, no por asesinato.El padre y los hermanos de Javier Canchi lloraron de impotencia. “¿Acaso cuando uno le obliga a tomar gasolina a alguien y le prende fuego solo quiere lesionarle? Quiere matarle pues. ¿Cómo los jueces no ven eso? Le están premiando a este asesino. No hay justicia para los pobres”, cuestionaron. Tanto la familia como la Fiscalía apelarán esta sentencia, porque consideran que existían todas las pruebas para demostrar que se trató de un asesinato. En las redes sociales, los cibernautas expresaron su indignación en la página abierta en Facebook “Javier Canchi Choque estamos contigo” que tiene miles de seguidores. “A los menores de edad les dieron la máxima pena y a este que ya es mayor, y que fue el que le quemó, le dan premio”, protestaba una mujer. Ya no hay confianza en la Justicia que está a favor de los delincuentes y asesinos”, “¿Jueces? ¿Se pueden llamar así?
+####
+https://www.reduno.com.bo/nota/2018-10-14-21-0-0-periodista-argentino-llama-perro-a-lampe-y-rompe-su-camiseta-de-bolivia
+####
+Con una camiseta con los colores de la selección boliviana el periodista, Pablo Carrozza, de canal 26 de Argentina, se dirigió al arquero boliviano Carlos Lampe de manera despectiva llamándolo “perro” y rompió la polera que tenía el número y el nombre del guardameta cruceño.
+
+¿Qué le pasó a la L y a la I del medio? Pregunta otro de los presentadores del programa, ante lo cual Carrozza respondió: “La agarró el perro de Lampe. El perro de Lampe rompió la camiseta, que querés que haga. Me la agarro con este muchacho porque piensa que es Evo Morales o el ‘Diablo‘ Etcheverry, los grandes ídolos de Bolivia. Lampe, no te voy a pegar porque sos boliviano, porque los bolivianos son laburante (trabajadores) te voy a pegar porque te cansaste de vender humo y todavía no te pusiste los guantes. No existís en Bolivia“, dijo Carrozza.
+
+El periodista del programa Fútbol al Horno, que se emite por Canal 26, se encargó con su equipo de producción, de recopilar supuestas pruebas para determinar que en el fútbol argentino la simpatía de Carlos Lampe se inclina más hacia River que hacia Boca, club que lo incorporó recientemente.
+
+También le puede interesar: La llegada de Carlos Lampe a Buenos Aires se hizo viral en las redes
+
+“Mínimo se fumó un árbol” fue a respuesta de Juan Carlos Lampe, padre de Carlos Lampe, a las críticas que hacen algunos periodistas argentinos, además que asegura que sólo son periodistas “roba cámaras y desconocidos” aprovechando el buen momento del arquero boliviano.
+
+Después de las duras críticas a Lampe en Canal 26 de Argentina, el periodista Pablo Carrozza ratificó su molestia contra el boliviano, llamándolo arquerito vende humo, hincha de River.
+
+Varios colegas argentinos repudiaron la acción y catalogaron de xenofobia el rechazo contra el arquero, tal fue el caso del popular presentador Marcelo Tinelli, quien manifestó su total rechazo a la xenofobia desatada en las redes sociales contra el guardameta boliviano.
+####
+https://www.opinion.com.bo/articulo/informe-especial/12-aciertos-errores-gobierno-morales/20180121185400676709.html
+####
+﻿Nacionalización e inclusión están entre los aspectos positivos; mientras que la corrupción y la derrota en el referendo se cuentan en los negativos.
+
+﻿La nacionalización de las empresas estratégicas, que permitió la estabilidad económica en el país, la inclusión de los sectores sociales marginados y la demanda marítima ante la Haya, por una salida soberana al Pacífico, son algunos de los aciertos logrados por el gobierno de Evo Morales en 12 años de gestión, coinciden analistas y políticos del oficialismo y de la oposición.
+
+En cuanto a los desaciertos o momentos conflictivos que destacan están la derrota del MAS en el referendo del 21 de febrero de 2016, el denominado golpe cívico prefectural de 2008 y la represión a los indígenas que marchaban en contra de la construcción de una carretera por el Tipnis.
+
+OPINIÓN desglosa en este Informe Especial, con la participación de analistas y políticos, los 12 años de gestión del presidente Evo Morales.
+
+El presidente del Colegio de Politólogos de La Paz, Ludwig Valverde, afirma que, de manera general, este Gobierno ha elaborado leyes importantes, pero que no se aplican hasta el momento como parte de una política pública integral; por ejemplo, la Ley 045 contra el Racismo y toda forma de Discriminación, la Ley Marcelo Quiroga Santa Cruz, de lucha contra la corrupción y la 348 que protege a la mujer de toda forma de violencia.
+
+Un segundo elemento, a decir de Valverde, es que en 12 años de gestión no se han resuelto tres problemas estructurales que aquejan al país, la inseguridad ciudadana, la corrupción y la pobreza.
+
+“Si bien tenemos un incremento de la clase media y un paliativo a la pobreza con los bonos que se reparten, como medios coyunturales, no hay una resolución estructurante de la pobreza”, puntualiza Valverde.
+
+Valverde afirma que la nacionalización de las empresas estratégicas es un aspecto positivo porque permite mayores ingresos para el país, “pero que no se han destinado con una visión de desarrollo”.
+
+Otro aspecto destacado por el politólogo es la inclusión de sectores que hasta antes de la llegada de Morales al Gobierno habían sido mantenidos fuera de la conducción de la nave del Estado.
+
+La demanda marítima ante La Haya es también otro acierto, según Valverde, porque se convirtió “en un punto de unidad nacional”.
+
+La entrega de bonos sectoriales (mujeres, niños y adultos mayores) es otro punto a favor del Gobierno, porque distribuye la riqueza obtenida por la nacionalización a sectores vulnerables.
+
+Los casos de corrupción (Fondo Indígena y YPFB, entre algunos) hicieron mella en el Gobierno, según Valverde, toda vez que le quitaron la credibilidad.
+
+“Hay altas autoridades del Gobierno que están involucradas en estos casos y no se resuelve, pese a que está vigente la Ley Marcelo Quiroga Santa Cruz”, advierte.
+
+Morales sufrió también un conflicto con el denominado golpe cívico prefectural, en septiembre de 2008, cuando grupos de personas tomaron y saquearon instituciones del Estado.
+
+La denuncia del caso Zapata y la derrota en el referendo del 21 de febrero, son otros dos aspectos que pusieron en aprietos al Gobierno de Morales.
+
+La mala administración de la justicia, el escaso avance en las autonomías y las dificultades en el área de salud son otras áreas que el Gobierno no puede resolver hasta la fecha, según Valverde.
+
+Los conflictos suscitados con los mineros, con la muerte de seis personas (incluida la del viceministro Illanes) y la represión a las personas con discapacidad y a los indígenas que marchaban en contra de la carretera por el Tipnis cobraron factura al presidente Morales.
+
+El binomio Evo Morales y Álvaro García Linera fueron posesionados el 22 de enero de 2006, tras ganar las elecciones de diciembre de 2005, con el 53.7 por ciento de los votos válidos
+
+﻿Los períodos gubernamentales que tuvo el presidente Evo Morales fueron diferentes entre sí.
+
+La primera gestión es, tal vez, la más importante en cuanto a aciertos políticos. Lo más destacable ha sido la aprobación de la nueva Constitución Política del Estado (CPE). Ese entonces, en la agenda política había la necesidad de reformar profundamente la ley fundamental del país y se lo hizo a través de un proceso inclusivo.
+
+La nueva CPE tiene muchos aspectos relevantes, como la articulación de distintas formas de democracia o los derechos de los pueblos indígenas.
+
+En términos económicos, considero que lo positivo fue el control estatal de la economía, principalmente de los hidrocarburos.
+
+Después, las siguientes gestiones gubernamentales de Morales fueron diferentes. Sobre la base de la CPE, no se pudo construir un verdadero  Estado Plurinacional de Bolivia. Aún no se lo ha concretado a través de instituciones y prácticas nuevas, a pesar de la profusa producción de leyes que ha habido.
+
+Un error político reciente que queda marcado en la tercera gestión, es toda estrategia de reelección del Presidente. Creo que aquí hay un error político muy grande que va afectar el escenario político del futuro.
+
+El acierto más grande fue el crecimiento económico sostenido, que ahora está en desaceleración. Si se lo compara con el de otros países vecinos, es el más importante.
+
+﻿Los economistas del Gobierno generan un modelo económico híbrido, no ortodoxo que recomienda una mayor intervención del Estado en la economía y un aumento del gasto público en un contexto de bonanza por los precios altos del petróleo.
+
+- Mayor dependencia externa. Se amplió la deuda China (en especial) de aproximadamente de 500 millones de dólares a 1.600 millones, con una proyección de 6.400 millones de dólares más.
+- No tomar en cuenta la capacidad de producción y de exportación con relación a la deuda. Hoy tenemos desaceleración económica, déficit fiscal y déficit comercial. Pronto trabajaremos en gran parte para pagar la deuda y no para mejorar el nivel de vida.
+- No comprender que el nivel de vida de los trabajadores no solo pasa por el incremento salarial nominal, sino, aumentando la producción.
+- Pensar solo en el sector primario extractivo y confiar en la bonanza económica.
+- La distribución de la riqueza para quienes nunca recibieron nada (bonos Juancito Pinto, Juana Azurduy y Dignidad).
+- Conexiones de gas y subsidios a los hidrocarburos.
+- Impulso a los microproductores de alimentos.
+- Bolivianización de la economía.
+- La creación de la Empresa de Apoyo a la Producción de Alimentos (Emapa).
+####
+https://www.reduno.com.bo/nota/2018-9-9-21-0-0-en-cochabamba-escenifican-revuelta-del-14-de-septiembre-de-1810
+####
+La “insurgencia valluna” fue reconstruida gracias a documentos que se encuentran en el Archivo de Indias, con lo que lograron recrear varios pasajes: El paseo de la gente de la época, el ingreso de las tropas patriotas a Cochabamba, cuando tomaron el cuartel realista, y el enfrentamiento en el que participaron campesinos al mando de Francisco del Rivero, Esteban Arze y Melchor Guzmán.
+
+Más de 800 personas participaron de la escenificación cuando se libró la batalla entre tropas realistas y patriotas. Regimientos militares, unidades educativas y el Grupo de Artes Escénicas Deja Vu dieron vida a este acontecimiento.
+
+La historia recuerda aquel día como la insurrección en la que los nombres de Francisco del Rivero, Esteban Arze, Melchor de la Villa y Guzmán, Bartolomé Guzmán y otros marcaron su presencia histórica. Cientos de transeúntes presenciaron el hecho realizado en la plaza de armas.
+####
+https://www.urgente.bo/noticia/jefe-militar-iran%C3%AD-comandante-de-ffaa-tenemos-una-alta-estima-bolivia-por-su
+####
+Este sábado, el comandante de las Fuerzas Armadas de Bolivia, almirante Yamil Borda Sosa, se reunió con el jefe del Estado Mayor de las Fuerzas Armadas de Irán, general de división Mohamad Husein Baqeri, quien le transmitió el respeto de los militares persas al gobierno de Evo Morales por su lucha contra el imperialismo y reafirmó las acciones de cooperación.
+
+“La nación iraní es muy respetuosa con la historia de Bolivia y con el libertador Simón Bolívar que con su tenacidad lideró la lucha por la independencia de Bolivia”, dijo el jefe de Estado Mayor iraní en Teherán, hasta donde viajó la máxima autoridad de las FFAA del Estado Plurinacional.
+
+No le quepa la menor duda, ha agregado el general iraní, que la nación persa tiene una alta estima respecto a la nación de Bolivia por su insistencia de luchar contra el imperialismo en todos sus aspectos, añadió.
+
+De acuerdo el reporte de la agencia iraní HispanTv, el militar persa dio cuenta de que en Teherán hay un monumento a Simón Bolívar.
+
+Borda dijo que Bolivia estuvo en diferentes etapas de su historia bajo el dominio y el colonialismo, una situación, añade, que por gracia ya no se da en Bolivia hoy en día.
+
+“Las relaciones bilaterales entre Teherán y La Paz se han consolidado con la llegada de Evo Morales a la presidencia boliviana, quien en muchas ocasiones, ha mostrado su máximo respaldo a Irán en diferentes temas de suma importancia”, añade la agencia de noticias.
+####
+
+
+
+
+
+
