@@ -1,4 +1,4 @@
-# Relación entre la extensión de noticias digitales y los cambios en los hábitos de lectura actuales
+# LEXO: EXTENSION DE NOTICIAS Y CAMBIOS EN LOS HABITOS DE LECTURA
 ## Tema
 Estimar y comparar la longitud de las noticias periodísticas digitales de Bolivia, analizando específicamente las noticias de los domingos desde 2010 hasta 2024. 
 ## Preguntas de Interés
