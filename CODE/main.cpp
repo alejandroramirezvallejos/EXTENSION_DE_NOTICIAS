@@ -16,7 +16,7 @@ long long int count_paragraphs(const string & text, bool &prev_paragraph);
 
 int main() {
     locale::global(locale(locale(), new codecvt_utf8<wchar_t>));
-    string location = "DATABASE/";
+    string location = "../DATABASE/";
     cout<<"Enter the year of the database to analyze (2010-2023)"<<endl;
     int year = 0;
     cin>>year;
@@ -108,7 +108,7 @@ void database_out(long long int letters, long long int words, long long int sent
     static bool start = true;
     static string year;
     static bool empty = true;
-    db.open("data.txt", ios::app);
+    db.open("../DATA/data.csv", ios::app);
     if (db.fail()) {
         cout<<"An unexpected error occurred!"<<endl;
         cout<<"Delete the data.txt file and run the program again"<<endl;
@@ -164,7 +164,7 @@ bool date_identifier(const string & text, long long int index) {
 }
 
 bool blank(void) {
-    ifstream file("data.txt");
+    ifstream file("data.csv");
     return file.peek() == ifstream::traits_type::eof();
 }
 
