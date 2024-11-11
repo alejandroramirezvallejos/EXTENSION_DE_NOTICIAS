@@ -35,9 +35,7 @@ top_sources <- aggregate(Letters ~ Source, data = data, sum)
 top_sources <- top_sources[order(-top_sources$Letters), ][1:5, "Source"]
 
 top_data <- data[data$Source %in% top_sources, ]
-
 pdf("../PAPER/graphics.pdf", width = 20, height = 12)
-
 
 barplot(total_letters, beside = TRUE, col = "skyblue", 
         main = "Total Letters per Year", 
