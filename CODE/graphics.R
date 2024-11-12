@@ -17,10 +17,10 @@ for (i in seq_along(years)) {
   yearly_totals[i] <- total_letters[i] + total_words[i] + total_sentences[i] + total_paragraphs[i]
 }
 
-percent_letters <- total_letters / yearly_totals * 100
-percent_words <- total_words / yearly_totals * 100
-percent_sentences <- total_sentences / yearly_totals * 100
-percent_paragraphs <- total_paragraphs / yearly_totals * 100
+percent_letters <- total_letters / sum(total_letters)
+percent_words <- total_words / sum(total_words)
+percent_sentences <- total_sentences / sum(total_sentences)
+percent_paragraphs <- total_paragraphs / sum(total_paragraphs)
 
 moving_avg <- function(x, n = 3) {
   stats::filter(x, rep(1 / n, n), sides = 2)
