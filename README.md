@@ -1,9 +1,9 @@
-# <img src="IMAGES/isotype.png" alt="ISOTYPE" width="28"/>LEXO: EXTENSION DE NOTICIAS Y CAMBIOS EN LOS HABITOS DE LECTURA
+# <img src="IMAGES/isotype.png" alt="ISOTYPE" width="28"/>LEXO: EXTENSION DE NOTICIAS Y CAMBIOS EN LA LECTURA
 ## Tema
 Estimar y comparar la longitud de las noticias periodísticas digitales de Bolivia, analizando específicamente las noticias de los domingos desde 2010 hasta 2024. 
 ## Preguntas de Interés
-¿Se han adaptado los periódicos digitales a los hábitos de lectura de la generación 
-actual en Bolivia?  
+¿Se han adaptado los periódicos digitales a los lectores activos de la generación 
+actual en Bolivia?
 ¿Ha disminuido la longitud en una publicación periodística digital entre el 3 de enero 
 de 2010 y el 7 de enero de 2024 en Bolivia?
 ## Investigaciones Secundarias
